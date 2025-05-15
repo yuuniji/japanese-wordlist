@@ -1,0 +1,56 @@
+{
+  "title": "12 時から 1 時まで昼休みです",
+  "number": "第9課",
+  "sections": [
+    {
+      "title": "こんにちは",
+      "number": "1.",
+      "wordList": [
+        {
+          "japanese": "おはよう",
+          "romaji": "ohayoo",
+          "accent": "おはよう",
+          "english": "Good"
+        },
+        {
+          "japanese": "こんにちは",
+          "romaji": "konnichiwa",
+          "accent": "こんにちは",
+          "english": "Good"
+        },
+        {
+          "japanese": "こんばんは",
+          "romaji": "konbanwa",
+          "accent": "こんばんは",
+          "english": "Good"
+        }
+      ],
+      "audio": "/audio/x/lesson1/wordlist_X_01-1.mp3"
+    },
+    {
+      "title": "こんにちは",
+      "number": "2.",
+      "wordList": [
+        {
+          "japanese": "おはよう",
+          "romaji": "ohayoo",
+          "accent": "おはよう",
+          "english": "Good"
+        },
+        {
+          "japanese": "こんにちは",
+          "romaji": "konnichiwa",
+          "accent": "こんにちは",
+          "english": "Good"
+        },
+        {
+          "japanese": "こんばんは",
+          "romaji": "konbanwa",
+          "accent": "こんばんは",
+          "english": "Good"
+        }
+      ],
+      "audio": "/audio/x/lesson1/wordlist_X_01-2.mp3"
+    }
+  ]
+}
