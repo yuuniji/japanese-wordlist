@@ -1,0 +1,52 @@
+{
+  "title": "おはようございます",
+  "number": "第1課",
+  "sections": [
+    {
+      "title": "こんにちは",
+      "number": "1.",
+      "wordList": [
+        {
+          "japanese": "おはよう(ございます)",
+          "romaji": "ohayoo (gozaimasu)",
+          "accent": "おはよう (ございま↓す)",
+          "english": "Good morning."
+        },
+        {
+          "japanese": "こんにちは",
+          "romaji": "konnichiwa",
+          "accent": "こんにちは○",
+          "english": "Good afternoon."
+        },
+        {
+          "japanese": "こんばんは",
+          "romaji": "konbanwa",
+          "accent": "こんばんは○",
+          "english": "Good evening."
+        }
+      ],
+      "audio": "/audio/x/lesson1/wordlist_X_01-1.mp3"
+    },
+    {
+      "title": "お先に失礼します",
+      "number": "2.",
+      "wordList": [
+        {
+          "japanese": "じゃあ、また",
+          "romaji": "jaa, mata",
+          "accent": "じゃ↓あ、また○",
+          "english": "See you later."
+        },
+        {
+          "japanese": "おやすみ(なさい)",
+          "romaji": "oyasumi (nasai)",
+          "accent": "おやすみ (なさい) ○",
+          "english": "Good night."
+        }
+        // 更多单词...
+      ],
+      "audio": "/audio/x/lesson1/wordlist_X_01-2.mp3"
+    }
+    // 更多章节...
+  ]
+}
