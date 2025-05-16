@@ -3,7 +3,7 @@
   "number": "第4課",
   "sections": [
     {
-      "title": "こんにちは",
+      "title": "朝から暑いですね",
       "number": "1.",
       "wordList": [
         
@@ -11,12 +11,20 @@
       "audio": "/audio/y/lesson4/wordlist_Y_04-1.mp3"
     },
     {
-      "title": "こんにちは",
+      "title": "明日は晴れるでしょう",
       "number": "2.",
       "wordList": [
         
       ],
       "audio": "/audio/y/lesson4/wordlist_Y_04-2.mp3"
+    },
+    {
+      "title": "台風が来てます",
+      "number": "3.",
+      "wordList": [
+        
+      ],
+      "audio": "/audio/y/lesson4/wordlist_Y_04-3.mp3"
     }
   ]
 }

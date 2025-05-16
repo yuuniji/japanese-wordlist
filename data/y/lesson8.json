@@ -3,7 +3,7 @@
   "number": "第8課",
   "sections": [
     {
-      "title": "こんにちは",
+      "title": "もう行きましたか？",
       "number": "1.",
       "wordList": [
         
@@ -11,12 +11,20 @@
       "audio": "/audio/y/lesson8/wordlist_Y_08-1.mp3"
     },
     {
-      "title": "こんにちは",
+      "title": "このあと、どうしますか？",
       "number": "2.",
       "wordList": [
         
       ],
       "audio": "/audio/y/lesson8/wordlist_Y_08-2.mp3"
+    },
+    {
+      "title": "パンダがかわいかったです",
+      "number": "3.",
+      "wordList": [
+        
+      ],
+      "audio": "/audio/y/lesson8/wordlist_Y_08-3.mp3"
     }
   ]
 }

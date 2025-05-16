@@ -3,7 +3,7 @@
   "number": "第1課",
   "sections": [
     {
-      "title": "こんにちは",
+      "title": "みんなを紹介しますね",
       "number": "1.",
       "wordList": [
         
@@ -11,12 +11,28 @@
       "audio": "/audio/z/lesson1/wordlist_Z_01-1.mp3"
     },
     {
-      "title": "こんにちは",
+      "title": "一生懸命がんばります",
       "number": "2.",
       "wordList": [
         
       ],
       "audio": "/audio/z/lesson1/wordlist_Z_01-2.mp3"
+    },
+    {
+      "title": "とても大きい町です",
+      "number": "3.",
+      "wordList": [
+        
+      ],
+      "audio": "/audio/z/lesson1/wordlist_Z_01-3.mp3"
+    },
+    {
+      "title": "SNS の自己紹介",
+      "number": "4.",
+      "wordList": [
+        
+      ],
+      "audio": "/audio/z/lesson1/wordlist_Z_01-4.mp3"
     }
   ]
 }

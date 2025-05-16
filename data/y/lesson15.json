@@ -3,7 +3,7 @@
   "number": "第15課",
   "sections": [
     {
-      "title": "こんにちは",
+      "title": "今日はどうしましたか？",
       "number": "1.",
       "wordList": [
         
@@ -11,12 +11,36 @@
       "audio": "/audio/y/lesson15/wordlist_Y_15-1.mp3"
     },
     {
-      "title": "こんにちは",
+      "title": "インフルエンザですね",
       "number": "2.",
       "wordList": [
         
       ],
       "audio": "/audio/y/lesson15/wordlist_Y_15-2.mp3"
+    },
+    {
+      "title": "問診票",
+      "number": "3.",
+      "wordList": [
+        
+      ],
+      "audio": "/audio/y/lesson15/wordlist_Y_15-3.mp3"
+    },
+    {
+      "title": "熱を下げるお薬です",
+      "number": "4.",
+      "wordList": [
+        
+      ],
+      "audio": "/audio/y/lesson15/wordlist_Y_15-4.mp3"
+    },
+    {
+      "title": "薬の説明",
+      "number": "5.",
+      "wordList": [
+        
+      ],
+      "audio": "/audio/y/lesson15/wordlist_Y_15-5.mp3"
     }
   ]
 }

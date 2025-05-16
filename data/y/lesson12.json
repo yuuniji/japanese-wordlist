@@ -3,7 +3,7 @@
   "number": "第12課",
   "sections": [
     {
-      "title": "こんにちは",
+      "title": "辛そうな料理ですね",
       "number": "1.",
       "wordList": [
         
@@ -11,12 +11,28 @@
       "audio": "/audio/y/lesson12/wordlist_Y_12-1.mp3"
     },
     {
-      "title": "こんにちは",
+      "title": "甘くておいしいですね",
       "number": "2.",
       "wordList": [
         
       ],
       "audio": "/audio/y/lesson12/wordlist_Y_12-2.mp3"
+    },
+    {
+      "title": "卵の料理です",
+      "number": "3.",
+      "wordList": [
+        
+      ],
+      "audio": "/audio/y/lesson12/wordlist_Y_12-3.mp3"
+    },
+    {
+      "title": "カップ焼きそばの作り方",
+      "number": "4.",
+      "wordList": [
+        
+      ],
+      "audio": "/audio/y/lesson12/wordlist_Y_12-4.mp3"
     }
   ]
 }

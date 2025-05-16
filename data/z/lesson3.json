@@ -3,7 +3,7 @@
   "number": "第3課",
   "sections": [
     {
-      "title": "こんにちは",
+      "title": "定食屋のメニュー",
       "number": "1.",
       "wordList": [
         
@@ -11,12 +11,36 @@
       "audio": "/audio/z/lesson3/wordlist_Z_03-1.mp3"
     },
     {
-      "title": "こんにちは",
+      "title": "わさび抜きでお願いします",
       "number": "2.",
       "wordList": [
         
       ],
       "audio": "/audio/z/lesson3/wordlist_Z_03-2.mp3"
+    },
+    {
+      "title": "人気があるのはお刺身定食です",
+      "number": "3.",
+      "wordList": [
+        
+      ],
+      "audio": "/audio/z/lesson3/wordlist_Z_03-3.mp3"
+    },
+    {
+      "title": "予約をしたいんですけど…",
+      "number": "4.",
+      "wordList": [
+        
+      ],
+      "audio": "/audio/z/lesson3/wordlist_Z_03-4.mp3"
+    },
+    {
+      "title": "レストランのクーポン",
+      "number": "5.",
+      "wordList": [
+        
+      ],
+      "audio": "/audio/z/lesson3/wordlist_Z_03-5.mp3"
     }
   ]
 }

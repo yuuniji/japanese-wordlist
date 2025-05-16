@@ -3,7 +3,7 @@
   "number": "第13課",
   "sections": [
     {
-      "title": "こんにちは",
+      "title": "パソコンが動かないんですが…",
       "number": "1.",
       "wordList": [
         
@@ -11,12 +11,36 @@
       "audio": "/audio/y/lesson13/wordlist_Y_13-1.mp3"
     },
     {
-      "title": "こんにちは",
+      "title": "どのぐらいかかりそうですか？",
       "number": "2.",
       "wordList": [
         
       ],
       "audio": "/audio/y/lesson13/wordlist_Y_13-2.mp3"
+    },
+    {
+      "title": "コピー機の使い方を教えてもらえませんか？",
+      "number": "3.",
+      "wordList": [
+        
+      ],
+      "audio": "/audio/y/lesson13/wordlist_Y_13-3.mp3"
+    },
+    {
+      "title": "会議の準備は、どうしますか？",
+      "number": "4.",
+      "wordList": [
+        
+      ],
+      "audio": "/audio/y/lesson13/wordlist_Y_13-4.mp3"
+    },
+    {
+      "title": "お知らせのメール",
+      "number": "5.",
+      "wordList": [
+        
+      ],
+      "audio": "/audio/y/lesson13/wordlist_Y_13-5.mp3"
     }
   ]
 }

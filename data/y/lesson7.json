@@ -3,7 +3,7 @@
   "number": "第7課",
   "sections": [
     {
-      "title": "こんにちは",
+      "title": "何時にどこですか？",
       "number": "1.",
       "wordList": [
         
@@ -11,12 +11,20 @@
       "audio": "/audio/y/lesson7/wordlist_Y_07-1.mp3"
     },
     {
-      "title": "こんにちは",
+      "title": "明日、何時にしますか？",
       "number": "2.",
       "wordList": [
         
       ],
       "audio": "/audio/y/lesson7/wordlist_Y_07-2.mp3"
+    },
+    {
+      "title": "電車が止まりました",
+      "number": "3.",
+      "wordList": [
+        
+      ],
+      "audio": "/audio/y/lesson7/wordlist_Y_07-3.mp3"
     }
   ]
 }

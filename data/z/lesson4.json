@@ -3,7 +3,7 @@
   "number": "第4課",
   "sections": [
     {
-      "title": "こんにちは",
+      "title": "どこかいい店、ありませんか？",
       "number": "1.",
       "wordList": [
         
@@ -11,12 +11,36 @@
       "audio": "/audio/z/lesson4/wordlist_Z_04-1.mp3"
     },
     {
-      "title": "こんにちは",
+      "title": "よく混ぜて食べてください",
       "number": "2.",
       "wordList": [
         
       ],
       "audio": "/audio/z/lesson4/wordlist_Z_04-2.mp3"
+    },
+    {
+      "title": "どうやって食べるんですか？",
+      "number": "3.",
+      "wordList": [
+        
+      ],
+      "audio": "/audio/z/lesson4/wordlist_Z_04-3.mp3"
+    },
+    {
+      "title": "餃子に似ています",
+      "number": "4.",
+      "wordList": [
+        
+      ],
+      "audio": "/audio/z/lesson4/wordlist_Z_04-4.mp3"
+    },
+    {
+      "title": "飲食店の口コミ",
+      "number": "5.",
+      "wordList": [
+        
+      ],
+      "audio": "/audio/z/lesson4/wordlist_Z_04-5.mp3"
     }
   ]
 }

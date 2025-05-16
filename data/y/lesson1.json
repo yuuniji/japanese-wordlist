@@ -3,7 +3,7 @@
   "number": "第1課",
   "sections": [
     {
-      "title": "こんにちは",
+      "title": "お久しぶりです",
       "number": "1.",
       "wordList": [
         
@@ -11,12 +11,20 @@
       "audio": "/audio/y/lesson1/wordlist_Y_01-1.mp3"
     },
     {
-      "title": "こんにちは",
+      "title": "日本に来てどのぐらいですか？",
       "number": "2.",
       "wordList": [
         
       ],
       "audio": "/audio/y/lesson1/wordlist_Y_01-2.mp3"
+    },
+    {
+      "title": "日本では何をしていますか？",
+      "number": "3.",
+      "wordList": [
+        
+      ],
+      "audio": "/audio/y/lesson1/wordlist_Y_01-3.mp3"
     }
   ]
 }

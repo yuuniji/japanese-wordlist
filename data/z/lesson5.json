@@ -3,7 +3,7 @@
   "number": "第5課",
   "sections": [
     {
-      "title": "こんにちは",
+      "title": "いつか行ってみたいです",
       "number": "1.",
       "wordList": [
         
@@ -11,12 +11,28 @@
       "audio": "/audio/z/lesson5/wordlist_Z_05-1.mp3"
     },
     {
-      "title": "こんにちは",
+      "title": "景色がきれいなところがいいです",
       "number": "2.",
       "wordList": [
         
       ],
       "audio": "/audio/z/lesson5/wordlist_Z_05-2.mp3"
+    },
+    {
+      "title": "どんなところに泊まったらいいですか？",
+      "number": "3.",
+      "wordList": [
+        
+      ],
+      "audio": "/audio/z/lesson5/wordlist_Z_05-3.mp3"
+    },
+    {
+      "title": "旅行の口コミ",
+      "number": "4.",
+      "wordList": [
+        
+      ],
+      "audio": "/audio/z/lesson5/wordlist_Z_05-4.mp3"
     }
   ]
 }

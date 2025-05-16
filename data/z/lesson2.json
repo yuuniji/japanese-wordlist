@@ -3,7 +3,7 @@
   "number": "第2課",
   "sections": [
     {
-      "title": "こんにちは",
+      "title": "どの人ですか？",
       "number": "1.",
       "wordList": [
         
@@ -11,12 +11,28 @@
       "audio": "/audio/z/lesson2/wordlist_Z_02-1.mp3"
     },
     {
-      "title": "こんにちは",
+      "title": "その写真、だれですか？",
       "number": "2.",
       "wordList": [
         
       ],
       "audio": "/audio/z/lesson2/wordlist_Z_02-2.mp3"
+    },
+    {
+      "title": "本当にかっこいいです",
+      "number": "3.",
+      "wordList": [
+        
+      ],
+      "audio": "/audio/z/lesson2/wordlist_Z_02-3.mp3"
+    },
+    {
+      "title": "インタビュー記事",
+      "number": "4.",
+      "wordList": [
+        
+      ],
+      "audio": "/audio/z/lesson2/wordlist_Z_02-4.mp3"
     }
   ]
 }

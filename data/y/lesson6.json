@@ -3,7 +3,7 @@
   "number": "第6課",
   "sections": [
     {
-      "title": "こんにちは",
+      "title": "バス停はどこですか？",
       "number": "1.",
       "wordList": [
         
@@ -11,12 +11,20 @@
       "audio": "/audio/y/lesson6/wordlist_Y_06-1.mp3"
     },
     {
-      "title": "こんにちは",
+      "title": "そちらに行きたいんですが…",
       "number": "2.",
       "wordList": [
         
       ],
       "audio": "/audio/y/lesson6/wordlist_Y_06-2.mp3"
+    },
+    {
+      "title": "この先に白くて大きな家があります",
+      "number": "3.",
+      "wordList": [
+        
+      ],
+      "audio": "/audio/y/lesson6/wordlist_Y_06-3.mp3"
     }
   ]
 }
