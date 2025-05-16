@@ -3,34 +3,336 @@
   "number": "第18課",
   "sections": [
     {
-      "title": "こんにちは",
+      "title": "ゴールデンウィークの予定は？",
       "number": "1.",
       "wordList": [
-        
+        {
+          "japanese": "旅行する／旅行します",
+          "romaji": "ryokoo-suru / ryokoo-shimasu",
+          "accent": "りょこうする○／りょこうしま↓す",
+          "english": "to travel"
+        },
+        {
+          "japanese": "友だち",
+          "romaji": "tomodachi",
+          "accent": "ともだち○",
+          "english": "friend"
+        },
+        {
+          "japanese": "会う／会います",
+          "romaji": "au / aimasu",
+          "accent": "あ↓う／あいま↓す",
+          "english": "to meet"
+        },
+        {
+          "japanese": "行く／行きます",
+          "romaji": "iku / ikimasu",
+          "accent": "いく○／いきま↓す",
+          "english": "to go"
+        },
+        {
+          "japanese": "炊飯器",
+          "romaji": "suihanki",
+          "accent": "すいは↓んき",
+          "english": "rice-cooker"
+        },
+        {
+          "japanese": "買う／買います",
+          "romaji": "kau / kaimasu",
+          "accent": "かう○／かいま↓す",
+          "english": "to buy"
+        },
+        {
+          "japanese": "うち",
+          "romaji": "uchi",
+          "accent": "うち○",
+          "english": "home"
+        },
+        {
+          "japanese": "もうすぐ",
+          "romaji": "moosugu",
+          "accent": "もうす↓ぐ",
+          "english": "soon / almost"
+        },
+        {
+          "japanese": "夏休み",
+          "romaji": "natsuyasumi",
+          "accent": "なつや↓すみ",
+          "english": "summer vacation"
+        },
+        {
+          "japanese": "広島",
+          "romaji": "hiroshima",
+          "accent": "ひろしま○",
+          "english": "Hiroshima"
+        },
+        {
+          "japanese": "連休",
+          "romaji": "renkyuu",
+          "accent": "れんきゅう○",
+          "english": "holiday period"
+        },
+        {
+          "japanese": "どこか",
+          "romaji": "dokoka",
+          "accent": "ど↓こか",
+          "english": "somewhere"
+        },
+        {
+          "japanese": "ゴールデンウィーク",
+          "romaji": "gooruden-wiiku",
+          "accent": "ゴールデンウィ↓ーク",
+          "english": "Golden Week"
+        },
+        {
+          "japanese": "予定",
+          "romaji": "yotee",
+          "accent": "よてい○",
+          "english": "plans"
+        },
+        {
+          "japanese": "池袋",
+          "romaji": "ikebukuro",
+          "accent": "いけぶ↓くろ",
+          "english": "Ikebukuro"
+        }
       ],
       "audio": "/audio/x/lesson18/wordlist_X_18-1.mp3"
     },
     {
-      "title": "こんにちは",
+      "title": "日本で何がしたい？",
       "number": "2.",
       "wordList": [
-        
+        {
+          "japanese": "ディズニーランド",
+          "romaji": "dizunii-rando",
+          "accent": "ディズニーラ↓ンド",
+          "english": "Disneyland"
+        },
+        {
+          "japanese": "富士山",
+          "romaji": "fujisan",
+          "accent": "ふ↓じさん",
+          "english": "Mt. Fuji"
+        },
+        {
+          "japanese": "登る／登ります",
+          "romaji": "noboru / noborimasu",
+          "accent": "のぼる○／のぼりま↓す",
+          "english": "to climb"
+        },
+        {
+          "japanese": "京都",
+          "romaji": "kyooto",
+          "accent": "きょ↓うと",
+          "english": "Kyoto"
+        },
+        {
+          "japanese": "神社",
+          "romaji": "jinja",
+          "accent": "じ↓んじゃ",
+          "english": "shrine"
+        },
+        {
+          "japanese": "新幹線",
+          "romaji": "shinkansen",
+          "accent": "しんか↓んせん",
+          "english": "Shinkansen (bullet train)"
+        },
+        {
+          "japanese": "雪",
+          "romaji": "yuki",
+          "accent": "ゆき↓",
+          "english": "snow"
+        },
+        {
+          "japanese": "見る／見ます",
+          "romaji": "miru / mimasu",
+          "accent": "み↓る／みま↓す",
+          "english": "to watch"
+        },
+        {
+          "japanese": "どら焼き",
+          "romaji": "dorayaki",
+          "accent": "どらやき○",
+          "english": "dorayaki (cake with sweet bean paste)"
+        },
+        {
+          "japanese": "食べる／食べます",
+          "romaji": "taberu / tabemasu",
+          "accent": "たべ↓る／たべま↓す",
+          "english": "to eat"
+        },
+        {
+          "japanese": "温泉",
+          "romaji": "onsen",
+          "accent": "おんせん○",
+          "english": "hot spring"
+        },
+        {
+          "japanese": "入る／入ります",
+          "romaji": "hairu / hairimasu",
+          "accent": "は↓いる／はいりま↓す",
+          "english": "to enter"
+        },
+        {
+          "japanese": "お土産",
+          "romaji": "omiyage",
+          "accent": "おみやげ○",
+          "english": "souvenir"
+        },
+        {
+          "japanese": "ぜひ",
+          "romaji": "zehi",
+          "accent": "ぜ↓ひ",
+          "english": "definitely"
+        },
+        {
+          "japanese": "ほかに",
+          "romaji": "hoka ni",
+          "accent": "ほかに○",
+          "english": "besides that"
+        },
+        {
+          "japanese": "あと",
+          "romaji": "ato",
+          "accent": "あ↓と",
+          "english": "and / also"
+        },
+        {
+          "japanese": "どうして",
+          "romaji": "dooshite",
+          "accent": "ど↓うして",
+          "english": "why"
+        },
+        {
+          "japanese": "行って",
+          "romaji": "itte",
+          "accent": "いって○",
+          "english": "You should go."
+        },
+        {
+          "japanese": "新宿",
+          "romaji": "shinjuku",
+          "accent": "しんじゅく○",
+          "english": "Shinjuku"
+        },
+        {
+          "japanese": "須賀神社",
+          "romaji": "suga-jinja",
+          "accent": "すがじ↓んじゃ",
+          "english": "Suga Shrine"
+        },
+        {
+          "japanese": "君の名は。",
+          "romaji": "kimi no na wa",
+          "accent": "きみのなは↓",
+          "english": "Kimi no Na wa (\"Your Name\")"
+        },
+        {
+          "japanese": "ドラえもん",
+          "romaji": "doraemon",
+          "accent": "ドラえもん○",
+          "english": "Doraemon"
+        }
       ],
       "audio": "/audio/x/lesson18/wordlist_X_18-2.mp3"
     },
     {
-      "title": "こんにちは",
+      "title": "船に乗りました",
       "number": "3.",
       "wordList": [
-        
+        {
+          "japanese": "写真",
+          "romaji": "shashin",
+          "accent": "しゃしん○",
+          "english": "photograph"
+        },
+        {
+          "japanese": "動画",
+          "romaji": "dooga",
+          "accent": "どうが○",
+          "english": "video"
+        },
+        {
+          "japanese": "友達をタグ付け",
+          "romaji": "tomodachi o tagu-zuke",
+          "accent": "ともだちをタグづけ○",
+          "english": "tagging a friend"
+        },
+        {
+          "japanese": "気分",
+          "romaji": "kibun",
+          "accent": "き↓ぶん",
+          "english": "feeling"
+        },
+        {
+          "japanese": "アクティビティ",
+          "romaji": "akutibiti",
+          "accent": "アクティ↓ビティ",
+          "english": "activity"
+        },
+        {
+          "japanese": "チェックイン",
+          "romaji": "chekku-in",
+          "accent": "チェックイ↓ン",
+          "english": "check-in"
+        }
       ],
       "audio": "/audio/x/lesson18/wordlist_X_18-3.mp3"
     },
     {
-      "title": "こんにちは",
+      "title": "はじめて露天風呂に入りました",
       "number": "4.",
       "wordList": [
-        
+        {
+          "japanese": "露天風呂",
+          "romaji": "roten-buro",
+          "accent": "ろてんぶ↓ろ／ろてんぶろ○",
+          "english": "open-air bath"
+        },
+        {
+          "japanese": "それに",
+          "romaji": "soreni",
+          "accent": "それに○",
+          "english": "besides / in addition"
+        },
+        {
+          "japanese": "景色",
+          "romaji": "keshiki",
+          "accent": "け↓しき",
+          "english": "scenery"
+        },
+        {
+          "japanese": "それから",
+          "romaji": "sorekara",
+          "accent": "それから○",
+          "english": "and then"
+        },
+        {
+          "japanese": "鶏",
+          "romaji": "tori",
+          "accent": "とり○",
+          "english": "chicken"
+        },
+        {
+          "japanese": "でも",
+          "romaji": "demo",
+          "accent": "で↓も",
+          "english": "but"
+        },
+        {
+          "japanese": "それは、よかったですね",
+          "romaji": "sore wa, yokatta desu ne",
+          "accent": "それ○は、よ↓かったですね",
+          "english": "That sounds good."
+        },
+        {
+          "japanese": "別府温泉",
+          "romaji": "beppu-onsen",
+          "accent": "べっぷお↓んせん",
+          "english": "Beppu Onsen (hot spring area)"
+        }
       ],
       "audio": "/audio/x/lesson18/wordlist_X_18-4.mp3"
     }

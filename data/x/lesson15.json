@@ -3,42 +3,661 @@
   "number": "第15課",
   "sections": [
     {
-      "title": "こんにちは",
+      "title": "どこで買えますか？",
       "number": "1.",
       "wordList": [
-        
+        {
+          "japanese": "コンビニ",
+          "romaji": "konbini",
+          "accent": "コンビニ○",
+          "english": "convenience store"
+        },
+        {
+          "japanese": "スーパー",
+          "romaji": "suupaa",
+          "accent": "ス↓ーパー",
+          "english": "supermarket"
+        },
+        {
+          "japanese": "100円ショップ",
+          "romaji": "hyaku-en-shoppu",
+          "accent": "ひゃくえんショ↓ップ",
+          "english": "100-yen shop"
+        },
+        {
+          "japanese": "ドラッグストア",
+          "romaji": "doraggu-sutoa",
+          "accent": "ドラッグスト↓ア",
+          "english": "drugstore"
+        },
+        {
+          "japanese": "ショッピングセンター",
+          "romaji": "shoppingu-sentaa",
+          "accent": "ショッピングセ↓ンター",
+          "english": "shopping center"
+        },
+        {
+          "japanese": "ショッピングモール",
+          "romaji": "shoppingu-mooru",
+          "accent": "ショッピングモ↓ール",
+          "english": "shopping mall"
+        },
+        {
+          "japanese": "ホームセンター",
+          "romaji": "hoomu-sentaa",
+          "accent": "ホームセ↓ンター",
+          "english": "home improvement store"
+        },
+        {
+          "japanese": "デパート",
+          "romaji": "depaato",
+          "accent": "デパ↓ート",
+          "english": "department store"
+        },
+        {
+          "japanese": "電池",
+          "romaji": "denchi",
+          "accent": "でんち○／で↓んち",
+          "english": "battery"
+        },
+        {
+          "japanese": "洗濯ばさみ",
+          "romaji": "sentaku-basami",
+          "accent": "せんたくば↓さみ",
+          "english": "clothes peg"
+        },
+        {
+          "japanese": "浴衣",
+          "romaji": "yukata",
+          "accent": "ゆかた○",
+          "english": "yukata (Japanese summer robe)"
+        },
+        {
+          "japanese": "懐中電灯",
+          "romaji": "kaichuu-dentoo",
+          "accent": "かいちゅうで↓んとう",
+          "english": "torch"
+        },
+        {
+          "japanese": "弁当箱／お弁当箱",
+          "romaji": "bentoobako / obentoobako",
+          "accent": "べんと↓うばこ／おべんと↓うばこ",
+          "english": "lunchbox"
+        },
+        {
+          "japanese": "ココナッツミルク",
+          "romaji": "kokonattsu-miruku",
+          "accent": "ココナッツミ↓ルク",
+          "english": "coconut milk"
+        },
+        {
+          "japanese": "ほしい",
+          "romaji": "hoshii",
+          "accent": "ほし↓い",
+          "english": "want"
+        },
+        {
+          "japanese": "駅前",
+          "romaji": "ekimae",
+          "accent": "えきまえ○／えきま↓え",
+          "english": "in front of the station"
+        },
+        {
+          "japanese": "店／お店",
+          "romaji": "mise / omise",
+          "accent": "みせ↓／おみせ○",
+          "english": "store"
+        },
+        {
+          "japanese": "～とか",
+          "romaji": "～toka",
+          "accent": "～と↓か",
+          "english": "for example (used when giving an example)"
+        },
+        {
+          "japanese": "どこで買えますか？",
+          "romaji": "doko de kaemasu ka?",
+          "accent": "ど↓こでかえま↓すか？",
+          "english": "where can I buy this?"
+        }
       ],
       "audio": "/audio/x/lesson15/wordlist_X_15-1.mp3"
     },
     {
-      "title": "こんにちは",
+      "title": "フロアガイド",
       "number": "2.",
       "wordList": [
-        
+        {
+          "japanese": "しょうゆ",
+          "romaji": "shooyu",
+          "accent": "しょうゆ○",
+          "english": "soy sauce"
+        },
+        {
+          "japanese": "スカート",
+          "romaji": "sukaato",
+          "accent": "スカ↓ート",
+          "english": "skirt"
+        },
+        {
+          "japanese": "蛍光灯",
+          "romaji": "keekootoo",
+          "accent": "けいこうとう○",
+          "english": "fluorescent light"
+        },
+        {
+          "japanese": "ダンベル",
+          "romaji": "danberu",
+          "accent": "ダンベル○",
+          "english": "dumbbell"
+        },
+        {
+          "japanese": "～階",
+          "romaji": "～kai",
+          "accent": "～かい",
+          "english": "～ floor"
+        },
+        {
+          "japanese": "暮らし",
+          "romaji": "kurashi",
+          "accent": "くらし○",
+          "english": "home"
+        },
+        {
+          "japanese": "フロア",
+          "romaji": "furoa",
+          "accent": "フロ↓ア",
+          "english": "floor"
+        },
+        {
+          "japanese": "服",
+          "romaji": "fuku",
+          "accent": "ふく↓",
+          "english": "clothing"
+        },
+        {
+          "japanese": "メンズ",
+          "romaji": "menzu",
+          "accent": "メンズ○",
+          "english": "men's"
+        },
+        {
+          "japanese": "紳士",
+          "romaji": "shinshi",
+          "accent": "し↓んし",
+          "english": "men"
+        },
+        {
+          "japanese": "レディース",
+          "romaji": "rediisu",
+          "accent": "レディース○",
+          "english": "women's"
+        },
+        {
+          "japanese": "婦人",
+          "romaji": "fujin",
+          "accent": "ふじん○",
+          "english": "women"
+        },
+        {
+          "japanese": "食品",
+          "romaji": "shokuhin",
+          "accent": "しょくひん○",
+          "english": "food"
+        },
+        {
+          "japanese": "屋上駐車場",
+          "romaji": "okujoo-chuushajoo",
+          "accent": "おくじょうちゅうしゃじょう○",
+          "english": "rooftop car park"
+        },
+        {
+          "japanese": "生活用品",
+          "romaji": "seekatsu-yoohin",
+          "accent": "せいかつよ↓うひん",
+          "english": "daily necessities"
+        },
+        {
+          "japanese": "家電",
+          "romaji": "kaden",
+          "accent": "かでん○",
+          "english": "household appliances"
+        },
+        {
+          "japanese": "家具",
+          "romaji": "kagu",
+          "accent": "か↓ぐ",
+          "english": "furniture"
+        },
+        {
+          "japanese": "インテリア",
+          "romaji": "interia",
+          "accent": "インテ↓リア",
+          "english": "interior furnishings"
+        },
+        {
+          "japanese": "おもちゃ",
+          "romaji": "omocha",
+          "accent": "おも↓ちゃ",
+          "english": "toys"
+        },
+        {
+          "japanese": "文房具",
+          "romaji": "bunboogu",
+          "accent": "ぶんぼ↓うぐ",
+          "english": "stationery"
+        },
+        {
+          "japanese": "雑貨",
+          "romaji": "zakka",
+          "accent": "ざっか○",
+          "english": "sundry goods"
+        },
+        {
+          "japanese": "肌着",
+          "romaji": "hadagi",
+          "accent": "はだぎ○",
+          "english": "underclothes"
+        },
+        {
+          "japanese": "靴",
+          "romaji": "kutsu",
+          "accent": "くつ↓",
+          "english": "shoes"
+        },
+        {
+          "japanese": "バッグ",
+          "romaji": "baggu",
+          "accent": "バ↓ッグ",
+          "english": "bags"
+        },
+        {
+          "japanese": "スポーツ用品",
+          "romaji": "supootsu-yoohin",
+          "accent": "スポーツよ↓うひん",
+          "english": "sporting goods"
+        },
+        {
+          "japanese": "服飾雑貨",
+          "romaji": "fukushoku-zakka",
+          "accent": "ふくしょくざ↓っか",
+          "english": "fashion accessories"
+        },
+        {
+          "japanese": "化粧品",
+          "romaji": "keshoohin",
+          "accent": "けしょうひん○",
+          "english": "cosmetics"
+        },
+        {
+          "japanese": "食料品",
+          "romaji": "shokuryoohin",
+          "accent": "しょくりょうひん○",
+          "english": "food products"
+        },
+        {
+          "japanese": "酒",
+          "romaji": "sake",
+          "accent": "さけ○",
+          "english": "liquor"
+        },
+        {
+          "japanese": "銘店",
+          "romaji": "meeten",
+          "accent": "めいてん○",
+          "english": "well-known store"
+        }
       ],
       "audio": "/audio/x/lesson15/wordlist_X_15-2.mp3"
     },
     {
-      "title": "こんにちは",
+      "title": "カメラは何階ですか？",
       "number": "3.",
       "wordList": [
-        
+        {
+          "japanese": "ドライヤー",
+          "romaji": "doraiyaa",
+          "accent": "ドライヤー○",
+          "english": "hair-dryer"
+        },
+        {
+          "japanese": "カメラ",
+          "romaji": "kamera",
+          "accent": "カ↓メラ",
+          "english": "camera"
+        },
+        {
+          "japanese": "スマホケース",
+          "romaji": "sumaho-keesu",
+          "accent": "スマホケ↓ース",
+          "english": "smartphone case"
+        },
+        {
+          "japanese": "延長コード",
+          "romaji": "enchoo-koodo",
+          "accent": "えんちょうコ↓ード",
+          "english": "extension cord"
+        },
+        {
+          "japanese": "何階",
+          "romaji": "nan-kai / nan-gai",
+          "accent": "なんかい○／なんがい○",
+          "english": "what floor"
+        },
+        {
+          "japanese": "こちら",
+          "romaji": "kochira",
+          "accent": "こちら○",
+          "english": "here, this way"
+        },
+        {
+          "japanese": "～でございます",
+          "romaji": "～de gozaimasu",
+          "accent": "～でございま↓す",
+          "english": "is (polite expression for です)"
+        },
+        {
+          "japanese": "ご案内します／ご案内いたします",
+          "romaji": "goannai shimasu / goannai itashimasu",
+          "accent": "ごあんないしま↓す／ごあんないいたしま↓す",
+          "english": "I'll show you. (polite expression)"
+        },
+        {
+          "japanese": "～になります",
+          "romaji": "～ni narimasu",
+          "accent": "～になりま↓す",
+          "english": "is (polite expression for です)"
+        },
+        {
+          "japanese": "1階",
+          "romaji": "ikkai",
+          "accent": "いっかい○",
+          "english": "first floor"
+        },
+        {
+          "japanese": "2階",
+          "romaji": "ni-kai",
+          "accent": "にかい○",
+          "english": "second floor"
+        },
+        {
+          "japanese": "3階",
+          "romaji": "san-kai / san-gai",
+          "accent": "さんかい○／さんがい○",
+          "english": "third floor"
+        },
+        {
+          "japanese": "4階",
+          "romaji": "yon-kai",
+          "accent": "よんかい○",
+          "english": "fourth floor"
+        },
+        {
+          "japanese": "5階",
+          "romaji": "go-kai",
+          "accent": "ごかい○",
+          "english": "fifth floor"
+        },
+        {
+          "japanese": "6階",
+          "romaji": "rokkai",
+          "accent": "ろっかい○",
+          "english": "sixth floor"
+        },
+        {
+          "japanese": "7階",
+          "romaji": "nana-kai",
+          "accent": "ななかい○",
+          "english": "seventh floor"
+        },
+        {
+          "japanese": "8階",
+          "romaji": "hachi-kai / hakkai",
+          "accent": "はちかい○／はっかい○",
+          "english": "eighth floor"
+        },
+        {
+          "japanese": "9階",
+          "romaji": "kyuu-kai",
+          "accent": "きゅうかい○",
+          "english": "ninth floor"
+        },
+        {
+          "japanese": "10階",
+          "romaji": "jukkai",
+          "accent": "じゅっかい○",
+          "english": "tenth floor"
+        }
       ],
       "audio": "/audio/x/lesson15/wordlist_X_15-3.mp3"
     },
     {
-      "title": "こんにちは",
+      "title": "わあ、かっこいいですね",
       "number": "4.",
       "wordList": [
-        
+        {
+          "japanese": "かっこいい",
+          "romaji": "kakkoii",
+          "accent": "かっこい↓い",
+          "english": "cool"
+        },
+        {
+          "japanese": "かわいい",
+          "romaji": "kawaii",
+          "accent": "かわい↓い",
+          "english": "cute"
+        },
+        {
+          "japanese": "高い",
+          "romaji": "takai",
+          "accent": "たか↓い",
+          "english": "expensive"
+        },
+        {
+          "japanese": "安い",
+          "romaji": "yasui",
+          "accent": "やす↓い",
+          "english": "cheap"
+        },
+        {
+          "japanese": "おもしろい",
+          "romaji": "omoshiroi",
+          "accent": "おもしろ↓い",
+          "english": "interesting"
+        },
+        {
+          "japanese": "きれい（な）",
+          "romaji": "kiree (na)",
+          "accent": "き↓れい（な）",
+          "english": "pretty / beautiful"
+        },
+        {
+          "japanese": "すてき（な）",
+          "romaji": "suteki (na)",
+          "accent": "すてき（な）○",
+          "english": "nice / wonderful"
+        },
+        {
+          "japanese": "おしゃれ（な）",
+          "romaji": "oshare (na)",
+          "accent": "おしゃ↓れ（な）",
+          "english": "stylish"
+        },
+        {
+          "japanese": "変（な）",
+          "romaji": "hen (na)",
+          "accent": "へ↓ん（な）",
+          "english": "strange"
+        },
+        {
+          "japanese": "バッグ",
+          "romaji": "baggu",
+          "accent": "バ↓ッグ",
+          "english": "bag"
+        },
+        {
+          "japanese": "かばん",
+          "romaji": "kaban",
+          "accent": "かばん○",
+          "english": "bag"
+        },
+        {
+          "japanese": "くつ下",
+          "romaji": "kutsushita",
+          "accent": "くつ↓した",
+          "english": "socks"
+        },
+        {
+          "japanese": "シャツ",
+          "romaji": "shatsu",
+          "accent": "シャ↓ツ",
+          "english": "shirt"
+        },
+        {
+          "japanese": "ズボン",
+          "romaji": "zubon",
+          "accent": "ズボ↓ン／ズ↓ボン",
+          "english": "trousers"
+        },
+        {
+          "japanese": "パンツ",
+          "romaji": "pantsu",
+          "accent": "パンツ○／パ↓ンツ",
+          "english": "pants"
+        },
+        {
+          "japanese": "Tシャツ",
+          "romaji": "tii-shatsu",
+          "accent": "ティーシャツ○",
+          "english": "T-shirt"
+        },
+        {
+          "japanese": "ワンピース",
+          "romaji": "wanpiisu",
+          "accent": "ワンピ↓ース",
+          "english": "dress"
+        },
+        {
+          "japanese": "くつ",
+          "romaji": "kutsu",
+          "accent": "くつ↓",
+          "english": "shoes"
+        },
+        {
+          "japanese": "ネクタイ",
+          "romaji": "nekutai",
+          "accent": "ネ↓クタイ",
+          "english": "necktie"
+        },
+        {
+          "japanese": "帽子",
+          "romaji": "booshi",
+          "accent": "ぼうし○",
+          "english": "hat / cap"
+        },
+        {
+          "japanese": "傘",
+          "romaji": "kasa",
+          "accent": "か↓さ",
+          "english": "umbrella"
+        },
+        {
+          "japanese": "ジャケット",
+          "romaji": "jaketto",
+          "accent": "ジャケット○／ジャケ↓ット",
+          "english": "jacket"
+        },
+        {
+          "japanese": "コート",
+          "romaji": "kooto",
+          "accent": "コ↓ート",
+          "english": "coat"
+        },
+        {
+          "japanese": "それに",
+          "romaji": "soreni",
+          "accent": "それに○",
+          "english": "besides / in addition"
+        },
+        {
+          "japanese": "本当！",
+          "romaji": "hontoo !",
+          "accent": "ほんとう !○",
+          "english": "It really is!"
+        }
       ],
       "audio": "/audio/x/lesson15/wordlist_X_15-4.mp3"
     },
     {
-      "title": "こんにちは",
+      "title": "ショッピングセンターの表示",
       "number": "5.",
       "wordList": [
-        
+        {
+          "japanese": "入口",
+          "romaji": "iriguchi",
+          "accent": "いりぐち○",
+          "english": "entrance"
+        },
+        {
+          "japanese": "出口",
+          "romaji": "deguchi",
+          "accent": "で↓ぐち",
+          "english": "exit"
+        },
+        {
+          "japanese": "化粧室",
+          "romaji": "keshooshitsu",
+          "accent": "けしょ↓うしつ",
+          "english": "restroom"
+        },
+        {
+          "japanese": "非常口",
+          "romaji": "hijooguchi",
+          "accent": "ひじょ↓うぐち",
+          "english": "emergency exit"
+        },
+        {
+          "japanese": "お客様",
+          "romaji": "okyakusama",
+          "accent": "おきゃくさ↓ま",
+          "english": "customer (polite expression)"
+        },
+        {
+          "japanese": "押す／押",
+          "romaji": "osu",
+          "accent": "おす○",
+          "english": "to push"
+        },
+        {
+          "japanese": "引く／引",
+          "romaji": "hiku",
+          "accent": "ひく○",
+          "english": "to pull"
+        },
+        {
+          "japanese": "開く／開",
+          "romaji": "hiraku",
+          "accent": "ひら↓く",
+          "english": "to open"
+        },
+        {
+          "japanese": "閉じる／閉",
+          "romaji": "tojiru",
+          "accent": "とじ↓る",
+          "english": "to close"
+        },
+        {
+          "japanese": "上り",
+          "romaji": "nobori",
+          "accent": "のぼり○",
+          "english": "up"
+        },
+        {
+          "japanese": "下り",
+          "romaji": "kudari",
+          "accent": "くだり○",
+          "english": "down"
+        }
       ],
       "audio": "/audio/x/lesson15/wordlist_X_15-5.mp3"
     }

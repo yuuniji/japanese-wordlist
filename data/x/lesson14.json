@@ -3,34 +3,468 @@
   "number": "第14課",
   "sections": [
     {
-      "title": "こんにちは",
+      "title": "トイレはどこですか？",
       "number": "1.",
       "wordList": [
-        
+        {
+          "japanese": "トイレ",
+          "romaji": "toire",
+          "accent": "ト↓イレ",
+          "english": "toilet"
+        },
+        {
+          "japanese": "コインロッカー",
+          "romaji": "koinrokkaa",
+          "accent": "コインロ↓ッカー",
+          "english": "coin-operated locker"
+        },
+        {
+          "japanese": "自動販売機",
+          "romaji": "jidoohanbaiki",
+          "accent": "じどうはんば↓いき",
+          "english": "vending machine"
+        },
+        {
+          "japanese": "コンビニ",
+          "romaji": "konbini",
+          "accent": "コンビニ○",
+          "english": "convenience store"
+        },
+        {
+          "japanese": "ATM",
+          "romaji": "eetiiemu",
+          "accent": "エーティーエ↓ム",
+          "english": "ATM (automated teller machine)"
+        },
+        {
+          "japanese": "喫煙所",
+          "romaji": "kitsuenjo",
+          "accent": "きつえんじょ○",
+          "english": "smoking room / smoking area"
+        },
+        {
+          "japanese": "あちら",
+          "romaji": "achira",
+          "accent": "あちら○",
+          "english": "over there"
+        },
+        {
+          "japanese": "飲み物",
+          "romaji": "nomimono",
+          "accent": "のみも↓の／のみ↓もの",
+          "english": "drink"
+        },
+        {
+          "japanese": "あっち",
+          "romaji": "acchi",
+          "accent": "あっち↓",
+          "english": "over there (a casual way of saying あちら)"
+        },
+        {
+          "japanese": "ビル",
+          "romaji": "biru",
+          "accent": "ビ↓ル",
+          "english": "building"
+        },
+        {
+          "japanese": "奥",
+          "romaji": "oku",
+          "accent": "お↓く",
+          "english": "inside"
+        },
+        {
+          "japanese": "すいません",
+          "romaji": "suimasen",
+          "accent": "すいませ↓ん",
+          "english": "Sorry. (an informal way of saying すみません)"
+        },
+        {
+          "japanese": "ちょっと、わからないですね",
+          "romaji": "chotto, wakaranai desu ne",
+          "accent": "ちょ↓っと、わから↓ないですね",
+          "english": "I don't really know."
+        }
       ],
       "audio": "/audio/x/lesson14/wordlist_X_14-1.mp3"
     },
     {
-      "title": "こんにちは",
+      "title": "今、改札の前にいます",
       "number": "2.",
       "wordList": [
-        
+        {
+          "japanese": "上",
+          "romaji": "ue",
+          "accent": "うえ○／～（の）うえ↓",
+          "english": "above"
+        },
+        {
+          "japanese": "下",
+          "romaji": "shita",
+          "accent": "した○／～（の）した↓",
+          "english": "below"
+        },
+        {
+          "japanese": "前",
+          "romaji": "mae",
+          "accent": "ま↓え",
+          "english": "in front"
+        },
+        {
+          "japanese": "後ろ",
+          "romaji": "ushiro",
+          "accent": "うしろ○",
+          "english": "behind"
+        },
+        {
+          "japanese": "中",
+          "romaji": "naka",
+          "accent": "な↓か",
+          "english": "inside"
+        },
+        {
+          "japanese": "横",
+          "romaji": "yoko",
+          "accent": "よこ○",
+          "english": "beside"
+        },
+        {
+          "japanese": "エスカレーター",
+          "romaji": "esukareetaa",
+          "accent": "エスカレ↓ーター",
+          "english": "escalator"
+        },
+        {
+          "japanese": "改札",
+          "romaji": "kaisatsu",
+          "accent": "かいさつ○",
+          "english": "ticket gate"
+        },
+        {
+          "japanese": "インフォメーション",
+          "romaji": "infomeeshon",
+          "accent": "インフォメ↓ーション",
+          "english": "information counter"
+        },
+        {
+          "japanese": "そっち",
+          "romaji": "socchi",
+          "accent": "そっち↓",
+          "english": "there"
+        },
+        {
+          "japanese": "すぐ",
+          "romaji": "sugu",
+          "accent": "す↓ぐ",
+          "english": "immediately"
+        },
+        {
+          "japanese": "わかった",
+          "romaji": "wakatta",
+          "accent": "わか↓った",
+          "english": "I understand. (a casual way of saying わかりました)"
+        },
+        {
+          "japanese": "待っててください",
+          "romaji": "mattete kudasai",
+          "accent": "ま↓っててくださ↓い",
+          "english": "Please wait there."
+        }
       ],
       "audio": "/audio/x/lesson14/wordlist_X_14-2.mp3"
     },
     {
-      "title": "こんにちは",
+      "title": "ここは十条商店街です",
       "number": "3.",
       "wordList": [
-        
+        {
+          "japanese": "古い",
+          "romaji": "furui",
+          "accent": "ふる↓い",
+          "english": "old"
+        },
+        {
+          "japanese": "新しい",
+          "romaji": "atarashii",
+          "accent": "あたらし↓い",
+          "english": "new"
+        },
+        {
+          "japanese": "大きい",
+          "romaji": "ookii",
+          "accent": "おおき↓い",
+          "english": "large"
+        },
+        {
+          "japanese": "大きな",
+          "romaji": "ookina",
+          "accent": "お↓おきな",
+          "english": "large"
+        },
+        {
+          "japanese": "小さい",
+          "romaji": "chiisai",
+          "accent": "ちいさ↓い",
+          "english": "small"
+        },
+        {
+          "japanese": "小さな",
+          "romaji": "chiisana",
+          "accent": "ち↓いさな",
+          "english": "small"
+        },
+        {
+          "japanese": "高い",
+          "romaji": "takai",
+          "accent": "たか↓い",
+          "english": "high"
+        },
+        {
+          "japanese": "低い",
+          "romaji": "hikui",
+          "accent": "ひく↓い",
+          "english": "low"
+        },
+        {
+          "japanese": "にぎやか（な）",
+          "romaji": "nigiyaka (na)",
+          "accent": "にぎ↓やか（な）",
+          "english": "lively"
+        },
+        {
+          "japanese": "静か（な）",
+          "romaji": "shizuka (na)",
+          "accent": "し↓ずか（な）",
+          "english": "quiet"
+        },
+        {
+          "japanese": "広い",
+          "romaji": "hiroi",
+          "accent": "ひろ↓い",
+          "english": "spacious"
+        },
+        {
+          "japanese": "せまい",
+          "romaji": "semai",
+          "accent": "せま↓い",
+          "english": "cramped"
+        },
+        {
+          "japanese": "きれい（な）",
+          "romaji": "kiree (na)",
+          "accent": "き↓れい（な）",
+          "english": "clean"
+        },
+        {
+          "japanese": "きたない",
+          "romaji": "kitanai",
+          "accent": "きたな↓い",
+          "english": "dirty"
+        },
+        {
+          "japanese": "商店街",
+          "romaji": "shootengai",
+          "accent": "しょうて↓んがい",
+          "english": "shopping street"
+        },
+        {
+          "japanese": "お寺",
+          "romaji": "otera",
+          "accent": "おてら○",
+          "english": "temple"
+        },
+        {
+          "japanese": "野球場",
+          "romaji": "yakyuujoo",
+          "accent": "やきゅうじょう○",
+          "english": "baseball ground"
+        },
+        {
+          "japanese": "公園",
+          "romaji": "kooen",
+          "accent": "こうえん○",
+          "english": "park"
+        },
+        {
+          "japanese": "川",
+          "romaji": "kawa",
+          "accent": "かわ↓",
+          "english": "river"
+        },
+        {
+          "japanese": "通り",
+          "romaji": "toori",
+          "accent": "とおり↓",
+          "english": "street"
+        },
+        {
+          "japanese": "有名（な）",
+          "romaji": "yuumee (na)",
+          "accent": "ゆうめい（な）○",
+          "english": "famous"
+        },
+        {
+          "japanese": "あれ",
+          "romaji": "are",
+          "accent": "あれ○",
+          "english": "that"
+        },
+        {
+          "japanese": "建物",
+          "romaji": "tatemono",
+          "accent": "たて↓もの／たても↓の",
+          "english": "building"
+        },
+        {
+          "japanese": "～ドーム　（札幌ドーム）",
+          "romaji": "～doomu (sapporo-doomu)",
+          "accent": "～ド↓ーム　（さっぽろド↓ーム）",
+          "english": "～ Dome (e.g. Sapporo Dome)"
+        },
+        {
+          "japanese": "～でしょう？",
+          "romaji": "～deshoo?",
+          "accent": "～でしょう？",
+          "english": "～ isn't it? (used when the speaker is looking for the other person's agreement)"
+        },
+        {
+          "japanese": "たくさん",
+          "romaji": "takusan",
+          "accent": "たくさん○",
+          "english": "lots of"
+        },
+        {
+          "japanese": "見て",
+          "romaji": "mite",
+          "accent": "み↓て",
+          "english": "Look at that!"
+        },
+        {
+          "japanese": "そうだね",
+          "romaji": "soo da ne",
+          "accent": "そ↓うだね",
+          "english": "Yes. / I agree. (a casual way of saying そうですね)"
+        }
       ],
       "audio": "/audio/x/lesson14/wordlist_X_14-3.mp3"
     },
     {
-      "title": "こんにちは",
+      "title": "街にある看板",
       "number": "4.",
       "wordList": [
-        
+        {
+          "japanese": "危険",
+          "romaji": "kiken",
+          "accent": "きけん○",
+          "english": "danger"
+        },
+        {
+          "japanese": "注意",
+          "romaji": "chuui",
+          "accent": "ちゅ↓うい",
+          "english": "caution"
+        },
+        {
+          "japanese": "通行止",
+          "romaji": "tsuukoodome",
+          "accent": "つうこうどめ○",
+          "english": "road closed"
+        },
+        {
+          "japanese": "工事中",
+          "romaji": "koojichuu",
+          "accent": "こうじちゅう○",
+          "english": "under construction"
+        },
+        {
+          "japanese": "たばこ",
+          "romaji": "tabako",
+          "accent": "たばこ○",
+          "english": "tobacco / cigarette"
+        },
+        {
+          "japanese": "銀行",
+          "romaji": "ginkoo",
+          "accent": "ぎんこう○",
+          "english": "bank"
+        },
+        {
+          "japanese": "酒",
+          "romaji": "sake",
+          "accent": "さけ○",
+          "english": "liquor"
+        },
+        {
+          "japanese": "定休日",
+          "romaji": "teekyuubi",
+          "accent": "ていきゅ↓うび",
+          "english": "closed every ～"
+        },
+        {
+          "japanese": "準備中",
+          "romaji": "junbichuu",
+          "accent": "じゅんびちゅう○",
+          "english": "opening soon"
+        },
+        {
+          "japanese": "営業中",
+          "romaji": "eegyoochuu",
+          "accent": "えいぎょうちゅう○",
+          "english": "open"
+        },
+        {
+          "japanese": "祭（日）",
+          "romaji": "sai (jitsu)",
+          "accent": "さい（じつ）○",
+          "english": "public holiday"
+        },
+        {
+          "japanese": "祝（日）",
+          "romaji": "shuku (jitsu)",
+          "accent": "しゅく（じつ）○",
+          "english": "public holiday"
+        },
+        {
+          "japanese": "24時間営業",
+          "romaji": "nijuu-yojikan-eegyoo",
+          "accent": "に↓じゅう△よじかんえ↓いぎょう",
+          "english": "open 24 hours"
+        },
+        {
+          "japanese": "年中無休",
+          "romaji": "nenjuu-mukyuu",
+          "accent": "ね↓んじゅう△むきゅう○",
+          "english": "open year round"
+        },
+        {
+          "japanese": "営業時間",
+          "romaji": "eegyoo-jikan",
+          "accent": "えいぎょうじ↓かん",
+          "english": "opening hours"
+        },
+        {
+          "japanese": "ランチ",
+          "romaji": "ranchi",
+          "accent": "ラ↓ンチ",
+          "english": "lunch"
+        },
+        {
+          "japanese": "ディナー",
+          "romaji": "dinaa",
+          "accent": "ディ↓ナー",
+          "english": "dinner"
+        },
+        {
+          "japanese": "受付時間",
+          "romaji": "uketsuke-jikan",
+          "accent": "うけつけじ↓かん",
+          "english": "reception hours"
+        },
+        {
+          "japanese": "休",
+          "romaji": "yasumi",
+          "accent": "やすみ↓",
+          "english": "closed"
+        }
       ],
       "audio": "/audio/x/lesson14/wordlist_X_14-4.mp3"
     }

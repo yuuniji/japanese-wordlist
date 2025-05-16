@@ -3,42 +3,757 @@
   "number": "第16課",
   "sections": [
     {
-      "title": "こんにちは",
+      "title": "1,980 円です",
       "number": "1.",
       "wordList": [
-        
+        {
+          "japanese": "1円",
+          "romaji": "ichi-en",
+          "accent": "いちえん○",
+          "english": "1 yen"
+        },
+        {
+          "japanese": "5円",
+          "romaji": "go-en",
+          "accent": "ご↓えん",
+          "english": "5 yen"
+        },
+        {
+          "japanese": "10円",
+          "romaji": "juu-en",
+          "accent": "じゅうえん○",
+          "english": "10 yen"
+        },
+        {
+          "japanese": "50円",
+          "romaji": "gojuu-en",
+          "accent": "ごじゅ↓うえん",
+          "english": "50 yen"
+        },
+        {
+          "japanese": "100",
+          "romaji": "hyaku",
+          "accent": "ひゃく↓",
+          "english": "one hundred"
+        },
+        {
+          "japanese": "200",
+          "romaji": "nihyaku",
+          "accent": "にひゃく↓",
+          "english": "two hundred"
+        },
+        {
+          "japanese": "300",
+          "romaji": "sanbyaku",
+          "accent": "さ↓んびゃく",
+          "english": "three hundred"
+        },
+        {
+          "japanese": "400",
+          "romaji": "yonhyaku",
+          "accent": "よ↓んひゃく",
+          "english": "four hundred"
+        },
+        {
+          "japanese": "500",
+          "romaji": "gohyaku",
+          "accent": "ごひゃく↓",
+          "english": "five hundred"
+        },
+        {
+          "japanese": "600",
+          "romaji": "roppyaku",
+          "accent": "ろっぴゃく↓",
+          "english": "six hundred"
+        },
+        {
+          "japanese": "700",
+          "romaji": "nanahyaku",
+          "accent": "なな↓ひゃく",
+          "english": "seven hundred"
+        },
+        {
+          "japanese": "800",
+          "romaji": "happyaku",
+          "accent": "はっぴゃく↓",
+          "english": "eight hundred"
+        },
+        {
+          "japanese": "900",
+          "romaji": "kyuuhyaku",
+          "accent": "きゅ↓うひゃく",
+          "english": "nine hundred"
+        },
+        {
+          "japanese": "1,000",
+          "romaji": "sen",
+          "accent": "せ↓ん",
+          "english": "one thousand"
+        },
+        {
+          "japanese": "2,000",
+          "romaji": "nisen",
+          "accent": "にせ↓ん",
+          "english": "two thousand"
+        },
+        {
+          "japanese": "3,000",
+          "romaji": "sanzen",
+          "accent": "さんぜ↓ん",
+          "english": "three thousand"
+        },
+        {
+          "japanese": "4,000",
+          "romaji": "yonsen",
+          "accent": "よんせ↓ん",
+          "english": "four thousand"
+        },
+        {
+          "japanese": "5,000",
+          "romaji": "gosen",
+          "accent": "ごせ↓ん",
+          "english": "five thousand"
+        },
+        {
+          "japanese": "6,000",
+          "romaji": "rokusen",
+          "accent": "ろくせ↓ん",
+          "english": "six thousand"
+        },
+        {
+          "japanese": "7,000",
+          "romaji": "nanasen",
+          "accent": "ななせ↓ん",
+          "english": "seven thousand"
+        },
+        {
+          "japanese": "8,000",
+          "romaji": "hassen",
+          "accent": "はっせ↓ん",
+          "english": "eight thousand"
+        },
+        {
+          "japanese": "9,000",
+          "romaji": "kyuusen",
+          "accent": "きゅうせ↓ん",
+          "english": "nine thousand"
+        },
+        {
+          "japanese": "10,000",
+          "romaji": "ichiman",
+          "accent": "いちま↓ん",
+          "english": "ten thousand"
+        },
+        {
+          "japanese": "100円",
+          "romaji": "hyaku-en",
+          "accent": "ひゃくえん○",
+          "english": "100 yen"
+        },
+        {
+          "japanese": "200円",
+          "romaji": "nihyaku-en",
+          "accent": "にひゃく↓えん",
+          "english": "200 yen"
+        },
+        {
+          "japanese": "300円",
+          "romaji": "sanbyaku-en",
+          "accent": "さんびゃく↓えん",
+          "english": "300 yen"
+        },
+        {
+          "japanese": "400円",
+          "romaji": "yonhyaku-en",
+          "accent": "よんひゃく↓えん",
+          "english": "400 yen"
+        },
+        {
+          "japanese": "500円",
+          "romaji": "gohyaku-en",
+          "accent": "ごひゃく↓えん",
+          "english": "500 yen"
+        },
+        {
+          "japanese": "600円",
+          "romaji": "roppyaku-en",
+          "accent": "ろっぴゃく↓えん",
+          "english": "600 yen"
+        },
+        {
+          "japanese": "700円",
+          "romaji": "nanahyaku-en",
+          "accent": "ななひゃく↓えん",
+          "english": "700 yen"
+        },
+        {
+          "japanese": "800円",
+          "romaji": "happyaku-en",
+          "accent": "はっぴゃく↓えん",
+          "english": "800 yen"
+        },
+        {
+          "japanese": "900円",
+          "romaji": "kyuuhyaku-en",
+          "accent": "きゅうひゃく↓えん",
+          "english": "900 yen"
+        },
+        {
+          "japanese": "1,000円",
+          "romaji": "sen-en",
+          "accent": "せ↓んえん／せんえん○",
+          "english": "1,000 yen"
+        },
+        {
+          "japanese": "2,000円",
+          "romaji": "nisen-en",
+          "accent": "にせんえん○",
+          "english": "2,000 yen"
+        },
+        {
+          "japanese": "3,000円",
+          "romaji": "sanzen-en",
+          "accent": "さんぜんえん○",
+          "english": "3,000 yen"
+        },
+        {
+          "japanese": "4,000円",
+          "romaji": "yonsen-en",
+          "accent": "よんせんえん○",
+          "english": "4,000 yen"
+        },
+        {
+          "japanese": "5,000円",
+          "romaji": "gosen-en",
+          "accent": "ごせんえん○",
+          "english": "5,000 yen"
+        },
+        {
+          "japanese": "6,000円",
+          "romaji": "rokusen-en",
+          "accent": "ろくせんえん○",
+          "english": "6,000 yen"
+        },
+        {
+          "japanese": "7,000円",
+          "romaji": "nanasen-en",
+          "accent": "ななせんえん○",
+          "english": "7,000 yen"
+        },
+        {
+          "japanese": "8,000円",
+          "romaji": "hassen-en",
+          "accent": "はっせんえん○",
+          "english": "8,000 yen"
+        },
+        {
+          "japanese": "9,000円",
+          "romaji": "kyuusen-en",
+          "accent": "きゅうせんえん○",
+          "english": "9,000 yen"
+        },
+        {
+          "japanese": "10,000円",
+          "romaji": "ichiman-en",
+          "accent": "いちまんえん○",
+          "english": "10,000 yen"
+        },
+        {
+          "japanese": "いくら",
+          "romaji": "ikura",
+          "accent": "い↓くら",
+          "english": "how much (asking price)"
+        }
       ],
       "audio": "/audio/x/lesson16/wordlist_X_16-1.mp3"
     },
     {
-      "title": "こんにちは",
+      "title": "あの Ｔ シャツ、いくらですか？",
       "number": "2.",
       "wordList": [
-        
+        {
+          "japanese": "カレンダー",
+          "romaji": "karendaa",
+          "accent": "カレ↓ンダー",
+          "english": "calendar"
+        },
+        {
+          "japanese": "お菓子",
+          "romaji": "okashi",
+          "accent": "おか↓し",
+          "english": "sweets"
+        },
+        {
+          "japanese": "招き猫",
+          "romaji": "manekineko",
+          "accent": "まねきね↓こ",
+          "english": "maneki-neko (lucky cat figurine)"
+        },
+        {
+          "japanese": "Tシャツ",
+          "romaji": "tii-shatsu",
+          "accent": "ティーシャツ○",
+          "english": "T-shirt"
+        },
+        {
+          "japanese": "その",
+          "romaji": "sono",
+          "accent": "その○",
+          "english": "that ～ (close to the listener)"
+        },
+        {
+          "japanese": "それ",
+          "romaji": "sore",
+          "accent": "それ○",
+          "english": "that (close to the listener)"
+        },
+        {
+          "japanese": "この",
+          "romaji": "kono",
+          "accent": "この○",
+          "english": "this ～ (close to the speaker)"
+        },
+        {
+          "japanese": "これ",
+          "romaji": "kore",
+          "accent": "これ○",
+          "english": "this (close to the speaker)"
+        },
+        {
+          "japanese": "あの",
+          "romaji": "ano",
+          "accent": "あの○",
+          "english": "that ～ (away from both speaker and listener)"
+        },
+        {
+          "japanese": "あれ",
+          "romaji": "are",
+          "accent": "あれ○",
+          "english": "that (away from both speaker and listener)"
+        },
+        {
+          "japanese": "いいです",
+          "romaji": "ii desu",
+          "accent": "い↓いです",
+          "english": "No, thank you. (used to refuse something, same as けっこうです)"
+        }
       ],
       "audio": "/audio/x/lesson16/wordlist_X_16-2.mp3"
     },
     {
-      "title": "こんにちは",
+      "title": "ひき肉 200g ください",
       "number": "3.",
       "wordList": [
-        
+        {
+          "japanese": "たい焼き",
+          "romaji": "taiyaki",
+          "accent": "たいやき○",
+          "english": "taiyaki (confectionery shaped like a grilled sea bream)"
+        },
+        {
+          "japanese": "コロッケ",
+          "romaji": "korokke",
+          "accent": "コ↓ロッケ／コロ↓ッケ",
+          "english": "korokke (deep-fried side dish similar to croquettes)"
+        },
+        {
+          "japanese": "シュウマイ",
+          "romaji": "shuumai",
+          "accent": "シュウマイ○",
+          "english": "shumai (Chinese meat dumpling)"
+        },
+        {
+          "japanese": "ひき肉",
+          "romaji": "hikiniku",
+          "accent": "ひきにく○",
+          "english": "minced meat"
+        },
+        {
+          "japanese": "チョコレートケーキ",
+          "romaji": "chokoreeto-keeki",
+          "accent": "チョコレートケ↓ーキ",
+          "english": "chocolate cake"
+        },
+        {
+          "japanese": "チーズケーキ",
+          "romaji": "chiizu-keeki",
+          "accent": "チーズケ↓ーキ",
+          "english": "cheesecake"
+        },
+        {
+          "japanese": "昆布",
+          "romaji": "konbu",
+          "accent": "こ↓んぶ",
+          "english": "kombu (kelp)"
+        },
+        {
+          "japanese": "たらこ",
+          "romaji": "tarako",
+          "accent": "たらこ○",
+          "english": "tarako (cod roe)"
+        },
+        {
+          "japanese": "梅",
+          "romaji": "ume",
+          "accent": "うめ○",
+          "english": "ume (pickled plum)"
+        },
+        {
+          "japanese": "～個",
+          "romaji": "～ko",
+          "accent": "～こ",
+          "english": "～ items"
+        },
+        {
+          "japanese": "～g",
+          "romaji": "～guramu",
+          "accent": "～グ↓ラム",
+          "english": "～ g"
+        },
+        {
+          "japanese": "～ずつ",
+          "romaji": "～zutsu",
+          "accent": "～ず↓つ",
+          "english": "～ each"
+        },
+        {
+          "japanese": "かしこまりました",
+          "romaji": "kashikomarimashita",
+          "accent": "かしこまりま↓した",
+          "english": "Certainly. (polite expression)"
+        },
+        {
+          "japanese": "1個",
+          "romaji": "ikko",
+          "accent": "い↓っこ",
+          "english": "1 item"
+        },
+        {
+          "japanese": "2個",
+          "romaji": "ni-ko",
+          "accent": "に↓こ",
+          "english": "2 items"
+        },
+        {
+          "japanese": "3個",
+          "romaji": "san-ko",
+          "accent": "さ↓んこ",
+          "english": "3 items"
+        },
+        {
+          "japanese": "4個",
+          "romaji": "yon-ko",
+          "accent": "よ↓んこ",
+          "english": "4 items"
+        },
+        {
+          "japanese": "5個",
+          "romaji": "go-ko",
+          "accent": "ご↓こ",
+          "english": "5 items"
+        },
+        {
+          "japanese": "6個",
+          "romaji": "rokko",
+          "accent": "ろ↓っこ",
+          "english": "6 items"
+        },
+        {
+          "japanese": "7個",
+          "romaji": "nana-ko",
+          "accent": "なな↓こ",
+          "english": "7 items"
+        },
+        {
+          "japanese": "8個",
+          "romaji": "hachi-ko / hakko",
+          "accent": "はち↓こ／は↓っこ",
+          "english": "8 items"
+        },
+        {
+          "japanese": "9個",
+          "romaji": "kyuu-ko",
+          "accent": "きゅ↓うこ",
+          "english": "9 items"
+        },
+        {
+          "japanese": "10個",
+          "romaji": "jukko",
+          "accent": "じゅ↓っこ",
+          "english": "10 items"
+        },
+        {
+          "japanese": "何個",
+          "romaji": "nan-ko",
+          "accent": "な↓んこ",
+          "english": "how many (items)"
+        }
       ],
       "audio": "/audio/x/lesson16/wordlist_X_16-3.mp3"
     },
     {
-      "title": "こんにちは",
+      "title": "こちら、温めますか？",
       "number": "4.",
       "wordList": [
-        
+        {
+          "japanese": "温める／温めます",
+          "romaji": "atatameru / atatamemasu",
+          "accent": "あたため↓る／あたためま↓す",
+          "english": "to warm up"
+        },
+        {
+          "japanese": "袋",
+          "romaji": "fukuro",
+          "accent": "ふくろ↓",
+          "english": "bag"
+        },
+        {
+          "japanese": "Suica",
+          "romaji": "suika",
+          "accent": "ス↓イカ",
+          "english": "Suica (a pre-paid card used to pay transportation fees, such as train and bus fares, and for shopping)"
+        },
+        {
+          "japanese": "タッチする／タッチします",
+          "romaji": "tacchi-suru / tacchi-shimasu",
+          "accent": "タ↓ッチする／タ↓ッチします",
+          "english": "to tap / touch"
+        },
+        {
+          "japanese": "～は、どうしますか？",
+          "romaji": "～wa, doo shimasu ka?",
+          "accent": "～は、ど↓うしますか？",
+          "english": "And what about ～?"
+        },
+        {
+          "japanese": "だいじょうぶです",
+          "romaji": "daijoobu desu",
+          "accent": "だいじょ↓うぶです",
+          "english": "That's all right. (used when refusing something)"
+        },
+        {
+          "japanese": "～でお願いします",
+          "romaji": "～de onegaishimasu",
+          "accent": "～でおねがいしま↓す",
+          "english": "With ～, please."
+        },
+        {
+          "japanese": "タッチしてください",
+          "romaji": "tacchi-shite kudasai",
+          "accent": "タ↓ッチしてくださ↓い",
+          "english": "Tap your card here please."
+        },
+        {
+          "japanese": "ありがとうございました",
+          "romaji": "arigatoo gozaimashita",
+          "accent": "あり↓がとうございま↓した",
+          "english": "Thank you very much. (used to say thank you at the end)"
+        },
+        {
+          "japanese": "こちら",
+          "romaji": "kochira",
+          "accent": "こちら○",
+          "english": "this (polite expression)"
+        },
+        {
+          "japanese": "お次の方",
+          "romaji": "otsugi no kata",
+          "accent": "おつぎのかた↓",
+          "english": "Next, please. (polite expression)"
+        },
+        {
+          "japanese": "おつけしますか？",
+          "romaji": "otsuke-shimasu ka?",
+          "accent": "おつけしま↓すか？",
+          "english": "Shall I add ～ ? (polite expression)"
+        },
+        {
+          "japanese": "お会計、～になります",
+          "romaji": "okaikee, ～ni narimasu",
+          "accent": "おかいけい○、～になりま↓す",
+          "english": "The total amount is ～. (polite expression)"
+        },
+        {
+          "japanese": "おはし",
+          "romaji": "ohashi",
+          "accent": "おは↓し",
+          "english": "chopsticks"
+        },
+        {
+          "japanese": "フォーク",
+          "romaji": "fooku",
+          "accent": "フォ↓ーク",
+          "english": "fork"
+        },
+        {
+          "japanese": "ストロー",
+          "romaji": "sutoroo",
+          "accent": "スト↓ロー",
+          "english": "straw"
+        },
+        {
+          "japanese": "クレジットカード",
+          "romaji": "kurejitto-kaado",
+          "accent": "クレジットカ↓ード",
+          "english": "credit card"
+        },
+        {
+          "japanese": "Edy",
+          "romaji": "edii",
+          "accent": "エ↓ディー",
+          "english": "Edy (electronic payment card）"
+        },
+        {
+          "japanese": "PayPay",
+          "romaji": "peipei",
+          "accent": "ペ↓イペイ",
+          "english": "PayPay (QR-code-based electronic payment method)"
+        }
       ],
       "audio": "/audio/x/lesson16/wordlist_X_16-4.mp3"
     },
     {
-      "title": "こんにちは",
+      "title": "割引表示",
       "number": "5.",
       "wordList": [
-        
+        {
+          "japanese": "～割引  （二割引き）",
+          "romaji": "～waribiki　(ni-waribiki)",
+          "accent": "～わりびき○　（にわりびき○）",
+          "english": "～ × 10% off　(e.g. 20% off)"
+        },
+        {
+          "japanese": "表示価格より",
+          "romaji": "hyooji-kakaku yori",
+          "accent": "ひょうじか↓かくより",
+          "english": "from the list price"
+        },
+        {
+          "japanese": "若鶏",
+          "romaji": "wakadori",
+          "accent": "わか↓どり",
+          "english": "spring chicken"
+        },
+        {
+          "japanese": "税込",
+          "romaji": "zeekomi",
+          "accent": "ぜいこみ○",
+          "english": "including tax"
+        },
+        {
+          "japanese": "～％引　（10％引）",
+          "romaji": "～paasento-biki　(juppaasento-biki)",
+          "accent": "～パーセントびき○　（じゅっパーセントびき○）",
+          "english": "～ % off　(e.g. 10% off)"
+        },
+        {
+          "japanese": "全品",
+          "romaji": "zenpin",
+          "accent": "ぜ↓んぴん",
+          "english": "all items"
+        },
+        {
+          "japanese": "一人暮らし",
+          "romaji": "hitorigurashi",
+          "accent": "ひとりぐ↓らし",
+          "english": "living alone"
+        },
+        {
+          "japanese": "応援",
+          "romaji": "ooen",
+          "accent": "おうえん○",
+          "english": "support"
+        },
+        {
+          "japanese": "セール",
+          "romaji": "seeru",
+          "accent": "セ↓ール",
+          "english": "sale"
+        },
+        {
+          "japanese": "小型",
+          "romaji": "kogata",
+          "accent": "こがた○",
+          "english": "compact"
+        },
+        {
+          "japanese": "さらに",
+          "romaji": "sarani",
+          "accent": "さ↓らに",
+          "english": "further"
+        },
+        {
+          "japanese": "ポイントサービス",
+          "romaji": "pointo-saabisu",
+          "accent": "ポイントサ↓ービス",
+          "english": "reward points"
+        },
+        {
+          "japanese": "～円引　（50円引）",
+          "romaji": "～en-biki　(gojuu-en-biki)",
+          "accent": "～えんびき○　（ごじゅうえんびき○）",
+          "english": "～ yen off　(e.g. 50 yen off)"
+        },
+        {
+          "japanese": "苺ショートケーキ",
+          "romaji": "ichigo-shootokeeki",
+          "accent": "いちごショートケ↓ーキ",
+          "english": "strawberry shortcake"
+        },
+        {
+          "japanese": "本日",
+          "romaji": "honjitsu",
+          "accent": "ほ↓んじつ",
+          "english": "today"
+        },
+        {
+          "japanese": "値下価格",
+          "romaji": "nesage-kakaku",
+          "accent": "ねさげか↓かく",
+          "english": "discounted price"
+        },
+        {
+          "japanese": "税抜",
+          "romaji": "zeenuki",
+          "accent": "ぜいぬき○",
+          "english": "excluding tax"
+        },
+        {
+          "japanese": "半額",
+          "romaji": "hangaku",
+          "accent": "はんがく○",
+          "english": "half price"
+        },
+        {
+          "japanese": "レジにて",
+          "romaji": "reji nite",
+          "accent": "レ↓ジに↓て",
+          "english": "at the cash register"
+        },
+        {
+          "japanese": "国産銘柄鶏胸肉",
+          "romaji": "kokusan-meegara-tori-muneniku",
+          "accent": "こくさんめいがらとりむね↓にく",
+          "english": "famous home-grown chicken breast"
+        },
+        {
+          "japanese": "～円均一　（50円均一）",
+          "romaji": "～en-kin'itsu  (gojuu-en-kin'itsu)",
+          "accent": "～えんき↓んいつ　（ごじゅうえんき↓んいつ）",
+          "english": "everything at ～ yen　(e.g. everything at 50 yen)"
+        },
+        {
+          "japanese": "ワゴン",
+          "romaji": "wagon",
+          "accent": "ワ↓ゴン",
+          "english": "cart"
+        },
+        {
+          "japanese": "商品",
+          "romaji": "shoohin",
+          "accent": "しょ↓うひん",
+          "english": "product"
+        }
       ],
       "audio": "/audio/x/lesson16/wordlist_X_16-5.mp3"
     }

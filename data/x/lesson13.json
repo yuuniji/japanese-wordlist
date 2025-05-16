@@ -3,42 +3,499 @@
   "number": "第13課",
   "sections": [
     {
-      "title": "こんにちは",
+      "title": "何番線ですか？",
       "number": "1.",
       "wordList": [
-        
+        {
+          "japanese": "電車",
+          "romaji": "densha",
+          "accent": "でんしゃ○／で↓んしゃ",
+          "english": "train"
+        },
+        {
+          "japanese": "バス",
+          "romaji": "basu",
+          "accent": "バ↓ス",
+          "english": "bus"
+        },
+        {
+          "japanese": "タクシー",
+          "romaji": "takushii",
+          "accent": "タ↓クシー",
+          "english": "taxi"
+        },
+        {
+          "japanese": "地下鉄",
+          "romaji": "chikatetsu",
+          "accent": "ちかてつ○",
+          "english": "subway"
+        },
+        {
+          "japanese": "飛行機",
+          "romaji": "hikooki",
+          "accent": "ひこ↓うき",
+          "english": "plane"
+        },
+        {
+          "japanese": "船",
+          "romaji": "fune",
+          "accent": "ふ↓ね",
+          "english": "ship"
+        },
+        {
+          "japanese": "～に乗ります",
+          "romaji": "～ni norimasu",
+          "accent": "～に　のりま↓す",
+          "english": "I will take ～."
+        },
+        {
+          "japanese": "空港",
+          "romaji": "kuukoo",
+          "accent": "くうこう○",
+          "english": "airport"
+        },
+        {
+          "japanese": "市民病院",
+          "romaji": "shimin-byooin",
+          "accent": "しみんびょ↓ういん",
+          "english": "community hospital"
+        },
+        {
+          "japanese": "～番",
+          "romaji": "～ban",
+          "accent": "～ばん",
+          "english": "number ～"
+        },
+        {
+          "japanese": "駅",
+          "romaji": "eki",
+          "accent": "え↓き",
+          "english": "train station"
+        },
+        {
+          "japanese": "～番線",
+          "romaji": "～bansen",
+          "accent": "～ばんせん○",
+          "english": "platform number ～"
+        },
+        {
+          "japanese": "～番乗り場",
+          "romaji": "～ban-noriba",
+          "accent": "～ばんの↓りば",
+          "english": "stand number ～ / pier number ～"
+        },
+        {
+          "japanese": "快速",
+          "romaji": "kaisoku",
+          "accent": "かいそく○",
+          "english": "express / rapid"
+        },
+        {
+          "japanese": "各駅停車／各停",
+          "romaji": "kakueki-teesha / kakutee",
+          "accent": "かくえきて↓いしゃ／かくてい○",
+          "english": "local (stopping at every station)"
+        },
+        {
+          "japanese": "この",
+          "romaji": "kono",
+          "accent": "この○",
+          "english": "this ～"
+        },
+        {
+          "japanese": "反対側",
+          "romaji": "hantaigawa",
+          "accent": "はんたいがわ○",
+          "english": "opposite side"
+        },
+        {
+          "japanese": "何番線",
+          "romaji": "nan-bansen",
+          "accent": "なんばんせん○",
+          "english": "which platform"
+        },
+        {
+          "japanese": "先",
+          "romaji": "saki",
+          "accent": "さき○",
+          "english": "ahead"
+        },
+        {
+          "japanese": "止まる／止まります",
+          "romaji": "tomaru / tomarimasu",
+          "accent": "とまる○／とまりま↓す",
+          "english": "to stop"
+        },
+        {
+          "japanese": "乗る／乗ります",
+          "romaji": "noru / norimasu",
+          "accent": "のる○／のりま↓す",
+          "english": "to take / to ride"
+        },
+        {
+          "japanese": "次",
+          "romaji": "tsugi",
+          "accent": "つぎ↓",
+          "english": "next"
+        },
+        {
+          "japanese": "止まりません",
+          "romaji": "tomarimasen",
+          "accent": "とまりませ↓ん",
+          "english": "It does not stop there."
+        },
+        {
+          "japanese": "乗ってください",
+          "romaji": "notte kudasai",
+          "accent": "のってくださ↓い",
+          "english": "Please take ～."
+        }
       ],
       "audio": "/audio/x/lesson13/wordlist_X_13-1.mp3"
     },
     {
-      "title": "こんにちは",
+      "title": "すみません、今どこですか？",
       "number": "2.",
       "wordList": [
-        
+        {
+          "japanese": "終点",
+          "romaji": "shuuten",
+          "accent": "しゅうてん○",
+          "english": "final stop"
+        },
+        {
+          "japanese": "～線（武蔵山線）",
+          "romaji": "～sen (musashiyama-sen)",
+          "accent": "～せん　（むさしやません○）",
+          "english": "～ Line (e.g. Musashiyama Line)"
+        },
+        {
+          "japanese": "乗り換え／お乗換え",
+          "romaji": "norikae / onorikae",
+          "accent": "のりかえ○／おのりかえ○",
+          "english": "transfer"
+        },
+        {
+          "japanese": "出口／お出口",
+          "romaji": "deguchi / odeguchi",
+          "accent": "で↓ぐち／おで↓ぐち",
+          "english": "exit"
+        },
+        {
+          "japanese": "右側",
+          "romaji": "migigawa",
+          "accent": "みぎがわ○",
+          "english": "right side"
+        },
+        {
+          "japanese": "はい、そうです",
+          "romaji": "hai, soo desu",
+          "accent": "は↓い、そ↓うです",
+          "english": "Yes, that's right."
+        },
+        {
+          "japanese": "お忘れ物のないよう、お降りください",
+          "romaji": "owasuremono no naiyoo, oori kudasai",
+          "accent": "おわすれもののな↓いよう、おおりくださ↓い",
+          "english": "Please make sure you don't forget anything when you get off. (polite expression)"
+        }
       ],
       "audio": "/audio/x/lesson13/wordlist_X_13-2.mp3"
     },
     {
-      "title": "こんにちは",
+      "title": "1 時間ぐらいかかります",
       "number": "3.",
       "wordList": [
-        
+        {
+          "japanese": "～時間",
+          "romaji": "～jikan",
+          "accent": "～じ↓かん",
+          "english": "～ hours"
+        },
+        {
+          "japanese": "1時間",
+          "romaji": "ichi-jikan",
+          "accent": "いちじ↓かん",
+          "english": "one hour"
+        },
+        {
+          "japanese": "1時間半",
+          "romaji": "ichi-jikan-han",
+          "accent": "いちじかんは↓ん",
+          "english": "1.5 hours"
+        },
+        {
+          "japanese": "2時間",
+          "romaji": "ni-jikan",
+          "accent": "にじ↓かん",
+          "english": "two hours"
+        },
+        {
+          "japanese": "～分",
+          "romaji": "～fun / pun",
+          "accent": "～ふん／ぷん",
+          "english": "～ minutes (indicate the length of time)"
+        },
+        {
+          "japanese": "10分",
+          "romaji": "juppun",
+          "accent": "じゅ↓っぷん",
+          "english": "10 minutes"
+        },
+        {
+          "japanese": "20分",
+          "romaji": "nijuppun",
+          "accent": "にじゅ↓っぷん",
+          "english": "20 minutes"
+        },
+        {
+          "japanese": "30分",
+          "romaji": "sanjuppun",
+          "accent": "さんじゅ↓っぷん",
+          "english": "30 minutes"
+        },
+        {
+          "japanese": "40分",
+          "romaji": "yonjuppun",
+          "accent": "よんじゅ↓っぷん",
+          "english": "40 minutes"
+        },
+        {
+          "japanese": "50分",
+          "romaji": "gojuppun",
+          "accent": "ごじゅっ↓ぷん",
+          "english": "50 minutes"
+        },
+        {
+          "japanese": "1分",
+          "romaji": "ippun",
+          "accent": "い↓っぷん",
+          "english": "1 minute"
+        },
+        {
+          "japanese": "2分",
+          "romaji": "ni-fun",
+          "accent": "に↓ふん",
+          "english": "2 minutes"
+        },
+        {
+          "japanese": "3分",
+          "romaji": "san-pun",
+          "accent": "さ↓んぷん",
+          "english": "3 minutes"
+        },
+        {
+          "japanese": "4分",
+          "romaji": "yon-fun / yon-pun",
+          "accent": "よ↓んふん／よ↓んぷん",
+          "english": "4 minutes"
+        },
+        {
+          "japanese": "5分",
+          "romaji": "go-fun",
+          "accent": "ご↓ふん",
+          "english": "5 minutes"
+        },
+        {
+          "japanese": "6分",
+          "romaji": "roppun",
+          "accent": "ろ↓っぷん",
+          "english": "6 minutes"
+        },
+        {
+          "japanese": "7分",
+          "romaji": "nana-fun",
+          "accent": "なな↓ふん",
+          "english": "7 minutes"
+        },
+        {
+          "japanese": "8分",
+          "romaji": "hachi-fun / happun",
+          "accent": "はち↓ふん／は↓っぷん",
+          "english": "8 minutes"
+        },
+        {
+          "japanese": "9分",
+          "romaji": "kyuu-fun",
+          "accent": "きゅ↓うふん",
+          "english": "9 minutes"
+        },
+        {
+          "japanese": "どうやって",
+          "romaji": "doo yatte",
+          "accent": "ど↓うやって",
+          "english": "how"
+        },
+        {
+          "japanese": "自転車",
+          "romaji": "jitensha",
+          "accent": "じてんしゃ○／じて↓んしゃ",
+          "english": "bicycle"
+        },
+        {
+          "japanese": "バイク",
+          "romaji": "baiku",
+          "accent": "バ↓イク",
+          "english": "motorcycle"
+        },
+        {
+          "japanese": "車",
+          "romaji": "kuruma",
+          "accent": "くるま○",
+          "english": "car"
+        },
+        {
+          "japanese": "歩いて",
+          "romaji": "aruite",
+          "accent": "ある↓いて",
+          "english": "on foot"
+        },
+        {
+          "japanese": "どのぐらい",
+          "romaji": "donogurai",
+          "accent": "どのぐらい○／ど↓のぐらい",
+          "english": "how long"
+        },
+        {
+          "japanese": "かかる／かかります",
+          "romaji": "kakaru / kakarimasu",
+          "accent": "かか↓る／かかりま↓す",
+          "english": "to take"
+        },
+        {
+          "japanese": "～ぐらい （10分ぐらい）",
+          "romaji": "～gurai (juppun-gurai)",
+          "accent": "～ぐ↓らい　（じゅっぷんぐ↓らい）",
+          "english": "around ～ (e.g. around 10 minutes)"
+        },
+        {
+          "japanese": "雨の日",
+          "romaji": "ame no hi",
+          "accent": "あ↓めのひ↓",
+          "english": "rainy days"
+        },
+        {
+          "japanese": "大変ですね",
+          "romaji": "taihen desu ne",
+          "accent": "たいへんで↓すね",
+          "english": "That's tough."
+        }
       ],
       "audio": "/audio/x/lesson13/wordlist_X_13-3.mp3"
     },
     {
-      "title": "こんにちは",
+      "title": "市役所まで、どうやって行きますか？",
       "number": "4.",
       "wordList": [
-        
+        {
+          "japanese": "乗る／乗ります",
+          "romaji": "noru / norimasu",
+          "accent": "のる○／のりま↓す",
+          "english": "to take / to ride"
+        },
+        {
+          "japanese": "降りる／降ります",
+          "romaji": "oriru / orimasu",
+          "accent": "おり↓る／おりま↓す",
+          "english": "to get off"
+        },
+        {
+          "japanese": "乗り換える／乗り換えます",
+          "romaji": "norikaeru / norikaemasu",
+          "accent": "のりか↓える／のりかえま↓す",
+          "english": "to transfer"
+        },
+        {
+          "japanese": "市場",
+          "romaji": "ichiba",
+          "accent": "い↓ちば",
+          "english": "market"
+        },
+        {
+          "japanese": "市役所",
+          "romaji": "shiyakusho",
+          "accent": "しや↓くしょ",
+          "english": "city hall"
+        },
+        {
+          "japanese": "バスセンター",
+          "romaji": "basu-sentaa",
+          "accent": "バスセ↓ンター",
+          "english": "bus center"
+        },
+        {
+          "japanese": "～モール （さくらモール）",
+          "romaji": "～mooru (sakura-mooru)",
+          "accent": "～モ↓ール　（さくらモ↓ール）",
+          "english": "～ mall (e.g. Sakura Mall)"
+        }
       ],
       "audio": "/audio/x/lesson13/wordlist_X_13-4.mp3"
     },
     {
-      "title": "こんにちは",
+      "title": "駅の中の表示",
       "number": "5.",
       "wordList": [
-        
+        {
+          "japanese": "東口",
+          "romaji": "higashiguchi",
+          "accent": "ひがしぐち○",
+          "english": "East Exit"
+        },
+        {
+          "japanese": "西口",
+          "romaji": "nishiguchi",
+          "accent": "にしぐち○",
+          "english": "West Exit"
+        },
+        {
+          "japanese": "南口",
+          "romaji": "minamiguchi",
+          "accent": "みなみぐち○",
+          "english": "South Exit"
+        },
+        {
+          "japanese": "北口",
+          "romaji": "kitaguchi",
+          "accent": "きたぐち○",
+          "english": "North Exit"
+        },
+        {
+          "japanese": "改札",
+          "romaji": "kaisatsu",
+          "accent": "かいさつ○",
+          "english": "ticket gate"
+        },
+        {
+          "japanese": "エスカレーター",
+          "romaji": "esukareetaa",
+          "accent": "エスカレ↓ーター",
+          "english": "escalator"
+        },
+        {
+          "japanese": "エレベーター",
+          "romaji": "erebeetaa",
+          "accent": "エレベ↓ーター",
+          "english": "elevator"
+        },
+        {
+          "japanese": "待合室",
+          "romaji": "machiaishitsu",
+          "accent": "まちあ↓いしつ",
+          "english": "waiting room"
+        },
+        {
+          "japanese": "バス乗り場",
+          "romaji": "basu-noriba",
+          "accent": "バスの↓りば",
+          "english": "bus stop"
+        },
+        {
+          "japanese": "タクシー乗り場",
+          "romaji": "takushii-noriba",
+          "accent": "タクシーの↓りば",
+          "english": "taxi stand"
+        }
       ],
       "audio": "/audio/x/lesson13/wordlist_X_13-5.mp3"
     }

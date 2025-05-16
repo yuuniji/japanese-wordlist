@@ -3,42 +3,595 @@
   "number": "第17課",
   "sections": [
     {
-      "title": "こんにちは",
+      "title": "週末は何をしましたか？",
       "number": "1.",
       "wordList": [
-        
+        {
+          "japanese": "休み",
+          "romaji": "yasumi",
+          "accent": "やすみ↓",
+          "english": "day off"
+        },
+        {
+          "japanese": "運動する／運動します",
+          "romaji": "undoo-suru / undoo-shimasu",
+          "accent": "うんどうする○／うんどうしま↓す",
+          "english": "to exercise"
+        },
+        {
+          "japanese": "服",
+          "romaji": "fuku",
+          "accent": "ふく↓",
+          "english": "clothing"
+        },
+        {
+          "japanese": "買う／買います",
+          "romaji": "kau / kaimasu",
+          "accent": "かう○／かいま↓す",
+          "english": "to buy"
+        },
+        {
+          "japanese": "飲みに行く／飲みに行きます",
+          "romaji": "nomi ni iku / nomi ni ikimasu",
+          "accent": "の↓みにいく／の↓みにいきます",
+          "english": "to go drinking"
+        },
+        {
+          "japanese": "家族",
+          "romaji": "kazoku",
+          "accent": "か↓ぞく",
+          "english": "family"
+        },
+        {
+          "japanese": "話す／話します",
+          "romaji": "hanasu / hanashimasu",
+          "accent": "はな↓す／はなしま↓す",
+          "english": "to talk"
+        },
+        {
+          "japanese": "コンサート",
+          "romaji": "konsaato",
+          "accent": "コ↓ンサート",
+          "english": "concert"
+        },
+        {
+          "japanese": "ゆっくりする／ゆっくりします",
+          "romaji": "yukkuri-suru / yukkuri-shimasu",
+          "accent": "ゆっく↓りする／ゆっく↓りします",
+          "english": "to relax"
+        },
+        {
+          "japanese": "掃除する／掃除します",
+          "romaji": "sooji-suru / sooji-shimasu",
+          "accent": "そうじする○／そうじしま↓す",
+          "english": "to clean"
+        },
+        {
+          "japanese": "寝る／寝ます",
+          "romaji": "neru / nemasu",
+          "accent": "ねる○／ねま↓す",
+          "english": "to sleep"
+        },
+        {
+          "japanese": "ジム",
+          "romaji": "jimu",
+          "accent": "ジ↓ム",
+          "english": "gym"
+        },
+        {
+          "japanese": "週末",
+          "romaji": "shuumatsu",
+          "accent": "しゅうまつ○",
+          "english": "weekend"
+        },
+        {
+          "japanese": "オーケストラ",
+          "romaji": "ookesutora",
+          "accent": "オーケ↓ストラ",
+          "english": "orchestra"
+        },
+        {
+          "japanese": "昨日",
+          "romaji": "kinoo",
+          "accent": "きのう○／きの↓う",
+          "english": "yesterday"
+        },
+        {
+          "japanese": "土日",
+          "romaji": "donichi",
+          "accent": "どにち○",
+          "english": "Saturday and Sunday"
+        },
+        {
+          "japanese": "何も",
+          "romaji": "nanimo",
+          "accent": "なにも○",
+          "english": "nothing"
+        },
+        {
+          "japanese": "ネットで",
+          "romaji": "netto de",
+          "accent": "ネットで○",
+          "english": "online"
+        }
       ],
       "audio": "/audio/x/lesson17/wordlist_X_17-1.mp3"
     },
     {
-      "title": "こんにちは",
+      "title": "楽しかったです",
       "number": "2.",
       "wordList": [
-        
+        {
+          "japanese": "勉強",
+          "romaji": "benkyoo",
+          "accent": "べんきょう○",
+          "english": "study"
+        },
+        {
+          "japanese": "洗濯",
+          "romaji": "sentaku",
+          "accent": "せんたく○",
+          "english": "laundry"
+        },
+        {
+          "japanese": "掃除",
+          "romaji": "sooji",
+          "accent": "そうじ○",
+          "english": "cleaning"
+        },
+        {
+          "japanese": "国際フェスティバル",
+          "romaji": "kokusai-fesutibaru",
+          "accent": "こくさいフェ↓スティバル",
+          "english": "international festival"
+        },
+        {
+          "japanese": "楽しい",
+          "romaji": "tanoshii",
+          "accent": "たのし↓い",
+          "english": "fun"
+        },
+        {
+          "japanese": "おもしろい",
+          "romaji": "omoshiroi",
+          "accent": "おもしろ↓い",
+          "english": "interesting"
+        },
+        {
+          "japanese": "いい",
+          "romaji": "ii",
+          "accent": "い↓い",
+          "english": "good"
+        },
+        {
+          "japanese": "まあまあ（な）",
+          "romaji": "maamaa (na)",
+          "accent": "まあま↓あ（な）",
+          "english": "average"
+        },
+        {
+          "japanese": "大変（な）",
+          "romaji": "taihen (na)",
+          "accent": "たいへん（な）○",
+          "english": "awful / tough"
+        },
+        {
+          "japanese": "一日中",
+          "romaji": "ichinichijuu",
+          "accent": "いちにちじゅう○",
+          "english": "all day long"
+        },
+        {
+          "japanese": "どこにも",
+          "romaji": "dokonimo",
+          "accent": "どこにも○",
+          "english": "nowhere"
+        },
+        {
+          "japanese": "よかった（です）",
+          "romaji": "yokatta (desu)",
+          "accent": "よ↓かった（です）",
+          "english": "It was good."
+        },
+        {
+          "japanese": "ゴジラ",
+          "romaji": "gojira",
+          "accent": "ゴ↓ジラ",
+          "english": "Godzilla"
+        },
+        {
+          "japanese": "すばらしい",
+          "romaji": "subarashii",
+          "accent": "すばらし↓い",
+          "english": "wonderful"
+        },
+        {
+          "japanese": "つまらない",
+          "romaji": "tsumaranai",
+          "accent": "つまら↓ない",
+          "english": "boring"
+        },
+        {
+          "japanese": "いまいち（な）",
+          "romaji": "imaichi (na)",
+          "accent": "いま↓いち（な）",
+          "english": "not so good"
+        }
       ],
       "audio": "/audio/x/lesson17/wordlist_X_17-2.mp3"
     },
     {
-      "title": "こんにちは",
+      "title": "家族で水族館に行きました",
       "number": "3.",
       "wordList": [
-        
+        {
+          "japanese": "家族で",
+          "romaji": "kazoku de",
+          "accent": "か↓ぞくで",
+          "english": "with family"
+        },
+        {
+          "japanese": "水族館",
+          "romaji": "suizokukan",
+          "accent": "すいぞく↓かん",
+          "english": "aquarium"
+        },
+        {
+          "japanese": "ペンギン",
+          "romaji": "pengin",
+          "accent": "ペンギン○",
+          "english": "penguin"
+        },
+        {
+          "japanese": "そして",
+          "romaji": "soshite",
+          "accent": "そして○",
+          "english": "then"
+        },
+        {
+          "japanese": "クラゲ",
+          "romaji": "kurage",
+          "accent": "クラゲ○",
+          "english": "jellyfish"
+        },
+        {
+          "japanese": "気持ちいい",
+          "romaji": "kimochi-ii",
+          "accent": "きもちい↓い",
+          "english": "refreshing"
+        },
+        {
+          "japanese": "コスモス",
+          "romaji": "kosumosu",
+          "accent": "コ↓スモス",
+          "english": "cosmos"
+        },
+        {
+          "japanese": "花",
+          "romaji": "hana",
+          "accent": "はな↓",
+          "english": "flower"
+        },
+        {
+          "japanese": "気持ちよかった（です）",
+          "romaji": "kimochi-yokatta (desu)",
+          "accent": "きもちよ↓かった（です）",
+          "english": "It was refreshing."
+        },
+        {
+          "japanese": "多い",
+          "romaji": "ooi",
+          "accent": "おお↓い",
+          "english": "many"
+        },
+        {
+          "japanese": "まだまだ",
+          "romaji": "mada mada",
+          "accent": "ま↓だまだ",
+          "english": "still"
+        },
+        {
+          "japanese": "元気（な）",
+          "romaji": "genki (na)",
+          "accent": "げ↓んき（な）",
+          "english": "healthy"
+        },
+        {
+          "japanese": "お祝い",
+          "romaji": "oiwai",
+          "accent": "おいわい○",
+          "english": "celebration"
+        },
+        {
+          "japanese": "寿司屋",
+          "romaji": "sushiya",
+          "accent": "すし↓や",
+          "english": "sushi restaurant"
+        },
+        {
+          "japanese": "二人で",
+          "romaji": "futari de",
+          "accent": "ふたり↓で",
+          "english": "two people"
+        },
+        {
+          "japanese": "おいしい",
+          "romaji": "oishii",
+          "accent": "おいしい○／おいし↓い",
+          "english": "delicious"
+        }
       ],
       "audio": "/audio/x/lesson17/wordlist_X_17-3.mp3"
     },
     {
-      "title": "こんにちは",
+      "title": "料金表",
       "number": "4.",
       "wordList": [
-        
+        {
+          "japanese": "チケット",
+          "romaji": "chiketto",
+          "accent": "チ↓ケット／チケ↓ット",
+          "english": "ticket"
+        },
+        {
+          "japanese": "大人",
+          "romaji": "otona / dainin",
+          "accent": "おとな○／だいにん○",
+          "english": "adult"
+        },
+        {
+          "japanese": "高校生",
+          "romaji": "kookoosee",
+          "accent": "こうこ↓うせい",
+          "english": "high school student"
+        },
+        {
+          "japanese": "小・中学生",
+          "romaji": "shoo-chuugakusee",
+          "accent": "しょうちゅうが↓くせい",
+          "english": "elementary & junior high school student"
+        },
+        {
+          "japanese": "発売中",
+          "romaji": "hatsubaichuu",
+          "accent": "はつばいちゅう○",
+          "english": "in operation"
+        },
+        {
+          "japanese": "入館券",
+          "romaji": "nyuukanken",
+          "accent": "にゅうか↓んけん",
+          "english": "admission ticket"
+        },
+        {
+          "japanese": "一般",
+          "romaji": "ippan",
+          "accent": "いっぱん○",
+          "english": "general"
+        },
+        {
+          "japanese": "大学生",
+          "romaji": "daigakusee",
+          "accent": "だいが↓くせい",
+          "english": "university student"
+        },
+        {
+          "japanese": "中人",
+          "romaji": "chuunin",
+          "accent": "ちゅうにん○",
+          "english": "student"
+        },
+        {
+          "japanese": "小人",
+          "romaji": "shoonin",
+          "accent": "しょうにん○",
+          "english": "child"
+        },
+        {
+          "japanese": "つり銭のお取り忘れに注意！",
+          "romaji": "tsurisen no otoriwasure ni chuui!",
+          "accent": "つりせんのおとりわすれに　ちゅ↓うい！",
+          "english": "Please remember to take your change!"
+        },
+        {
+          "japanese": "料金",
+          "romaji": "ryookin",
+          "accent": "りょ↓うきん",
+          "english": "fee"
+        },
+        {
+          "japanese": "～歳以上　（十二歳以上）",
+          "romaji": "～sai-ijoo (juuni-sai-ijoo)",
+          "accent": "～さいい↓じょう　（じゅうにさいい↓じょう）",
+          "english": "aged ～ or above (e.g. aged 12 or above)"
+        },
+        {
+          "japanese": "古総湯",
+          "romaji": "Kosooyu",
+          "accent": "こそ↓うゆ",
+          "english": "Kosoyu public bathhouse (at Yamashiro Onsen, Ishikawa Prefecture)"
+        },
+        {
+          "japanese": "営業時間",
+          "romaji": "eigyoo-jikan",
+          "accent": "えいぎょうじ↓かん",
+          "english": "opening hours"
+        },
+        {
+          "japanese": "休業日",
+          "romaji": "kyuugyoobi",
+          "accent": "きゅうぎょ↓うび",
+          "english": "days closed"
+        },
+        {
+          "japanese": "入浴",
+          "romaji": "nyuuyoku",
+          "accent": "にゅうよく○",
+          "english": "bathing"
+        },
+        {
+          "japanese": "毎月",
+          "romaji": "maitsuki",
+          "accent": "まいつき○",
+          "english": "every month"
+        },
+        {
+          "japanese": "第～▲曜日　（第四水曜日）",
+          "romaji": "dai～▲yoobi (dai-yon-suiyoobi)",
+          "accent": "だい～▲よ↓うび　（だいよんすいよ↓うび）",
+          "english": "～ (day of the week) of the month (e.g. fourth Wednesday of the month)"
+        },
+        {
+          "japanese": "正午",
+          "romaji": "shoogo",
+          "accent": "しょ↓うご",
+          "english": "noon"
+        },
+        {
+          "japanese": "食べ放題",
+          "romaji": "tabe-hoodai",
+          "accent": "たべほ↓うだい",
+          "english": "all you can eat"
+        },
+        {
+          "japanese": "飲み放題",
+          "romaji": "nomi-hoodai",
+          "accent": "のみほ↓うだい",
+          "english": "all you can drink"
+        },
+        {
+          "japanese": "～名様より 　（2名様より）",
+          "romaji": "～mee-sama yori (ni-mee-sama yori)",
+          "accent": "～めいさまよ↓り　（に↓めいさまよ↓り）",
+          "english": "～ persons or more (polite) (e.g. 2 persons or more)"
+        },
+        {
+          "japanese": "お1人様",
+          "romaji": "ohitorisama",
+          "accent": "おひとりさま○",
+          "english": "one person (polite)"
+        },
+        {
+          "japanese": "プラス",
+          "romaji": "purasu",
+          "accent": "プラス○",
+          "english": "plus"
+        },
+        {
+          "japanese": "全品",
+          "romaji": "zenpin",
+          "accent": "ぜ↓んぴん",
+          "english": "all items"
+        },
+        {
+          "japanese": "～付き  （飲み放題付き）",
+          "romaji": "～tsuki (nomi-hoodai-tsuki)",
+          "accent": "～つき○　（のみほうだいつき○）",
+          "english": "with ～ (e.g. with all-you-can-drink)"
+        },
+        {
+          "japanese": "パック",
+          "romaji": "pakku",
+          "accent": "パ↓ック",
+          "english": "package"
+        },
+        {
+          "japanese": "ブース",
+          "romaji": "buusu",
+          "accent": "ブ↓ース／ブース○",
+          "english": "booth"
+        },
+        {
+          "japanese": "個室",
+          "romaji": "koshitsu",
+          "accent": "こしつ○",
+          "english": "private room"
+        },
+        {
+          "japanese": "料金システム",
+          "romaji": "ryookin-shisutemu",
+          "accent": "りょうきんシ↓ステム",
+          "english": "pricing system"
+        },
+        {
+          "japanese": "基本料金",
+          "romaji": "kihon-ryookin",
+          "accent": "きほんりょ↓うきん",
+          "english": "basic fee"
+        },
+        {
+          "japanese": "延長料金",
+          "romaji": "enchoo-ryookin",
+          "accent": "えんちょうりょ↓うきん",
+          "english": "extension fee"
+        },
+        {
+          "japanese": "～毎に　（10分毎に）",
+          "romaji": "～goto ni  (juppun-goto ni)",
+          "accent": "～ご↓とに　（じゅっぷんご↓とに）",
+          "english": "per ～ (e.g. per 10 minutes)"
+        },
+        {
+          "japanese": "いつでも",
+          "romaji": "itsudemo",
+          "accent": "いつでも○／い↓つでも",
+          "english": "anytime"
+        },
+        {
+          "japanese": "ナイト",
+          "romaji": "naito",
+          "accent": "ナ↓イト",
+          "english": "night"
+        },
+        {
+          "japanese": "鍵付き",
+          "romaji": "kagi-tsuki",
+          "accent": "かぎつき○",
+          "english": "with key"
+        },
+        {
+          "japanese": "席",
+          "romaji": "seki",
+          "accent": "せ↓き",
+          "english": "seat"
+        },
+        {
+          "japanese": "完全（な）",
+          "romaji": "kanzen (na)",
+          "accent": "かんぜん（な）○",
+          "english": "completely"
+        }
       ],
       "audio": "/audio/x/lesson17/wordlist_X_17-4.mp3"
     },
     {
-      "title": "こんにちは",
+      "title": "今、家に着きました",
       "number": "5.",
       "wordList": [
-        
+        {
+          "japanese": "着く／着きます",
+          "romaji": "tsuku / tsukimasu",
+          "accent": "つ↓く／つきま↓す",
+          "english": "to arrive"
+        },
+        {
+          "japanese": "はじめて",
+          "romaji": "hajimete",
+          "accent": "はじ↓めて",
+          "english": "for the first time"
+        },
+        {
+          "japanese": "また",
+          "romaji": "mata",
+          "accent": "また○",
+          "english": "again"
+        },
+        {
+          "japanese": "着きました",
+          "romaji": "tsukimashita",
+          "accent": "つきま↓した",
+          "english": "I have arrived home."
+        }
       ],
       "audio": "/audio/x/lesson17/wordlist_X_17-5.mp3"
     }
