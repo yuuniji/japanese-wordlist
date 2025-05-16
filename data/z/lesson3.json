@@ -6,7 +6,90 @@
       "title": "定食屋のメニュー",
       "number": "1.",
       "wordList": [
-        
+        {
+          "japanese": "定食",
+          "romaji": "teishoku",
+          "accent": "ていしょく○",
+          "english": "set meal"
+        },
+        {
+          "japanese": "日替わり",
+          "romaji": "higawari",
+          "accent": "ひがわり○",
+          "english": "daily special"
+        },
+        {
+          "japanese": "大盛り",
+          "romaji": "oomori",
+          "accent": "おおもり○",
+          "english": "large serving"
+        },
+        {
+          "japanese": "おかわり自由",
+          "romaji": "okawari jiyuu",
+          "accent": "おか↓わり△じゆ↓う",
+          "english": "free refill"
+        },
+        {
+          "japanese": "平日",
+          "romaji": "heijitsu",
+          "accent": "へいじつ○",
+          "english": "weekday"
+        },
+        {
+          "japanese": "～のみ（平日のみ）",
+          "romaji": "～nomi (heijitsu nomi)",
+          "accent": "～の↓み（へいじつの↓み）",
+          "english": "～ only (e.g. only on weekdays)"
+        },
+        {
+          "japanese": "ホット",
+          "romaji": "hotto",
+          "accent": "ホ↓ット",
+          "english": "hot"
+        },
+        {
+          "japanese": "アイス",
+          "romaji": "aisu",
+          "accent": "ア↓イス",
+          "english": "iced"
+        },
+        {
+          "japanese": "焼き魚",
+          "romaji": "yakizakana",
+          "accent": "やきざ↓かな",
+          "english": "grilled fish"
+        },
+        {
+          "japanese": "ハンバーグ",
+          "romaji": "hanbaagu",
+          "accent": "ハンバ↓ーグ",
+          "english": "hamburger steak"
+        },
+        {
+          "japanese": "カレーライス",
+          "romaji": "karee raisu",
+          "accent": "カレーラ↓イス",
+          "english": "curry and rice"
+        },
+        {
+          "japanese": "かつ丼",
+          "romaji": "katsudon",
+          "accent": "かつどん○",
+          "english": "katsu-don (rice bowl with pork cutlet)"
+        },
+        {
+          "japanese": "親子丼",
+          "romaji": "oyakodon",
+          "accent": "おやこどん○",
+          "english": "oyako-don (rice bowl with chicken and eggs)"
+        },
+        {
+          "japanese": "つく（みそ汁がつく）",
+          "romaji": "tsuku (miso shiru ga tsuku)",
+          "accent": "つ↓く（みそし↓るがつ↓く）",
+          "english": "to be served with (e.g. served with miso soup)"
+        }
       ],
       "audio": "/audio/z/lesson3/wordlist_Z_03-1.mp3"
     },
@@ -14,7 +97,156 @@
       "title": "わさび抜きでお願いします",
       "number": "2.",
       "wordList": [
-        
+        {
+          "japanese": "だめ（な）",
+          "romaji": "dame (na)",
+          "accent": "だめ↓（な）",
+          "english": "cannot have / stand"
+        },
+        {
+          "japanese": "材料",
+          "romaji": "zairyou",
+          "accent": "ざいりょ↓う",
+          "english": "ingredient"
+        },
+        {
+          "japanese": "豚肉",
+          "romaji": "butaniku",
+          "accent": "ぶたにく○",
+          "english": "pork"
+        },
+        {
+          "japanese": "牛肉",
+          "romaji": "gyuuniku",
+          "accent": "ぎゅうにく○",
+          "english": "beef"
+        },
+        {
+          "japanese": "カニ",
+          "romaji": "kani",
+          "accent": "カニ○",
+          "english": "crab"
+        },
+        {
+          "japanese": "ナッツ",
+          "romaji": "nattsu",
+          "accent": "ナ↓ッツ",
+          "english": "nuts"
+        },
+        {
+          "japanese": "わさび",
+          "romaji": "wasabi",
+          "accent": "わ↓さび",
+          "english": "wasabi (Japanese horseradish)"
+        },
+        {
+          "japanese": "ねぎ",
+          "romaji": "negi",
+          "accent": "ね↓ぎ",
+          "english": "bunching onion"
+        },
+        {
+          "japanese": "みりん",
+          "romaji": "mirin",
+          "accent": "みりん○",
+          "english": "mirin (sweet cooking sake)"
+        },
+        {
+          "japanese": "宗教",
+          "romaji": "shuukyou",
+          "accent": "しゅ↓うきょう",
+          "english": "religion"
+        },
+        {
+          "japanese": "～上（宗教上）",
+          "romaji": "～jou (shuukyoujou)",
+          "accent": "～じょう（しゅうきょうじょう○）",
+          "english": "in terms of ～ (e.g. because of my religion)"
+        },
+        {
+          "japanese": "理由",
+          "romaji": "riyuu",
+          "accent": "りゆう○",
+          "english": "reason"
+        },
+        {
+          "japanese": "アレルギー",
+          "romaji": "arerugii",
+          "accent": "アレ↓ルギー",
+          "english": "allergy"
+        },
+        {
+          "japanese": "自転車",
+          "romaji": "jitensha",
+          "accent": "じてんしゃ○／じて↓んしゃ",
+          "english": "bicycle"
+        },
+        {
+          "japanese": "来る",
+          "romaji": "kuru",
+          "accent": "く↓る",
+          "english": "to come"
+        },
+        {
+          "japanese": "ベジタリアン",
+          "romaji": "bejitarian",
+          "accent": "ベジタ↓リアン",
+          "english": "vegetarian"
+        },
+        {
+          "japanese": "豆腐",
+          "romaji": "toufu",
+          "accent": "とうふ○",
+          "english": "tofu"
+        },
+        {
+          "japanese": "注文する",
+          "romaji": "chuumon suru",
+          "accent": "ちゅうもんする○",
+          "english": "to order"
+        },
+        {
+          "japanese": "飲める",
+          "romaji": "nomeru",
+          "accent": "のめ↓る",
+          "english": "can drink"
+        },
+        {
+          "japanese": "メニュー",
+          "romaji": "menyuu",
+          "accent": "メ↓ニュー",
+          "english": "menu"
+        },
+        {
+          "japanese": "食べられる",
+          "romaji": "taberareru",
+          "accent": "たべられ↓る",
+          "english": "can eat"
+        },
+        {
+          "japanese": "ほかの",
+          "romaji": "hokano",
+          "accent": "ほかの○",
+          "english": "other"
+        },
+        {
+          "japanese": "～抜き（わさび抜き）",
+          "romaji": "～nuki (wasabi nuki)",
+          "accent": "～ぬ↓き（わ↓さび△ぬ↓き）",
+          "english": "no ～ (e.g. no wasabi)"
+        },
+        {
+          "japanese": "そっか",
+          "romaji": "sokka",
+          "accent": "そ↓っか",
+          "english": "I see. (casual)"
+        },
+        {
+          "japanese": "かしこまりました",
+          "romaji": "kashikomarimashita",
+          "accent": "かしこまりま↓した",
+          "english": "Certainly. (polite)"
+        }
       ],
       "audio": "/audio/z/lesson3/wordlist_Z_03-2.mp3"
     },
@@ -22,7 +254,234 @@
       "title": "人気があるのはお刺身定食です",
       "number": "3.",
       "wordList": [
-        
+        {
+          "japanese": "カウンター",
+          "romaji": "kauntā",
+          "accent": "カウンター○",
+          "english": "counter"
+        },
+        {
+          "japanese": "座敷",
+          "romaji": "zashiki",
+          "accent": "ざしき↓",
+          "english": "zashiki (tatami seating)"
+        },
+        {
+          "japanese": "テーブル",
+          "romaji": "tēburu",
+          "accent": "テーブル○",
+          "english": "table"
+        },
+        {
+          "japanese": "会計／お会計",
+          "romaji": "kaikei / okaikei",
+          "accent": "かいけい○／おかいけい○",
+          "english": "cash register / payment"
+        },
+        {
+          "japanese": "レジ",
+          "romaji": "reji",
+          "accent": "レ↓ジ",
+          "english": "cash register"
+        },
+        {
+          "japanese": "禁煙",
+          "romaji": "kin'en",
+          "accent": "きんえん○",
+          "english": "no smoking"
+        },
+        {
+          "japanese": "～名（2名）",
+          "romaji": "～mei (ni-mei)",
+          "accent": "～めい（に↓めい）",
+          "english": "～ people / ～ person(s) (e.g. 2 people)"
+        },
+        {
+          "japanese": "当店",
+          "romaji": "tōten",
+          "accent": "と↓うてん",
+          "english": "our restaurant"
+        },
+        {
+          "japanese": "全面",
+          "romaji": "zenmen",
+          "accent": "ぜんめん○",
+          "english": "entirely"
+        },
+        {
+          "japanese": "決まる",
+          "romaji": "kimaru",
+          "accent": "きまる○",
+          "english": "to make a decision"
+        },
+        {
+          "japanese": "おすすめ",
+          "romaji": "osusume",
+          "accent": "おすすめ○",
+          "english": "recommendation / specialty"
+        },
+        {
+          "japanese": "人気がある",
+          "romaji": "ninki ga aru",
+          "accent": "にんきがあ↓る",
+          "english": "popular"
+        },
+        {
+          "japanese": "フライ",
+          "romaji": "furai",
+          "accent": "フライ○",
+          "english": "furai (deep-fried food)"
+        },
+        {
+          "japanese": "ミックスフライ",
+          "romaji": "mikkusu furai",
+          "accent": "ミックスフ↓ライ",
+          "english": "assorted fried food"
+        },
+        {
+          "japanese": "量",
+          "romaji": "ryō",
+          "accent": "りょ↓う",
+          "english": "amount"
+        },
+        {
+          "japanese": "普通",
+          "romaji": "futsū",
+          "accent": "ふつう○",
+          "english": "regular"
+        },
+        {
+          "japanese": "先に",
+          "romaji": "saki ni",
+          "accent": "さきに○",
+          "english": "first"
+        },
+        {
+          "japanese": "別々",
+          "romaji": "betsubetsu",
+          "accent": "べつべつ○",
+          "english": "separate (bills)"
+        },
+        {
+          "japanese": "クーポン",
+          "romaji": "kūpon",
+          "accent": "ク↓ーポン",
+          "english": "coupon"
+        },
+        {
+          "japanese": "次回",
+          "romaji": "jikai",
+          "accent": "じ↓かい",
+          "english": "next time"
+        },
+        {
+          "japanese": "それにします",
+          "romaji": "sore ni shimasu",
+          "accent": "それにしま↓す",
+          "english": "I'll have that."
+        },
+        {
+          "japanese": "お会計、お願いします",
+          "romaji": "okaikei, onegaishimasu",
+          "accent": "おかいけい○、おねがいしま↓す",
+          "english": "Could we have the check please?"
+        },
+        {
+          "japanese": "別々でお願いします",
+          "romaji": "betsubetsu de onegaishimasu",
+          "accent": "べつべつでおねがいしま↓す",
+          "english": "We'd like to pay separately."
+        },
+        {
+          "japanese": "お客様",
+          "romaji": "okyakusama",
+          "accent": "おきゃくさ↓ま",
+          "english": "Ma'am / Sir (polite expression to address a customer)"
+        },
+        {
+          "japanese": "何名様",
+          "romaji": "nanmeisama",
+          "accent": "な↓んめいさま",
+          "english": "How many people (polite expression)"
+        },
+        {
+          "japanese": "～名様（2名様）",
+          "romaji": "～meisama (ni-meisama)",
+          "accent": "～めいさま（に↓めいさま）",
+          "english": "～ person(s) (polite expression) (e.g. 2 persons)"
+        },
+        {
+          "japanese": "ご注文",
+          "romaji": "gochūmon",
+          "accent": "ごちゅうもん○",
+          "english": "order (polite expression)"
+        },
+        {
+          "japanese": "いかが",
+          "romaji": "ikaga",
+          "accent": "いか↓が",
+          "english": "how about ～ (polite expression)"
+        },
+        {
+          "japanese": "ごいっしょ",
+          "romaji": "goissho",
+          "accent": "ごいっしょ○",
+          "english": "together (polite expression)"
+        },
+        {
+          "japanese": "よろしいですか？",
+          "romaji": "yoroshii desu ka?",
+          "accent": "よろし↓いですか？",
+          "english": "Is that right? (polite expression)"
+        },
+        {
+          "japanese": "～がございます",
+          "romaji": "～ga gozaimasu",
+          "accent": "～がございま↓す",
+          "english": "We have ～. (polite expression)"
+        },
+        {
+          "japanese": "お決まりですか？",
+          "romaji": "okimari desu ka?",
+          "accent": "おきまりで↓すか？",
+          "english": "Have you decided? (polite expression)"
+        },
+        {
+          "japanese": "いかがですか？",
+          "romaji": "ikaga desu ka?",
+          "accent": "いか↓がですか？",
+          "english": "Would you like? / How about?  (polite expression)"
+        },
+        {
+          "japanese": "どうなさいますか？",
+          "romaji": "dou nasaimasu ka?",
+          "accent": "ど↓うなさいま↓すか？",
+          "english": "How would you prefer? / How much? (polite expression)"
+        },
+        {
+          "japanese": "以上でよろしいですか？",
+          "romaji": "ijou de yoroshii desu ka?",
+          "accent": "い↓じょうで　よろし↓いですか？",
+          "english": "Is that all? (polite expression)"
+        },
+        {
+          "japanese": "お使いください",
+          "romaji": "otsukai kudasai",
+          "accent": "おつかいくださ↓い",
+          "english": "Please use. (polite expression)"
+        },
+        {
+          "japanese": "少なめ",
+          "romaji": "sukuname",
+          "accent": "すくなめ○",
+          "english": "smaller amount"
+        },
+        {
+          "japanese": "食後に",
+          "romaji": "shokugo ni",
+          "accent": "しょくごに○",
+          "english": "after the meal"
+        }
       ],
       "audio": "/audio/z/lesson3/wordlist_Z_03-3.mp3"
     },
@@ -30,7 +489,60 @@
       "title": "予約をしたいんですけど…",
       "number": "4.",
       "wordList": [
-        
+        {
+          "japanese": "日にち／お日にち",
+          "romaji": "hinichi / ohinichi",
+          "accent": "ひにち○／おひにち○",
+          "english": "date"
+        },
+        {
+          "japanese": "まちがい",
+          "romaji": "machigai",
+          "accent": "まちが↓い",
+          "english": "mistake"
+        },
+        {
+          "japanese": "失礼しました",
+          "romaji": "shitsurei shimashita",
+          "accent": "しつ↓れいしま↓した",
+          "english": "Sorry about that."
+        },
+        {
+          "japanese": "お電話",
+          "romaji": "odenwa",
+          "accent": "おで↓んわ",
+          "english": "call (polite expression)"
+        },
+        {
+          "japanese": "ご予約",
+          "romaji": "goyoyaku",
+          "accent": "ごよやく○",
+          "english": "reservation (polite expression)"
+        },
+        {
+          "japanese": "お時間",
+          "romaji": "ojikan",
+          "accent": "おじ↓かん",
+          "english": "time (polite expression)"
+        },
+        {
+          "japanese": "お電話番号",
+          "romaji": "odenwa bangō",
+          "accent": "おでんわば↓んごう",
+          "english": "phone number (polite expression)"
+        },
+        {
+          "japanese": "～様",
+          "romaji": "～sama",
+          "accent": "～さま",
+          "english": "Mr. ～ / Ms. ～ (polite expression for ～さん)"
+        },
+        {
+          "japanese": "おまちがいないでしょうか？",
+          "romaji": "omachigai nai deshou ka?",
+          "accent": "おまちがいな↓いでしょうか？",
+          "english": "Is that right? (polite expression)"
+        }
       ],
       "audio": "/audio/z/lesson3/wordlist_Z_03-4.mp3"
     },
@@ -38,7 +550,114 @@
       "title": "レストランのクーポン",
       "number": "5.",
       "wordList": [
-        
+        {
+          "japanese": "半額",
+          "romaji": "hangaku",
+          "accent": "はんがく○",
+          "english": "half-off / half price"
+        },
+        {
+          "japanese": "有効期限",
+          "romaji": "yūkō kigen",
+          "accent": "ゆうこうき↓げん",
+          "english": "expiration date"
+        },
+        {
+          "japanese": "ドリンクバー",
+          "romaji": "dorinkubā",
+          "accent": "ドリンクバ↓ー",
+          "english": "a self-service soft drink bar"
+        },
+        {
+          "japanese": "おこさま",
+          "romaji": "okosama",
+          "accent": "おこさま○",
+          "english": "small children (polite expression)"
+        },
+        {
+          "japanese": "ご注文時",
+          "romaji": "gochūmonji",
+          "accent": "ごちゅうも↓んじ",
+          "english": "when ordering (polite expression)"
+        },
+        {
+          "japanese": "本券",
+          "romaji": "honken",
+          "accent": "ほ↓んけん",
+          "english": "this coupon"
+        },
+        {
+          "japanese": "使用",
+          "romaji": "shiyō",
+          "accent": "しよう○",
+          "english": "use"
+        },
+        {
+          "japanese": "時間帯",
+          "romaji": "jikantai",
+          "accent": "じかんたい○",
+          "english": "during a period of time"
+        },
+        {
+          "japanese": "ご提示ください",
+          "romaji": "goteiji kudasai",
+          "accent": "ごていじくださ↓い",
+          "english": "Please present ～. (polite expression)"
+        },
+        {
+          "japanese": "ご利用できません",
+          "romaji": "goriyō dekimasen",
+          "accent": "ごりようできませ↓ん",
+          "english": "You cannot use ～. (polite expression)"
+        },
+        {
+          "japanese": "ご飲食代",
+          "romaji": "go inshokudai",
+          "accent": "ごいんしょくだい○",
+          "english": "the cost for a meal (polite expression)"
+        },
+        {
+          "japanese": "会計時",
+          "romaji": "kaikeiji",
+          "accent": "かいけ↓いじ",
+          "english": "when paying"
+        },
+        {
+          "japanese": "利用可能（な）",
+          "romaji": "riyō kanō (na)",
+          "accent": "りようかのう（な）○",
+          "english": "available for use"
+        },
+        {
+          "japanese": "～限り　（1回限り）",
+          "romaji": "～ kagiri (ikkai kagiri)",
+          "accent": "～か↓ぎり　（いっかいか↓ぎり）",
+          "english": "～ only (e.g. only once)"
+        },
+        {
+          "japanese": "有効（な）",
+          "romaji": "yūkō (na)",
+          "accent": "ゆうこう（な）○",
+          "english": "valid"
+        },
+        {
+          "japanese": "他の",
+          "romaji": "ta no",
+          "accent": "た↓の",
+          "english": "other"
+        },
+        {
+          "japanese": "併用",
+          "romaji": "heiyō",
+          "accent": "へいよう○",
+          "english": "use together with"
+        },
+        {
+          "japanese": "お見せください",
+          "romaji": "omise kudasai",
+          "accent": "おみせくださ↓い",
+          "english": "Please show ～. (polite expression)"
+        }
       ],
       "audio": "/audio/z/lesson3/wordlist_Z_03-5.mp3"
     }

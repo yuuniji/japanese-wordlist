@@ -6,7 +6,168 @@
       "title": "どの人ですか？",
       "number": "1.",
       "wordList": [
-        
+        {
+          "japanese": "髪",
+          "romaji": "kami",
+          "accent": "かみ↓",
+          "english": "hair"
+        },
+        {
+          "japanese": "髪が長い",
+          "romaji": "kami ga nagai",
+          "accent": "かみ↓が　なが↓い",
+          "english": "long-haired"
+        },
+        {
+          "japanese": "髪が短い",
+          "romaji": "kami ga mijikai",
+          "accent": "かみ↓が　みじか↓い",
+          "english": "short-haired"
+        },
+        {
+          "japanese": "背",
+          "romaji": "se",
+          "accent": "せ↓",
+          "english": "height"
+        },
+        {
+          "japanese": "背が高い",
+          "romaji": "se ga takai",
+          "accent": "せ↓が　たか↓い",
+          "english": "tall"
+        },
+        {
+          "japanese": "座る",
+          "romaji": "suwaru",
+          "accent": "すわる○",
+          "english": "to sit"
+        },
+        {
+          "japanese": "立つ",
+          "romaji": "tatsu",
+          "accent": "た↓つ",
+          "english": "to stand"
+        },
+        {
+          "japanese": "かぶる　（帽子をかぶる）",
+          "romaji": "kaburu (boushi o kaburu)",
+          "accent": "かぶ↓る　（ぼうしをかぶ↓る）",
+          "english": "to wear (e.g. wear a hat)"
+        },
+        {
+          "japanese": "ピアス",
+          "romaji": "piasu",
+          "accent": "ピ↓アス",
+          "english": "earrings"
+        },
+        {
+          "japanese": "する　（ピアスをする）",
+          "romaji": "suru (piasu o suru)",
+          "accent": "する○　（ピ↓アスをする）",
+          "english": "to wear (e.g. wear earrings)"
+        },
+        {
+          "japanese": "ワンピース",
+          "romaji": "wanpiisu",
+          "accent": "ワンピ↓ース",
+          "english": "dress"
+        },
+        {
+          "japanese": "着る",
+          "romaji": "kiru",
+          "accent": "きる○",
+          "english": "to wear (a dress)"
+        },
+        {
+          "japanese": "はく　（くつをはく）",
+          "romaji": "haku (kutsu o haku)",
+          "accent": "はく○　（くつ↓をはく）",
+          "english": "to wear (e.g. wear shoes)"
+        },
+        {
+          "japanese": "めがね",
+          "romaji": "megane",
+          "accent": "め↓がね",
+          "english": "glasses / spectacles"
+        },
+        {
+          "japanese": "かける　（めがねをかける）",
+          "romaji": "kakeru (megane o kakeru)",
+          "accent": "かけ↓る　（め↓がねをかけ↓る）",
+          "english": "to wear (e.g. wear glasses)"
+        },
+        {
+          "japanese": "ひげ",
+          "romaji": "hige",
+          "accent": "ひげ○",
+          "english": "beard"
+        },
+        {
+          "japanese": "はやす　（ひげをはやす）",
+          "romaji": "hayasu (hige o hayasu)",
+          "accent": "はや↓す　（ひげをはや↓す）",
+          "english": "to have (e.g. have a beard)"
+        },
+        {
+          "japanese": "シャツ",
+          "romaji": "shatsu",
+          "accent": "シャ↓ツ",
+          "english": "shirt"
+        },
+        {
+          "japanese": "ズボン",
+          "romaji": "zubon",
+          "accent": "ズボ↓ン／ズ↓ボン",
+          "english": "trousers"
+        },
+        {
+          "japanese": "赤い",
+          "romaji": "akai",
+          "accent": "あかい○／あか↓い",
+          "english": "red"
+        },
+        {
+          "japanese": "白い",
+          "romaji": "shiroi",
+          "accent": "しろ↓い",
+          "english": "white"
+        },
+        {
+          "japanese": "黄色い",
+          "romaji": "kiiroi",
+          "accent": "きいろい○／きいろ↓い",
+          "english": "yellow"
+        },
+        {
+          "japanese": "青い",
+          "romaji": "aoi",
+          "accent": "あお↓い",
+          "english": "blue"
+        },
+        {
+          "japanese": "黒い",
+          "romaji": "kuroi",
+          "accent": "くろ↓い",
+          "english": "black"
+        },
+        {
+          "japanese": "男の人",
+          "romaji": "otoko no hito",
+          "accent": "おとこのひと↓",
+          "english": "man"
+        },
+        {
+          "japanese": "ジャンパー",
+          "romaji": "janpaa",
+          "accent": "ジャ↓ンパー",
+          "english": "zip-up jacket"
+        },
+        {
+          "japanese": "ほら",
+          "romaji": "hora",
+          "accent": "ほ↓ら",
+          "english": "Look!"
+        }
       ],
       "audio": "/audio/z/lesson2/wordlist_Z_02-1.mp3"
     },
@@ -14,7 +175,96 @@
       "title": "その写真、だれですか？",
       "number": "2.",
       "wordList": [
-        
+        {
+          "japanese": "やさしい",
+          "romaji": "yasashii",
+          "accent": "やさしい○／やさし↓い",
+          "english": "kind / friendly"
+        },
+        {
+          "japanese": "きびしい",
+          "romaji": "kibishii",
+          "accent": "きびし↓い",
+          "english": "strict"
+        },
+        {
+          "japanese": "こわい",
+          "romaji": "kowai",
+          "accent": "こわ↓い",
+          "english": "scary"
+        },
+        {
+          "japanese": "忙しい",
+          "romaji": "isogashii",
+          "accent": "いそがし↓い",
+          "english": "busy"
+        },
+        {
+          "japanese": "まじめ（な）",
+          "romaji": "majime (na)",
+          "accent": "まじめ（な）○",
+          "english": "sincere"
+        },
+        {
+          "japanese": "元気（な）",
+          "romaji": "genki (na)",
+          "accent": "げ↓んき（な）",
+          "english": "energetic"
+        },
+        {
+          "japanese": "恋人",
+          "romaji": "koibito",
+          "accent": "こいびと○",
+          "english": "boyfriend / girlfriend"
+        },
+        {
+          "japanese": "孫",
+          "romaji": "mago",
+          "accent": "まご↓",
+          "english": "grandchild"
+        },
+        {
+          "japanese": "この間",
+          "romaji": "kono aida",
+          "accent": "このあいだ○",
+          "english": "the other day"
+        },
+        {
+          "japanese": "赤ちゃん",
+          "romaji": "akachan",
+          "accent": "あ↓かちゃん",
+          "english": "baby"
+        },
+        {
+          "japanese": "泣く",
+          "romaji": "naku",
+          "accent": "なく○",
+          "english": "to cry"
+        },
+        {
+          "japanese": "今度",
+          "romaji": "kondo",
+          "accent": "こ↓んど",
+          "english": "this time"
+        },
+        {
+          "japanese": "見た目",
+          "romaji": "mitame",
+          "accent": "みため○",
+          "english": "appearance"
+        },
+        {
+          "japanese": "遅くまで",
+          "romaji": "osoku made",
+          "accent": "おそく↓まで",
+          "english": "until late"
+        },
+        {
+          "japanese": "心配（な）",
+          "romaji": "shinpai (na)",
+          "accent": "しんぱい（な）○",
+          "english": "concerning"
+        }
       ],
       "audio": "/audio/z/lesson2/wordlist_Z_02-2.mp3"
     },
@@ -22,7 +272,114 @@
       "title": "本当にかっこいいです",
       "number": "3.",
       "wordList": [
-        
+        {
+          "japanese": "かっこいい",
+          "romaji": "kakkoii",
+          "accent": "かっこい↓い",
+          "english": "cool"
+        },
+        {
+          "japanese": "歌",
+          "romaji": "uta",
+          "accent": "うた↓",
+          "english": "singing"
+        },
+        {
+          "japanese": "演技",
+          "romaji": "engi",
+          "accent": "え↓んぎ",
+          "english": "acting"
+        },
+        {
+          "japanese": "ダンス",
+          "romaji": "dansu",
+          "accent": "ダ↓ンス",
+          "english": "dance / dancing"
+        },
+        {
+          "japanese": "上手（な）",
+          "romaji": "jouzu (na)",
+          "accent": "じょうず↓（な）",
+          "english": "well / good at"
+        },
+        {
+          "japanese": "歌手",
+          "romaji": "kashu",
+          "accent": "か↓しゅ",
+          "english": "singer"
+        },
+        {
+          "japanese": "だれか",
+          "romaji": "dareka",
+          "accent": "だ↓れか",
+          "english": "anyone"
+        },
+        {
+          "japanese": "引退する",
+          "romaji": "intai suru",
+          "accent": "いんたいする○",
+          "english": "to retire"
+        },
+        {
+          "japanese": "今でも",
+          "romaji": "ima demo",
+          "accent": "い↓までも",
+          "english": "even now"
+        },
+        {
+          "japanese": "俳優",
+          "romaji": "haiyuu",
+          "accent": "はいゆう○",
+          "english": "actor"
+        },
+        {
+          "japanese": "そんな",
+          "romaji": "sonna",
+          "accent": "そんな○",
+          "english": "such"
+        },
+        {
+          "japanese": "きっかけ",
+          "romaji": "kikkake",
+          "accent": "きっかけ○",
+          "english": "original motivation"
+        },
+        {
+          "japanese": "映画祭",
+          "romaji": "eigasai",
+          "accent": "えいがさい○／えいが↓さい",
+          "english": "film festival"
+        },
+        {
+          "japanese": "世界中",
+          "romaji": "sekaijuu",
+          "accent": "せかいじゅう○",
+          "english": "around the world"
+        },
+        {
+          "japanese": "ファン",
+          "romaji": "fan",
+          "accent": "ファ↓ン",
+          "english": "fan"
+        },
+        {
+          "japanese": "安室奈美恵",
+          "romaji": "Amuro Namie",
+          "accent": "あむろなみえ○",
+          "english": "Amuro Namie (Japanese singer)"
+        },
+        {
+          "japanese": "三船敏郎",
+          "romaji": "Mifune Toshiro",
+          "accent": "みふねとしろう○",
+          "english": "Mifune Toshiro (Japanese actor)"
+        },
+        {
+          "japanese": "七人の侍",
+          "romaji": "shichinin no samurai",
+          "accent": "しち↓にんのさむらい",
+          "english": "Seven Samurai"
+        }
       ],
       "audio": "/audio/z/lesson2/wordlist_Z_02-3.mp3"
     },
@@ -30,7 +387,90 @@
       "title": "インタビュー記事",
       "number": "4.",
       "wordList": [
-        
+        {
+          "japanese": "まず",
+          "romaji": "mazu",
+          "accent": "ま↓ず",
+          "english": "first of all"
+        },
+        {
+          "japanese": "金色",
+          "romaji": "kin'iro",
+          "accent": "きんいろ○",
+          "english": "golden"
+        },
+        {
+          "japanese": "驚く",
+          "romaji": "odoroku",
+          "accent": "おどろ↓く",
+          "english": "to be surprised"
+        },
+        {
+          "japanese": "明るい",
+          "romaji": "akarui",
+          "accent": "あかるい○／あかる↓い",
+          "english": "bright"
+        },
+        {
+          "japanese": "びっくりする",
+          "romaji": "bikkuri suru",
+          "accent": "びっく↓りする",
+          "english": "to be shocked"
+        },
+        {
+          "japanese": "ハイキング",
+          "romaji": "haikingu",
+          "accent": "ハ↓イキング",
+          "english": "hiking"
+        },
+        {
+          "japanese": "できれば",
+          "romaji": "dekireba",
+          "accent": "でき↓れば",
+          "english": "if possible"
+        },
+        {
+          "japanese": "シリーズ",
+          "romaji": "shiriizu",
+          "accent": "シリ↓ーズ",
+          "english": "series"
+        },
+        {
+          "japanese": "おとなりさん",
+          "romaji": "otonarisan",
+          "accent": "おとなりさん○",
+          "english": "neighbor"
+        },
+        {
+          "japanese": "簡単に",
+          "romaji": "kantan ni",
+          "accent": "かんたんに○",
+          "english": "simply"
+        },
+        {
+          "japanese": "ヤンゴン",
+          "romaji": "Yangon",
+          "accent": "ヤ↓ンゴン",
+          "english": "Yangon"
+        },
+        {
+          "japanese": "パゴダ",
+          "romaji": "pagoda",
+          "accent": "パ↓ゴダ",
+          "english": "pagoda"
+        },
+        {
+          "japanese": "増える",
+          "romaji": "fueru",
+          "accent": "ふえ↓る",
+          "english": "to increase"
+        },
+        {
+          "japanese": "交流協会",
+          "romaji": "kouryuukyokai",
+          "accent": "こうりゅうきょ↓うかい",
+          "english": "exchange association"
+        }
       ],
       "audio": "/audio/z/lesson2/wordlist_Z_02-4.mp3"
     }

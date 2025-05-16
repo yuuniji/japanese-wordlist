@@ -6,7 +6,78 @@
       "title": "みんなを紹介しますね",
       "number": "1.",
       "wordList": [
-        
+        {
+          "japanese": "主任",
+          "romaji": "shunin",
+          "accent": "しゅにん○",
+          "english": "chief"
+        },
+        {
+          "japanese": "パート",
+          "romaji": "paato",
+          "accent": "パート○／パ↓ート",
+          "english": "part-time worker"
+        },
+        {
+          "japanese": "いちばん",
+          "romaji": "ichiban",
+          "accent": "いちばん○",
+          "english": "the most (superlative)"
+        },
+        {
+          "japanese": "長い",
+          "romaji": "nagai",
+          "accent": "なが↓い",
+          "english": "long"
+        },
+        {
+          "japanese": "～出身（中国出身）",
+          "romaji": "～shusshin (chuugoku shusshin)",
+          "accent": "～しゅっしん　（ちゅ↓うごくしゅっしん）",
+          "english": "from ～ (e.g. from China)"
+        },
+        {
+          "japanese": "手続き",
+          "romaji": "tetsuzuki",
+          "accent": "てつ↓づき",
+          "english": "procedure"
+        },
+        {
+          "japanese": "生活",
+          "romaji": "seikatsu",
+          "accent": "せいかつ○",
+          "english": "life"
+        },
+        {
+          "japanese": "いろいろ（な）",
+          "romaji": "iroiro (na)",
+          "accent": "いろいろ（な）○",
+          "english": "various"
+        },
+        {
+          "japanese": "何でも",
+          "romaji": "nandemo",
+          "accent": "なんでも○／な↓んでも",
+          "english": "anything"
+        },
+        {
+          "japanese": "～でよかったら（私でよかったら）",
+          "romaji": "～de yokattara (watashi de yokattara)",
+          "accent": "～でよ↓かったら　（わたしでよ↓かったら）",
+          "english": "if ～ is okay / acceptable (e.g. if you're okay with me)"
+        },
+        {
+          "japanese": "いつでも",
+          "romaji": "itsudemo",
+          "accent": "い↓つでも／いつでも○",
+          "english": "anytime"
+        },
+        {
+          "japanese": "担当",
+          "romaji": "tantou",
+          "accent": "たんとう○",
+          "english": "in charge"
+        }
       ],
       "audio": "/audio/z/lesson1/wordlist_Z_01-1.mp3"
     },
@@ -14,7 +85,48 @@
       "title": "一生懸命がんばります",
       "number": "2.",
       "wordList": [
-        
+        {
+          "japanese": "申す",
+          "romaji": "mousu",
+          "accent": "も↓うす",
+          "english": "to be called"
+        },
+        {
+          "japanese": "呼ぶ",
+          "romaji": "yobu",
+          "accent": "よぶ○",
+          "english": "to call / to address"
+        },
+        {
+          "japanese": "一生懸命",
+          "romaji": "isshoukenmei",
+          "accent": "いっしょうけ↓んめい",
+          "english": "as hard as one can"
+        },
+        {
+          "japanese": "がんばる",
+          "romaji": "ganbaru",
+          "accent": "がんば↓る",
+          "english": "to work hard"
+        },
+        {
+          "japanese": "J-POP",
+          "romaji": "J-pop",
+          "accent": "ジェーポ↓ップ",
+          "english": "Japanese pop music"
+        },
+        {
+          "japanese": "がんばります",
+          "romaji": "ganbarimasu",
+          "accent": "がんばりま↓す",
+          "english": "I will do my best."
+        },
+        {
+          "japanese": "Perfume",
+          "romaji": "Pafyuumu",
+          "accent": "パ↓フューム",
+          "english": "Perfume (a three-girl techno-pop group)"
+        }
       ],
       "audio": "/audio/z/lesson1/wordlist_Z_01-2.mp3"
     },
@@ -22,7 +134,180 @@
       "title": "とても大きい町です",
       "number": "3.",
       "wordList": [
-        
+        {
+          "japanese": "方角",
+          "romaji": "hougaku",
+          "accent": "ほうがく○",
+          "english": "direction"
+        },
+        {
+          "japanese": "北",
+          "romaji": "kita",
+          "accent": "きた○",
+          "english": "north"
+        },
+        {
+          "japanese": "東",
+          "romaji": "higashi",
+          "accent": "ひがし○",
+          "english": "east"
+        },
+        {
+          "japanese": "南",
+          "romaji": "minami",
+          "accent": "みなみ○",
+          "english": "south"
+        },
+        {
+          "japanese": "西",
+          "romaji": "nishi",
+          "accent": "にし○",
+          "english": "west"
+        },
+        {
+          "japanese": "自然",
+          "romaji": "shizen",
+          "accent": "しぜん○",
+          "english": "nature"
+        },
+        {
+          "japanese": "川",
+          "romaji": "kawa",
+          "accent": "かわ↓",
+          "english": "river"
+        },
+        {
+          "japanese": "島",
+          "romaji": "shima",
+          "accent": "しま↓",
+          "english": "island"
+        },
+        {
+          "japanese": "森",
+          "romaji": "mori",
+          "accent": "もり○",
+          "english": "forest"
+        },
+        {
+          "japanese": "ジャングル",
+          "romaji": "janguru",
+          "accent": "ジャ↓ングル",
+          "english": "jungle"
+        },
+        {
+          "japanese": "草原",
+          "romaji": "sougen",
+          "accent": "そうげん○",
+          "english": "grassland"
+        },
+        {
+          "japanese": "砂漠",
+          "romaji": "sabaku",
+          "accent": "さばく○",
+          "english": "desert"
+        },
+        {
+          "japanese": "高原",
+          "romaji": "kougen",
+          "accent": "こうげん○",
+          "english": "plateau"
+        },
+        {
+          "japanese": "首都",
+          "romaji": "shuto",
+          "accent": "しゅ↓と",
+          "english": "capital"
+        },
+        {
+          "japanese": "観光地",
+          "romaji": "kankouchi",
+          "accent": "かんこ↓うち",
+          "english": "tourist destination"
+        },
+        {
+          "japanese": "モンゴル",
+          "romaji": "Mongoru",
+          "accent": "モ↓ンゴル",
+          "english": "Mongolia"
+        },
+        {
+          "japanese": "のんびりしている",
+          "romaji": "nonbiri shiteiru",
+          "accent": "のんび↓りしている",
+          "english": "easygoing"
+        },
+        {
+          "japanese": "都会",
+          "romaji": "tokai",
+          "accent": "とかい○",
+          "english": "city"
+        },
+        {
+          "japanese": "畑",
+          "romaji": "hatake",
+          "accent": "はたけ○",
+          "english": "plantation"
+        },
+        {
+          "japanese": "観光客",
+          "romaji": "kankoukyaku",
+          "accent": "かんこ↓うきゃく",
+          "english": "tourist"
+        },
+        {
+          "japanese": "大勢",
+          "romaji": "oozei",
+          "accent": "おおぜい○",
+          "english": "many"
+        },
+        {
+          "japanese": "お客さん",
+          "romaji": "okyakusan",
+          "accent": "おきゃくさん○",
+          "english": "visitors"
+        },
+        {
+          "japanese": "テント",
+          "romaji": "tento",
+          "accent": "テ↓ント",
+          "english": "tent"
+        },
+        {
+          "japanese": "違います",
+          "romaji": "chigaimasu",
+          "accent": "ちがいま↓す",
+          "english": "That's not so."
+        },
+        {
+          "japanese": "セブ",
+          "romaji": "Sebu",
+          "accent": "セ↓ブ",
+          "english": "Cebu"
+        },
+        {
+          "japanese": "ウランバートル",
+          "romaji": "Uranbaatoru",
+          "accent": "ウランバ↓ートル",
+          "english": "Ulaanbaatar"
+        },
+        {
+          "japanese": "ホーチミン",
+          "romaji": "Ho Chi Minh",
+          "accent": "ホーチ↓ミン",
+          "english": "Ho Chi Minh"
+        },
+        {
+          "japanese": "ウォノソボ",
+          "romaji": "Wonosobo",
+          "accent": "ウォノソボ○",
+          "english": "Wonosobo"
+        },
+        {
+          "japanese": "セブ島",
+          "romaji": "Sebutou",
+          "accent": "セブとう○",
+          "english": "Cebu Island"
+        }
       ],
       "audio": "/audio/z/lesson1/wordlist_Z_01-3.mp3"
     },
@@ -30,7 +315,60 @@
       "title": "SNS の自己紹介",
       "number": "4.",
       "wordList": [
-        
+        {
+          "japanese": "自己紹介",
+          "romaji": "jikoshoukai",
+          "accent": "じこしょ↓うかい",
+          "english": "self-introduction"
+        },
+        {
+          "japanese": "猫",
+          "romaji": "neko",
+          "accent": "ね↓こ",
+          "english": "cat"
+        },
+        {
+          "japanese": "グループ",
+          "romaji": "guruupu",
+          "accent": "グル↓ープ",
+          "english": "group"
+        },
+        {
+          "japanese": "コミュニケーションする",
+          "romaji": "komyunikeeshon suru",
+          "accent": "コミュニケ↓ーションする",
+          "english": "to communicate"
+        },
+        {
+          "japanese": "インド料理",
+          "romaji": "indo ryouri",
+          "accent": "インドりょ↓うり",
+          "english": "Indian cuisine"
+        },
+        {
+          "japanese": "食べ歩き",
+          "romaji": "tabe aruki",
+          "accent": "たべあるき○",
+          "english": "walking around and trying foods from different places"
+        },
+        {
+          "japanese": "ニックネーム",
+          "romaji": "nikkuneemu",
+          "accent": "ニックネ↓ーム",
+          "english": "nickname"
+        },
+        {
+          "japanese": "バンコク",
+          "romaji": "Bankoku",
+          "accent": "バ↓ンコク",
+          "english": "Bangkok"
+        },
+        {
+          "japanese": "アニソン",
+          "romaji": "anison",
+          "accent": "アニソン○",
+          "english": "ani-son (anime song)"
+        }
       ],
       "audio": "/audio/z/lesson1/wordlist_Z_01-4.mp3"
     }
