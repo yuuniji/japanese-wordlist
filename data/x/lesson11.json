@@ -3,20 +3,428 @@
   "number": "第11課",
   "sections": [
     {
-      "title": "こんにちは",
+      "title": "趣味は何ですか？",
       "number": "1.",
       "wordList": [
-        
+        {
+          "japanese": "趣味",
+          "romaji": "shumi",
+          "accent": "しゅ↓み",
+          "english": "hobby"
+        },
+        {
+          "japanese": "スポーツ",
+          "romaji": "supootsu",
+          "accent": "スポ↓ーツ",
+          "english": "sports"
+        },
+        {
+          "japanese": "音楽",
+          "romaji": "ongaku",
+          "accent": "お↓んがく",
+          "english": "music"
+        },
+        {
+          "japanese": "映画",
+          "romaji": "eega",
+          "accent": "えいが○／え↓いが",
+          "english": "movie"
+        },
+        {
+          "japanese": "読書",
+          "romaji": "dokusho",
+          "accent": "ど↓くしょ",
+          "english": "reading"
+        },
+        {
+          "japanese": "買い物",
+          "romaji": "kaimono",
+          "accent": "かいもの○",
+          "english": "shopping"
+        },
+        {
+          "japanese": "料理",
+          "romaji": "ryoori",
+          "accent": "りょ↓うり",
+          "english": "cooking"
+        },
+        {
+          "japanese": "ゲーム",
+          "romaji": "geemu",
+          "accent": "ゲ↓ーム",
+          "english": "games"
+        },
+        {
+          "japanese": "マンガ",
+          "romaji": "manga",
+          "accent": "マンガ○",
+          "english": "manga (comic books)"
+        },
+        {
+          "japanese": "アニメ",
+          "romaji": "anime",
+          "accent": "ア↓ニメ／アニメ○",
+          "english": "anime (animation)"
+        }
       ],
       "audio": "/audio/x/lesson11/wordlist_X_11-1.mp3"
     },
     {
-      "title": "こんにちは",
+      "title": "「ドラゴンボール」が大好きです",
       "number": "2.",
       "wordList": [
-       
+        {
+          "japanese": "どんな",
+          "romaji": "donna",
+          "accent": "ど↓んな",
+          "english": "what kind of"
+        },
+        {
+          "japanese": "バスケットボール",
+          "romaji": "basuketto-booru",
+          "accent": "バスケットボ↓ール",
+          "english": "basketball"
+        },
+        {
+          "japanese": "水泳",
+          "romaji": "suiee",
+          "accent": "すいえい○",
+          "english": "swimming"
+        },
+        {
+          "japanese": "大好き（な）",
+          "romaji": "daisuki (na)",
+          "accent": "だ↓いすき（な）",
+          "english": "love"
+        },
+        {
+          "japanese": "そうですねえ",
+          "romaji": "soo desu nee",
+          "accent": "そ↓うですねえ",
+          "english": "Let's see. (used when the speaker is thinking)"
+        },
+        {
+          "japanese": "ドラゴンボール",
+          "romaji": "doragon-booru",
+          "accent": "ドラゴンボ↓ール",
+          "english": "Dragon Ball"
+        },
+        {
+          "japanese": "サッカー",
+          "romaji": "sakkaa",
+          "accent": "サ↓ッカー",
+          "english": "soccer"
+        },
+        {
+          "japanese": "ラグビー",
+          "romaji": "ragubii",
+          "accent": "ラ↓グビー",
+          "english": "rugby"
+        },
+        {
+          "japanese": "バドミントン",
+          "romaji": "badominton",
+          "accent": "バドミ↓ントン",
+          "english": "badminton"
+        },
+        {
+          "japanese": "卓球",
+          "romaji": "takkyuu",
+          "accent": "たっきゅう○",
+          "english": "table tennis"
+        },
+        {
+          "japanese": "ミステリー",
+          "romaji": "misuterii",
+          "accent": "ミ↓ステリー",
+          "english": "mystery"
+        },
+        {
+          "japanese": "ファンタジー",
+          "romaji": "fantajii",
+          "accent": "ファ↓ンタジー",
+          "english": "fantasy"
+        },
+        {
+          "japanese": "村上春樹",
+          "romaji": "murakami haruki",
+          "accent": "むらかみは↓るき",
+          "english": "Murakami Haruki"
+        },
+        {
+          "japanese": "夏目漱石",
+          "romaji": "natsume sooseki",
+          "accent": "なつめそ↓うせき",
+          "english": "Natsume Soseki"
+        },
+        {
+          "japanese": "恋愛映画",
+          "romaji": "ren'ai-eega",
+          "accent": "れんあいえ↓いが",
+          "english": "romantic movie"
+        },
+        {
+          "japanese": "アクション映画",
+          "romaji": "akushon-eega",
+          "accent": "アクションえ↓いが",
+          "english": "action movie"
+        },
+        {
+          "japanese": "SF",
+          "romaji": "esuefu",
+          "accent": "エスエフ○",
+          "english": "science fiction"
+        },
+        {
+          "japanese": "ホラー",
+          "romaji": "horaa",
+          "accent": "ホ↓ラー",
+          "english": "horror"
+        },
+        {
+          "japanese": "ハリー・ポッター",
+          "romaji": "harii pottaa",
+          "accent": "ハリー・ポ↓ッター",
+          "english": "Harry Potter"
+        },
+        {
+          "japanese": "スターウォーズ",
+          "romaji": "sutaa-woozu",
+          "accent": "スターウォ↓ーズ",
+          "english": "Star Wars"
+        },
+        {
+          "japanese": "ロック",
+          "romaji": "rokku",
+          "accent": "ロ↓ック",
+          "english": "rock"
+        },
+        {
+          "japanese": "ジャズ",
+          "romaji": "jazu",
+          "accent": "ジャ↓ズ",
+          "english": "jazz"
+        },
+        {
+          "japanese": "クラシック",
+          "romaji": "kurasshikku",
+          "accent": "クラシ↓ック",
+          "english": "classical"
+        },
+        {
+          "japanese": "クイーン",
+          "romaji": "kuiin",
+          "accent": "クイ↓ーン",
+          "english": "Queen"
+        },
+        {
+          "japanese": "ショパン",
+          "romaji": "shopan",
+          "accent": "ショ↓パン",
+          "english": "Chopin"
+        }
       ],
       "audio": "/audio/x/lesson11/wordlist_X_11-2.mp3"
+    },
+    {
+      "title": "うちでゆっくりします",
+      "number": "3.",
+      "wordList": [
+        {
+          "japanese": "聞く／聞きます",
+          "romaji": "kiku / kikimasu",
+          "accent": "きく○／ききま↓す",
+          "english": "to listen"
+        },
+        {
+          "japanese": "本",
+          "romaji": "hon",
+          "accent": "ほ↓ん",
+          "english": "book"
+        },
+        {
+          "japanese": "読む／読みます",
+          "romaji": "yomu / yomimasu",
+          "accent": "よ↓む／よみま↓す",
+          "english": "to read"
+        },
+        {
+          "japanese": "テレビ",
+          "romaji": "terebi",
+          "accent": "テ↓レビ",
+          "english": "television"
+        },
+        {
+          "japanese": "見る／見ます",
+          "romaji": "miru / mimasu",
+          "accent": "み↓る／みま↓す",
+          "english": "to watch"
+        },
+        {
+          "japanese": "する／します",
+          "romaji": "suru / shimasu",
+          "accent": "する○／しま↓す",
+          "english": "to do"
+        },
+        {
+          "japanese": "掃除",
+          "romaji": "sooji",
+          "accent": "そうじ○",
+          "english": "cleaning"
+        },
+        {
+          "japanese": "洗濯",
+          "romaji": "sentaku",
+          "accent": "せんたく○",
+          "english": "laundry"
+        },
+        {
+          "japanese": "散歩",
+          "romaji": "sanpo",
+          "accent": "さんぽ○",
+          "english": "take a walk"
+        },
+        {
+          "japanese": "勉強する／勉強します",
+          "romaji": "benkyoo-suru / benkyoo-shimasu",
+          "accent": "べんきょうする○／べんきょうしま↓す",
+          "english": "to study"
+        },
+        {
+          "japanese": "ゆっくりする／ゆっくりします",
+          "romaji": "yukkuri-suru / yukkuri-shimasu",
+          "accent": "ゆっく↓りする／ゆっく↓りします",
+          "english": "to relax"
+        },
+        {
+          "japanese": "休みの日",
+          "romaji": "yasumi no hi",
+          "accent": "やすみのひ↓",
+          "english": "day off"
+        },
+        {
+          "japanese": "いつも",
+          "romaji": "itsumo",
+          "accent": "い↓つも",
+          "english": "always"
+        },
+        {
+          "japanese": "たいてい",
+          "romaji": "taitee",
+          "accent": "たいてい○",
+          "english": "usually"
+        },
+        {
+          "japanese": "よく",
+          "romaji": "yoku",
+          "accent": "よ↓く",
+          "english": "often"
+        },
+        {
+          "japanese": "ときどき",
+          "romaji": "tokidoki",
+          "accent": "ときどき○",
+          "english": "sometimes"
+        },
+        {
+          "japanese": "あまり",
+          "romaji": "amari",
+          "accent": "あまり○",
+          "english": "rarely"
+        },
+        {
+          "japanese": "ぜんぜん",
+          "romaji": "zenzen",
+          "accent": "ぜんぜん○",
+          "english": "(not) at all"
+        },
+        {
+          "japanese": "テニス",
+          "romaji": "tenisu",
+          "accent": "テ↓ニス",
+          "english": "tennis"
+        },
+        {
+          "japanese": "パチンコ",
+          "romaji": "pachinko",
+          "accent": "パチンコ○",
+          "english": "pachinko"
+        },
+        {
+          "japanese": "外",
+          "romaji": "soto",
+          "accent": "そ↓と",
+          "english": "outside"
+        },
+        {
+          "japanese": "1人で",
+          "romaji": "hitori de",
+          "accent": "ひと↓りで",
+          "english": "on my own"
+        },
+        {
+          "japanese": "ごろごろ（する）／ごろごろ（します）",
+          "romaji": "gorogoro (suru) / gorogoro (shimasu)",
+          "accent": "ご↓ろごろ（する）／ご↓ろごろ（します）",
+          "english": "(to) laze around"
+        },
+        {
+          "japanese": "～かなあ",
+          "romaji": "～kanaa",
+          "accent": "～かな↓あ",
+          "english": "I wonder ～ (expresses the speaker thinking aloud)"
+        },
+        {
+          "japanese": "えらいですね",
+          "romaji": "erai desu ne",
+          "accent": "えら↓いですね",
+          "english": "That's admirable."
+        }
+      ],
+      "audio": "/audio/x/lesson11/wordlist_X_11-3.mp3"
+    },
+    {
+      "title": "SNS のプロフィール",
+      "number": "4.",
+      "wordList": [
+        {
+          "japanese": "ショッピング",
+          "romaji": "shoppingu",
+          "accent": "ショ↓ッピング",
+          "english": "shopping"
+        },
+        {
+          "japanese": "ファッション",
+          "romaji": "fasshon",
+          "accent": "ファ↓ッション",
+          "english": "fashion"
+        },
+        {
+          "japanese": "投稿",
+          "romaji": "tookoo",
+          "accent": "とうこう○",
+          "english": "post"
+        },
+        {
+          "japanese": "フォロワー",
+          "romaji": "forowaa",
+          "accent": "フォロワー○",
+          "english": "follower"
+        },
+        {
+          "japanese": "フォロー中",
+          "romaji": "foroochuu",
+          "accent": "フォローちゅう○",
+          "english": "following"
+        },
+        {
+          "japanese": "募集中",
+          "romaji": "boshuuchuu",
+          "accent": "ぼしゅうちゅう○",
+          "english": "looking for ～"
+        }
+      ],
+      "audio": "/audio/x/lesson11/wordlist_X_11-4.mp3"
     }
   ]
 }

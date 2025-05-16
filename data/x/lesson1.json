@@ -7,19 +7,19 @@
       "number": "1.",
       "wordList": [
         {
-          "japanese": "💬おはよう(ございます)",
+          "japanese": "おはよう(ございます)",
           "romaji": "ohayoo (gozaimasu)",
           "accent": "おはよう (ございま↓す)",
           "english": "Good morning."
         },
         {
-          "japanese": "💬こんにちは",
+          "japanese": "こんにちは",
           "romaji": "konnichiwa",
           "accent": "こんにちは○",
           "english": "Good afternoon."
         },
         {
-          "japanese": "💬こんばんは",
+          "japanese": "こんばんは",
           "romaji": "konbanwa",
           "accent": "こんばんは○",
           "english": "Good evening."
@@ -32,31 +32,31 @@
       "number": "2.",
       "wordList": [
         {
-          "japanese": "💬じゃあ、また",
+          "japanese": "じゃあ、また",
           "romaji": "jaa, mata",
           "accent": "じゃ↓あ、また○",
           "english": "See you later."
         },
         {
-          "japanese": "💬おやすみ(なさい)",
+          "japanese": "おやすみ(なさい)",
           "romaji": "oyasumi (nasai)",
           "accent": "おやすみ (なさい) ○",
           "english": "Good night."
         },
         {
-          "japanese": "💬失礼します",
+          "japanese": "失礼します",
           "romaji": "shitsureeshimasu",
           "accent": "しつ↓れいします",
           "english": "Good bye."
         },
         {
-          "japanese": "💬お先に失礼します",
+          "japanese": "お先に失礼します",
           "romaji": "osaki ni shitsureeshimasu",
           "accent": "おさきにしつ↓れいします",
           "english": "Good bye. (I’ll take my leave before you.)"
         },
         {
-          "japanese": "💬お疲れさま（でした）",
+          "japanese": "お疲れさま（でした）",
           "romaji": "otsukaresama (deshita)",
           "accent": "おつかれさま（で↓した）",
           "english": "Good bye. (Thank you for your hard work.)"

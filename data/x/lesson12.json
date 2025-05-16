@@ -3,20 +3,626 @@
   "number": "第12課",
   "sections": [
     {
-      "title": "こんにちは",
+      "title": "イベントの案内",
       "number": "1.",
       "wordList": [
-        
+        {
+          "japanese": "夏祭り",
+          "romaji": "natsu-matsuri",
+          "accent": "なつま↓つり",
+          "english": "summer festival"
+        },
+        {
+          "japanese": "会場",
+          "romaji": "kaijoo",
+          "accent": "かいじょう○",
+          "english": "venue"
+        },
+        {
+          "japanese": "イベント",
+          "romaji": "ibento",
+          "accent": "イベント○",
+          "english": "event"
+        },
+        {
+          "japanese": "広場",
+          "romaji": "hiroba",
+          "accent": "ひ↓ろば",
+          "english": "square"
+        },
+        {
+          "japanese": "食べ物",
+          "romaji": "tabemono",
+          "accent": "たべも↓の／たべ↓もの",
+          "english": "food"
+        },
+        {
+          "japanese": "飲み物",
+          "romaji": "nomimono",
+          "accent": "のみも↓の／のみ↓もの",
+          "english": "drink"
+        },
+        {
+          "japanese": "ステージ",
+          "romaji": "suteeji",
+          "accent": "ステ↓ージ",
+          "english": "performance"
+        },
+        {
+          "japanese": "縁日",
+          "romaji": "ennichi",
+          "accent": "え↓んにち",
+          "english": "festival day"
+        },
+        {
+          "japanese": "文化センター",
+          "romaji": "bunka-sentaa",
+          "accent": "ぶんかセ↓ンター",
+          "english": "cultural center"
+        },
+        {
+          "japanese": "野外",
+          "romaji": "yagai",
+          "accent": "や↓がい",
+          "english": "outdoors"
+        },
+        {
+          "japanese": "入場料",
+          "romaji": "nyuujooryoo",
+          "accent": "にゅうじょ↓うりょう",
+          "english": "entry fee"
+        },
+        {
+          "japanese": "～円",
+          "romaji": "～en",
+          "accent": "～えん",
+          "english": "～ yen"
+        },
+        {
+          "japanese": "場所",
+          "romaji": "basho",
+          "accent": "ばしょ○",
+          "english": "place"
+        },
+        {
+          "japanese": "ホール",
+          "romaji": "hooru",
+          "accent": "ホ↓ール",
+          "english": "hall"
+        },
+        {
+          "japanese": "映画上映会",
+          "romaji": "eega-jooeekai",
+          "accent": "えいがじょうえ↓いかい",
+          "english": "film screening"
+        },
+        {
+          "japanese": "プログラム",
+          "romaji": "puroguramu",
+          "accent": "プログ↓ラム",
+          "english": "program"
+        },
+        {
+          "japanese": "上映作品",
+          "romaji": "jooee-sakuhin",
+          "accent": "じょうえいさ↓くひん",
+          "english": "film shown"
+        },
+        {
+          "japanese": "お問い合わせ",
+          "romaji": "otoiawase",
+          "accent": "おといあわせ○",
+          "english": "inquiries"
+        },
+        {
+          "japanese": "楽しもう！",
+          "romaji": "tanoshimoo!",
+          "accent": "たのしも↓う！",
+          "english": "Let's enjoy ～."
+        },
+        {
+          "japanese": "交流",
+          "romaji": "kooryuu",
+          "accent": "こうりゅう○",
+          "english": "exchange"
+        },
+        {
+          "japanese": "バーベキュー",
+          "romaji": "baabekyuu",
+          "accent": "バーベ↓キュー",
+          "english": "barbecue"
+        },
+        {
+          "japanese": "日時",
+          "romaji": "nichiji",
+          "accent": "に↓ちじ",
+          "english": "date and time"
+        },
+        {
+          "japanese": "駐車場",
+          "romaji": "chuushajoo",
+          "accent": "ちゅうしゃじょう○",
+          "english": "parking lot"
+        },
+        {
+          "japanese": "あおぞら",
+          "romaji": "aozora",
+          "accent": "あおぞ↓ら",
+          "english": "blue skies"
+        },
+        {
+          "japanese": "問い合わせ先",
+          "romaji": "toiawasesaki",
+          "accent": "といあわせさき○",
+          "english": "contact details (for inquiries)"
+        },
+        {
+          "japanese": "日本語ボランティア教室",
+          "romaji": "nihongo-borantia-kyooshitsu",
+          "accent": "にほんごボランティアきょ↓うしつ",
+          "english": "Japanese-language volunteer class"
+        },
+        {
+          "japanese": "フェスティバル",
+          "romaji": "fesutibaru",
+          "accent": "フェ↓スティバル",
+          "english": "festival"
+        },
+        {
+          "japanese": "入場無料",
+          "romaji": "nyuujoo-muryoo",
+          "accent": "にゅうじょうむりょう○",
+          "english": "free entry"
+        },
+        {
+          "japanese": "1月",
+          "romaji": "ichi-gatsu",
+          "accent": "いちがつ↓",
+          "english": "January"
+        },
+        {
+          "japanese": "2月",
+          "romaji": "ni-gatsu",
+          "accent": "にがつ↓",
+          "english": "February"
+        },
+        {
+          "japanese": "3月",
+          "romaji": "san-gatsu",
+          "accent": "さ↓んがつ",
+          "english": "March"
+        },
+        {
+          "japanese": "4月",
+          "romaji": "shi-gatsu",
+          "accent": "しがつ↓",
+          "english": "April"
+        },
+        {
+          "japanese": "5月",
+          "romaji": "go-gatsu",
+          "accent": "ご↓がつ",
+          "english": "May"
+        },
+        {
+          "japanese": "6月",
+          "romaji": "roku-gatsu",
+          "accent": "ろくがつ↓",
+          "english": "June"
+        },
+        {
+          "japanese": "7月",
+          "romaji": "shichi-gatsu",
+          "accent": "しちがつ↓",
+          "english": "July"
+        },
+        {
+          "japanese": "8月",
+          "romaji": "hachi-gatsu",
+          "accent": "はちがつ↓",
+          "english": "August"
+        },
+        {
+          "japanese": "9月",
+          "romaji": "ku-gatsu",
+          "accent": "く↓がつ",
+          "english": "September"
+        },
+        {
+          "japanese": "10月",
+          "romaji": "juu-gatsu",
+          "accent": "じゅうがつ↓",
+          "english": "October"
+        },
+        {
+          "japanese": "11月",
+          "romaji": "juu-ichi-gatsu",
+          "accent": "じゅういちがつ↓",
+          "english": "November"
+        },
+        {
+          "japanese": "12月",
+          "romaji": "juu-ni-gatsu",
+          "accent": "じゅうにがつ↓",
+          "english": "December"
+        },
+        {
+          "japanese": "何月",
+          "romaji": "nan-gatsu",
+          "accent": "な↓んがつ",
+          "english": "which month"
+        },
+        {
+          "japanese": "1日",
+          "romaji": "tsuitachi",
+          "accent": "ついたち↓",
+          "english": "1st (day of the month)"
+        },
+        {
+          "japanese": "2日",
+          "romaji": "futsuka",
+          "accent": "ふつか○",
+          "english": "2nd (day of the month)"
+        },
+        {
+          "japanese": "3日",
+          "romaji": "mikka",
+          "accent": "みっか○",
+          "english": "3rd (day of the month)"
+        },
+        {
+          "japanese": "4日",
+          "romaji": "yokka",
+          "accent": "よっか○",
+          "english": "4th (day of the month)"
+        },
+        {
+          "japanese": "5日",
+          "romaji": "itsuka",
+          "accent": "いつか○",
+          "english": "5th (day of the month)"
+        },
+        {
+          "japanese": "6日",
+          "romaji": "muika",
+          "accent": "むいか○",
+          "english": "6th (day of the month)"
+        },
+        {
+          "japanese": "7日",
+          "romaji": "nanoka",
+          "accent": "なのか○",
+          "english": "7th (day of the month)"
+        },
+        {
+          "japanese": "8日",
+          "romaji": "yooka",
+          "accent": "ようか○",
+          "english": "8th (day of the month)"
+        },
+        {
+          "japanese": "9日",
+          "romaji": "kokonoka",
+          "accent": "ここのか○",
+          "english": "9th (day of the month)"
+        },
+        {
+          "japanese": "10日",
+          "romaji": "tooka",
+          "accent": "とおか○",
+          "english": "10th (day of the month)"
+        },
+        {
+          "japanese": "11日",
+          "romaji": "juu-ichi-nichi",
+          "accent": "じゅういちにち↓",
+          "english": "11th (day of the month)"
+        },
+        {
+          "japanese": "12日",
+          "romaji": "juu-ni-nichi",
+          "accent": "じゅうににち↓",
+          "english": "12th (day of the month)"
+        },
+        {
+          "japanese": "13日",
+          "romaji": "juu-san-nichi",
+          "accent": "じゅうさ↓んにち",
+          "english": "13th (day of the month)"
+        },
+        {
+          "japanese": "14日",
+          "romaji": "juu-yokka",
+          "accent": "じゅうよっか○／じゅ↓うよっか",
+          "english": "14th (day of the month)"
+        },
+        {
+          "japanese": "15日",
+          "romaji": "juu-go-nichi",
+          "accent": "じゅうご↓にち",
+          "english": "15th (day of the month)"
+        },
+        {
+          "japanese": "16日",
+          "romaji": "juu-roku-nichi",
+          "accent": "じゅうろくにち↓",
+          "english": "16th (day of the month)"
+        },
+        {
+          "japanese": "17日",
+          "romaji": "juu-shichi-nichi",
+          "accent": "じゅうしちにち↓",
+          "english": "17th (day of the month)"
+        },
+        {
+          "japanese": "18日",
+          "romaji": "juu-hachi-nichi",
+          "accent": "じゅうはちにち↓",
+          "english": "18th (day of the month)"
+        },
+        {
+          "japanese": "19日",
+          "romaji": "juu-ku-nichi",
+          "accent": "じゅうく↓にち",
+          "english": "19th (day of the month)"
+        },
+        {
+          "japanese": "20日",
+          "romaji": "hatsuka",
+          "accent": "はつか○",
+          "english": "20th (day of the month)"
+        },
+        {
+          "japanese": "21日",
+          "romaji": "nijuu-ichi-nichi",
+          "accent": "に↓じゅう△いちにち↓",
+          "english": "21st (day of the month)"
+        },
+        {
+          "japanese": "22日",
+          "romaji": "nijuu-ni-nichi",
+          "accent": "に↓じゅう△に↓にち",
+          "english": "22nd (day of the month)"
+        },
+        {
+          "japanese": "23日",
+          "romaji": "nijuu-san-nichi",
+          "accent": "に↓じゅう△さ↓んにち",
+          "english": "23rd (day of the month)"
+        },
+        {
+          "japanese": "24日",
+          "romaji": "nijuu-yokka",
+          "accent": "に↓じゅう△よっか○",
+          "english": "24th (day of the month)"
+        },
+        {
+          "japanese": "25日",
+          "romaji": "nijuu-go-nichi",
+          "accent": "に↓じゅう△ご↓にち",
+          "english": "25th (day of the month)"
+        },
+        {
+          "japanese": "26日",
+          "romaji": "nijuu-roku-nichi",
+          "accent": "に↓じゅう△ろくにち↓",
+          "english": "26th (day of the month)"
+        },
+        {
+          "japanese": "27日",
+          "romaji": "nijuu-shichi-nichi",
+          "accent": "に↓じゅう△しちにち↓",
+          "english": "27th (day of the month)"
+        },
+        {
+          "japanese": "28日",
+          "romaji": "nijuu-hachi-nichi",
+          "accent": "に↓じゅう△はちにち↓",
+          "english": "28th (day of the month)"
+        },
+        {
+          "japanese": "29日",
+          "romaji": "nijuu-ku-nichi",
+          "accent": "に↓じゅう△く↓にち",
+          "english": "29th (day of the month)"
+        },
+        {
+          "japanese": "30日",
+          "romaji": "sanjuu-nichi",
+          "accent": "さんじゅ↓うにち",
+          "english": "30th (day of the month)"
+        },
+        {
+          "japanese": "31日",
+          "romaji": "sanjuu-ichi-nichi",
+          "accent": "さ↓んじゅう△いちにち↓",
+          "english": "31st (day of the month)"
+        },
+        {
+          "japanese": "何日",
+          "romaji": "nan-nichi",
+          "accent": "な↓んにち",
+          "english": "which day of the month"
+        }
       ],
       "audio": "/audio/x/lesson12/wordlist_X_12-1.mp3"
     },
     {
-      "title": "こんにちは",
+      "title": "来週、夏祭りがありますね",
       "number": "2.",
       "wordList": [
-        
+        {
+          "japanese": "今日",
+          "romaji": "kyoo",
+          "accent": "きょ↓う",
+          "english": "today"
+        },
+        {
+          "japanese": "明日",
+          "romaji": "ashita",
+          "accent": "あした↓",
+          "english": "tomorrow"
+        },
+        {
+          "japanese": "あさって",
+          "romaji": "asatte",
+          "accent": "あさ↓って",
+          "english": "day after tomorrow"
+        },
+        {
+          "japanese": "今週",
+          "romaji": "konshuu",
+          "accent": "こんしゅう○",
+          "english": "this week"
+        },
+        {
+          "japanese": "来週",
+          "romaji": "raishuu",
+          "accent": "らいしゅう○",
+          "english": "next week"
+        },
+        {
+          "japanese": "パーティー",
+          "romaji": "paatii",
+          "accent": "パ↓ーティー",
+          "english": "party"
+        },
+        {
+          "japanese": "空手",
+          "romaji": "karate",
+          "accent": "からて○",
+          "english": "karate"
+        },
+        {
+          "japanese": "試合",
+          "romaji": "shiai",
+          "accent": "しあい○",
+          "english": "match / game"
+        },
+        {
+          "japanese": "忘年会",
+          "romaji": "boonenkai",
+          "accent": "ぼうね↓んかい／ぼうねんかい○",
+          "english": "year-end party"
+        },
+        {
+          "japanese": "もちろん",
+          "romaji": "mochiron",
+          "accent": "もち↓ろん",
+          "english": "of course"
+        },
+        {
+          "japanese": "楽しみですね",
+          "romaji": "tanoshimi desu ne",
+          "accent": "たのし↓みですね",
+          "english": "I'm looking forward to it."
+        },
+        {
+          "japanese": "そうですね",
+          "romaji": "soo desu ne",
+          "accent": "そ↓うですね",
+          "english": "Me, too. / I agree. (used when the speaker is agreeing with the other person)"
+        },
+        {
+          "japanese": "まだわかりません",
+          "romaji": "mada wakarimasen",
+          "accent": "ま↓だ　わかりませ↓ん",
+          "english": "I don't know yet."
+        },
+        {
+          "japanese": "残念です",
+          "romaji": "zannen desu",
+          "accent": "ざんね↓んです",
+          "english": "That's a shame."
+        }
       ],
       "audio": "/audio/x/lesson12/wordlist_X_12-2.mp3"
+    },
+    {
+      "title": "いっしょに行きましょう",
+      "number": "3.",
+      "wordList": [
+        {
+          "japanese": "焼肉",
+          "romaji": "yakiniku",
+          "accent": "やきにく○",
+          "english": "yakiniku (Japanese grilled meat)"
+        },
+        {
+          "japanese": "ハイキング",
+          "romaji": "haikingu",
+          "accent": "ハ↓イキング",
+          "english": "hiking"
+        },
+        {
+          "japanese": "飲み会",
+          "romaji": "nomikai",
+          "accent": "のみかい○",
+          "english": "drinking party"
+        },
+        {
+          "japanese": "いっしょに",
+          "romaji": "issho ni",
+          "accent": "いっしょに○",
+          "english": "together"
+        },
+        {
+          "japanese": "今度",
+          "romaji": "kondo",
+          "accent": "こ↓んど",
+          "english": "next"
+        },
+        {
+          "japanese": "今晩",
+          "romaji": "konban",
+          "accent": "こ↓んばん",
+          "english": "this evening"
+        },
+        {
+          "japanese": "また今度",
+          "romaji": "mata kondo",
+          "accent": "またこ↓んど",
+          "english": "Maybe another time."
+        },
+        {
+          "japanese": "男はつらいよ",
+          "romaji": "otoko wa tsurai yo",
+          "accent": "おとこ↓はつら↓いよ",
+          "english": "Otoko wa Tsurai yo (\"It's Tough Being a Man\")"
+        }
+      ],
+      "audio": "/audio/x/lesson12/wordlist_X_12-3.mp3"
+    },
+    {
+      "title": "誘いの返事",
+      "number": "4.",
+      "wordList": [
+        {
+          "japanese": "いいね！",
+          "romaji": "ii ne",
+          "accent": "い↓いね！",
+          "english": "That's great!"
+        },
+        {
+          "japanese": "残念",
+          "romaji": "zannen",
+          "accent": "ざんね↓ん",
+          "english": "What a pity."
+        },
+        {
+          "japanese": "了解",
+          "romaji": "ryookai",
+          "accent": "りょうかい○",
+          "english": "Okay."
+        },
+        {
+          "japanese": "ぐすん",
+          "romaji": "gusun",
+          "accent": "ぐす↓ん",
+          "english": "Sniff."
+        }
+      ],
+      "audio": "/audio/x/lesson12/wordlist_X_12-4.mp3"
     }
   ]
 }
