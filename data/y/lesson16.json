@@ -6,7 +6,252 @@
       "title": "具合が悪そうですね",
       "number": "1.",
       "wordList": [
-        
+        {
+          "japanese": "顔",
+          "romaji": "kao",
+          "accent": "かお○",
+          "english": "face"
+        },
+        {
+          "japanese": "体",
+          "romaji": "karada",
+          "accent": "からだ○",
+          "english": "body"
+        },
+        {
+          "japanese": "頭",
+          "romaji": "atama",
+          "accent": "あたま↓",
+          "english": "head"
+        },
+        {
+          "japanese": "鼻",
+          "romaji": "hana",
+          "accent": "はな○",
+          "english": "nose"
+        },
+        {
+          "japanese": "歯",
+          "romaji": "ha",
+          "accent": "は↓",
+          "english": "tooth"
+        },
+        {
+          "japanese": "首",
+          "romaji": "kubi",
+          "accent": "くび○",
+          "english": "neck"
+        },
+        {
+          "japanese": "目",
+          "romaji": "me",
+          "accent": "め↓",
+          "english": "eye"
+        },
+        {
+          "japanese": "耳",
+          "romaji": "mimi",
+          "accent": "みみ↓",
+          "english": "ear"
+        },
+        {
+          "japanese": "口",
+          "romaji": "kuchi",
+          "accent": "くち○",
+          "english": "mouth"
+        },
+        {
+          "japanese": "肩",
+          "romaji": "kata",
+          "accent": "か↓た",
+          "english": "shoulders"
+        },
+        {
+          "japanese": "胸",
+          "romaji": "mune",
+          "accent": "むね↓",
+          "english": "breast"
+        },
+        {
+          "japanese": "お腹",
+          "romaji": "onaka",
+          "accent": "おなか○",
+          "english": "stomach"
+        },
+        {
+          "japanese": "足",
+          "romaji": "ashi",
+          "accent": "あし↓",
+          "english": "legs"
+        },
+        {
+          "japanese": "背中",
+          "romaji": "senaka",
+          "accent": "せなか○",
+          "english": "back"
+        },
+        {
+          "japanese": "腰",
+          "romaji": "koshi",
+          "accent": "こし○",
+          "english": "lower back"
+        },
+        {
+          "japanese": "腕",
+          "romaji": "ude",
+          "accent": "うで↓",
+          "english": "arm"
+        },
+        {
+          "japanese": "手",
+          "romaji": "te",
+          "accent": "て↓",
+          "english": "hand"
+        },
+        {
+          "japanese": "指",
+          "romaji": "yubi",
+          "accent": "ゆび↓",
+          "english": "finger / toe"
+        },
+        {
+          "japanese": "肩がこる",
+          "romaji": "kata ga koru",
+          "accent": "か↓たが　こ↓る",
+          "english": "to have stiff shoulders"
+        },
+        {
+          "japanese": "だるい",
+          "romaji": "darui",
+          "accent": "だるい○／だる↓い",
+          "english": "feel tired and listless"
+        },
+        {
+          "japanese": "痛い",
+          "romaji": "itai",
+          "accent": "いた↓い",
+          "english": "hurts"
+        },
+        {
+          "japanese": "胃",
+          "romaji": "i",
+          "accent": "い○",
+          "english": "stomach"
+        },
+        {
+          "japanese": "調子が悪い",
+          "romaji": "choushi ga warui",
+          "accent": "ちょうしがわる↓い",
+          "english": "feel unwell"
+        },
+        {
+          "japanese": "二日酔い",
+          "romaji": "futsukayoi",
+          "accent": "ふつかよい○",
+          "english": "hangover"
+        },
+        {
+          "japanese": "眠れない",
+          "romaji": "nemurenai",
+          "accent": "ねむれない○",
+          "english": "can't sleep"
+        },
+        {
+          "japanese": "お風呂に入る",
+          "romaji": "ofuro ni hairu",
+          "accent": "おふ↓ろに　は↓いる",
+          "english": "to take a bath"
+        },
+        {
+          "japanese": "温める",
+          "romaji": "atatameru",
+          "accent": "あたため↓る",
+          "english": "to warm up"
+        },
+        {
+          "japanese": "温かい",
+          "romaji": "atatakai",
+          "accent": "あたたか↓い",
+          "english": "warm"
+        },
+        {
+          "japanese": "飲む",
+          "romaji": "nomu",
+          "accent": "の↓む",
+          "english": "to drink"
+        },
+        {
+          "japanese": "マッサージする",
+          "romaji": "massaaji suru",
+          "accent": "マッサ↓ージする",
+          "english": "to massage"
+        },
+        {
+          "japanese": "薬",
+          "romaji": "kusuri",
+          "accent": "くすり○",
+          "english": "medicine"
+        },
+        {
+          "japanese": "飲む（薬を飲む）",
+          "romaji": "nomu (kusuri o nomu)",
+          "accent": "の↓む（くすりをの↓む）",
+          "english": "to take (e.g. take medicine)"
+        },
+        {
+          "japanese": "最近",
+          "romaji": "saikin",
+          "accent": "さいきん○",
+          "english": "recently"
+        },
+        {
+          "japanese": "ぬるい",
+          "romaji": "nurui",
+          "accent": "ぬる↓い",
+          "english": "warm"
+        },
+        {
+          "japanese": "試す",
+          "romaji": "tamesu",
+          "accent": "ため↓す",
+          "english": "to try"
+        },
+        {
+          "japanese": "飲みすぎる",
+          "romaji": "nomisugiru",
+          "accent": "のみすぎる○／のみすぎ↓る",
+          "english": "to drink too much"
+        },
+        {
+          "japanese": "けっこう",
+          "romaji": "kekkou",
+          "accent": "け↓っこう",
+          "english": "quite"
+        },
+        {
+          "japanese": "それはいけませんね",
+          "romaji": "sore wa ikemasen ne",
+          "accent": "それはいけませ↓んね",
+          "english": "That is not good."
+        },
+        {
+          "japanese": "どうしていますか？",
+          "romaji": "dou shiteimasu ka?",
+          "accent": "ど↓うしていま↓すか？",
+          "english": "How do you deal with it?"
+        },
+        {
+          "japanese": "疲れている",
+          "romaji": "tsukarete iru",
+          "accent": "つか↓れている",
+          "english": "tired"
+        },
+        {
+          "japanese": "寝不足",
+          "romaji": "nebutsoku",
+          "accent": "ねぶそく○／ねぶ↓そく",
+          "english": "lack of sleep"
+        }
       ],
       "audio": "/audio/y/lesson16/wordlist_Y_16-1.mp3"
     },
@@ -14,7 +259,132 @@
       "title": "夜は早く寝るようにしています",
       "number": "2.",
       "wordList": [
-        
+        {
+          "japanese": "健康",
+          "romaji": "kenkou",
+          "accent": "けんこう○",
+          "english": "health"
+        },
+        {
+          "japanese": "運動",
+          "romaji": "undou",
+          "accent": "うんどう○",
+          "english": "exercise"
+        },
+        {
+          "japanese": "ジム",
+          "romaji": "jimu",
+          "accent": "ジ↓ム",
+          "english": "gym"
+        },
+        {
+          "japanese": "ジョギングする",
+          "romaji": "jogingu suru",
+          "accent": "ジョギングする○",
+          "english": "to go jogging"
+        },
+        {
+          "japanese": "走る",
+          "romaji": "hashiru",
+          "accent": "はし↓る",
+          "english": "to run"
+        },
+        {
+          "japanese": "ウォーキングする",
+          "romaji": "uookingu suru",
+          "accent": "ウォーキングする○",
+          "english": "to go for a walk"
+        },
+        {
+          "japanese": "歩く",
+          "romaji": "aruku",
+          "accent": "ある↓く",
+          "english": "to walk"
+        },
+        {
+          "japanese": "プール",
+          "romaji": "puuru",
+          "accent": "プ↓ール",
+          "english": "swimming pool"
+        },
+        {
+          "japanese": "泳ぐ",
+          "romaji": "oyogu",
+          "accent": "およ↓ぐ",
+          "english": "to swim"
+        },
+        {
+          "japanese": "ヨガ",
+          "romaji": "yoga",
+          "accent": "ヨ↓ガ",
+          "english": "yoga"
+        },
+        {
+          "japanese": "食生活",
+          "romaji": "shokuseikatsu",
+          "accent": "しょくせ↓いかつ",
+          "english": "eating habits"
+        },
+        {
+          "japanese": "食べすぎる",
+          "romaji": "tabesugiru",
+          "accent": "たべすぎる○／たべすぎ↓る",
+          "english": "to eat too much"
+        },
+        {
+          "japanese": "睡眠",
+          "romaji": "suimin",
+          "accent": "すいみん○",
+          "english": "sleep"
+        },
+        {
+          "japanese": "早く",
+          "romaji": "hayaku",
+          "accent": "は↓やく",
+          "english": "early"
+        },
+        {
+          "japanese": "起きる",
+          "romaji": "okiru",
+          "accent": "おき↓る",
+          "english": "to wake up"
+        },
+        {
+          "japanese": "だいたい",
+          "romaji": "daitai",
+          "accent": "だいたい○",
+          "english": "about / around"
+        },
+        {
+          "japanese": "チキンサラダ",
+          "romaji": "chikin sarada",
+          "accent": "チキンサ↓ラダ",
+          "english": "chicken salad"
+        },
+        {
+          "japanese": "トマトジュース",
+          "romaji": "tomato juusu",
+          "accent": "トマトジュ↓ース",
+          "english": "tomato juice"
+        },
+        {
+          "japanese": "ダイエットする",
+          "romaji": "daietto suru",
+          "accent": "ダ↓イエットする",
+          "english": "to go on a diet"
+        },
+        {
+          "japanese": "気をつける",
+          "romaji": "ki o tsukeru",
+          "accent": "きをつけ↓る",
+          "english": "to be mindful"
+        },
+        {
+          "japanese": "なるほど",
+          "romaji": "naruhodo",
+          "accent": "なるほど○",
+          "english": "I see."
+        }
       ],
       "audio": "/audio/y/lesson16/wordlist_Y_16-2.mp3"
     },
@@ -22,7 +392,132 @@
       "title": "食中毒が増えています",
       "number": "3.",
       "wordList": [
-        
+        {
+          "japanese": "健康",
+          "romaji": "kenkou",
+          "accent": "けんこう○",
+          "english": "health"
+        },
+        {
+          "japanese": "運動",
+          "romaji": "undou",
+          "accent": "うんどう○",
+          "english": "exercise"
+        },
+        {
+          "japanese": "ジム",
+          "romaji": "jimu",
+          "accent": "ジ↓ム",
+          "english": "gym"
+        },
+        {
+          "japanese": "ジョギングする",
+          "romaji": "jogingu suru",
+          "accent": "ジョギングする○",
+          "english": "to go jogging"
+        },
+        {
+          "japanese": "走る",
+          "romaji": "hashiru",
+          "accent": "はし↓る",
+          "english": "to run"
+        },
+        {
+          "japanese": "ウォーキングする",
+          "romaji": "uookingu suru",
+          "accent": "ウォーキングする○",
+          "english": "to go for a walk"
+        },
+        {
+          "japanese": "歩く",
+          "romaji": "aruku",
+          "accent": "ある↓く",
+          "english": "to walk"
+        },
+        {
+          "japanese": "プール",
+          "romaji": "puuru",
+          "accent": "プ↓ール",
+          "english": "swimming pool"
+        },
+        {
+          "japanese": "泳ぐ",
+          "romaji": "oyogu",
+          "accent": "およ↓ぐ",
+          "english": "to swim"
+        },
+        {
+          "japanese": "ヨガ",
+          "romaji": "yoga",
+          "accent": "ヨ↓ガ",
+          "english": "yoga"
+        },
+        {
+          "japanese": "食生活",
+          "romaji": "shokuseikatsu",
+          "accent": "しょくせ↓いかつ",
+          "english": "eating habits"
+        },
+        {
+          "japanese": "食べすぎる",
+          "romaji": "tabesugiru",
+          "accent": "たべすぎる○／たべすぎ↓る",
+          "english": "to eat too much"
+        },
+        {
+          "japanese": "睡眠",
+          "romaji": "suimin",
+          "accent": "すいみん○",
+          "english": "sleep"
+        },
+        {
+          "japanese": "早く",
+          "romaji": "hayaku",
+          "accent": "は↓やく",
+          "english": "early"
+        },
+        {
+          "japanese": "起きる",
+          "romaji": "okiru",
+          "accent": "おき↓る",
+          "english": "to wake up"
+        },
+        {
+          "japanese": "だいたい",
+          "romaji": "daitai",
+          "accent": "だいたい○",
+          "english": "about / around"
+        },
+        {
+          "japanese": "チキンサラダ",
+          "romaji": "chikin sarada",
+          "accent": "チキンサ↓ラダ",
+          "english": "chicken salad"
+        },
+        {
+          "japanese": "トマトジュース",
+          "romaji": "tomato juusu",
+          "accent": "トマトジュ↓ース",
+          "english": "tomato juice"
+        },
+        {
+          "japanese": "ダイエットする",
+          "romaji": "daietto suru",
+          "accent": "ダ↓イエットする",
+          "english": "to go on a diet"
+        },
+        {
+          "japanese": "気をつける",
+          "romaji": "ki o tsukeru",
+          "accent": "きをつけ↓る",
+          "english": "to be mindful"
+        },
+        {
+          "japanese": "なるほど",
+          "romaji": "naruhodo",
+          "accent": "なるほど○",
+          "english": "I see."
+        }
       ],
       "audio": "/audio/y/lesson16/wordlist_Y_16-3.mp3"
     },
@@ -30,7 +525,126 @@
       "title": "病気予防のポスター",
       "number": "4.",
       "wordList": [
-        
+        {
+          "japanese": "うつす",
+          "romaji": "utsusu",
+          "accent": "うつ↓す",
+          "english": "to pass on"
+        },
+        {
+          "japanese": "マスク",
+          "romaji": "masuku",
+          "accent": "マ↓スク",
+          "english": "mask"
+        },
+        {
+          "japanese": "うがい",
+          "romaji": "ugai",
+          "accent": "うがい○",
+          "english": "gargling"
+        },
+        {
+          "japanese": "予防接種",
+          "romaji": "yobou sesshu",
+          "accent": "よぼうせ↓っしゅ",
+          "english": "vaccination"
+        },
+        {
+          "japanese": "発熱",
+          "romaji": "hatsunetsu",
+          "accent": "はつねつ○",
+          "english": "fever"
+        },
+        {
+          "japanese": "全身",
+          "romaji": "zenshin",
+          "accent": "ぜんしん○",
+          "english": "whole body"
+        },
+        {
+          "japanese": "だるさ",
+          "romaji": "darusa",
+          "accent": "だるさ○",
+          "english": "sense of fatigue"
+        },
+        {
+          "japanese": "関節痛",
+          "romaji": "kansetsutsuu",
+          "accent": "かんせつつう○",
+          "english": "joint pain"
+        },
+        {
+          "japanese": "痛み",
+          "romaji": "itami",
+          "accent": "いたみ↓",
+          "english": "pain"
+        },
+        {
+          "japanese": "気持ち",
+          "romaji": "kimochi",
+          "accent": "きもち○",
+          "english": "feeling"
+        },
+        {
+          "japanese": "大切（な）",
+          "romaji": "taisetsu (na)",
+          "accent": "たいせつ（な）○",
+          "english": "important"
+        },
+        {
+          "japanese": "こまめに",
+          "romaji": "komameni",
+          "accent": "こ↓まめに",
+          "english": "frequently"
+        },
+        {
+          "japanese": "しっかりと",
+          "romaji": "shikkari to",
+          "accent": "しっか↓りと",
+          "english": "properly"
+        },
+        {
+          "japanese": "外出先",
+          "romaji": "gaishutsusaki",
+          "accent": "がいしゅつさき○",
+          "english": "outside"
+        },
+        {
+          "japanese": "帰宅する",
+          "romaji": "kitaku suru",
+          "accent": "きたくする○",
+          "english": "to go home"
+        },
+        {
+          "japanese": "流行する",
+          "romaji": "ryuukou suru",
+          "accent": "りゅうこうする○",
+          "english": "to be prevalent"
+        },
+        {
+          "japanese": "受ける",
+          "romaji": "ukeru",
+          "accent": "うけ↓る",
+          "english": "to receive"
+        },
+        {
+          "japanese": "予約",
+          "romaji": "yoyaku",
+          "accent": "よやく○",
+          "english": "booking"
+        },
+        {
+          "japanese": "受付中",
+          "romaji": "uketsukechuu",
+          "accent": "うけつけちゅう○",
+          "english": "currently accepting"
+        },
+        {
+          "japanese": "クリニック",
+          "romaji": "kurinikku",
+          "accent": "クリ↓ニック",
+          "english": "clinic"
+        }
       ],
       "audio": "/audio/y/lesson16/wordlist_Y_16-4.mp3"
     }

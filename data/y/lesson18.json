@@ -6,7 +6,126 @@
       "title": "おめでとうございます",
       "number": "1.",
       "wordList": [
-        
+        {
+          "japanese": "結婚（する）",
+          "romaji": "kekkon (suru)",
+          "accent": "けっこん（する）○",
+          "english": "(to) marry"
+        },
+        {
+          "japanese": "出産",
+          "romaji": "shussan",
+          "accent": "しゅっさん○",
+          "english": "childbirth"
+        },
+        {
+          "japanese": "生まれる",
+          "romaji": "umareru",
+          "accent": "うまれる○",
+          "english": "to be born"
+        },
+        {
+          "japanese": "合格（する）",
+          "romaji": "goukaku (suru)",
+          "accent": "ごうかく（する）○",
+          "english": "(to) pass"
+        },
+        {
+          "japanese": "男の子",
+          "romaji": "otoko no ko",
+          "accent": "おとこ↓のこ",
+          "english": "boy"
+        },
+        {
+          "japanese": "女の子",
+          "romaji": "onna no ko",
+          "accent": "おんな↓のこ",
+          "english": "girl"
+        },
+        {
+          "japanese": "決める",
+          "romaji": "kimeru",
+          "accent": "きめる○",
+          "english": "to decide"
+        },
+        {
+          "japanese": "考える",
+          "romaji": "kangaeru",
+          "accent": "かんが↓える",
+          "english": "to think"
+        },
+        {
+          "japanese": "ご結婚",
+          "romaji": "gokekkon",
+          "accent": "ごけっこん○",
+          "english": "(your) marriage"
+        },
+        {
+          "japanese": "私たち",
+          "romaji": "watashitachi",
+          "accent": "わたし↓たち",
+          "english": "we"
+        },
+        {
+          "japanese": "うれしい",
+          "romaji": "ureshii",
+          "accent": "うれし↓い",
+          "english": "glad"
+        },
+        {
+          "japanese": "相手",
+          "romaji": "aite",
+          "accent": "あいて↓",
+          "english": "spouse"
+        },
+        {
+          "japanese": "お祝い",
+          "romaji": "oiwai",
+          "accent": "おいわい○",
+          "english": "gift"
+        },
+        {
+          "japanese": "ごちそうする",
+          "romaji": "gochisousuru",
+          "accent": "ごちそうする○",
+          "english": "to treat a meal"
+        },
+        {
+          "japanese": "きっと",
+          "romaji": "kitto",
+          "accent": "きっと○",
+          "english": "surely"
+        },
+        {
+          "japanese": "あげる",
+          "romaji": "ageru",
+          "accent": "あげる○",
+          "english": "to give"
+        },
+        {
+          "japanese": "楽しみですね",
+          "romaji": "tanoshimi desu ne",
+          "accent": "たのし↓みで↓すね",
+          "english": "That sounds exciting."
+        },
+        {
+          "japanese": "おめでとう（ございます）",
+          "romaji": "omedetou (gozaimasu)",
+          "accent": "おめでとう（ございま↓す）",
+          "english": "Congratulations."
+        },
+        {
+          "japanese": "お幸せに",
+          "romaji": "oshiawase ni",
+          "accent": "おしあわせに○",
+          "english": "Wish you all the happiness."
+        },
+        {
+          "japanese": "JLPT",
+          "romaji": "J-E-L-P-T",
+          "accent": "ジェーエルピーティ↓ー",
+          "english": "JLPT (Japanese-Language Proficiency Test)"
+        }
       ],
       "audio": "/audio/y/lesson18/wordlist_Y_18-1.mp3"
     },
@@ -14,7 +133,126 @@
       "title": "送別会をしませんか？",
       "number": "2.",
       "wordList": [
-        
+        {
+          "japanese": "フォトフレーム",
+          "romaji": "fotofureemu",
+          "accent": "フォトフレ↓ーム",
+          "english": "photo frame"
+        },
+        {
+          "japanese": "時計",
+          "romaji": "tokei",
+          "accent": "とけい○",
+          "english": "watch"
+        },
+        {
+          "japanese": "ネクタイ",
+          "romaji": "nekutai",
+          "accent": "ネ↓クタイ",
+          "english": "necktie"
+        },
+        {
+          "japanese": "アクセサリー",
+          "romaji": "akusesarii",
+          "accent": "ア↓クセサリー／アクセ↓サリー",
+          "english": "accessory"
+        },
+        {
+          "japanese": "ハンカチ",
+          "romaji": "hankachi",
+          "accent": "ハンカチ○／ハンカ↓チ",
+          "english": "handkerchief"
+        },
+        {
+          "japanese": "ケーキ",
+          "romaji": "keeki",
+          "accent": "ケ↓ーキ",
+          "english": "cake"
+        },
+        {
+          "japanese": "ギフトカード",
+          "romaji": "gifutokaado",
+          "accent": "ギフトカ↓ード",
+          "english": "gift card"
+        },
+        {
+          "japanese": "帰国（する）",
+          "romaji": "kikoku (suru)",
+          "accent": "きこく（する）○",
+          "english": "(to) return to one's country"
+        },
+        {
+          "japanese": "さびしい",
+          "romaji": "sabishii",
+          "accent": "さびし↓い",
+          "english": "be missed"
+        },
+        {
+          "japanese": "送別会",
+          "romaji": "soubetsukai",
+          "accent": "そうべつかい○／そうべつ↓かい",
+          "english": "farewell party"
+        },
+        {
+          "japanese": "呼ぶ",
+          "romaji": "yobu",
+          "accent": "よぶ○",
+          "english": "to call"
+        },
+        {
+          "japanese": "予約する",
+          "romaji": "yoyaku suru",
+          "accent": "よやくする○",
+          "english": "to make a reservation"
+        },
+        {
+          "japanese": "思い出",
+          "romaji": "omoide",
+          "accent": "おもいで○",
+          "english": "memories"
+        },
+        {
+          "japanese": "残る",
+          "romaji": "nokoru",
+          "accent": "のこ↓る",
+          "english": "to stay"
+        },
+        {
+          "japanese": "思う",
+          "romaji": "omou",
+          "accent": "おも↓う",
+          "english": "to think"
+        },
+        {
+          "japanese": "予算",
+          "romaji": "yosan",
+          "accent": "よさん○／よ↓さん",
+          "english": "budget"
+        },
+        {
+          "japanese": "参加者",
+          "romaji": "sankasha",
+          "accent": "さんか↓しゃ",
+          "english": "participants"
+        },
+        {
+          "japanese": "それなら",
+          "romaji": "sorenara",
+          "accent": "それな↓ら",
+          "english": "if so"
+        },
+        {
+          "japanese": "デジタルフォトフレーム",
+          "romaji": "dejitaru fotofureemu",
+          "accent": "デジタルフォトフレ↓ーム",
+          "english": "digital photo frame"
+        },
+        {
+          "japanese": "選ぶ",
+          "romaji": "erabu",
+          "accent": "えら↓ぶ",
+          "english": "to choose"
+        }
       ],
       "audio": "/audio/y/lesson18/wordlist_Y_18-2.mp3"
     },
@@ -22,7 +260,78 @@
       "title": "いろいろお世話になりました",
       "number": "3.",
       "wordList": [
-        
+        {
+          "japanese": "それでは",
+          "romaji": "soredewa",
+          "accent": "それで↓は",
+          "english": "now / then"
+        },
+        {
+          "japanese": "あいさつ",
+          "romaji": "aisatsu",
+          "accent": "あ↓いさつ",
+          "english": "speech / greeting"
+        },
+        {
+          "japanese": "はじめ",
+          "romaji": "hajime",
+          "accent": "はじめ○",
+          "english": "at first / beginning"
+        },
+        {
+          "japanese": "友だちができる",
+          "romaji": "tomodachi ga dekiru",
+          "accent": "ともだちができ↓る",
+          "english": "to make friends"
+        },
+        {
+          "japanese": "大切にする",
+          "romaji": "taisetsu ni suru",
+          "accent": "たいせつにする○",
+          "english": "to take good care"
+        },
+        {
+          "japanese": "飾る",
+          "romaji": "kazaru",
+          "accent": "かざる○",
+          "english": "to display / decorate"
+        },
+        {
+          "japanese": "～のこと（私のこと）",
+          "romaji": "～ no koto (watashi no koto)",
+          "accent": "～のこと↓（わたしのこと↓）",
+          "english": "about ～ (e.g. about me)"
+        },
+        {
+          "japanese": "忘れる",
+          "romaji": "wasureru",
+          "accent": "わすれる○",
+          "english": "to forget"
+        },
+        {
+          "japanese": "お元気で",
+          "romaji": "ogenki de",
+          "accent": "おげ↓んきで",
+          "english": "Take care."
+        },
+        {
+          "japanese": "乾杯",
+          "romaji": "kanpai",
+          "accent": "かんぱい○",
+          "english": "Cheers."
+        },
+        {
+          "japanese": "お世話になりました",
+          "romaji": "osewa ni narimashita",
+          "accent": "おせ↓わになりま↓した",
+          "english": "Thank you for everything you have done for me."
+        },
+        {
+          "japanese": "元気でいてください",
+          "romaji": "genki de ite kudasai",
+          "accent": "げ↓んきでいてくださ↓い",
+          "english": "Please take care of yourself."
+        }
       ],
       "audio": "/audio/y/lesson18/wordlist_Y_18-3.mp3"
     },
@@ -30,7 +339,72 @@
       "title": "誕生日の書き込み",
       "number": "4.",
       "wordList": [
-        
+        {
+          "japanese": "メッセージ",
+          "romaji": "messeeji",
+          "accent": "メ↓ッセージ",
+          "english": "message"
+        },
+        {
+          "japanese": "とうとう",
+          "romaji": "toutou",
+          "accent": "と↓うとう",
+          "english": "finally"
+        },
+        {
+          "japanese": "～代（30代）",
+          "romaji": "～dai (sanjuu dai)",
+          "accent": "さんじゅ↓うだい",
+          "english": "～s (e.g. 30s)"
+        },
+        {
+          "japanese": "歌う",
+          "romaji": "utau",
+          "accent": "うたう○",
+          "english": "to sing"
+        },
+        {
+          "japanese": "踊る",
+          "romaji": "odoru",
+          "accent": "おどる○",
+          "english": "to dance"
+        },
+        {
+          "japanese": "サービス",
+          "romaji": "saabisu",
+          "accent": "サ↓ービス",
+          "english": "service"
+        },
+        {
+          "japanese": "あたたかい",
+          "romaji": "atatakai",
+          "accent": "あたたか↓い",
+          "english": "warm / kind"
+        },
+        {
+          "japanese": "カラオケ",
+          "romaji": "karaoke",
+          "accent": "カラオケ○",
+          "english": "karaoke"
+        },
+        {
+          "japanese": "幸せ（な）",
+          "romaji": "shiawase (na)",
+          "accent": "しあわせ（な）○",
+          "english": "happy"
+        },
+        {
+          "japanese": "素敵（な）",
+          "romaji": "suteki (na)",
+          "accent": "すてき（な）○",
+          "english": "wonderful"
+        },
+        {
+          "japanese": "～ますように",
+          "romaji": "～masu you ni",
+          "accent": "～ま↓すよ↓うに",
+          "english": "I hope ～. (used when expressing a wish)"
+        }
       ],
       "audio": "/audio/y/lesson18/wordlist_Y_18-4.mp3"
     },
@@ -38,7 +412,60 @@
       "title": "お祝いのメッセージ",
       "number": "5.",
       "wordList": [
-        
+        {
+          "japanese": "家庭",
+          "romaji": "katei",
+          "accent": "かてい○",
+          "english": "home / household"
+        },
+        {
+          "japanese": "いつまでも",
+          "romaji": "itsumademo",
+          "accent": "い↓つまでも",
+          "english": "for many years to come"
+        },
+        {
+          "japanese": "築く",
+          "romaji": "kizuku",
+          "accent": "きず↓く",
+          "english": "to create / to build"
+        },
+        {
+          "japanese": "末永く",
+          "romaji": "suenagaku",
+          "accent": "すえな↓がく",
+          "english": "forever"
+        },
+        {
+          "japanese": "いなくなる",
+          "romaji": "inakunaru",
+          "accent": "いなくな↓る",
+          "english": "to leave"
+        },
+        {
+          "japanese": "がんばってください",
+          "romaji": "ganbatte kudasai",
+          "accent": "がんば↓ってくださ↓い",
+          "english": "Good luck."
+        },
+        {
+          "japanese": "これまで",
+          "romaji": "kore made",
+          "accent": "これま↓で",
+          "english": "up until now"
+        },
+        {
+          "japanese": "活躍",
+          "romaji": "katsuyaku",
+          "accent": "かつやく○",
+          "english": "success"
+        },
+        {
+          "japanese": "期待する",
+          "romaji": "kitai suru",
+          "accent": "きたいする○",
+          "english": "to expect / to hope for"
+        }
       ],
       "audio": "/audio/y/lesson18/wordlist_Y_18-5.mp3"
     }

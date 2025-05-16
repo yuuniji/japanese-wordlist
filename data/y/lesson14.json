@@ -6,7 +6,132 @@
       "title": "少し遅くなります",
       "number": "1.",
       "wordList": [
-        
+        {
+          "japanese": "混んでいる",
+          "romaji": "konde iru",
+          "accent": "こ↓んでいる",
+          "english": "crowded"
+        },
+        {
+          "japanese": "せき",
+          "romaji": "seki",
+          "accent": "せき↓",
+          "english": "cough"
+        },
+        {
+          "japanese": "ひどい",
+          "romaji": "hidoi",
+          "accent": "ひど↓い",
+          "english": "bad / awful"
+        },
+        {
+          "japanese": "熱",
+          "romaji": "netsu",
+          "accent": "ねつ↓",
+          "english": "fever"
+        },
+        {
+          "japanese": "熱がある",
+          "romaji": "netsu ga aru",
+          "accent": "ねつ↓があ↓る",
+          "english": "to have a fever"
+        },
+        {
+          "japanese": "財布",
+          "romaji": "saifu",
+          "accent": "さいふ○",
+          "english": "wallet"
+        },
+        {
+          "japanese": "忘れる",
+          "romaji": "wasureru",
+          "accent": "わすれる○",
+          "english": "to forget"
+        },
+        {
+          "japanese": "病院",
+          "romaji": "byouin",
+          "accent": "びょういん○",
+          "english": "hospital"
+        },
+        {
+          "japanese": "家",
+          "romaji": "ie",
+          "accent": "いえ↓",
+          "english": "house"
+        },
+        {
+          "japanese": "帰る",
+          "romaji": "kaeru",
+          "accent": "か↓える",
+          "english": "to go home"
+        },
+        {
+          "japanese": "これから",
+          "romaji": "kore kara",
+          "accent": "これから○",
+          "english": "from now"
+        },
+        {
+          "japanese": "取る",
+          "romaji": "toru",
+          "accent": "と↓る",
+          "english": "to pick up"
+        },
+        {
+          "japanese": "それで",
+          "romaji": "sore de",
+          "accent": "それで○",
+          "english": "because of that"
+        },
+        {
+          "japanese": "遅くなる",
+          "romaji": "osoku naru",
+          "accent": "おそくな↓る",
+          "english": "to be late"
+        },
+        {
+          "japanese": "みなさん",
+          "romaji": "minasan",
+          "accent": "みな↓さん",
+          "english": "everyone"
+        },
+        {
+          "japanese": "伝える",
+          "romaji": "tsutaeru",
+          "accent": "つたえる○",
+          "english": "to tell"
+        },
+        {
+          "japanese": "遅刻する",
+          "romaji": "chikoku suru",
+          "accent": "ちこくする○",
+          "english": "to be late"
+        },
+        {
+          "japanese": "あとで",
+          "romaji": "ato de",
+          "accent": "あ↓とで",
+          "english": "later"
+        },
+        {
+          "japanese": "休む",
+          "romaji": "yasumu",
+          "accent": "やす↓む",
+          "english": "to take a day off / to get a leave"
+        },
+        {
+          "japanese": "申し訳ありません",
+          "romaji": "moushiwake arimasen",
+          "accent": "もうしわけありませ↓ん",
+          "english": "I am sorry."
+        },
+        {
+          "japanese": "具合が悪い",
+          "romaji": "guai ga warui",
+          "accent": "ぐあいがわる↓い",
+          "english": "feel bad / unwell"
+        }
       ],
       "audio": "/audio/y/lesson14/wordlist_Y_14-1.mp3"
     },
@@ -14,7 +139,42 @@
       "title": "トイレに行って来てもいいですか？",
       "number": "2.",
       "wordList": [
-        
+        {
+          "japanese": "お祈り",
+          "romaji": "oinori",
+          "accent": "おいのり○",
+          "english": "prayer"
+        },
+        {
+          "japanese": "たばこ",
+          "romaji": "tabako",
+          "accent": "たばこ○",
+          "english": "tobacco / cigarette"
+        },
+        {
+          "japanese": "吸う（たばこを吸う）",
+          "romaji": "suu (tabako o suu)",
+          "accent": "すう○（たばこをすう〇）",
+          "english": "to smoke (e.g. smoke a cigarette)"
+        },
+        {
+          "japanese": "行って来る",
+          "romaji": "itte kuru",
+          "accent": "いってく↓る",
+          "english": "to go (and come back after)"
+        },
+        {
+          "japanese": "休憩（する）",
+          "romaji": "kyuukei (suru)",
+          "accent": "きゅうけい（する）○",
+          "english": "(to take) a break"
+        },
+        {
+          "japanese": "戻る",
+          "romaji": "modoru",
+          "accent": "もど↓る",
+          "english": "to return"
+        }
       ],
       "audio": "/audio/y/lesson14/wordlist_Y_14-2.mp3"
     },
@@ -22,7 +182,78 @@
       "title": "明日の午後、早退してもいいでしょうか？",
       "number": "3.",
       "wordList": [
-        
+        {
+          "japanese": "早退する",
+          "romaji": "soutai suru",
+          "accent": "そうたいする○",
+          "english": "to leave early"
+        },
+        {
+          "japanese": "休みを取る",
+          "romaji": "yasumi o toru",
+          "accent": "やすみ↓を　と↓る",
+          "english": "to take a day off / to get a leave"
+        },
+        {
+          "japanese": "社長",
+          "romaji": "shachou",
+          "accent": "しゃちょう○",
+          "english": "president"
+        },
+        {
+          "japanese": "役所",
+          "romaji": "yakusho",
+          "accent": "やくしょ↓",
+          "english": "city hall"
+        },
+        {
+          "japanese": "早く",
+          "romaji": "hayaku",
+          "accent": "は↓やく",
+          "english": "early"
+        },
+        {
+          "japanese": "用事",
+          "romaji": "youji",
+          "accent": "ようじ○",
+          "english": "errand"
+        },
+        {
+          "japanese": "済む",
+          "romaji": "sumu",
+          "accent": "す↓む",
+          "english": "to finish"
+        },
+        {
+          "japanese": "主任",
+          "romaji": "shunin",
+          "accent": "しゅにん○",
+          "english": "chief"
+        },
+        {
+          "japanese": "来月",
+          "romaji": "raigetsu",
+          "accent": "ら↓いげつ／らいげつ○",
+          "english": "next month"
+        },
+        {
+          "japanese": "できたら",
+          "romaji": "dekitara",
+          "accent": "で↓きたら",
+          "english": "if possible"
+        },
+        {
+          "japanese": "ちょっと、いいでしょうか？",
+          "romaji": "chotto, ii deshou ka?",
+          "accent": "ちょ↓っと、　い↓いでしょうか？",
+          "english": "Excuse me, but may I interrupt?"
+        },
+        {
+          "japanese": "別にかまいません",
+          "romaji": "betsu ni kamaimasen",
+          "accent": "べつにかまいませ↓ん",
+          "english": "No problem."
+        }
       ],
       "audio": "/audio/y/lesson14/wordlist_Y_14-3.mp3"
     },
@@ -30,7 +261,138 @@
       "title": "休暇届を出してください",
       "number": "4.",
       "wordList": [
-        
+        {
+          "japanese": "休暇届",
+          "romaji": "kyuuka todoke",
+          "accent": "きゅうかと↓どけ",
+          "english": "vacation request / leave form"
+        },
+        {
+          "japanese": "出す",
+          "romaji": "dasu",
+          "accent": "だ↓す",
+          "english": "to submit"
+        },
+        {
+          "japanese": "フォーム",
+          "romaji": "fōmu",
+          "accent": "フォ↓ーム／フォーム○",
+          "english": "form"
+        },
+        {
+          "japanese": "所属",
+          "romaji": "shozoku",
+          "accent": "しょぞく○",
+          "english": "affiliation"
+        },
+        {
+          "japanese": "チーム",
+          "romaji": "chīmu",
+          "accent": "チ↓ーム",
+          "english": "team"
+        },
+        {
+          "japanese": "総務",
+          "romaji": "soumu",
+          "accent": "そ↓うむ",
+          "english": "general affairs"
+        },
+        {
+          "japanese": "氏名",
+          "romaji": "shimei",
+          "accent": "し↓めい",
+          "english": "full name"
+        },
+        {
+          "japanese": "ハンコ",
+          "romaji": "hanko",
+          "accent": "ハンコ↓",
+          "english": "stamp"
+        },
+        {
+          "japanese": "持っている",
+          "romaji": "motte iru",
+          "accent": "も↓っている",
+          "english": "have"
+        },
+        {
+          "japanese": "持つ",
+          "romaji": "motsu",
+          "accent": "も↓つ",
+          "english": "to have"
+        },
+        {
+          "japanese": "で",
+          "romaji": "de",
+          "accent": "で↓",
+          "english": "because of that (a casual way of saying それで)"
+        },
+        {
+          "japanese": "期間",
+          "romaji": "kikan",
+          "accent": "き↓かん",
+          "english": "duration"
+        },
+        {
+          "japanese": "理由",
+          "romaji": "riyuu",
+          "accent": "りゆう○",
+          "english": "reason"
+        },
+        {
+          "japanese": "普通",
+          "romaji": "futsuu",
+          "accent": "ふつう○",
+          "english": "ordinary"
+        },
+        {
+          "japanese": "私用",
+          "romaji": "shiyou",
+          "accent": "しよう○",
+          "english": "for private reason"
+        },
+        {
+          "japanese": "～中（休み中）",
+          "romaji": "～chuu (yasumi chuu)",
+          "accent": "～ちゅう　（やすみちゅう○）",
+          "english": "while ～ (e.g. while on leave)"
+        },
+        {
+          "japanese": "連絡先",
+          "romaji": "renrakusaki",
+          "accent": "れんらくさき○",
+          "english": "contact information"
+        },
+        {
+          "japanese": "備考",
+          "romaji": "bikou",
+          "accent": "びこう○",
+          "english": "remarks"
+        },
+        {
+          "japanese": "いる",
+          "romaji": "iru",
+          "accent": "いる○",
+          "english": "to require"
+        },
+        {
+          "japanese": "承認印",
+          "romaji": "shounin in",
+          "accent": "しょうに↓んいん",
+          "english": "seal of approval"
+        },
+        {
+          "japanese": "事前に",
+          "romaji": "jizen ni",
+          "accent": "じぜんに○",
+          "english": "in advance"
+        },
+        {
+          "japanese": "提出する",
+          "romaji": "teishutsu suru",
+          "accent": "ていしゅつする○",
+          "english": "to submit"
+        }
       ],
       "audio": "/audio/y/lesson14/wordlist_Y_14-4.mp3"
     }

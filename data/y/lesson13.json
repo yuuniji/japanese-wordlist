@@ -6,7 +6,114 @@
       "title": "パソコンが動かないんですが…",
       "number": "1.",
       "wordList": [
-        
+        {
+          "japanese": "電気",
+          "romaji": "denki",
+          "accent": "で↓んき",
+          "english": "light"
+        },
+        {
+          "japanese": "つく（電気がつく）",
+          "romaji": "tsuku (denki ga tsuku)",
+          "accent": "つ↓く（で↓んきが　つ↓く）",
+          "english": "to be on (e.g. light turns on)"
+        },
+        {
+          "japanese": "変（な）",
+          "romaji": "hen (na)",
+          "accent": "へ↓ん（な）",
+          "english": "strange"
+        },
+        {
+          "japanese": "音",
+          "romaji": "oto",
+          "accent": "おと↓",
+          "english": "sound"
+        },
+        {
+          "japanese": "音がする",
+          "romaji": "oto ga suru",
+          "accent": "おと↓がする",
+          "english": "to be making a noise"
+        },
+        {
+          "japanese": "動く",
+          "romaji": "ugoku",
+          "accent": "うご↓く",
+          "english": "to work / to move"
+        },
+        {
+          "japanese": "トイレットペーパー",
+          "romaji": "toiretto pēpā",
+          "accent": "トイレットペ↓ーパー",
+          "english": "toilet paper"
+        },
+        {
+          "japanese": "なくなる",
+          "romaji": "nakunaru",
+          "accent": "なくなる○",
+          "english": "to be out of"
+        },
+        {
+          "japanese": "業者",
+          "romaji": "gyousha",
+          "accent": "ぎょうしゃ○／ぎょ↓うしゃ",
+          "english": "supplier / contractor"
+        },
+        {
+          "japanese": "電話する",
+          "romaji": "denwa suru",
+          "accent": "でんわする○",
+          "english": "to telephone"
+        },
+        {
+          "japanese": "再起動する",
+          "romaji": "saikidou suru",
+          "accent": "さいき↓どうする",
+          "english": "to restart"
+        },
+        {
+          "japanese": "管理室",
+          "romaji": "kanri shitsu",
+          "accent": "かんり↓しつ",
+          "english": "control room / management office"
+        },
+        {
+          "japanese": "連絡する",
+          "romaji": "renraku suru",
+          "accent": "れんらくする○",
+          "english": "to contact"
+        },
+        {
+          "japanese": "倉庫",
+          "romaji": "souko",
+          "accent": "そ↓うこ",
+          "english": "storeroom"
+        },
+        {
+          "japanese": "取って来る",
+          "romaji": "totte kuru",
+          "accent": "とってく↓る",
+          "english": "to get and come back"
+        },
+        {
+          "japanese": "コーヒーマシーン",
+          "romaji": "kōhī mashīn",
+          "accent": "コーヒーマシ↓ーン",
+          "english": "coffeemaker"
+        },
+        {
+          "japanese": "パソコン",
+          "romaji": "pasokon",
+          "accent": "パソコン○",
+          "english": "personal computer"
+        },
+        {
+          "japanese": "とりあえず",
+          "romaji": "toriaezu",
+          "accent": "とりあ↓えず",
+          "english": "tentatively"
+        }
       ],
       "audio": "/audio/y/lesson13/wordlist_Y_13-1.mp3"
     },
@@ -14,7 +121,30 @@
       "title": "どのぐらいかかりそうですか？",
       "number": "2.",
       "wordList": [
-        
+        {
+          "japanese": "やり方",
+          "romaji": "yarikata",
+          "accent": "やりかた○",
+          "english": "how to do (something)"
+        },
+        {
+          "japanese": "終わる",
+          "romaji": "owaru",
+          "accent": "おわる○",
+          "english": "to finish"
+        },
+        {
+          "japanese": "もうすぐ",
+          "romaji": "mousugu",
+          "accent": "もうす↓ぐ",
+          "english": "soon / almost"
+        },
+        {
+          "japanese": "できる",
+          "romaji": "dekiru",
+          "accent": "でき↓る",
+          "english": "to finish"
+        }
       ],
       "audio": "/audio/y/lesson13/wordlist_Y_13-2.mp3"
     },
@@ -22,7 +152,186 @@
       "title": "コピー機の使い方を教えてもらえませんか？",
       "number": "3.",
       "wordList": [
-        
+        {
+          "japanese": "コピー機",
+          "romaji": "kopiiki",
+          "accent": "コピ↓ーき",
+          "english": "copy machine"
+        },
+        {
+          "japanese": "原稿",
+          "romaji": "genkou",
+          "accent": "げんこう○",
+          "english": "paperwork"
+        },
+        {
+          "japanese": "セットする",
+          "romaji": "setto suru",
+          "accent": "セ↓ットする",
+          "english": "to set"
+        },
+        {
+          "japanese": "枚数",
+          "romaji": "maisuu",
+          "accent": "まいす↓う",
+          "english": "number of copies"
+        },
+        {
+          "japanese": "数字",
+          "romaji": "suuji",
+          "accent": "すうじ○",
+          "english": "number"
+        },
+        {
+          "japanese": "入れる",
+          "romaji": "ireru",
+          "accent": "いれる○",
+          "english": "to input"
+        },
+        {
+          "japanese": "スタート",
+          "romaji": "sutaato",
+          "accent": "スタ↓ート",
+          "english": "start"
+        },
+        {
+          "japanese": "ボタン",
+          "romaji": "botan",
+          "accent": "ボタン○／ボ↓タン",
+          "english": "button"
+        },
+        {
+          "japanese": "押す",
+          "romaji": "osu",
+          "accent": "おす○",
+          "english": "to press"
+        },
+        {
+          "japanese": "両面",
+          "romaji": "ryoumen",
+          "accent": "りょうめん○",
+          "english": "both sides"
+        },
+        {
+          "japanese": "片面",
+          "romaji": "katamen",
+          "accent": "かためん○",
+          "english": "one side"
+        },
+        {
+          "japanese": "カラー",
+          "romaji": "karaa",
+          "accent": "カ↓ラー",
+          "english": "color"
+        },
+        {
+          "japanese": "できるだけ",
+          "romaji": "dekiru dake",
+          "accent": "できるだけ○",
+          "english": "as much as possible"
+        },
+        {
+          "japanese": "白黒",
+          "romaji": "shirokuro",
+          "accent": "しろくろ○",
+          "english": "black and white"
+        },
+        {
+          "japanese": "スキャナ",
+          "romaji": "sukyana",
+          "accent": "スキャナ○",
+          "english": "scanner"
+        },
+        {
+          "japanese": "ファックス",
+          "romaji": "fakkusu",
+          "accent": "ファ↓ックス",
+          "english": "fax"
+        },
+        {
+          "japanese": "自動選択",
+          "romaji": "jidou sentaku",
+          "accent": "じどうせ↓んたく",
+          "english": "automatic selection"
+        },
+        {
+          "japanese": "フルカラー",
+          "romaji": "furukaraa",
+          "accent": "フルカ↓ラー",
+          "english": "full color"
+        },
+        {
+          "japanese": "2色",
+          "romaji": "nishoku",
+          "accent": "に↓しょく",
+          "english": "two colors"
+        },
+        {
+          "japanese": "単色",
+          "romaji": "tanshoku",
+          "accent": "たんしょく○",
+          "english": "monochrome"
+        },
+        {
+          "japanese": "自動濃度",
+          "romaji": "jidou noudo",
+          "accent": "じどうの↓うど",
+          "english": "automatic saturation"
+        },
+        {
+          "japanese": "用紙",
+          "romaji": "youshi",
+          "accent": "ようし○",
+          "english": "paper"
+        },
+        {
+          "japanese": "手差し",
+          "romaji": "tezashi",
+          "accent": "てざし○",
+          "english": "insert by hand"
+        },
+        {
+          "japanese": "倍率",
+          "romaji": "bairitsu",
+          "accent": "ばいりつ○",
+          "english": "scaling"
+        },
+        {
+          "japanese": "等倍",
+          "romaji": "toubai",
+          "accent": "とうばい○",
+          "english": "same size"
+        },
+        {
+          "japanese": "変倍",
+          "romaji": "henbai",
+          "accent": "へんばい○",
+          "english": "different size"
+        },
+        {
+          "japanese": "拡大",
+          "romaji": "kakudai",
+          "accent": "かくだい○",
+          "english": "enlarge"
+        },
+        {
+          "japanese": "縮小",
+          "romaji": "shukushou",
+          "accent": "しゅくしょう○",
+          "english": "reduce"
+        },
+        {
+          "japanese": "ソート",
+          "romaji": "sooto",
+          "accent": "ソート○",
+          "english": "sort"
+        },
+        {
+          "japanese": "ホチキス止め",
+          "romaji": "hochikisu dome",
+          "accent": "ホチキスどめ○",
+          "english": "staple"
+        }
       ],
       "audio": "/audio/y/lesson13/wordlist_Y_13-3.mp3"
     },
@@ -30,7 +339,150 @@
       "title": "会議の準備は、どうしますか？",
       "number": "4.",
       "wordList": [
-        
+        {
+          "japanese": "資料",
+          "romaji": "shiryou",
+          "accent": "し↓りょう",
+          "english": "material / document"
+        },
+        {
+          "japanese": "キャビネット",
+          "romaji": "kyabinetto",
+          "accent": "キャ↓ビネット／キャビネ↓ット",
+          "english": "cabinet"
+        },
+        {
+          "japanese": "戻す",
+          "romaji": "modosu",
+          "accent": "もど↓す",
+          "english": "to return"
+        },
+        {
+          "japanese": "扉",
+          "romaji": "tobira",
+          "accent": "とびら○",
+          "english": "door"
+        },
+        {
+          "japanese": "開ける",
+          "romaji": "akeru",
+          "accent": "あける○",
+          "english": "to open"
+        },
+        {
+          "japanese": "棚",
+          "romaji": "tana",
+          "accent": "たな○",
+          "english": "shelf"
+        },
+        {
+          "japanese": "並べる",
+          "romaji": "naraberu",
+          "accent": "ならべる○",
+          "english": "to line up"
+        },
+        {
+          "japanese": "丸い",
+          "romaji": "marui",
+          "accent": "まるい○／まる↓い",
+          "english": "round"
+        },
+        {
+          "japanese": "出す",
+          "romaji": "dasu",
+          "accent": "だ↓す",
+          "english": "to take out"
+        },
+        {
+          "japanese": "～列（3列）",
+          "romaji": "retsu (sanretsu)",
+          "accent": "～れつ　（さ↓んれつ）",
+          "english": "row(s) (e.g. three rows)"
+        },
+        {
+          "japanese": "後ろ",
+          "romaji": "ushiro",
+          "accent": "うしろ○",
+          "english": "back"
+        },
+        {
+          "japanese": "スペース",
+          "romaji": "supeesu",
+          "accent": "スペ↓ース",
+          "english": "space"
+        },
+        {
+          "japanese": "あける",
+          "romaji": "akeru",
+          "accent": "あける○",
+          "english": "to make room"
+        },
+        {
+          "japanese": "入口",
+          "romaji": "iriguchi",
+          "accent": "いりぐち○",
+          "english": "entrance"
+        },
+        {
+          "japanese": "四角い",
+          "romaji": "shikakui",
+          "accent": "しかくい○／しかく↓い",
+          "english": "square"
+        },
+        {
+          "japanese": "置く",
+          "romaji": "oku",
+          "accent": "おく○",
+          "english": "to place"
+        },
+        {
+          "japanese": "会議",
+          "romaji": "kaigi",
+          "accent": "か↓いぎ",
+          "english": "meeting"
+        },
+        {
+          "japanese": "セッティング",
+          "romaji": "settingu",
+          "accent": "セッティング○",
+          "english": "setting"
+        },
+        {
+          "japanese": "コの字",
+          "romaji": "ko no ji",
+          "accent": "コの↓じ",
+          "english": "u-shaped"
+        },
+        {
+          "japanese": "準備する",
+          "romaji": "junbi suru",
+          "accent": "じゅ↓んびする",
+          "english": "to prepare / to set up"
+        },
+        {
+          "japanese": "人数分",
+          "romaji": "ninzuu bun",
+          "accent": "にんずうぶん○",
+          "english": "for the number of people"
+        },
+        {
+          "japanese": "～部（1部）",
+          "romaji": "bu (ichibu)",
+          "accent": "～ぶ　（いち↓ぶ）",
+          "english": "copy/ies (e.g. one copy)"
+        },
+        {
+          "japanese": "頼む",
+          "romaji": "tanomu",
+          "accent": "たの↓む",
+          "english": "to request / to ask"
+        },
+        {
+          "japanese": "いいです",
+          "romaji": "ii desu",
+          "accent": "い↓いです",
+          "english": "No thank you."
+        }
       ],
       "audio": "/audio/y/lesson13/wordlist_Y_13-4.mp3"
     },
@@ -38,7 +490,96 @@
       "title": "お知らせのメール",
       "number": "5.",
       "wordList": [
-        
+        {
+          "japanese": "件名",
+          "romaji": "kenmei",
+          "accent": "けんめい○",
+          "english": "subject"
+        },
+        {
+          "japanese": "変更",
+          "romaji": "henkou",
+          "accent": "へんこう○",
+          "english": "change"
+        },
+        {
+          "japanese": "お知らせ",
+          "romaji": "oshirase",
+          "accent": "おしらせ○",
+          "english": "notification"
+        },
+        {
+          "japanese": "都合が悪い",
+          "romaji": "tsugou ga warui",
+          "accent": "つごうがわる↓い",
+          "english": "inconvenient"
+        },
+        {
+          "japanese": "注意（する）",
+          "romaji": "chuui (suru)",
+          "accent": "ちゅ↓うい（する）",
+          "english": "(to pay) attention"
+        },
+        {
+          "japanese": "社内メール",
+          "romaji": "shanai meeru",
+          "accent": "しゃないメ↓ール",
+          "english": "internal company email"
+        },
+        {
+          "japanese": "打ち合わせ",
+          "romaji": "uchiawase",
+          "accent": "うちあわせ○",
+          "english": "meeting"
+        },
+        {
+          "japanese": "日程",
+          "romaji": "nittei",
+          "accent": "にってい○",
+          "english": "schedule"
+        },
+        {
+          "japanese": "差出人",
+          "romaji": "sashidashin",
+          "accent": "さしだしにん○",
+          "english": "sender"
+        },
+        {
+          "japanese": "日付",
+          "romaji": "hidzuke",
+          "accent": "ひづけ○",
+          "english": "date"
+        },
+        {
+          "japanese": "皆様",
+          "romaji": "minasama",
+          "accent": "みな↓さま",
+          "english": "dear all (polite expression)"
+        },
+        {
+          "japanese": "なお",
+          "romaji": "nao",
+          "accent": "な↓お",
+          "english": "furthermore"
+        },
+        {
+          "japanese": "お知らせします",
+          "romaji": "oshirase shimasu",
+          "accent": "おしらせしま↓す",
+          "english": "This is to inform you. (polite expression)"
+        },
+        {
+          "japanese": "ご連絡ください",
+          "romaji": "gorenraku kudasai",
+          "accent": "ごれんらくくださ↓い",
+          "english": "Please contact ～. (polite expression)"
+        },
+        {
+          "japanese": "ご注意ください",
+          "romaji": "gochuui kudasai",
+          "accent": "ごちゅ↓ういくださ↓い",
+          "english": "Please be aware that ～. (polite expression)"
+        }
       ],
       "audio": "/audio/y/lesson13/wordlist_Y_13-5.mp3"
     }

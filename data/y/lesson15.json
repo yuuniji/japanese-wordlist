@@ -6,7 +6,156 @@
       "title": "今日はどうしましたか？",
       "number": "1.",
       "wordList": [
-        
+        {
+          "japanese": "症状",
+          "romaji": "shoujou",
+          "accent": "しょうじょ↓う",
+          "english": "symptom"
+        },
+        {
+          "japanese": "のど",
+          "romaji": "nodo",
+          "accent": "の↓ど",
+          "english": "throat"
+        },
+        {
+          "japanese": "痛い",
+          "romaji": "itai",
+          "accent": "いた↓い",
+          "english": "hurts"
+        },
+        {
+          "japanese": "お腹",
+          "romaji": "onaka",
+          "accent": "おなか○",
+          "english": "stomach"
+        },
+        {
+          "japanese": "熱",
+          "romaji": "netsu",
+          "accent": "ねつ↓",
+          "english": "fever"
+        },
+        {
+          "japanese": "せき",
+          "romaji": "seki",
+          "accent": "せき↓",
+          "english": "cough"
+        },
+        {
+          "japanese": "出る（せき／鼻水が出る）",
+          "romaji": "deru (seki / hanamizu ga deru)",
+          "accent": "で↓る　（せき↓／はなみ↓ずが　で↓る）",
+          "english": "to have (a cough / runny nose)"
+        },
+        {
+          "japanese": "鼻水",
+          "romaji": "hanamizu",
+          "accent": "はなみ↓ず／はなみず○",
+          "english": "runny nose"
+        },
+        {
+          "japanese": "吐き気",
+          "romaji": "hakike",
+          "accent": "はきけ↓",
+          "english": "nausea"
+        },
+        {
+          "japanese": "吐き気がする",
+          "romaji": "hakike ga suru",
+          "accent": "はきけ↓がする",
+          "english": "to have nausea"
+        },
+        {
+          "japanese": "食欲",
+          "romaji": "shokuyoku",
+          "accent": "しょくよく○／しょく↓よく",
+          "english": "appetite"
+        },
+        {
+          "japanese": "目",
+          "romaji": "me",
+          "accent": "め↓",
+          "english": "eye"
+        },
+        {
+          "japanese": "かゆい",
+          "romaji": "kayui",
+          "accent": "かゆ↓い",
+          "english": "itchy"
+        },
+        {
+          "japanese": "足",
+          "romaji": "ashi",
+          "accent": "あし↓",
+          "english": "leg / foot"
+        },
+        {
+          "japanese": "くじく",
+          "romaji": "kujiku",
+          "accent": "くじ↓く",
+          "english": "to twist"
+        },
+        {
+          "japanese": "頭",
+          "romaji": "atama",
+          "accent": "あたま↓",
+          "english": "head"
+        },
+        {
+          "japanese": "ぶつける",
+          "romaji": "butsukeru",
+          "accent": "ぶつける○",
+          "english": "to bump"
+        },
+        {
+          "japanese": "おととい",
+          "romaji": "ototoi",
+          "accent": "おとと↓い／おととい○",
+          "english": "the day before yesterday"
+        },
+        {
+          "japanese": "転ぶ",
+          "romaji": "korobu",
+          "accent": "ころぶ○",
+          "english": "to fall"
+        },
+        {
+          "japanese": "こう",
+          "romaji": "kou",
+          "accent": "こう○",
+          "english": "this"
+        },
+        {
+          "japanese": "レントゲン",
+          "romaji": "rentogen",
+          "accent": "レントゲン○",
+          "english": "X-ray"
+        },
+        {
+          "japanese": "～週間（1週間）",
+          "romaji": "～shuukan (isshuukan)",
+          "accent": "～しゅ↓うかん　（いっしゅ↓うかん）",
+          "english": "～ week(s) (e.g. one week)"
+        },
+        {
+          "japanese": "花粉症",
+          "romaji": "kafunshou",
+          "accent": "かふんしょう○",
+          "english": "pollen allergy"
+        },
+        {
+          "japanese": "どうしましたか？",
+          "romaji": "dou shimashita ka?",
+          "accent": "ど↓うしま↓したか？",
+          "english": "What's wrong?"
+        },
+        {
+          "japanese": "どうされましたか？",
+          "romaji": "dou saremashita ka?",
+          "accent": "ど↓うされま↓したか？",
+          "english": "What's wrong? (polite expression for どうしましたか？)"
+        }
       ],
       "audio": "/audio/y/lesson15/wordlist_Y_15-1.mp3"
     },
@@ -14,7 +163,138 @@
       "title": "インフルエンザですね",
       "number": "2.",
       "wordList": [
-        
+        {
+          "japanese": "保険証",
+          "romaji": "hokenshou",
+          "accent": "ほけんしょう○",
+          "english": "health insurance card"
+        },
+        {
+          "japanese": "問診票",
+          "romaji": "monshinhyou",
+          "accent": "もんしんひょう○",
+          "english": "questionnaire"
+        },
+        {
+          "japanese": "薬",
+          "romaji": "kusuri",
+          "accent": "くすり○",
+          "english": "medicine"
+        },
+        {
+          "japanese": "飲む（薬を飲む）",
+          "romaji": "nomu (kusuri wo nomu)",
+          "accent": "の↓む　（くすりをの↓む）",
+          "english": "to take (medicine)"
+        },
+        {
+          "japanese": "会う",
+          "romaji": "au",
+          "accent": "あ↓う",
+          "english": "to meet"
+        },
+        {
+          "japanese": "やわらかい",
+          "romaji": "yawarakai",
+          "accent": "やわらか↓い",
+          "english": "soft"
+        },
+        {
+          "japanese": "辛い",
+          "romaji": "karai",
+          "accent": "から↓い",
+          "english": "spicy / hot"
+        },
+        {
+          "japanese": "診察券",
+          "romaji": "shinsatsuken",
+          "accent": "しんさつ↓けん",
+          "english": "hospital / clinic registration card"
+        },
+        {
+          "japanese": "処方せん",
+          "romaji": "shohousen",
+          "accent": "しょほうせん○",
+          "english": "prescription"
+        },
+        {
+          "japanese": "記入する",
+          "romaji": "kinyuu suru",
+          "accent": "きにゅうする○",
+          "english": "to fill out"
+        },
+        {
+          "japanese": "医者",
+          "romaji": "isha",
+          "accent": "いしゃ○",
+          "english": "doctor"
+        },
+        {
+          "japanese": "～度～分（38度5分）",
+          "romaji": "～do～bun (sanjuuhachido gobu)",
+          "accent": "さ↓んじゅう△はちどご↓ぶ",
+          "english": "～ degrees (e.g. 38.5 degrees)"
+        },
+        {
+          "japanese": "口",
+          "romaji": "kuchi",
+          "accent": "くち○",
+          "english": "mouth"
+        },
+        {
+          "japanese": "インフルエンザ",
+          "romaji": "infuruenza",
+          "accent": "インフルエ↓ンザ",
+          "english": "influenza"
+        },
+        {
+          "japanese": "検査する",
+          "romaji": "kensa suru",
+          "accent": "け↓んさする",
+          "english": "to examine"
+        },
+        {
+          "japanese": "A型",
+          "romaji": "E-gata",
+          "accent": "エーがた○",
+          "english": "type A"
+        },
+        {
+          "japanese": "下がる（熱が下がる）",
+          "romaji": "sagaru (netsu ga sagaru)",
+          "accent": "さが↓る　（ねつ↓が　さが↓る）",
+          "english": "to go down (e.g. fever goes down)"
+        },
+        {
+          "japanese": "おかゆ",
+          "romaji": "okayu",
+          "accent": "おかゆ○",
+          "english": "rice porridge"
+        },
+        {
+          "japanese": "薬局",
+          "romaji": "yakkyoku",
+          "accent": "やっきょく○",
+          "english": "pharmacy"
+        },
+        {
+          "japanese": "もらう",
+          "romaji": "morau",
+          "accent": "もらう○",
+          "english": "to receive"
+        },
+        {
+          "japanese": "お大事に",
+          "romaji": "odaiji ni",
+          "accent": "おだいじに○",
+          "english": "Take care. (used to express sympathy for a sick person)"
+        },
+        {
+          "japanese": "お持ちですか？",
+          "romaji": "omochi desu ka?",
+          "accent": "おもちで↓すか？",
+          "english": "Do you have? (polite expression for 持っていますか？)"
+        }
       ],
       "audio": "/audio/y/lesson15/wordlist_Y_15-2.mp3"
     },
@@ -22,7 +302,132 @@
       "title": "問診票",
       "number": "3.",
       "wordList": [
-        
+        {
+          "japanese": "フリガナ",
+          "romaji": "furigana",
+          "accent": "フリガ↓ナ",
+          "english": "reading in katakana"
+        },
+        {
+          "japanese": "性別",
+          "romaji": "seibetsu",
+          "accent": "せいべつ○",
+          "english": "gender"
+        },
+        {
+          "japanese": "病気にかかる",
+          "romaji": "byouki ni kakaru",
+          "accent": "びょうきにかか↓る",
+          "english": "to get sick"
+        },
+        {
+          "japanese": "現在",
+          "romaji": "genzai",
+          "accent": "げ↓んざい",
+          "english": "currently"
+        },
+        {
+          "japanese": "女性",
+          "romaji": "josei",
+          "accent": "じょせい○",
+          "english": "female"
+        },
+        {
+          "japanese": "妊娠する",
+          "romaji": "ninshin suru",
+          "accent": "にんしんする○",
+          "english": "to get pregnant"
+        },
+        {
+          "japanese": "記入例",
+          "romaji": "kinyuu rei",
+          "accent": "きにゅ↓うれい",
+          "english": "entry example"
+        },
+        {
+          "japanese": "記入日",
+          "romaji": "kinyuu bi",
+          "accent": "きにゅ↓うび",
+          "english": "date filled in"
+        },
+        {
+          "japanese": "大正／大",
+          "romaji": "Taishou / T",
+          "accent": "たいしょう○",
+          "english": "Taisho / T (a Japanese era name)"
+        },
+        {
+          "japanese": "昭和／昭",
+          "romaji": "Shouwa / S",
+          "accent": "しょうわ○／しょ↓うわ",
+          "english": "Showa / S (a Japanese era name)"
+        },
+        {
+          "japanese": "平成／平",
+          "romaji": "Heisei / H",
+          "accent": "へいせい○",
+          "english": "Heisei / H (a Japanese era name)"
+        },
+        {
+          "japanese": "令和／令",
+          "romaji": "Reiwa / R",
+          "accent": "れ↓いわ",
+          "english": "Reiwa / R (a Japanese era name)"
+        },
+        {
+          "japanese": "～才（27才）",
+          "romaji": "~sai (27-sai)",
+          "accent": "～さい　（に↓じゅう△なな↓さい）",
+          "english": "～ years old (e.g. twenty-seven years old)"
+        },
+        {
+          "japanese": "今までに",
+          "romaji": "ima made ni",
+          "accent": "いまま↓でに",
+          "english": "up to now"
+        },
+        {
+          "japanese": "病気",
+          "romaji": "byouki",
+          "accent": "びょうき○",
+          "english": "illness"
+        },
+        {
+          "japanese": "病名",
+          "romaji": "byoumei",
+          "accent": "びょうめい○",
+          "english": "name of illness"
+        },
+        {
+          "japanese": "～本（1本）",
+          "romaji": "~hon (ippon)",
+          "accent": "～ほん／ぽん／ぼん　（い↓っぽん）",
+          "english": "～ bottles (e.g. 1 bottle)"
+        },
+        {
+          "japanese": "～の方（女性の方）",
+          "romaji": "~no kata (josei no kata)",
+          "accent": "～のかた↓（じょせいのかた↓）",
+          "english": "person (polite expression) (e.g. women)"
+        },
+        {
+          "japanese": "答える",
+          "romaji": "kotaeru",
+          "accent": "こた↓える／こたえ↓る",
+          "english": "to answer"
+        },
+        {
+          "japanese": "～週目（10週目）",
+          "romaji": "~shuume (jusshuume)",
+          "accent": "～しゅうめ↓（じゅっしゅうめ↓）",
+          "english": "～th week (e.g. 10th week)"
+        },
+        {
+          "japanese": "お答えください",
+          "romaji": "okotae kudasai",
+          "accent": "おこたえくださ↓い",
+          "english": "Please answer. (polite expression)"
+        }
       ],
       "audio": "/audio/y/lesson15/wordlist_Y_15-3.mp3"
     },
@@ -30,7 +435,114 @@
       "title": "熱を下げるお薬です",
       "number": "4.",
       "wordList": [
-        
+        {
+          "japanese": "下げる（熱を下げる）",
+          "romaji": "sageru (netsu o sageru)",
+          "accent": "さげ↓る（ねつ↓を　さげ↓る）",
+          "english": "to reduce (e.g. reduce a fever)"
+        },
+        {
+          "japanese": "抑える",
+          "romaji": "osaeru",
+          "accent": "おさ↓える／おさえ↓る",
+          "english": "to suppress"
+        },
+        {
+          "japanese": "痛み止め",
+          "romaji": "itamidome",
+          "accent": "いたみどめ○",
+          "english": "painkiller"
+        },
+        {
+          "japanese": "くしゃみ",
+          "romaji": "kushami",
+          "accent": "くしゃ↓み",
+          "english": "sneezing"
+        },
+        {
+          "japanese": "つらい",
+          "romaji": "tsurai",
+          "accent": "つらい○／つら↓い",
+          "english": "feel awful / discomfort"
+        },
+        {
+          "japanese": "がまんする",
+          "romaji": "gaman suru",
+          "accent": "が↓まんする",
+          "english": "to bear with / to tolerate"
+        },
+        {
+          "japanese": "がまんできない",
+          "romaji": "gaman dekinai",
+          "accent": "が↓まん　でき↓ない",
+          "english": "unbearable"
+        },
+        {
+          "japanese": "間をあける",
+          "romaji": "aida o akeru",
+          "accent": "あいだをあける○",
+          "english": "to take at a time interval"
+        },
+        {
+          "japanese": "～以上（38度5分以上）",
+          "romaji": "~ijou (sanjuuhachido gobu ijou)",
+          "accent": "～い↓じょう（さ↓んじゅう△はちどごぶい↓じょう）",
+          "english": "～ or more (e.g. 38.5 degrees or more)"
+        },
+        {
+          "japanese": "胃",
+          "romaji": "i",
+          "accent": "い○",
+          "english": "stomach"
+        },
+        {
+          "japanese": "守る",
+          "romaji": "mamoru",
+          "accent": "まも↓る",
+          "english": "to protect"
+        },
+        {
+          "japanese": "運転する",
+          "romaji": "unten suru",
+          "accent": "うんてんする○",
+          "english": "to drive"
+        },
+        {
+          "japanese": "食後",
+          "romaji": "shokugo",
+          "accent": "しょくご○",
+          "english": "after meals"
+        },
+        {
+          "japanese": "眠い",
+          "romaji": "nemui",
+          "accent": "ねむい○／ねむ↓い",
+          "english": "sleepy"
+        },
+        {
+          "japanese": "解熱剤",
+          "romaji": "genetsuzai",
+          "accent": "げねつざい○／げねつ↓ざい",
+          "english": "fever reducer"
+        },
+        {
+          "japanese": "熱が高い",
+          "romaji": "netsu ga takai",
+          "accent": "ねつ↓が　たか↓い",
+          "english": "high fever"
+        },
+        {
+          "japanese": "それと",
+          "romaji": "sore to",
+          "accent": "それと○",
+          "english": "and"
+        },
+        {
+          "japanese": "こっち",
+          "romaji": "kocchi",
+          "accent": "こっち↓",
+          "english": "this"
+        }
       ],
       "audio": "/audio/y/lesson15/wordlist_Y_15-4.mp3"
     },
@@ -38,7 +550,72 @@
       "title": "薬の説明",
       "number": "5.",
       "wordList": [
-        
+        {
+          "japanese": "夕方／夕",
+          "romaji": "yuugata",
+          "accent": "ゆうがた○",
+          "english": "early evening"
+        },
+        {
+          "japanese": "寝る前／寝前",
+          "romaji": "neru mae",
+          "accent": "ねるま↓え",
+          "english": "before sleeping / before sleep"
+        },
+        {
+          "japanese": "用法",
+          "romaji": "youhou",
+          "accent": "ようほう○",
+          "english": "for use"
+        },
+        {
+          "japanese": "用量",
+          "romaji": "youryou",
+          "accent": "ようりょ↓う",
+          "english": "dosage"
+        },
+        {
+          "japanese": "説明書",
+          "romaji": "setsumeisho",
+          "accent": "せつめいしょ○／せつめいしょ↓",
+          "english": "instructions"
+        },
+        {
+          "japanese": "効能",
+          "romaji": "kounou",
+          "accent": "こうのう○",
+          "english": "efficacy"
+        },
+        {
+          "japanese": "注意事項",
+          "romaji": "chuui jikou",
+          "accent": "ちゅういじ↓こう",
+          "english": "warning"
+        },
+        {
+          "japanese": "夕食後",
+          "romaji": "yuushokugo",
+          "accent": "ゆうしょくご○",
+          "english": "after dinner"
+        },
+        {
+          "japanese": "～錠（2錠）",
+          "romaji": "~jou (nijou)",
+          "accent": "～じょう（に↓じょう）",
+          "english": "～ tablets (e.g. 2 tablets)"
+        },
+        {
+          "japanese": "～日分（5日分）",
+          "romaji": "~nichibun (itsukabun)",
+          "accent": "～にちぶん○（いつかぶん○）",
+          "english": "for ～ days (e.g. for 5 days)"
+        },
+        {
+          "japanese": "毎食後",
+          "romaji": "maishokugo",
+          "accent": "まいしょくご○",
+          "english": "after each meal"
+        }
       ],
       "audio": "/audio/y/lesson15/wordlist_Y_15-5.mp3"
     }

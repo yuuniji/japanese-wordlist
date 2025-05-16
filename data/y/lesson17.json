@@ -6,7 +6,102 @@
       "title": "ごめんください",
       "number": "1.",
       "wordList": [
-        
+        {
+          "japanese": "上がる",
+          "romaji": "agaru",
+          "accent": "あがる○",
+          "english": "to come in"
+        },
+        {
+          "japanese": "うちの",
+          "romaji": "uchi no",
+          "accent": "うちの○",
+          "english": "my"
+        },
+        {
+          "japanese": "奥さん",
+          "romaji": "okusan",
+          "accent": "お↓くさん",
+          "english": "wife"
+        },
+        {
+          "japanese": "息子",
+          "romaji": "musuko",
+          "accent": "むすこ○",
+          "english": "son"
+        },
+        {
+          "japanese": "お茶",
+          "romaji": "ocha",
+          "accent": "おちゃ○",
+          "english": "Japanese tea"
+        },
+        {
+          "japanese": "足をくずす",
+          "romaji": "ashi o kuzusu",
+          "accent": "あし↓を　くず↓す",
+          "english": "to sit at ease"
+        },
+        {
+          "japanese": "楽にする",
+          "romaji": "raku ni suru",
+          "accent": "らく↓にする",
+          "english": "to make yourself at home"
+        },
+        {
+          "japanese": "遊びに来る",
+          "romaji": "asobi ni kuru",
+          "accent": "あそびにく↓る",
+          "english": "to come see me"
+        },
+        {
+          "japanese": "ごめんください",
+          "romaji": "gomen kudasai",
+          "accent": "ごめんくださ↓い",
+          "english": "Hello. / May I come in?"
+        },
+        {
+          "japanese": "いらっしゃい",
+          "romaji": "irasshai",
+          "accent": "いらっしゃ↓い",
+          "english": "Welcome. / Come in."
+        },
+        {
+          "japanese": "ようこそ",
+          "romaji": "youkoso",
+          "accent": "よう↓こそ",
+          "english": "Welcome."
+        },
+        {
+          "japanese": "おじゃまします",
+          "romaji": "ojama shimasu",
+          "accent": "おじゃましま↓す",
+          "english": "Excuse me for disturbing you."
+        },
+        {
+          "japanese": "お世話になっています",
+          "romaji": "osewa ni natteimasu",
+          "accent": "おせ↓わにな↓っています",
+          "english": "Thank you for everything you do."
+        },
+        {
+          "japanese": "こちらこそ",
+          "romaji": "kochirakoso",
+          "accent": "こちらこ↓そ",
+          "english": "Same here."
+        },
+        {
+          "japanese": "ごちそうさまでした",
+          "romaji": "gochisousama deshita",
+          "accent": "ごちそうさまで↓した",
+          "english": "Thank you for the meal."
+        },
+        {
+          "japanese": "おじゃましました",
+          "romaji": "ojama shimashita",
+          "accent": "おじゃましま↓した",
+          "english": "Sorry for having disturbed you."
+        }
       ],
       "audio": "/audio/y/lesson17/wordlist_Y_17-1.mp3"
     },
@@ -14,7 +109,186 @@
       "title": "これ、お土産です",
       "number": "2.",
       "wordList": [
-        
+        {
+          "japanese": "お土産",
+          "romaji": "omiyage",
+          "accent": "おみやげ○",
+          "english": "souvenir"
+        },
+        {
+          "japanese": "コーヒー",
+          "romaji": "kōhī",
+          "accent": "コーヒ↓ー",
+          "english": "coffee"
+        },
+        {
+          "japanese": "調味料",
+          "romaji": "chōmiryō",
+          "accent": "ちょうみ↓りょう",
+          "english": "seasoning"
+        },
+        {
+          "japanese": "カップ",
+          "romaji": "kappu",
+          "accent": "カ↓ップ",
+          "english": "cup"
+        },
+        {
+          "japanese": "キーホルダー",
+          "romaji": "kīhorudā",
+          "accent": "キーホ↓ルダー",
+          "english": "key holder"
+        },
+        {
+          "japanese": "ペン",
+          "romaji": "pen",
+          "accent": "ペ↓ン",
+          "english": "pen"
+        },
+        {
+          "japanese": "お守り",
+          "romaji": "omamori",
+          "accent": "おまもり○",
+          "english": "amulet"
+        },
+        {
+          "japanese": "絵葉書",
+          "romaji": "ehagaki",
+          "accent": "えは↓がき",
+          "english": "picture postcard"
+        },
+        {
+          "japanese": "写真集",
+          "romaji": "shashinshū",
+          "accent": "しゃし↓んしゅう",
+          "english": "photo album / collection"
+        },
+        {
+          "japanese": "飾り",
+          "romaji": "kazari",
+          "accent": "かざり○",
+          "english": "decoration"
+        },
+        {
+          "japanese": "人形",
+          "romaji": "ningyō",
+          "accent": "にんぎょう○",
+          "english": "doll"
+        },
+        {
+          "japanese": "かばん",
+          "romaji": "kaban",
+          "accent": "かばん○",
+          "english": "bag"
+        },
+        {
+          "japanese": "バッグ",
+          "romaji": "baggu",
+          "accent": "バ↓ッグ",
+          "english": "bag"
+        },
+        {
+          "japanese": "魔よけ",
+          "romaji": "mayoke",
+          "accent": "まよけ○",
+          "english": "talisman"
+        },
+        {
+          "japanese": "ネパール",
+          "romaji": "Nepāru",
+          "accent": "ネパ↓ール",
+          "english": "Nepal"
+        },
+        {
+          "japanese": "ナンプラー",
+          "romaji": "nanpurā",
+          "accent": "ナ↓ンプラー",
+          "english": "nam pla (Thai seasoning)"
+        },
+        {
+          "japanese": "タイ",
+          "romaji": "Tai",
+          "accent": "タ↓イ",
+          "english": "Thailand"
+        },
+        {
+          "japanese": "トゥロン",
+          "romaji": "turon",
+          "accent": "トゥ↓ロン",
+          "english": "turon (Filipino confectionery)"
+        },
+        {
+          "japanese": "フィリピン",
+          "romaji": "Firipin",
+          "accent": "フィ↓リピン",
+          "english": "the Philippines"
+        },
+        {
+          "japanese": "スラーソー",
+          "romaji": "surāsō",
+          "accent": "スラ↓ーソー",
+          "english": "sra sor (Cambodian alcohol)"
+        },
+        {
+          "japanese": "カンボジア",
+          "romaji": "Kanbojia",
+          "accent": "カンボジア○",
+          "english": "Cambodia"
+        },
+        {
+          "japanese": "壁",
+          "romaji": "kabe",
+          "accent": "かべ○",
+          "english": "wall"
+        },
+        {
+          "japanese": "かける（壁にかける）",
+          "romaji": "kakeru (kabe ni kakeru)",
+          "accent": "かけ↓る　（かべにかけ↓る）",
+          "english": "to hang on (e.g. hang on a wall)"
+        },
+        {
+          "japanese": "入って来る",
+          "romaji": "haitte kuru",
+          "accent": "は↓いってく↓る",
+          "english": "to come in"
+        },
+        {
+          "japanese": "悪い",
+          "romaji": "warui",
+          "accent": "わる↓い",
+          "english": "bad / evil"
+        },
+        {
+          "japanese": "かける",
+          "romaji": "kakeru",
+          "accent": "かけ↓る",
+          "english": "to sprinkle"
+        },
+        {
+          "japanese": "～といいます",
+          "romaji": "～to iimasu",
+          "accent": "～といいま↓す",
+          "english": "be called ～"
+        },
+        {
+          "japanese": "プレゼント",
+          "romaji": "purezento",
+          "accent": "プレ↓ゼント",
+          "english": "present"
+        },
+        {
+          "japanese": "米／お米",
+          "romaji": "kome / okome",
+          "accent": "こめ↓／おこめ○",
+          "english": "rice"
+        },
+        {
+          "japanese": "強い",
+          "romaji": "tsuyoi",
+          "accent": "つよ↓い",
+          "english": "strong"
+        }
       ],
       "audio": "/audio/y/lesson17/wordlist_Y_17-2.mp3"
     },
@@ -22,7 +296,126 @@
       "title": "誕生日に、友だちにもらったんです",
       "number": "3.",
       "wordList": [
-        
+        {
+          "japanese": "ピアス",
+          "romaji": "piasu",
+          "accent": "ピ↓アス",
+          "english": "earrings"
+        },
+        {
+          "japanese": "マグカップ",
+          "romaji": "magukappu",
+          "accent": "マグカ↓ップ",
+          "english": "mug"
+        },
+        {
+          "japanese": "帽子",
+          "romaji": "bōshi",
+          "accent": "ぼうし○",
+          "english": "hat / cap"
+        },
+        {
+          "japanese": "お母さん",
+          "romaji": "okāsan",
+          "accent": "おか↓あさん",
+          "english": "(someone else's) mother"
+        },
+        {
+          "japanese": "お兄さん",
+          "romaji": "onīsan",
+          "accent": "おに↓いさん",
+          "english": "(someone else's) elder brother"
+        },
+        {
+          "japanese": "誕生日",
+          "romaji": "tanjōbi",
+          "accent": "たんじょ↓うび",
+          "english": "birthday"
+        },
+        {
+          "japanese": "もらう",
+          "romaji": "morau",
+          "accent": "もらう○",
+          "english": "to receive"
+        },
+        {
+          "japanese": "おしゃれ（な）",
+          "romaji": "oshare (na)",
+          "accent": "おしゃ↓れ（な）",
+          "english": "stylish"
+        },
+        {
+          "japanese": "すてき（な）",
+          "romaji": "suteki (na)",
+          "accent": "すてき（な）○",
+          "english": "nice"
+        },
+        {
+          "japanese": "くれる",
+          "romaji": "kureru",
+          "accent": "くれる○",
+          "english": "to be given"
+        },
+        {
+          "japanese": "両親",
+          "romaji": "ryōshin",
+          "accent": "りょ↓うしん",
+          "english": "parents"
+        },
+        {
+          "japanese": "いいでしょう？",
+          "romaji": "ii deshō?",
+          "accent": "い↓いでしょう？",
+          "english": "Isn't it nice?"
+        },
+        {
+          "japanese": "バリ",
+          "romaji": "Bari",
+          "accent": "バ↓リ",
+          "english": "Bali"
+        },
+        {
+          "japanese": "お父さん",
+          "romaji": "otōsan",
+          "accent": "おと↓うさん",
+          "english": "(someone else's) father"
+        },
+        {
+          "japanese": "お姉さん",
+          "romaji": "onēsan",
+          "accent": "おね↓えさん",
+          "english": "(someone else's) elder sister"
+        },
+        {
+          "japanese": "弟さん",
+          "romaji": "otōtosan",
+          "accent": "おとうとさん○",
+          "english": "(someone else's) younger brother"
+        },
+        {
+          "japanese": "妹さん",
+          "romaji": "imōtosan",
+          "accent": "いもうとさん○",
+          "english": "(someone else's) younger sister"
+        },
+        {
+          "japanese": "お子さん",
+          "romaji": "okosan",
+          "accent": "おこさん○",
+          "english": "(someone else's) child"
+        },
+        {
+          "japanese": "息子さん",
+          "romaji": "musukosan",
+          "accent": "むすこさん○",
+          "english": "(someone else's) son"
+        },
+        {
+          "japanese": "娘さん",
+          "romaji": "musumesan",
+          "accent": "むすめさん○",
+          "english": "(someone else's) daughter"
+        }
       ],
       "audio": "/audio/y/lesson17/wordlist_Y_17-3.mp3"
     },
@@ -30,7 +423,30 @@
       "title": "お礼のメール",
       "number": "4.",
       "wordList": [
-        
+        {
+          "japanese": "お宅",
+          "romaji": "otaku",
+          "accent": "おたく○",
+          "english": "home"
+        },
+        {
+          "japanese": "おじゃまする",
+          "romaji": "ojamasuru",
+          "accent": "おじゃまする○",
+          "english": "to visit"
+        },
+        {
+          "japanese": "経験",
+          "romaji": "keiken",
+          "accent": "けいけん○",
+          "english": "experience"
+        },
+        {
+          "japanese": "よろしくお伝えください",
+          "romaji": "yoroshiku otsutae kudasai",
+          "accent": "よろしくおつたえくださ↓い",
+          "english": "Please say hello."
+        }
       ],
       "audio": "/audio/y/lesson17/wordlist_Y_17-4.mp3"
     }
