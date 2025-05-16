@@ -3,54 +3,363 @@
   "number": "第5課",
   "sections": [
     {
-      "title": "こんにちは",
+      "title": "魚、好きですか？",
       "number": "1.",
       "wordList": [
         {
-          "japanese": "おはよう",
-          "romaji": "ohayoo",
-          "accent": "おはよう",
-          "english": "Good"
+          "japanese": "魚",
+          "romaji": "sakana",
+          "accent": "さかな○",
+          "english": "fish"
         },
         {
-          "japanese": "こんにちは",
-          "romaji": "konnichiwa",
-          "accent": "こんにちは",
-          "english": "Good"
+          "japanese": "肉",
+          "romaji": "niku",
+          "accent": "にく↓",
+          "english": "meat"
         },
         {
-          "japanese": "こんばんは",
-          "romaji": "konbanwa",
-          "accent": "こんばんは",
-          "english": "Good"
+          "japanese": "野菜",
+          "romaji": "yasai",
+          "accent": "やさい○",
+          "english": "vegetable"
+        },
+        {
+          "japanese": "好きです",
+          "romaji": "suki desu",
+          "accent": "すき↓です",
+          "english": "I like it."
         }
       ],
-      "audio": "/audio/x/lesson1/wordlist_X_01-1.mp3"
+      "audio": "/audio/x/lesson1/wordlist_X_05-1.mp3"
     },
     {
-      "title": "こんにちは",
+      "title": "わさびは、ちょっと…",
       "number": "2.",
       "wordList": [
         {
-          "japanese": "おはよう",
-          "romaji": "ohayoo",
-          "accent": "おはよう",
-          "english": "Good"
+          "japanese": "刺身",
+          "romaji": "sashimi",
+          "accent": "さしみ↓",
+          "english": "sashimi (sliced raw fish)"
         },
         {
-          "japanese": "こんにちは",
-          "romaji": "konnichiwa",
-          "accent": "こんにちは",
-          "english": "Good"
+          "japanese": "すし",
+          "romaji": "sushi",
+          "accent": "すし↓",
+          "english": "sushi"
         },
         {
-          "japanese": "こんばんは",
-          "romaji": "konbanwa",
-          "accent": "こんばんは",
-          "english": "Good"
+          "japanese": "天ぷら",
+          "romaji": "tenpura",
+          "accent": "てんぷら○",
+          "english": "tempura"
+        },
+        {
+          "japanese": "牛丼",
+          "romaji": "gyuudon",
+          "accent": "ぎゅうどん○",
+          "english": "beef bowl"
+        },
+        {
+          "japanese": "カレー",
+          "romaji": "karee",
+          "accent": "カレー○",
+          "english": "curry"
+        },
+        {
+          "japanese": "ラーメン",
+          "romaji": "raamen",
+          "accent": "ラ↓ーメン",
+          "english": "ramen noodles"
+        },
+        {
+          "japanese": "うどん",
+          "romaji": "udon",
+          "accent": "うどん○",
+          "english": "udon noodles"
+        },
+        {
+          "japanese": "そば",
+          "romaji": "soba",
+          "accent": "そ↓ば",
+          "english": "soba noodles"
+        },
+        {
+          "japanese": "納豆",
+          "romaji": "nattoo",
+          "accent": "なっと↓う",
+          "english": "natto (fermented soybeans)"
+        },
+        {
+          "japanese": "梅干し",
+          "romaji": "umeboshi",
+          "accent": "うめぼし○",
+          "english": "umeboshi (pickled plum)"
+        },
+        {
+          "japanese": "わさび",
+          "romaji": "wasabi",
+          "accent": "わ↓さび",
+          "english": "wasabi (Japanese horseradish)"
+        },
+        {
+          "japanese": "食べ物",
+          "romaji": "tabemono",
+          "accent": "たべも↓の／たべ↓もの",
+          "english": "food"
+        },
+        {
+          "japanese": "何",
+          "romaji": "nani",
+          "accent": "な↓に",
+          "english": "what"
+        },
+        {
+          "japanese": "すごい！",
+          "romaji": "sugoi !",
+          "accent": "すご↓い！",
+          "english": "Wow!"
+        },
+        {
+          "japanese": "～はちょっと…",
+          "romaji": "～wa chotto…",
+          "accent": "～はちょ↓っと…",
+          "english": "I don't really like ～."
+        },
+        {
+          "japanese": "だいじょうぶですか？",
+          "romaji": "daijoobu desu ka?",
+          "accent": "だいじょ↓うぶですか？",
+          "english": "Is it okay?"
         }
       ],
-      "audio": "/audio/x/lesson1/wordlist_X_01-2.mp3"
+      "audio": "/audio/x/lesson1/wordlist_X_05-2.mp3"
+    },
+    {
+      "title": "お茶、飲みますか？",
+      "number": "3.",
+      "wordList": [
+        {
+          "japanese": "コーヒー",
+          "romaji": "koohii",
+          "accent": "コーヒ↓ー",
+          "english": "coffee"
+        },
+        {
+          "japanese": "紅茶",
+          "romaji": "koocha",
+          "accent": "こうちゃ○",
+          "english": "black tea"
+        },
+        {
+          "japanese": "お茶",
+          "romaji": "ocha",
+          "accent": "おちゃ○",
+          "english": "tea / Japanese tea"
+        },
+        {
+          "japanese": "水",
+          "romaji": "mizu",
+          "accent": "みず○",
+          "english": "water"
+        },
+        {
+          "japanese": "ジュース",
+          "romaji": "juusu",
+          "accent": "ジュ↓ース",
+          "english": "juice"
+        },
+        {
+          "japanese": "コーラ",
+          "romaji": "koora",
+          "accent": "コ↓ーラ",
+          "english": "cola"
+        },
+        {
+          "japanese": "ビール",
+          "romaji": "biiru",
+          "accent": "ビ↓ール",
+          "english": "beer"
+        },
+        {
+          "japanese": "お酒",
+          "romaji": "osake",
+          "accent": "おさけ○",
+          "english": "alcohol / sake"
+        },
+        {
+          "japanese": "飲む／飲みます",
+          "romaji": "nomu / nomimasu",
+          "accent": "の↓む／のみま↓す",
+          "english": "to drink"
+        },
+        {
+          "japanese": "いえ／いいえ",
+          "romaji": "ie / iie",
+          "accent": "いえ○／いいえ○",
+          "english": "no"
+        },
+        {
+          "japanese": "はい、お願いします",
+          "romaji": "hai, onegaishimasu",
+          "accent": "は↓い、おねがいしま↓す",
+          "english": "Yes, please."
+        },
+        {
+          "japanese": "いえ、けっこうです",
+          "romaji": "ie, kekkoo desu",
+          "accent": "いえ○、け↓っこうです",
+          "english": "No, thank you."
+        },
+        {
+          "japanese": "～お願いします",
+          "romaji": "～onegaishimasu",
+          "accent": "～おねがいしま↓す",
+          "english": "～ please."
+        }
+      ],
+      "audio": "/audio/x/lesson1/wordlist_X_05-3.mp3"
+    },
+    {
+      "title": "朝ご飯は、あまり食べません",
+      "number": "4.",
+      "wordList": [
+        {
+          "japanese": "ご飯",
+          "romaji": "gohan",
+          "accent": "ご↓はん",
+          "english": "cooked rice"
+        },
+        {
+          "japanese": "パン",
+          "romaji": "pan",
+          "accent": "パ↓ン",
+          "english": "bread"
+        },
+        {
+          "japanese": "卵",
+          "romaji": "tamago",
+          "accent": "たま↓ご",
+          "english": "egg"
+        },
+        {
+          "japanese": "ヨーグルト",
+          "romaji": "yooguruto",
+          "accent": "ヨーグ↓ルト",
+          "english": "yoghurt"
+        },
+        {
+          "japanese": "シリアル",
+          "romaji": "shiriaru",
+          "accent": "シ↓リアル",
+          "english": "cereal"
+        },
+        {
+          "japanese": "果物",
+          "romaji": "kudamono",
+          "accent": "くだ↓もの",
+          "english": "fruit"
+        },
+        {
+          "japanese": "サラダ",
+          "romaji": "sarada",
+          "accent": "サ↓ラダ",
+          "english": "salad"
+        },
+        {
+          "japanese": "みそ汁",
+          "romaji": "misoshiru",
+          "accent": "みそし↓る",
+          "english": "miso soup"
+        },
+        {
+          "japanese": "スープ",
+          "romaji": "suupu",
+          "accent": "ス↓ープ",
+          "english": "soup"
+        },
+        {
+          "japanese": "牛乳",
+          "romaji": "gyuunyuu",
+          "accent": "ぎゅうにゅう○",
+          "english": "milk"
+        },
+        {
+          "japanese": "トマトジュース",
+          "romaji": "tomato-juusu",
+          "accent": "トマトジュ↓ース",
+          "english": "tomato juice"
+        },
+        {
+          "japanese": "オレンジジュース",
+          "romaji": "orenji-juusu",
+          "accent": "オレンジジュ↓ース",
+          "english": "orange juice"
+        },
+        {
+          "japanese": "りんごジュース",
+          "romaji": "ringo-juusu",
+          "accent": "りんごジュ↓ース",
+          "english": "apple juice"
+        },
+        {
+          "japanese": "食べる／食べます",
+          "romaji": "taberu / tabemasu",
+          "accent": "たべ↓る／たべま↓す",
+          "english": "to eat"
+        },
+        {
+          "japanese": "朝ご飯",
+          "romaji": "asa-gohan",
+          "accent": "あさご↓はん",
+          "english": "breakfast"
+        },
+        {
+          "japanese": "いつも",
+          "romaji": "itsumo",
+          "accent": "い↓つも",
+          "english": "always"
+        },
+        {
+          "japanese": "よく",
+          "romaji": "yoku",
+          "accent": "よ↓く",
+          "english": "often"
+        },
+        {
+          "japanese": "あまり",
+          "romaji": "amari",
+          "accent": "あまり○",
+          "english": "rarely"
+        },
+        {
+          "japanese": "え～！",
+          "romaji": "ee!",
+          "accent": "え～！○",
+          "english": "Huh?! (expresses surprise)"
+        }
+      ],
+      "audio": "/audio/x/lesson1/wordlist_X_05-4.mp3"
+    },
+    {
+      "title": "今日の朝ご飯",
+      "number": "5.",
+      "wordList": [
+        {
+          "japanese": "今日",
+          "romaji": "kyoo",
+          "accent": "きょ↓う",
+          "english": "today"
+        },
+        {
+          "japanese": "いただきます",
+          "romaji": "itadakimasu",
+          "accent": "いただきま↓す",
+          "english": "Thank you for the food! (polite expression said before a meal)"
+        }
+      ],
+      "audio": "/audio/x/lesson1/wordlist_X_05-5.mp3"
     }
   ]
 }

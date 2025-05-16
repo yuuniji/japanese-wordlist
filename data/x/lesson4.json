@@ -3,54 +3,380 @@
   "number": "第4課",
   "sections": [
     {
-      "title": "こんにちは",
+      "title": "夫と子どもです",
       "number": "1.",
       "wordList": [
         {
-          "japanese": "おはよう",
-          "romaji": "ohayoo",
-          "accent": "おはよう",
-          "english": "Good"
+          "japanese": "父",
+          "romaji": "chichi",
+          "accent": "ち↓ち",
+          "english": "(my) father"
         },
         {
-          "japanese": "こんにちは",
-          "romaji": "konnichiwa",
-          "accent": "こんにちは",
-          "english": "Good"
+          "japanese": "母",
+          "romaji": "haha",
+          "accent": "は↓は",
+          "english": "(my) mother"
         },
         {
-          "japanese": "こんばんは",
-          "romaji": "konbanwa",
-          "accent": "こんばんは",
-          "english": "Good"
+          "japanese": "兄",
+          "romaji": "ani",
+          "accent": "あ↓に",
+          "english": "(my) elder brother"
+        },
+        {
+          "japanese": "姉",
+          "romaji": "ane",
+          "accent": "あね○",
+          "english": "(my) elder sister"
+        },
+        {
+          "japanese": "弟",
+          "romaji": "otooto",
+          "accent": "おとうと↓",
+          "english": "(my) younger brother"
+        },
+        {
+          "japanese": "妹",
+          "romaji": "imooto",
+          "accent": "いもうと↓",
+          "english": "(my) younger sister"
+        },
+        {
+          "japanese": "夫",
+          "romaji": "otto",
+          "accent": "おっと○",
+          "english": "(my) husband"
+        },
+        {
+          "japanese": "妻",
+          "romaji": "tsuma",
+          "accent": "つ↓ま",
+          "english": "(my) wife"
+        },
+        {
+          "japanese": "子ども",
+          "romaji": "kodomo",
+          "accent": "こども○",
+          "english": "child"
+        },
+        {
+          "japanese": "～先生",
+          "romaji": "～sensee",
+          "accent": "～せんせ↓い",
+          "english": "～ sensee (suffix for teacher)"
+        },
+        {
+          "japanese": "紹介する",
+          "romaji": "shookai-suru",
+          "accent": "しょうかいする○",
+          "english": "to introduce"
+        },
+        {
+          "japanese": "こちら",
+          "romaji": "kochira",
+          "accent": "こちら○",
+          "english": "this is (used when introducing someone)"
+        },
+        {
+          "japanese": "あれ？",
+          "romaji": "are?",
+          "accent": "あれ？○",
+          "english": "Oh? (expresses surprise)"
+        },
+        {
+          "japanese": "紹介します",
+          "romaji": "shookai-shimasu",
+          "accent": "しょうかいしま↓す",
+          "english": "I will introduce you."
+        },
+        {
+          "japanese": "（どうぞ）よろしく",
+          "romaji": "(doozo) yoroshiku",
+          "accent": "（ど↓うぞ）　よろしく○",
+          "english": "I look forward to getting to know you."
         }
       ],
-      "audio": "/audio/x/lesson1/wordlist_X_01-1.mp3"
+      "audio": "/audio/x/lesson1/wordlist_X_04-1.mp3"
     },
     {
-      "title": "こんにちは",
+      "title": "25 歳です",
       "number": "2.",
       "wordList": [
         {
-          "japanese": "おはよう",
-          "romaji": "ohayoo",
-          "accent": "おはよう",
-          "english": "Good"
+          "japanese": "うちの",
+          "romaji": "uchi no",
+          "accent": "うちの○",
+          "english": "my / our"
         },
         {
-          "japanese": "こんにちは",
-          "romaji": "konnichiwa",
-          "accent": "こんにちは",
-          "english": "Good"
+          "japanese": "家族／ご家族",
+          "romaji": "kazoku / gokazoku",
+          "accent": "か↓ぞく／ごか↓ぞく",
+          "english": "family / (your) family"
         },
         {
-          "japanese": "こんばんは",
-          "romaji": "konbanwa",
-          "accent": "こんばんは",
-          "english": "Good"
+          "japanese": "それから",
+          "romaji": "sorekara",
+          "accent": "それから○",
+          "english": "and then"
+        },
+        {
+          "japanese": "何歳",
+          "romaji": "nan-sai",
+          "accent": "な↓んさい",
+          "english": "how old"
+        },
+        {
+          "japanese": "いくつ",
+          "romaji": "ikutsu",
+          "accent": "い↓くつ",
+          "english": "how old (asking age)"
+        },
+        {
+          "japanese": "～歳",
+          "romaji": "～sai",
+          "accent": "～さい",
+          "english": "～ years old"
+        },
+        {
+          "japanese": "どこ",
+          "romaji": "doko",
+          "accent": "ど↓こ",
+          "english": "where"
+        },
+        {
+          "japanese": "住んでいます",
+          "romaji": "sunde imasu",
+          "accent": "す↓んでいま↓す",
+          "english": "live"
+        },
+        {
+          "japanese": "住む",
+          "romaji": "sumu",
+          "accent": "す↓む",
+          "english": "to live"
+        },
+        {
+          "japanese": "フィリピン",
+          "romaji": "Firipin",
+          "accent": "フィ↓リピン",
+          "english": "the Philippines"
+        },
+        {
+          "japanese": "そう",
+          "romaji": "soo",
+          "accent": "そ↓う",
+          "english": "I see. (a casual way of saying そうですか)"
+        },
+        {
+          "japanese": "11",
+          "romaji": "juu-ichi",
+          "accent": "じゅういち↓",
+          "english": "eleven"
+        },
+        {
+          "japanese": "12",
+          "romaji": "juu-ni",
+          "accent": "じゅうに↓",
+          "english": "twelve"
+        },
+        {
+          "japanese": "13",
+          "romaji": "juu-san",
+          "accent": "じゅうさ↓ん",
+          "english": "thirteen"
+        },
+        {
+          "japanese": "14",
+          "romaji": "juu-yon",
+          "accent": "じゅうよ↓ん",
+          "english": "fourteen"
+        },
+        {
+          "japanese": "15",
+          "romaji": "juu-go",
+          "accent": "じゅうご↓",
+          "english": "fifteen"
+        },
+        {
+          "japanese": "16",
+          "romaji": "juu-roku",
+          "accent": "じゅうろく↓",
+          "english": "sixteen"
+        },
+        {
+          "japanese": "17",
+          "romaji": "juu-nana",
+          "accent": "じゅうな↓な",
+          "english": "seventeen"
+        },
+        {
+          "japanese": "18",
+          "romaji": "juu-hachi",
+          "accent": "じゅうはち↓",
+          "english": "eighteen"
+        },
+        {
+          "japanese": "19",
+          "romaji": "juu-kyuu",
+          "accent": "じゅうきゅ↓う",
+          "english": "nineteen"
+        },
+        {
+          "japanese": "20",
+          "romaji": "nijuu",
+          "accent": "に↓じゅう",
+          "english": "twenty"
+        },
+        {
+          "japanese": "30",
+          "romaji": "sanjuu",
+          "accent": "さ↓んじゅう",
+          "english": "thirty"
+        },
+        {
+          "japanese": "40",
+          "romaji": "yonjuu",
+          "accent": "よ↓んじゅう",
+          "english": "forty"
+        },
+        {
+          "japanese": "50",
+          "romaji": "gojuu",
+          "accent": "ごじゅ↓う",
+          "english": "fifty"
+        },
+        {
+          "japanese": "60",
+          "romaji": "rokujuu",
+          "accent": "ろくじゅ↓う",
+          "english": "sixty"
+        },
+        {
+          "japanese": "70",
+          "romaji": "nanajuu",
+          "accent": "なな↓じゅう",
+          "english": "seventy"
+        },
+        {
+          "japanese": "80",
+          "romaji": "hachijuu",
+          "accent": "はちじゅ↓う",
+          "english": "eighty"
+        },
+        {
+          "japanese": "90",
+          "romaji": "kyuujuu",
+          "accent": "きゅ↓うじゅう",
+          "english": "ninety"
+        },
+        {
+          "japanese": "20歳",
+          "romaji": "nijussai / hatachi",
+          "accent": "にじゅ↓っさい／は↓たち",
+          "english": "twenty years old"
         }
       ],
-      "audio": "/audio/x/lesson1/wordlist_X_01-2.mp3"
+      "audio": "/audio/x/lesson1/wordlist_X_04-2.mp3"
+    },
+    {
+      "title": "ペットのジョンです",
+      "number": "3.",
+      "wordList": [
+        {
+          "japanese": "恋人",
+          "romaji": "koibito",
+          "accent": "こいびと○",
+          "english": "boyfriend / girlfriend"
+        },
+        {
+          "japanese": "ペット",
+          "romaji": "petto",
+          "accent": "ペ↓ット",
+          "english": "pet"
+        },
+        {
+          "japanese": "だれ",
+          "romaji": "dare",
+          "accent": "だ↓れ",
+          "english": "who"
+        },
+        {
+          "japanese": "犬",
+          "romaji": "inu",
+          "accent": "いぬ↓",
+          "english": "dog"
+        },
+        {
+          "japanese": "おじいさん",
+          "romaji": "ojiisan",
+          "accent": "おじ↓いさん",
+          "english": "old male"
+        },
+        {
+          "japanese": "日本",
+          "romaji": "Nihon",
+          "accent": "にほ↓ん",
+          "english": "Japan"
+        },
+        {
+          "japanese": "東京",
+          "romaji": "Tookyoo",
+          "accent": "とうきょう○",
+          "english": "Tokyo"
+        },
+        {
+          "japanese": "へー",
+          "romaji": "hee",
+          "accent": "へー○",
+          "english": "Oh. (expresses slight interest)"
+        },
+        {
+          "japanese": "かわいいですね",
+          "romaji": "kawaii desu ne",
+          "accent": "かわい↓いですね",
+          "english": "How cute!"
+        }
+      ],
+      "audio": "/audio/x/lesson1/wordlist_X_04-3.mp3"
+    },
+    {
+      "title": "友だちと海！",
+      "number": "4.",
+      "wordList": [
+        {
+          "japanese": "誕生日",
+          "romaji": "tanjoobi",
+          "accent": "たんじょ↓うび",
+          "english": "birthday"
+        },
+        {
+          "japanese": "海",
+          "romaji": "umi",
+          "accent": "う↓み",
+          "english": "sea / ocean"
+        },
+        {
+          "japanese": "天気／お天気",
+          "romaji": "tenki / otenki",
+          "accent": "て↓んき／おて↓んき",
+          "english": "weather"
+        },
+        {
+          "japanese": "最高",
+          "romaji": "saikoo",
+          "accent": "さいこう○",
+          "english": "fantastic"
+        },
+        {
+          "japanese": "ツーショット",
+          "romaji": "tsuushotto",
+          "accent": "ツーショ↓ット",
+          "english": "a photograph of two people"
+        }
+      ],
+      "audio": "/audio/x/lesson1/wordlist_X_04-4.mp3"
     }
   ]
 }

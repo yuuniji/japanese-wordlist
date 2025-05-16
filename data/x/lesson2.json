@@ -3,54 +3,325 @@
   "number": "第2課",
   "sections": [
     {
-      "title": "こんにちは",
+      "title": "もういちど、お願いします",
       "number": "1.",
       "wordList": [
-        {
-          "japanese": "おはよう",
-          "romaji": "ohayoo",
-          "accent": "おはよう",
-          "english": "Good"
-        },
-        {
-          "japanese": "こんにちは",
-          "romaji": "konnichiwa",
-          "accent": "こんにちは",
-          "english": "Good"
-        },
-        {
-          "japanese": "こんばんは",
-          "romaji": "konbanwa",
-          "accent": "こんばんは",
-          "english": "Good"
-        }
+          {
+            "japanese": "よく",
+            "romaji": "yoku",
+            "accent": "よ↓く",
+            "english": "(not) really"
+          },
+          {
+            "japanese": "もういちど",
+            "romaji": "moo ichido",
+            "accent": "もういちど○",
+            "english": "once more"
+          },
+          {
+            "japanese": "もう少し",
+            "romaji": "moo sukoshi",
+            "accent": "もうすこ↓し",
+            "english": "a little."
+          },
+          {
+            "japanese": "ゆっくり",
+            "romaji": "yukkuri",
+            "accent": "ゆっく↓り",
+            "english": "slowly"
+          },
+          {
+            "japanese": "在留カード",
+            "romaji": "zairyuu-kaado",
+            "accent": "ざいりゅうカ↓ード",
+            "english": "residence card"
+          },
+          {
+            "japanese": "ここ",
+            "romaji": "koko",
+            "accent": "ここ○",
+            "english": "here"
+          },
+          {
+            "japanese": "名前",
+            "romaji": "namae",
+            "accent": "なまえ○",
+            "english": "name"
+          },
+          {
+            "japanese": "部屋",
+            "romaji": "heya",
+            "accent": "へや↓",
+            "english": "room"
+          },
+          {
+            "japanese": "わかりません",
+            "romaji": "wakarimasen",
+            "accent": "わかりませ↓ん",
+            "english": "I do not understand."
+          },
+          {
+            "japanese": "お願いします",
+            "romaji": "onegaishimasu",
+            "accent": "おねがいしま↓す",
+            "english": "Please."
+          },
+          {
+            "japanese": "言ってください",
+            "romaji": "itte kudasai",
+            "accent": "いってくださ↓い",
+            "english": "Please say ～."
+          },
+          {
+            "japanese": "見せてください",
+            "romaji": "misete kudasai",
+            "accent": "み↓せてくださ↓い",
+            "english": "Please show me ～."
+          },
+          {
+            "japanese": "書いてください",
+            "romaji": "kaite kudasai",
+            "accent": "か↓いてくださ↓い",
+            "english": "Please write ～."
+          },
+          {
+            "japanese": "わかりました",
+            "romaji": "wakarimashita",
+            "accent": "わかりま↓した",
+            "english": "I understand."
+          },
+          {
+            "japanese": "0",
+            "romaji": "zero",
+            "accent": "ゼ↓ロ",
+            "english": "zero"
+          },
+          {
+            "japanese": "1",
+            "romaji": "ichi",
+            "accent": "いち↓",
+            "english": "one"
+          },
+          {
+            "japanese": "2",
+            "romaji": "ni",
+            "accent": "に↓",
+            "english": "two"
+          },
+          {
+            "japanese": "3",
+            "romaji": "san",
+            "accent": "さん○",
+            "english": "three"
+          },
+          {
+            "japanese": "4",
+            "romaji": "yon",
+            "accent": "よ↓ん",
+            "english": "four"
+          },
+          {
+            "japanese": "5",
+            "romaji": "go",
+            "accent": "ご↓",
+            "english": "five"
+          },
+          {
+            "japanese": "6",
+            "romaji": "roku",
+            "accent": "ろく↓",
+            "english": "six"
+          },
+          {
+            "japanese": "7",
+            "romaji": "nana",
+            "accent": "な↓な",
+            "english": "seven"
+          },
+          {
+            "japanese": "8",
+            "romaji": "hachi",
+            "accent": "はち↓",
+            "english": "eight"
+          },
+          {
+            "japanese": "9",
+            "romaji": "kyuu",
+            "accent": "きゅ↓う",
+            "english": "nine"
+          },
+          {
+            "japanese": "10",
+            "romaji": "juu",
+            "accent": "じゅ↓う",
+            "english": "ten"
+          }
       ],
-      "audio": "/audio/x/lesson1/wordlist_X_01-1.mp3"
+      "audio": "/audio/x/lesson1/wordlist_X_02-1.mp3"
     },
     {
-      "title": "こんにちは",
+      "title": "日本語、できますか？",
       "number": "2.",
       "wordList": [
-        {
-          "japanese": "おはよう",
-          "romaji": "ohayoo",
-          "accent": "おはよう",
-          "english": "Good"
-        },
-        {
-          "japanese": "こんにちは",
-          "romaji": "konnichiwa",
-          "accent": "こんにちは",
-          "english": "Good"
-        },
-        {
-          "japanese": "こんばんは",
-          "romaji": "konbanwa",
-          "accent": "こんばんは",
-          "english": "Good"
-        }
+          {
+            "japanese": "日本語",
+            "romaji": "nihongo",
+            "accent": "にほんご○",
+            "english": "Japanese language"
+          },
+          {
+            "japanese": "英語",
+            "romaji": "eego",
+            "accent": "えいご○",
+            "english": "English language"
+          },
+          {
+            "japanese": "中国語",
+            "romaji": "chuugokugo",
+            "accent": "ちゅうごくご○",
+            "english": "Chinese language"
+          },
+          {
+            "japanese": "インドネシア語",
+            "romaji": "indoneshiago",
+            "accent": "インドネシアご○",
+            "english": "Indonesian language"
+          },
+          {
+            "japanese": "はい",
+            "romaji": "hai",
+            "accent": "は↓い",
+            "english": "yes"
+          },
+          {
+            "japanese": "少し",
+            "romaji": "sukoshi",
+            "accent": "すこ↓し",
+            "english": "a little / a few"
+          },
+          {
+            "japanese": "お客さん",
+            "romaji": "okyakusan",
+            "accent": "おきゃくさん○",
+            "english": "customer (used to address a customer if their name isn't known)"
+          },
+          {
+            "japanese": "わかりますか？",
+            "romaji": "wakarimasu ka?",
+            "accent": "わかりま↓すか？",
+            "english": "Do you understand?"
+          },
+          {
+            "japanese": "できますか？",
+            "romaji": "dekimasu ka?",
+            "accent": "できま↓すか？",
+            "english": "Can you speak it?"
+          },
+          {
+            "japanese": "できます",
+            "romaji": "dekimasu",
+            "accent": "できま↓す",
+            "english": "I can speak / understand it."
+          },
+          {
+            "japanese": "わかります",
+            "romaji": "wakarimasu",
+            "accent": "わかりま↓す",
+            "english": "I understand."
+          },
+          {
+            "japanese": "はい、どうぞ",
+            "romaji": "hai, doozo",
+            "accent": "はい○、ど↓うぞ",
+            "english": "Here you go."
+          },
+          {
+            "japanese": "じゃあ",
+            "romaji": "jaa",
+            "accent": "じゃ↓あ",
+            "english": "Well then…"
+          },
+          {
+            "japanese": "あのう",
+            "romaji": "anoo",
+            "accent": "あのう○",
+            "english": "Um… (used when the speaker wants to start talking to someone)"
+          }
       ],
-      "audio": "/audio/x/lesson1/wordlist_X_01-2.mp3"
+      "audio": "/audio/x/lesson1/wordlist_X_02-2.mp3"
+    },
+    {
+      "title": "これは日本語で何と言いますか？",
+      "number": "3.",
+      "wordList": [
+          {
+            "japanese": "日本語で",
+            "romaji": "nihongo de",
+            "accent": "にほんごで○",
+            "english": "in Japanese"
+          },
+          {
+            "japanese": "何",
+            "romaji": "nan",
+            "accent": "な↓ん",
+            "english": "what"
+          },
+          {
+            "japanese": "消しゴム",
+            "romaji": "keshigomu",
+            "accent": "けしゴム○",
+            "english": "eraser"
+          },
+          {
+            "japanese": "傘",
+            "romaji": "kasa",
+            "accent": "か↓さ",
+            "english": "umbrella"
+          },
+          {
+            "japanese": "スマホ",
+            "romaji": "sumaho",
+            "accent": "スマホ○",
+            "english": "smartphone"
+          },
+          {
+            "japanese": "免許証",
+            "romaji": "menkyoshoo",
+            "accent": "めんきょしょう○／めんきょ↓しょう",
+            "english": "license"
+          },
+          {
+            "japanese": "蚊",
+            "romaji": "ka",
+            "accent": "か○",
+            "english": "mosquito"
+          },
+          {
+            "japanese": "何ですか？",
+            "romaji": "nan desu ka?",
+            "accent": "な↓んですか？",
+            "english": "What is it?"
+          },
+          {
+            "japanese": "何と言いますか？",
+            "romaji": "nan to iimasu ka?",
+            "accent": "な↓んといいま↓すか？",
+            "english": "What do you call it?"
+          },
+          {
+            "japanese": "え？",
+            "romaji": "e?",
+            "accent": "え↓?",
+            "english": "Huh? / What? / Pardon?"
+          },
+          {
+            "japanese": "そうそう",
+            "romaji": "soo soo",
+            "accent": "そ↓う　そ↓う",
+            "english": "That's right."
+          }
+      ],
+      "audio": "/audio/x/lesson1/wordlist_X_02-3.mp3"
     }
   ]
 }

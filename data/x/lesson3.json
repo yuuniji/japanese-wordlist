@@ -3,54 +3,248 @@
   "number": "第3課",
   "sections": [
     {
-      "title": "こんにちは",
+      "title": "はじめまして",
       "number": "1.",
       "wordList": [
         {
-          "japanese": "おはよう",
-          "romaji": "ohayoo",
-          "accent": "おはよう",
-          "english": "Good"
+          "japanese": "ミャンマー",
+          "romaji": "Myanmaa",
+          "accent": "ミャ↓ンマー",
+          "english": "Myanmar"
         },
         {
-          "japanese": "こんにちは",
-          "romaji": "konnichiwa",
-          "accent": "こんにちは",
-          "english": "Good"
+          "japanese": "韓国",
+          "romaji": "Kankoku",
+          "accent": "か↓んこく",
+          "english": "South Korea"
         },
         {
-          "japanese": "こんばんは",
-          "romaji": "konbanwa",
-          "accent": "こんばんは",
-          "english": "Good"
+          "japanese": "タイ",
+          "romaji": "Tai",
+          "accent": "タ↓イ",
+          "english": "Thailand"
+        },
+        {
+          "japanese": "ブラジル",
+          "romaji": "Burajiru",
+          "accent": "ブラジル○",
+          "english": "Brazil"
+        },
+        {
+          "japanese": "～から来ました",
+          "romaji": "～kara kimashita",
+          "accent": "～からきま↓した",
+          "english": "came from ～"
+        },
+        {
+          "japanese": "来る／来ます",
+          "romaji": "kuru / kimas",
+          "accent": "く↓る／きま↓す",
+          "english": "to come"
+        },
+        {
+          "japanese": "私",
+          "romaji": "watashi",
+          "accent": "わたし○",
+          "english": "I / myself"
+        },
+        {
+          "japanese": "はじめまして",
+          "romaji": "hajimemashite",
+          "accent": "はじめま↓して",
+          "english": "Hello. (said when meeting someone for the first time)"
+        },
+        {
+          "japanese": "（どうぞ）よろしくお願いします",
+          "romaji": "(doozo) yoroshiku onegaishimasu",
+          "accent": "（ど↓うぞ）　よろしくおねがいしま↓す",
+          "english": "Nice to meet you."
         }
       ],
-      "audio": "/audio/x/lesson1/wordlist_X_01-1.mp3"
+      "audio": "/audio/x/lesson1/wordlist_X_03-1.mp3"
     },
     {
-      "title": "こんにちは",
+      "title": "名札",
       "number": "2.",
       "wordList": [
         {
-          "japanese": "おはよう",
-          "romaji": "ohayoo",
-          "accent": "おはよう",
-          "english": "Good"
-        },
-        {
-          "japanese": "こんにちは",
-          "romaji": "konnichiwa",
-          "accent": "こんにちは",
-          "english": "Good"
-        },
-        {
-          "japanese": "こんばんは",
-          "romaji": "konbanwa",
-          "accent": "こんばんは",
-          "english": "Good"
+          "japanese": "インドネシア",
+          "romaji": "Indoneshia",
+          "accent": "インドネ↓シア",
+          "english": "Indonesia"
         }
       ],
-      "audio": "/audio/x/lesson1/wordlist_X_01-2.mp3"
+      "audio": "/audio/x/lesson1/wordlist_X_03-2.mp3"
+    },
+    {
+      "title": "ご出身は？",
+      "number": "3.",
+      "wordList": [
+        {
+          "japanese": "名前／お名前",
+          "romaji": "namae / onamae",
+          "accent": "なまえ○／おなまえ○",
+          "english": "name"
+        },
+        {
+          "japanese": "出身／ご出身",
+          "romaji": "shusshin / goshusshin",
+          "accent": "しゅっしん○／ごしゅっしん○",
+          "english": "hometown / (your) hometown"
+        },
+        {
+          "japanese": "ベトナム",
+          "romaji": "Betonamu",
+          "accent": "ベトナム○",
+          "english": "Vietnam"
+        },
+        {
+          "japanese": "ハノイ",
+          "romaji": "Hanoi",
+          "accent": "ハ↓ノイ",
+          "english": "Hanoi"
+        },
+        {
+          "japanese": "国／お国",
+          "romaji": "kuni / okuni",
+          "accent": "くに○／おくに○",
+          "english": "country / (your) country"
+        },
+        {
+          "japanese": "どちら",
+          "romaji": "dochira",
+          "accent": "ど↓ちら",
+          "english": "where (polite expression)"
+        },
+        {
+          "japanese": "フエ",
+          "romaji": "Fue",
+          "accent": "フ↓エ",
+          "english": "Hue"
+        },
+        {
+          "japanese": "カンボジア",
+          "romaji": "Kanbojia",
+          "accent": "カンボジア○",
+          "english": "Cambodia"
+        },
+        {
+          "japanese": "みなさん",
+          "romaji": "minasan",
+          "accent": "みな↓さん",
+          "english": "all of you"
+        },
+        {
+          "japanese": "友だち",
+          "romaji": "tomodachi",
+          "accent": "ともだち○",
+          "english": "friend"
+        },
+        {
+          "japanese": "同じ",
+          "romaji": "onaji",
+          "accent": "おなじ○",
+          "english": "same"
+        },
+        {
+          "japanese": "会社",
+          "romaji": "kaisha",
+          "accent": "かいしゃ○",
+          "english": "company"
+        },
+        {
+          "japanese": "えーと",
+          "romaji": "eeto",
+          "accent": "えーと○",
+          "english": "Er… (expresses that the speaker is thinking)"
+        },
+        {
+          "japanese": "そうですか",
+          "romaji": "soo desu ka",
+          "accent": "そ↓うですか",
+          "english": "I see. (indicates that the speaker has understood what the other person is saying)"
+        },
+        {
+          "japanese": "どちらからですか？",
+          "romaji": "dochira kara desu ka?",
+          "accent": "ど↓ちらから↓ですか？",
+          "english": "Where are you from?"
+        },
+        {
+          "japanese": "～からですか？",
+          "romaji": "～kara desu ka?",
+          "accent": "～から↓ですか？",
+          "english": "Are you from ～?"
+        }
+      ],
+      "audio": "/audio/x/lesson1/wordlist_X_03-3.mp3"
+    },
+    {
+      "title": "申込書",
+      "number": "4.",
+      "wordList": [
+        {
+          "japanese": "国籍",
+          "romaji": "kokuseki",
+          "accent": "こくせき○",
+          "english": "nationality"
+        },
+        {
+          "japanese": "生年月日",
+          "romaji": "seenengappi",
+          "accent": "せいねんが↓っぴ",
+          "english": "date of birth"
+        },
+        {
+          "japanese": "西暦",
+          "romaji": "seereki",
+          "accent": "せいれき○",
+          "english": "Gregorian calendar"
+        },
+        {
+          "japanese": "～年",
+          "romaji": "～nen",
+          "accent": "～ねん",
+          "english": "year"
+        },
+        {
+          "japanese": "～月　（12月）",
+          "romaji": "～gatsu　(juuni-gatsu)",
+          "accent": "～がつ　（じゅうにがつ○）",
+          "english": "month of the year　(e.g. 12th month = December)"
+        },
+        {
+          "japanese": "～日",
+          "romaji": "～nichi",
+          "accent": "～にち",
+          "english": "day of the month"
+        },
+        {
+          "japanese": "住所",
+          "romaji": "juusho",
+          "accent": "じゅ↓うしょ",
+          "english": "address"
+        },
+        {
+          "japanese": "電話番号",
+          "romaji": "denwa-bangoo",
+          "accent": "でんわば↓んごう",
+          "english": "telephone number"
+        },
+        {
+          "japanese": "メール",
+          "romaji": "meeru",
+          "accent": "メール○",
+          "english": "email"
+        },
+        {
+          "japanese": "申込書",
+          "romaji": "mooshikomisho",
+          "accent": "もうしこみしょ○",
+          "english": "application form"
+        }
+      ],
+      "audio": "/audio/x/lesson1/wordlist_X_03-4.mp3"
     }
   ]
 }

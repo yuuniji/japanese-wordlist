@@ -7,19 +7,19 @@
       "number": "1.",
       "wordList": [
         {
-          "japanese": "おはよう(ございます)",
+          "japanese": "💬おはよう(ございます)",
           "romaji": "ohayoo (gozaimasu)",
           "accent": "おはよう (ございま↓す)",
           "english": "Good morning."
         },
         {
-          "japanese": "こんにちは",
+          "japanese": "💬こんにちは",
           "romaji": "konnichiwa",
           "accent": "こんにちは○",
           "english": "Good afternoon."
         },
         {
-          "japanese": "こんばんは",
+          "japanese": "💬こんばんは",
           "romaji": "konbanwa",
           "accent": "こんばんは○",
           "english": "Good evening."
@@ -32,19 +32,147 @@
       "number": "2.",
       "wordList": [
         {
-          "japanese": "じゃあ、また",
+          "japanese": "💬じゃあ、また",
           "romaji": "jaa, mata",
           "accent": "じゃ↓あ、また○",
           "english": "See you later."
         },
         {
-          "japanese": "おやすみ(なさい)",
+          "japanese": "💬おやすみ(なさい)",
           "romaji": "oyasumi (nasai)",
           "accent": "おやすみ (なさい) ○",
           "english": "Good night."
+        },
+        {
+          "japanese": "💬失礼します",
+          "romaji": "shitsureeshimasu",
+          "accent": "しつ↓れいします",
+          "english": "Good bye."
+        },
+        {
+          "japanese": "💬お先に失礼します",
+          "romaji": "osaki ni shitsureeshimasu",
+          "accent": "おさきにしつ↓れいします",
+          "english": "Good bye. (I’ll take my leave before you.)"
+        },
+        {
+          "japanese": "💬お疲れさま（でした）",
+          "romaji": "otsukaresama (deshita)",
+          "accent": "おつかれさま（で↓した）",
+          "english": "Good bye. (Thank you for your hard work.)"
         }
       ],
       "audio": "/audio/x/lesson1/wordlist_X_01-2.mp3"
+    },
+    {
+      "title": "ありがとうございます",
+      "number": "3.",
+      "wordList": [
+        {
+          "japanese": "これ",
+          "romaji": "kore",
+          "accent": "これ○",
+          "english": "this"
+        },
+        {
+          "japanese": "あめ",
+          "romaji": "ame",
+          "accent": "あめ○",
+          "english": "candy"
+        },
+        {
+          "japanese": "プレゼント",
+          "romaji": "purezento",
+          "accent": "プレ↓ゼント",
+          "english": "present"
+        },
+        {
+          "japanese": "ありがとうございます",
+          "romaji": "arigatoo gozaimasu",
+          "accent": "あり↓がとうございます",
+          "english": "Thank you."
+        },
+        {
+          "japanese": "すみません",
+          "romaji": "sumimasen",
+          "accent": "すみませ↓ん",
+          "english": "Thank you."
+        },
+        {
+          "japanese": "（どうも）ありがとう",
+          "romaji": "(doomo) arigatoo",
+          "accent": "（ど↓うも）　あり↓がとう",
+          "english": "Thank you very much."
+        },
+        {
+          "japanese": "どうも",
+          "romaji": "doomo",
+          "accent": "ど↓うも",
+          "english": "Thanks."
+        },
+        {
+          "japanese": "落としましたよ",
+          "romaji": "otoshimashita yo",
+          "accent": "おとしま↓したよ",
+          "english": "You dropped this."
+        },
+        {
+          "japanese": "どうぞ",
+          "romaji": "doozo",
+          "accent": "ど↓うぞ",
+          "english": "Here you go."
+        },
+        {
+          "japanese": "いいえ",
+          "romaji": "iie",
+          "accent": "いいえ○",
+          "english": "You're welcome."
+        },
+        {
+          "japanese": "わあ",
+          "romaji": "waa",
+          "accent": "わあ○",
+          "english": "Oh! (expresses surprise)"
+        },
+        {
+          "japanese": "すみません",
+          "romaji": "sumimasen",
+          "accent": "すみませ↓ん",
+          "english": "I'm sorry."
+        },
+        {
+          "japanese": "ごめん",
+          "romaji": "gomen",
+          "accent": "ごめん○",
+          "english": "Sorry."
+        },
+        {
+          "japanese": "痛い！",
+          "romaji": "itai !",
+          "accent": "いた↓い！",
+          "english": "Ouch！"
+        }
+      ],
+      "audio": "/audio/x/lesson1/wordlist_X_01-3.mp3"
+    },
+    {
+      "title": "メッセージスタンプ",
+      "number": "4.",
+      "wordList": [
+        {
+          "japanese": "おめでとうございます",
+          "romaji": "omedetoo gozaimasu",
+          "accent": "おめでとうございま↓す",
+          "english": "Congratulations."
+        },
+        {
+          "japanese": "わかりました",
+          "romaji": "wakarimashita",
+          "accent": "わかりま↓した",
+          "english": "I understand."
+        }
+      ],
+      "audio": "/audio/x/lesson1/wordlist_X_01-4.mp3"
     }
   ]
 }

@@ -3,54 +3,401 @@
   "number": "第7課",
   "sections": [
     {
-      "title": "こんにちは",
+      "title": "ここは台所です",
       "number": "1.",
       "wordList": [
-        {
-          "japanese": "おはよう",
-          "romaji": "ohayoo",
-          "accent": "おはよう",
-          "english": "Good"
-        },
-        {
-          "japanese": "こんにちは",
-          "romaji": "konnichiwa",
-          "accent": "こんにちは",
-          "english": "Good"
-        },
-        {
-          "japanese": "こんばんは",
-          "romaji": "konbanwa",
-          "accent": "こんばんは",
-          "english": "Good"
-        }
+          {
+            "japanese": "玄関",
+            "romaji": "genkan",
+            "accent": "げ↓んかん",
+            "english": "entrance"
+          },
+          {
+            "japanese": "お風呂",
+            "romaji": "ofuro",
+            "accent": "おふ↓ろ",
+            "english": "bathroom"
+          },
+          {
+            "japanese": "トイレ",
+            "romaji": "toire",
+            "accent": "ト↓イレ",
+            "english": "toilet"
+          },
+          {
+            "japanese": "階段",
+            "romaji": "kaidan",
+            "accent": "かいだん○",
+            "english": "stairs"
+          },
+          {
+            "japanese": "部屋",
+            "romaji": "heya",
+            "accent": "へや↓",
+            "english": "room"
+          },
+          {
+            "japanese": "ベランダ",
+            "romaji": "beranda",
+            "accent": "ベランダ○",
+            "english": "veranda"
+          },
+          {
+            "japanese": "バルコニー",
+            "romaji": "barukonii",
+            "accent": "バルコ↓ニー／バル↓コニー／バ↓ルコニー",
+            "english": "balcony"
+          },
+          {
+            "japanese": "台所",
+            "romaji": "daidokoro",
+            "accent": "だいどころ○",
+            "english": "kitchen"
+          },
+          {
+            "japanese": "キッチン",
+            "romaji": "kicchin",
+            "accent": "キ↓ッチン",
+            "english": "kitchen"
+          },
+          {
+            "japanese": "庭",
+            "romaji": "niwa",
+            "accent": "にわ○",
+            "english": "garden"
+          },
+          {
+            "japanese": "居間",
+            "romaji": "ima",
+            "accent": "いま↓",
+            "english": "living room"
+          },
+          {
+            "japanese": "リビング",
+            "romaji": "ribingu",
+            "accent": "リ↓ビング",
+            "english": "living room"
+          },
+          {
+            "japanese": "1階",
+            "romaji": "ikkai",
+            "accent": "いっかい○",
+            "english": "first floor"
+          },
+          {
+            "japanese": "2階",
+            "romaji": "ni-kai",
+            "accent": "にかい○",
+            "english": "second floor"
+          },
+          {
+            "japanese": "管理人室",
+            "romaji": "kanrininshitsu",
+            "accent": "かんりに↓んしつ",
+            "english": "building manager's office"
+          },
+          {
+            "japanese": "食堂",
+            "romaji": "shokudoo",
+            "accent": "しょくどう○",
+            "english": "cafeteria"
+          },
+          {
+            "japanese": "入る／入ります",
+            "romaji": "hairu / hairimasu",
+            "accent": "は↓いる／はいりま↓す",
+            "english": "to come in"
+          },
+          {
+            "japanese": "くつ",
+            "romaji": "kutsu",
+            "accent": "くつ↓",
+            "english": "shoes"
+          },
+          {
+            "japanese": "脱ぐ／脱ぎます",
+            "romaji": "nugu / nugimasu",
+            "accent": "ぬ↓ぐ／ぬぎま↓す",
+            "english": "to take off"
+          },
+          {
+            "japanese": "ご飯",
+            "romaji": "gohan",
+            "accent": "ご↓はん",
+            "english": "food / meal"
+          },
+          {
+            "japanese": "入ってください",
+            "romaji": "haitte kudasai",
+            "accent": "は↓いってくださ↓い",
+            "english": "Please come in."
+          },
+          {
+            "japanese": "脱いでください",
+            "romaji": "nuide kudasai",
+            "accent": "ぬ↓いでくださ↓い",
+            "english": "Please take them off."
+          },
+          {
+            "japanese": "お世話になります",
+            "romaji": "osewa ni narimasu",
+            "accent": "おせ↓わになります",
+            "english": "I'll be in your care. (polite expression used when meeting someone who will look after you)"
+          }
       ],
-      "audio": "/audio/x/lesson1/wordlist_X_01-1.mp3"
+      "audio": "/audio/x/lesson1/wordlist_X_07-1.mp3"
     },
     {
-      "title": "こんにちは",
+      "title": "電子レンジはありますか？",
       "number": "2.",
       "wordList": [
-        {
-          "japanese": "おはよう",
-          "romaji": "ohayoo",
-          "accent": "おはよう",
-          "english": "Good"
-        },
-        {
-          "japanese": "こんにちは",
-          "romaji": "konnichiwa",
-          "accent": "こんにちは",
-          "english": "Good"
-        },
-        {
-          "japanese": "こんばんは",
-          "romaji": "konbanwa",
-          "accent": "こんばんは",
-          "english": "Good"
-        }
+          {
+            "japanese": "エアコン",
+            "romaji": "eakon",
+            "accent": "エアコン○",
+            "english": "air-conditioner"
+          },
+          {
+            "japanese": "冷蔵庫",
+            "romaji": "reezooko",
+            "accent": "れいぞ↓うこ",
+            "english": "refrigerator"
+          },
+          {
+            "japanese": "電子レンジ",
+            "romaji": "denshi-renji",
+            "accent": "でんしレ↓ンジ",
+            "english": "microwave"
+          },
+          {
+            "japanese": "炊飯器",
+            "romaji": "suihanki",
+            "accent": "すいは↓んき",
+            "english": "rice-cooker"
+          },
+          {
+            "japanese": "トースター",
+            "romaji": "toosutaa",
+            "accent": "ト↓ースター",
+            "english": "toaster"
+          },
+          {
+            "japanese": "ベッド",
+            "romaji": "beddo",
+            "accent": "ベ↓ッド",
+            "english": "bed"
+          },
+          {
+            "japanese": "ふとん",
+            "romaji": "futon",
+            "accent": "ふとん○",
+            "english": "futon (Japanese bedding)"
+          },
+          {
+            "japanese": "テーブル",
+            "romaji": "teeburu",
+            "accent": "テーブル○",
+            "english": "table"
+          },
+          {
+            "japanese": "いす",
+            "romaji": "isu",
+            "accent": "いす○",
+            "english": "chair"
+          },
+          {
+            "japanese": "洗濯機",
+            "romaji": "sentakuki",
+            "accent": "せんたく↓き",
+            "english": "washing machine"
+          },
+          {
+            "japanese": "テレビ",
+            "romaji": "terebi",
+            "accent": "テ↓レビ",
+            "english": "television"
+          },
+          {
+            "japanese": "Wi-Fi",
+            "romaji": "wai-fai",
+            "accent": "ワイファイ○",
+            "english": "Wi-Fi"
+          },
+          {
+            "japanese": "みんなで",
+            "romaji": "minna de",
+            "accent": "みんな↓で",
+            "english": "with everybody"
+          },
+          {
+            "japanese": "使う／使います",
+            "romaji": "tsukau / tsukaimasu",
+            "accent": "つかう○／つかいま↓す",
+            "english": "to use"
+          },
+          {
+            "japanese": "ない",
+            "romaji": "nai",
+            "accent": "な↓い",
+            "english": "I don't / no (negative of ある)"
+          },
+          {
+            "japanese": "使ってください",
+            "romaji": "tsukatte kudasai",
+            "accent": "つかってくださ↓い",
+            "english": "Please use it."
+          }
       ],
-      "audio": "/audio/x/lesson1/wordlist_X_01-2.mp3"
+      "audio": "/audio/x/lesson1/wordlist_X_07-2.mp3"
+    },
+    {
+      "title": "ちょっとせまいです",
+      "number": "3.",
+      "wordList": [
+          {
+            "japanese": "広い",
+            "romaji": "hiroi",
+            "accent": "ひろ↓い",
+            "english": "spacious"
+          },
+          {
+            "japanese": "せまい",
+            "romaji": "semai",
+            "accent": "せま↓い",
+            "english": "cramped"
+          },
+          {
+            "japanese": "大きい",
+            "romaji": "ookii",
+            "accent": "おおき↓い",
+            "english": "large"
+          },
+          {
+            "japanese": "小さい",
+            "romaji": "chiisai",
+            "accent": "ちいさ↓い",
+            "english": "small"
+          },
+          {
+            "japanese": "新しい",
+            "romaji": "atarashii",
+            "accent": "あたらし↓い",
+            "english": "new"
+          },
+          {
+            "japanese": "古い",
+            "romaji": "furui",
+            "accent": "ふる↓い",
+            "english": "old"
+          },
+          {
+            "japanese": "静か（な）",
+            "romaji": "shizuka (na)",
+            "accent": "し↓ずか（な）",
+            "english": "quiet"
+          },
+          {
+            "japanese": "うるさい",
+            "romaji": "urusai",
+            "accent": "うるさ↓い",
+            "english": "noisy"
+          },
+          {
+            "japanese": "きれい（な）",
+            "romaji": "kiree (na)",
+            "accent": "き↓れい（な）",
+            "english": "tidy"
+          },
+          {
+            "japanese": "きたない",
+            "romaji": "kitanai",
+            "accent": "きたな↓い",
+            "english": "untidy"
+          },
+          {
+            "japanese": "家",
+            "romaji": "ie",
+            "accent": "いえ↓",
+            "english": "house"
+          },
+          {
+            "japanese": "どう",
+            "romaji": "doo",
+            "accent": "ど↓う",
+            "english": "how"
+          },
+          {
+            "japanese": "ちょっと",
+            "romaji": "chotto",
+            "accent": "ちょ↓っと",
+            "english": "a little"
+          },
+          {
+            "japanese": "とても",
+            "romaji": "totemo",
+            "accent": "とても○",
+            "english": "very"
+          },
+          {
+            "japanese": "うち",
+            "romaji": "uchi",
+            "accent": "うち○",
+            "english": "home"
+          },
+          {
+            "japanese": "近く",
+            "romaji": "chikaku",
+            "accent": "ち↓かく",
+            "english": "close"
+          },
+          {
+            "japanese": "でも",
+            "romaji": "demo",
+            "accent": "で↓も",
+            "english": "but"
+          },
+          {
+            "japanese": "～区　（南区）",
+            "romaji": "～ku　(minami-ku)",
+            "accent": "～く　（みなみ↓く）",
+            "english": "～ Ward　(e.g. Minami Ward)"
+          },
+          {
+            "japanese": "いいですね",
+            "romaji": "ii desu ne",
+            "accent": "い↓いですね",
+            "english": "That's nice."
+          },
+          {
+            "japanese": "どう？",
+            "romaji": "doo?",
+            "accent": "ど↓う？",
+            "english": "How is it? (a casual way of saying どうですか？)"
+          },
+          {
+            "japanese": "ふーん",
+            "romaji": "fuun",
+            "accent": "ふーん○",
+            "english": "Hmm… (casually indicates that the speaker is listening to the other person)"
+          }
+      ],
+      "audio": "/audio/x/lesson1/wordlist_X_07-3.mp3"
+    },
+    {
+      "title": "アパートに住んでいます",
+      "number": "4.",
+      "wordList": [
+        
+      ],
+      "audio": "/audio/x/lesson1/wordlist_X_07-4.mp3"
+    },
+    {
+      "title": "洗濯機 ・エアコンのボタン",
+      "number": "5.",
+      "wordList": [
+        
+      ],
+      "audio": "/audio/x/lesson1/wordlist_X_07-5.mp3"
     }
   ]
 }
