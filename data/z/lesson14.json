@@ -3,7 +3,7 @@
   "number": "第14課",
   "sections": [
     {
-      "title": "こんにちは",
+      "title": "自転車の空気を入れたいんですが…",
       "number": "1.",
       "wordList": [
         
@@ -11,7 +11,7 @@
       "audio": "/audio/z/lesson14/wordlist_Z_14-1.mp3"
     },
     {
-      "title": "こんにちは",
+      "title": "郵便局からの連絡",
       "number": "2.",
       "wordList": [
         
@@ -19,12 +19,20 @@
       "audio": "/audio/z/lesson14/wordlist_Z_14-2.mp3"
     },
     {
-      "title": "こんにちは",
+      "title": "どのぐらい切りますか？",
       "number": "3.",
       "wordList": [
         
       ],
       "audio": "/audio/z/lesson14/wordlist_Z_14-3.mp3"
+    },
+    {
+      "title": "外国の方のために、いろいろなサービスがあります",
+      "number": "4.",
+      "wordList": [
+        
+      ],
+      "audio": "/audio/z/lesson14/wordlist_Z_14-4.mp3"
     }
   ]
 }

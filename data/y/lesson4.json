@@ -6,7 +6,120 @@
       "title": "朝から暑いですね",
       "number": "1.",
       "wordList": [
-        
+        {
+          "japanese": "天気",
+          "romaji": "tenki",
+          "accent": "て↓んき",
+          "english": "weather"
+        },
+        {
+          "japanese": "晴れ",
+          "romaji": "hare",
+          "accent": "はれ↓",
+          "english": "sunny / fine (weather)"
+        },
+        {
+          "japanese": "晴れる",
+          "romaji": "hareru",
+          "accent": "はれ↓る",
+          "english": "to clear / to fair"
+        },
+        {
+          "japanese": "いい天気",
+          "romaji": "ii tenki",
+          "accent": "い↓いて↓んき",
+          "english": "fine weather"
+        },
+        {
+          "japanese": "くもり",
+          "romaji": "kumori",
+          "accent": "くもり↓",
+          "english": "cloudy"
+        },
+        {
+          "japanese": "くもる",
+          "romaji": "kumoru",
+          "accent": "くも↓る",
+          "english": "to become cloudy / to overcast"
+        },
+        {
+          "japanese": "雨",
+          "romaji": "ame",
+          "accent": "あ↓め",
+          "english": "rain"
+        },
+        {
+          "japanese": "降る",
+          "romaji": "furu",
+          "accent": "ふ↓る",
+          "english": "to fall (rain / snow, etc.)"
+        },
+        {
+          "japanese": "風",
+          "romaji": "kaze",
+          "accent": "かぜ○",
+          "english": "wind"
+        },
+        {
+          "japanese": "吹く",
+          "romaji": "fuku",
+          "accent": "ふ↓く",
+          "english": "to blow"
+        },
+        {
+          "japanese": "雷",
+          "romaji": "kaminari",
+          "accent": "かみな↓り",
+          "english": "thunder / lightning"
+        },
+        {
+          "japanese": "鳴る",
+          "romaji": "naru",
+          "accent": "なる○",
+          "english": "to clap / to roll"
+        },
+        {
+          "japanese": "今",
+          "romaji": "ima",
+          "accent": "い↓ま",
+          "english": "now"
+        },
+        {
+          "japanese": "昨日",
+          "romaji": "kinou",
+          "accent": "きの↓う／きのう○",
+          "english": "yesterday"
+        },
+        {
+          "japanese": "だいぶ",
+          "romaji": "daibu",
+          "accent": "だいぶ○",
+          "english": "much"
+        },
+        {
+          "japanese": "嫌になる",
+          "romaji": "iya ni naru",
+          "accent": "いや↓にな↓る",
+          "english": "to be annoying"
+        },
+        {
+          "japanese": "ゆうべ",
+          "romaji": "yuube",
+          "accent": "ゆうべ↓／ゆうべ○",
+          "english": "last night"
+        },
+        {
+          "japanese": "すごい",
+          "romaji": "sugoi",
+          "accent": "すご↓い",
+          "english": "heavy / strong"
+        },
+        {
+          "japanese": "本当ですね",
+          "romaji": "hontou desu ne",
+          "accent": "ほんとうで↓すね",
+          "english": "That's true."
+        }
       ],
       "audio": "/audio/y/lesson4/wordlist_Y_04-1.mp3"
     },
@@ -14,7 +127,54 @@
       "title": "明日は晴れるでしょう",
       "number": "2.",
       "wordList": [
-        
+        {
+          "japanese": "夜中",
+          "romaji": "yonaka",
+          "accent": "よなか↓",
+          "english": "during the night"
+        },
+        {
+          "japanese": "明日",
+          "romaji": "ashita",
+          "accent": "あした↓／あした○",
+          "english": "tomorrow"
+        },
+        {
+          "japanese": "1日",
+          "romaji": "ichinichi",
+          "accent": "いちにち↓／いちにち○",
+          "english": "all day"
+        },
+        {
+          "japanese": "やむ",
+          "romaji": "yamu",
+          "accent": "やむ○",
+          "english": "to stop"
+        },
+        {
+          "japanese": "ただ",
+          "romaji": "tada",
+          "accent": "た↓だ",
+          "english": "but"
+        },
+        {
+          "japanese": "強い",
+          "romaji": "tsuyoi",
+          "accent": "つよ↓い",
+          "english": "strong"
+        },
+        {
+          "japanese": "服装",
+          "romaji": "fukusou",
+          "accent": "ふくそう○",
+          "english": "clothing"
+        },
+        {
+          "japanese": "お出かけください",
+          "romaji": "odekake kudasai",
+          "accent": "おでかけくださ↓い",
+          "english": "Please go out. (polite expression)"
+        }
       ],
       "audio": "/audio/y/lesson4/wordlist_Y_04-2.mp3"
     },
@@ -22,7 +182,78 @@
       "title": "台風が来てます",
       "number": "3.",
       "wordList": [
-        
+        {
+          "japanese": "台風",
+          "romaji": "taifuu",
+          "accent": "たいふ↓う",
+          "english": "typhoon"
+        },
+        {
+          "japanese": "外",
+          "romaji": "soto",
+          "accent": "そ↓と",
+          "english": "outside"
+        },
+        {
+          "japanese": "死ぬ",
+          "romaji": "shinu",
+          "accent": "しぬ○",
+          "english": "to die"
+        },
+        {
+          "japanese": "気温",
+          "romaji": "kion",
+          "accent": "きおん○",
+          "english": "(air) temperature"
+        },
+        {
+          "japanese": "アイス",
+          "romaji": "aisu",
+          "accent": "ア↓イス",
+          "english": "ice cream"
+        },
+        {
+          "japanese": "町",
+          "romaji": "machi",
+          "accent": "まち↓",
+          "english": "town"
+        },
+        {
+          "japanese": "触る",
+          "romaji": "sawaru",
+          "accent": "さわる○",
+          "english": "to touch"
+        },
+        {
+          "japanese": "冷たい",
+          "romaji": "tsumetai",
+          "accent": "つめたい○／つめた↓い",
+          "english": "cold"
+        },
+        {
+          "japanese": "まっしろ（な）",
+          "romaji": "masshiro",
+          "accent": "まっし↓ろ（な）",
+          "english": "pure white"
+        },
+        {
+          "japanese": "とっても",
+          "romaji": "tottemo",
+          "accent": "とっても○",
+          "english": "very (casual form of とても)"
+        },
+        {
+          "japanese": "まだ",
+          "romaji": "mada",
+          "accent": "ま↓だ",
+          "english": "still"
+        },
+        {
+          "japanese": "遅れる",
+          "romaji": "okureru",
+          "accent": "おくれる○",
+          "english": "to be late"
+        }
       ],
       "audio": "/audio/y/lesson4/wordlist_Y_04-3.mp3"
     }

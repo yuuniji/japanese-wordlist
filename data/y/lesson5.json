@@ -6,7 +6,114 @@
       "title": "この町はどうですか？",
       "number": "1.",
       "wordList": [
-        
+        {
+          "japanese": "どんな",
+          "romaji": "donna",
+          "accent": "ど↓んな",
+          "english": "what kind of"
+        },
+        {
+          "japanese": "町",
+          "romaji": "machi",
+          "accent": "まち↓",
+          "english": "town"
+        },
+        {
+          "japanese": "便利（な）",
+          "romaji": "benri (na)",
+          "accent": "べ↓んり（な）",
+          "english": "convenient"
+        },
+        {
+          "japanese": "不便（な）",
+          "romaji": "fuben (na)",
+          "accent": "ふ↓べん（な）",
+          "english": "inconvenient"
+        },
+        {
+          "japanese": "にぎやか（な）",
+          "romaji": "nigiyaka (na)",
+          "accent": "にぎ↓やか（な）",
+          "english": "lively"
+        },
+        {
+          "japanese": "緑",
+          "romaji": "midori",
+          "accent": "み↓どり",
+          "english": "greenery"
+        },
+        {
+          "japanese": "多い",
+          "romaji": "ooi",
+          "accent": "お↓おい",
+          "english": "many"
+        },
+        {
+          "japanese": "少ない",
+          "romaji": "sukunai",
+          "accent": "すくな↓い",
+          "english": "few / a little"
+        },
+        {
+          "japanese": "人",
+          "romaji": "hito",
+          "accent": "ひと○",
+          "english": "people"
+        },
+        {
+          "japanese": "やさしい",
+          "romaji": "yasashii",
+          "accent": "やさしい○／やさし↓い",
+          "english": "kind / friendly"
+        },
+        {
+          "japanese": "親切（な）",
+          "romaji": "shinsetsu (na)",
+          "accent": "し↓んせつ（な）",
+          "english": "kind / helpful"
+        },
+        {
+          "japanese": "冷たい",
+          "romaji": "tsumetai",
+          "accent": "つめたい○／つめた↓い",
+          "english": "cold / indifferent"
+        },
+        {
+          "japanese": "田舎",
+          "romaji": "inaka",
+          "accent": "いなか○",
+          "english": "countryside"
+        },
+        {
+          "japanese": "都会",
+          "romaji": "tokai",
+          "accent": "とかい○",
+          "english": "city"
+        },
+        {
+          "japanese": "きれい（な）",
+          "romaji": "kirei (na)",
+          "accent": "き↓れい（な）",
+          "english": "beautiful"
+        },
+        {
+          "japanese": "確かに",
+          "romaji": "tashika ni",
+          "accent": "た↓しかに",
+          "english": "certainly"
+        },
+        {
+          "japanese": "住みやすい",
+          "romaji": "sumiyasui",
+          "accent": "すみやす↓い",
+          "english": "comfortable (to live)"
+        },
+        {
+          "japanese": "店",
+          "romaji": "mise",
+          "accent": "みせ↓",
+          "english": "store / restaurant"
+        }
       ],
       "audio": "/audio/y/lesson5/wordlist_Y_05-1.mp3"
     },
@@ -14,7 +121,114 @@
       "title": "場所は不便だけどきれいですよ",
       "number": "2.",
       "wordList": [
-        
+        {
+          "japanese": "安い",
+          "romaji": "yasui",
+          "accent": "やす↓い",
+          "english": "cheap"
+        },
+        {
+          "japanese": "おもしろい",
+          "romaji": "omoshiroi",
+          "accent": "おもしろ↓い",
+          "english": "interesting / entertaining"
+        },
+        {
+          "japanese": "遠い",
+          "romaji": "tooi",
+          "accent": "とおい○／とお↓い",
+          "english": "far"
+        },
+        {
+          "japanese": "どこか",
+          "romaji": "dokoka",
+          "accent": "ど↓こか",
+          "english": "somewhere"
+        },
+        {
+          "japanese": "ところ",
+          "romaji": "tokoro",
+          "accent": "ところ↓",
+          "english": "place"
+        },
+        {
+          "japanese": "スポーツセンター",
+          "romaji": "supōtsu sentā",
+          "accent": "スポーツセ↓ンター",
+          "english": "sports center"
+        },
+        {
+          "japanese": "建物",
+          "romaji": "tatemono",
+          "accent": "たても↓の／たて↓もの",
+          "english": "building"
+        },
+        {
+          "japanese": "ショッピングモール",
+          "romaji": "shoppingu mōru",
+          "accent": "ショッピングモ↓ール",
+          "english": "shopping mall"
+        },
+        {
+          "japanese": "一度",
+          "romaji": "ichido",
+          "accent": "いちど↓／いちど○",
+          "english": "once"
+        },
+        {
+          "japanese": "行ってみる",
+          "romaji": "itte miru",
+          "accent": "いってみ↓る",
+          "english": "to try to go"
+        },
+        {
+          "japanese": "場所",
+          "romaji": "basho",
+          "accent": "ばしょ○",
+          "english": "place"
+        },
+        {
+          "japanese": "ぜひ",
+          "romaji": "zehi",
+          "accent": "ぜ↓ひ",
+          "english": "definitely"
+        },
+        {
+          "japanese": "おすすめ",
+          "romaji": "osusume",
+          "accent": "おすすめ○",
+          "english": "recommended"
+        },
+        {
+          "japanese": "知っている",
+          "romaji": "shitte iru",
+          "accent": "しっている○",
+          "english": "know"
+        },
+        {
+          "japanese": "知る",
+          "romaji": "shiru",
+          "accent": "しる○",
+          "english": "to know"
+        },
+        {
+          "japanese": "休憩所",
+          "romaji": "kyūkeijo",
+          "accent": "きゅうけいじょ○／きゅうけいじょ↓",
+          "english": "rest area"
+        },
+        {
+          "japanese": "そうね……",
+          "romaji": "sō ne……",
+          "accent": "そ↓うね……",
+          "english": "Hmm... (used when the speaker is thinking)"
+        },
+        {
+          "japanese": "そうだなあ",
+          "romaji": "sō da naa",
+          "accent": "そ↓うだなあ",
+          "english": "Let's see... (used when the speaker is thinking)"
+        }
       ],
       "audio": "/audio/y/lesson5/wordlist_Y_05-2.mp3"
     },
@@ -22,7 +236,102 @@
       "title": "タウンマップ",
       "number": "3.",
       "wordList": [
-        
+        {
+          "japanese": "美しい",
+          "romaji": "utsukushii",
+          "accent": "うつくし↓い",
+          "english": "beautiful"
+        },
+        {
+          "japanese": "砂浜",
+          "romaji": "sunahama",
+          "accent": "すなはま○",
+          "english": "sandy beach"
+        },
+        {
+          "japanese": "有名（な）",
+          "romaji": "yūmei (na)",
+          "accent": "ゆうめい（な）○",
+          "english": "famous"
+        },
+        {
+          "japanese": "泳ぐ",
+          "romaji": "oyogu",
+          "accent": "およ↓ぐ",
+          "english": "to swim"
+        },
+        {
+          "japanese": "丘",
+          "romaji": "oka",
+          "accent": "おか○",
+          "english": "hill"
+        },
+        {
+          "japanese": "見渡す",
+          "romaji": "miwatasu",
+          "accent": "みわたす○",
+          "english": "to overlook"
+        },
+        {
+          "japanese": "夕日",
+          "romaji": "yūhi",
+          "accent": "ゆうひ○",
+          "english": "sunset"
+        },
+        {
+          "japanese": "タウンマップ",
+          "romaji": "taunmappu",
+          "accent": "タウンマ↓ップ",
+          "english": "map of town"
+        },
+        {
+          "japanese": "名物",
+          "romaji": "meibutsu",
+          "accent": "め↓いぶつ",
+          "english": "local specialty"
+        },
+        {
+          "japanese": "評判",
+          "romaji": "hyōban",
+          "accent": "ひょうばん○",
+          "english": "reputation"
+        },
+        {
+          "japanese": "～ha",
+          "romaji": "hekutāru",
+          "accent": "～ヘクタ↓ール",
+          "english": "hectares (1 ha = 10,000 m²)"
+        },
+        {
+          "japanese": "バーベキュー場",
+          "romaji": "bābekyū jō",
+          "accent": "バーベキューじょう○",
+          "english": "barbecue area"
+        },
+        {
+          "japanese": "サイクリングコース",
+          "romaji": "saikuringu kōsu",
+          "accent": "サイクリングコ↓ース",
+          "english": "cycling course"
+        },
+        {
+          "japanese": "人気",
+          "romaji": "ninki",
+          "accent": "にんき○",
+          "english": "popular"
+        },
+        {
+          "japanese": "ビーチ",
+          "romaji": "bīchi",
+          "accent": "ビ↓ーチ",
+          "english": "beach"
+        },
+        {
+          "japanese": "展望台",
+          "romaji": "tenbōdai",
+          "accent": "てんぼうだい○",
+          "english": "observation platform"
+        }
       ],
       "audio": "/audio/y/lesson5/wordlist_Y_05-3.mp3"
     }

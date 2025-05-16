@@ -6,7 +6,42 @@
       "title": "お久しぶりです",
       "number": "1.",
       "wordList": [
-        
+        {
+          "japanese": "先輩",
+          "romaji": "senpai",
+          "accent": "せんぱい○",
+          "english": "senior colleague"
+        },
+        {
+          "japanese": "後輩",
+          "romaji": "koohai",
+          "accent": "こうはい○",
+          "english": "junior colleague"
+        },
+        {
+          "japanese": "知り合い",
+          "romaji": "shiria",
+          "accent": "しりあい○",
+          "english": "acquaintance"
+        },
+        {
+          "japanese": "久しぶり",
+          "romaji": "hisashiburi",
+          "accent": "ひさしぶり○",
+          "english": "long time no see"
+        },
+        {
+          "japanese": "元気（な）",
+          "romaji": "genki (na)",
+          "accent": "げ↓んき（な）",
+          "english": "healthy"
+        },
+        {
+          "japanese": "おかげさまで",
+          "romaji": "okagesamade",
+          "accent": "おかげさまで○",
+          "english": "Thank you."
+        }
       ],
       "audio": "/audio/y/lesson1/wordlist_Y_01-1.mp3"
     },
@@ -14,7 +49,216 @@
       "title": "日本に来てどのぐらいですか？",
       "number": "2.",
       "wordList": [
-        
+        {
+          "japanese": "半年",
+          "romaji": "hantoshi",
+          "accent": "はんとし↓／はんとし○",
+          "english": "half a year"
+        },
+        {
+          "japanese": "1年",
+          "romaji": "ichinen",
+          "accent": "いち↓ねん",
+          "english": "a year"
+        },
+        {
+          "japanese": "先月",
+          "romaji": "sengetsu",
+          "accent": "せ↓んげつ／せんげつ○",
+          "english": "last month"
+        },
+        {
+          "japanese": "去年",
+          "romaji": "kyonen",
+          "accent": "きょ↓ねん",
+          "english": "last year"
+        },
+        {
+          "japanese": "生活",
+          "romaji": "seikatsu",
+          "accent": "せいかつ○",
+          "english": "life"
+        },
+        {
+          "japanese": "もう",
+          "romaji": "mou",
+          "accent": "も↓う",
+          "english": "already"
+        },
+        {
+          "japanese": "慣れる",
+          "romaji": "nareru",
+          "accent": "なれ↓る",
+          "english": "to get used to"
+        },
+        {
+          "japanese": "ちょうど",
+          "romaji": "choudo",
+          "accent": "ちょうど○",
+          "english": "just / exactly"
+        },
+        {
+          "japanese": "なんとか",
+          "romaji": "nantoka",
+          "accent": "な↓んとか",
+          "english": "somehow / a little bit"
+        },
+        {
+          "japanese": "まだ",
+          "romaji": "mada",
+          "accent": "ま↓だ",
+          "english": "not yet"
+        },
+        {
+          "japanese": "～になる　（1年になる）",
+          "romaji": "～ni naru (ichinen ni naru)",
+          "accent": "～にな↓る　（いち↓ねんにな↓る）",
+          "english": "it's been ～ years (e.g. it's been a year)"
+        },
+        {
+          "japanese": "～か月",
+          "romaji": "～kagetsu",
+          "accent": "～か↓げつ",
+          "english": "～ months"
+        },
+        {
+          "japanese": "1か月",
+          "romaji": "ikkagetsu",
+          "accent": "いっか↓げつ",
+          "english": "a month"
+        },
+        {
+          "japanese": "2か月",
+          "romaji": "nikagetsu",
+          "accent": "にか↓げつ",
+          "english": "two months"
+        },
+        {
+          "japanese": "3か月",
+          "romaji": "sankagetsu",
+          "accent": "さんか↓げつ",
+          "english": "three months"
+        },
+        {
+          "japanese": "4か月",
+          "romaji": "yonkagetsu",
+          "accent": "よんか↓げつ",
+          "english": "four months"
+        },
+        {
+          "japanese": "5か月",
+          "romaji": "gokagetsu",
+          "accent": "ごか↓げつ",
+          "english": "five months"
+        },
+        {
+          "japanese": "6か月",
+          "romaji": "rokkagetsu",
+          "accent": "ろっか↓げつ",
+          "english": "six months"
+        },
+        {
+          "japanese": "7か月",
+          "romaji": "nanakagetsu",
+          "accent": "ななか↓げつ",
+          "english": "seven months"
+        },
+        {
+          "japanese": "8か月",
+          "romaji": "hachikagetsu",
+          "accent": "はちか↓げつ",
+          "english": "eight months"
+        },
+        {
+          "japanese": "9か月",
+          "romaji": "kyuukagetsu",
+          "accent": "きゅうか↓げつ",
+          "english": "nine months"
+        },
+        {
+          "japanese": "10か月",
+          "romaji": "jukkagetsu",
+          "accent": "じゅっか↓げつ",
+          "english": "ten months"
+        },
+        {
+          "japanese": "11か月",
+          "romaji": "juuikkagetsu",
+          "accent": "じゅういっか↓げつ",
+          "english": "eleven months"
+        },
+        {
+          "japanese": "12か月",
+          "romaji": "juunikagetsu",
+          "accent": "じゅうにか↓げつ",
+          "english": "twelve months"
+        },
+        {
+          "japanese": "～年",
+          "romaji": "～nen",
+          "accent": "～ねん",
+          "english": "for ～ years"
+        },
+        {
+          "japanese": "2年",
+          "romaji": "ninen",
+          "accent": "に↓ねん",
+          "english": "two years"
+        },
+        {
+          "japanese": "3年",
+          "romaji": "sannen",
+          "accent": "さんねん○",
+          "english": "three years"
+        },
+        {
+          "japanese": "4年",
+          "romaji": "yonen",
+          "accent": "よねん○",
+          "english": "four years"
+        },
+        {
+          "japanese": "5年",
+          "romaji": "gonen",
+          "accent": "ごねん○",
+          "english": "five years"
+        },
+        {
+          "japanese": "6年",
+          "romaji": "rokunen",
+          "accent": "ろく↓ねん",
+          "english": "six years"
+        },
+        {
+          "japanese": "7年",
+          "romaji": "nananen / shichinen",
+          "accent": "なな↓ねん／しち↓ねん",
+          "english": "seven years"
+        },
+        {
+          "japanese": "8年",
+          "romaji": "hachinen",
+          "accent": "はち↓ねん",
+          "english": "eight years"
+        },
+        {
+          "japanese": "9年",
+          "romaji": "kyuunen",
+          "accent": "きゅ↓うねん",
+          "english": "nine years"
+        },
+        {
+          "japanese": "10年",
+          "romaji": "juunen",
+          "accent": "じゅ↓うねん",
+          "english": "ten years"
+        },
+        {
+          "japanese": "先週",
+          "romaji": "senshuu",
+          "accent": "せんしゅう○",
+          "english": "last week"
+        }
       ],
       "audio": "/audio/y/lesson1/wordlist_Y_01-2.mp3"
     },
@@ -22,7 +266,168 @@
       "title": "日本では何をしていますか？",
       "number": "3.",
       "wordList": [
-        
+        {
+          "japanese": "仕事",
+          "romaji": "shigoto",
+          "accent": "しごと○",
+          "english": "work"
+        },
+        {
+          "japanese": "レストラン",
+          "romaji": "resutoran",
+          "accent": "レ↓ストラン",
+          "english": "restaurant"
+        },
+        {
+          "japanese": "働く",
+          "romaji": "hataraku",
+          "accent": "はたらく○",
+          "english": "to work"
+        },
+        {
+          "japanese": "ホテル",
+          "romaji": "hoteru",
+          "accent": "ホ↓テル",
+          "english": "hotel"
+        },
+        {
+          "japanese": "工場",
+          "romaji": "koujou",
+          "accent": "こうじょ↓う",
+          "english": "factory"
+        },
+        {
+          "japanese": "介護",
+          "romaji": "kaigo",
+          "accent": "か↓いご",
+          "english": "caregiving"
+        },
+        {
+          "japanese": "仕事をする",
+          "romaji": "shigoto o suru",
+          "accent": "しごとをする○",
+          "english": "to work"
+        },
+        {
+          "japanese": "建設",
+          "romaji": "kensetsu",
+          "accent": "けんせつ○",
+          "english": "construction"
+        },
+        {
+          "japanese": "野菜",
+          "romaji": "yasai",
+          "accent": "やさい○",
+          "english": "vegetables"
+        },
+        {
+          "japanese": "作る",
+          "romaji": "tsukuru",
+          "accent": "つく↓る",
+          "english": "to make / to grow"
+        },
+        {
+          "japanese": "日本語学校",
+          "romaji": "nihongo gakkou",
+          "accent": "にほんごが↓っこう",
+          "english": "Japanese language school"
+        },
+        {
+          "japanese": "勉強する",
+          "romaji": "benkyou suru",
+          "accent": "べんきょうする○",
+          "english": "to study"
+        },
+        {
+          "japanese": "専門学校",
+          "romaji": "senmon gakkou",
+          "accent": "せんもんが↓っこう",
+          "english": "vocational school"
+        },
+        {
+          "japanese": "通う",
+          "romaji": "kayou",
+          "accent": "かよう○",
+          "english": "to go to"
+        },
+        {
+          "japanese": "主婦",
+          "romaji": "shufu",
+          "accent": "しゅ↓ふ",
+          "english": "housewife"
+        },
+        {
+          "japanese": "主夫",
+          "romaji": "shufu",
+          "accent": "しゅ↓ふ",
+          "english": "house husband"
+        },
+        {
+          "japanese": "忙しい",
+          "romaji": "isogashii",
+          "accent": "いそがし↓い",
+          "english": "busy"
+        },
+        {
+          "japanese": "大変（な）",
+          "romaji": "taihen (na)",
+          "accent": "たいへん（な）○",
+          "english": "tough"
+        },
+        {
+          "japanese": "疲れる",
+          "romaji": "tsukareru",
+          "accent": "つかれ↓る",
+          "english": "to get tired"
+        },
+        {
+          "japanese": "まあまあ（な）",
+          "romaji": "maamaa (na)",
+          "accent": "まあま↓あ（な）",
+          "english": "so-so / average"
+        },
+        {
+          "japanese": "楽しい",
+          "romaji": "tanoshii",
+          "accent": "たのし↓い",
+          "english": "fun"
+        },
+        {
+          "japanese": "みんな",
+          "romaji": "minna",
+          "accent": "みんな↓",
+          "english": "everyone"
+        },
+        {
+          "japanese": "親切（な）",
+          "romaji": "shinsetsu (na)",
+          "accent": "し↓んせつ（な）",
+          "english": "kind / helpful"
+        },
+        {
+          "japanese": "勉強になる",
+          "romaji": "benkyou ni naru",
+          "accent": "べんきょうにな↓る",
+          "english": "to learn a lot"
+        },
+        {
+          "japanese": "毎日",
+          "romaji": "mainichi",
+          "accent": "ま↓いにち／まいにち○",
+          "english": "every day"
+        },
+        {
+          "japanese": "学生",
+          "romaji": "gakusei",
+          "accent": "がくせい○",
+          "english": "student"
+        },
+        {
+          "japanese": "プログラミング",
+          "romaji": "puroguramingu",
+          "accent": "プログラミング○",
+          "english": "programming"
+        }
       ],
       "audio": "/audio/y/lesson1/wordlist_Y_01-3.mp3"
     }

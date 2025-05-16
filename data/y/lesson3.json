@@ -6,7 +6,162 @@
       "title": "春は桜の花が咲きます",
       "number": "1.",
       "wordList": [
-        
+        {
+          "japanese": "季節",
+          "romaji": "kisetsu",
+          "accent": "き↓せつ",
+          "english": "season"
+        },
+        {
+          "japanese": "ことば",
+          "romaji": "kotoba",
+          "accent": "ことば↓",
+          "english": "word"
+        },
+        {
+          "japanese": "暑い",
+          "romaji": "atsui",
+          "accent": "あつ↓い",
+          "english": "hot"
+        },
+        {
+          "japanese": "すずしい",
+          "romaji": "suzushii",
+          "accent": "すずし↓い",
+          "english": "cool"
+        },
+        {
+          "japanese": "寒い",
+          "romaji": "samui",
+          "accent": "さむ↓い",
+          "english": "cold"
+        },
+        {
+          "japanese": "暖かい",
+          "romaji": "atatakai",
+          "accent": "あたたか↓い",
+          "english": "warm"
+        },
+        {
+          "japanese": "じめじめする",
+          "romaji": "jimejime suru",
+          "accent": "じ↓めじめする",
+          "english": "damp"
+        },
+        {
+          "japanese": "蒸し暑い",
+          "romaji": "mushiatsui",
+          "accent": "むしあつ↓い",
+          "english": "hot and humid"
+        },
+        {
+          "japanese": "雨",
+          "romaji": "ame",
+          "accent": "あ↓め",
+          "english": "rain"
+        },
+        {
+          "japanese": "降る",
+          "romaji": "furu",
+          "accent": "ふ↓る",
+          "english": "to fall (rain / snow, etc.)"
+        },
+        {
+          "japanese": "雪",
+          "romaji": "yuki",
+          "accent": "ゆき↓",
+          "english": "snow"
+        },
+        {
+          "japanese": "桜",
+          "romaji": "sakura",
+          "accent": "さくら○",
+          "english": "cherry blossom / cherry tree"
+        },
+        {
+          "japanese": "花",
+          "romaji": "hana",
+          "accent": "はな↓",
+          "english": "flower"
+        },
+        {
+          "japanese": "咲く",
+          "romaji": "saku",
+          "accent": "さく○",
+          "english": "to bloom"
+        },
+        {
+          "japanese": "もみじ",
+          "romaji": "momiji",
+          "accent": "も↓みじ",
+          "english": "autumn leaves"
+        },
+        {
+          "japanese": "きれい（な）",
+          "romaji": "kirei (na)",
+          "accent": "き↓れい（な）",
+          "english": "beautiful"
+        },
+        {
+          "japanese": "セミ",
+          "romaji": "semi",
+          "accent": "セミ○",
+          "english": "cicada"
+        },
+        {
+          "japanese": "鳴く",
+          "romaji": "naku",
+          "accent": "なく○",
+          "english": "to sing / to make a sound"
+        },
+        {
+          "japanese": "春",
+          "romaji": "haru",
+          "accent": "は↓る",
+          "english": "spring"
+        },
+        {
+          "japanese": "梅雨",
+          "romaji": "tsuyu",
+          "accent": "つゆ↓",
+          "english": "tsuyu (rainy season)"
+        },
+        {
+          "japanese": "夏",
+          "romaji": "natsu",
+          "accent": "なつ↓",
+          "english": "summer"
+        },
+        {
+          "japanese": "秋",
+          "romaji": "aki",
+          "accent": "あ↓き",
+          "english": "autumn / fall"
+        },
+        {
+          "japanese": "冬",
+          "romaji": "fuyu",
+          "accent": "ふゆ↓",
+          "english": "winter"
+        },
+        {
+          "japanese": "たくさん",
+          "romaji": "takusan",
+          "accent": "たくさん○",
+          "english": "many / much"
+        },
+        {
+          "japanese": "学校",
+          "romaji": "gakkou",
+          "accent": "がっこう○",
+          "english": "school"
+        },
+        {
+          "japanese": "なる（休みになる）",
+          "romaji": "naru (yasumi ni naru)",
+          "accent": "な↓る（やすみ↓にな↓る）",
+          "english": "to be (e.g. to be on holiday)"
+        }
       ],
       "audio": "/audio/y/lesson3/wordlist_Y_03-1.mp3"
     },
@@ -14,7 +169,72 @@
       "title": "どんな季節がありますか？",
       "number": "2.",
       "wordList": [
-        
+        {
+          "japanese": "一年中",
+          "romaji": "ichinenjuu",
+          "accent": "いちねんじゅう○",
+          "english": "all year round"
+        },
+        {
+          "japanese": "長い",
+          "romaji": "nagai",
+          "accent": "なが↓い",
+          "english": "long"
+        },
+        {
+          "japanese": "ずっと",
+          "romaji": "zutto",
+          "accent": "ずっと○",
+          "english": "the whole time"
+        },
+        {
+          "japanese": "雨季",
+          "romaji": "uki",
+          "accent": "う↓き",
+          "english": "rainy season"
+        },
+        {
+          "japanese": "乾季",
+          "romaji": "kanki",
+          "accent": "か↓んき",
+          "english": "dry season"
+        },
+        {
+          "japanese": "四季",
+          "romaji": "shiki",
+          "accent": "しき↓",
+          "english": "four seasons"
+        },
+        {
+          "japanese": "同じ",
+          "romaji": "onaji",
+          "accent": "おなじ○",
+          "english": "same"
+        },
+        {
+          "japanese": "～度（40度）",
+          "romaji": "～do (yonjuu-do)",
+          "accent": "～ど（よんじゅ↓うど）",
+          "english": "～ degree(s) (e.g. 40 degrees)"
+        },
+        {
+          "japanese": "マイナス",
+          "romaji": "mainasu",
+          "accent": "マイナス○",
+          "english": "minus"
+        },
+        {
+          "japanese": "短い",
+          "romaji": "mijikai",
+          "accent": "みじか↓い",
+          "english": "short"
+        },
+        {
+          "japanese": "そうなんですか",
+          "romaji": "sou nan desu ka",
+          "accent": "そ↓うなんですか",
+          "english": "I see."
+        }
       ],
       "audio": "/audio/y/lesson3/wordlist_Y_03-2.mp3"
     },
@@ -22,7 +242,84 @@
       "title": "もみじの景色がきれいですから",
       "number": "3.",
       "wordList": [
-        
+        {
+          "japanese": "果物",
+          "romaji": "kudamono",
+          "accent": "くだ↓もの",
+          "english": "fruit"
+        },
+        {
+          "japanese": "おいしい",
+          "romaji": "oishii",
+          "accent": "おいしい○／おいし↓い",
+          "english": "delicious"
+        },
+        {
+          "japanese": "景色",
+          "romaji": "keshiki",
+          "accent": "け↓しき",
+          "english": "scenery"
+        },
+        {
+          "japanese": "山",
+          "romaji": "yama",
+          "accent": "やま↓",
+          "english": "mountain"
+        },
+        {
+          "japanese": "遊ぶ",
+          "romaji": "asobu",
+          "accent": "あそぶ○",
+          "english": "to play"
+        },
+        {
+          "japanese": "好き（な）",
+          "romaji": "suki (na)",
+          "accent": "すき↓（な）",
+          "english": "favorite"
+        },
+        {
+          "japanese": "苦手（な）",
+          "romaji": "nigate (na)",
+          "accent": "にがて（な）○",
+          "english": "dislike"
+        },
+        {
+          "japanese": "いちばん",
+          "romaji": "ichiban",
+          "accent": "いちばん○",
+          "english": "the most (superlative)"
+        },
+        {
+          "japanese": "どうして",
+          "romaji": "doushite",
+          "accent": "ど↓うして",
+          "english": "why"
+        },
+        {
+          "japanese": "どの",
+          "romaji": "dono",
+          "accent": "ど↓の",
+          "english": "which ～ (among more than three)"
+        },
+        {
+          "japanese": "～よね",
+          "romaji": "～yone",
+          "accent": "～よね",
+          "english": "isn't it? / aren't they? (used to see if the other person agrees with you)"
+        },
+        {
+          "japanese": "ぶどう",
+          "romaji": "budou",
+          "accent": "ぶどう○",
+          "english": "grapes"
+        },
+        {
+          "japanese": "梨",
+          "romaji": "nashi",
+          "accent": "なし↓",
+          "english": "pear"
+        }
       ],
       "audio": "/audio/y/lesson3/wordlist_Y_03-3.mp3"
     }

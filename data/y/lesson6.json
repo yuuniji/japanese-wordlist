@@ -6,7 +6,162 @@
       "title": "バス停はどこですか？",
       "number": "1.",
       "wordList": [
-        
+        {
+          "japanese": "ある（町にあるもの）",
+          "romaji": "aru (machi ni aru mono)",
+          "accent": "あ↓る（まち↓にあ↓るもの↓）",
+          "english": "to be present in (e.g. things that are present in town)"
+        },
+        {
+          "japanese": "もの",
+          "romaji": "mono",
+          "accent": "もの↓",
+          "english": "thing / something"
+        },
+        {
+          "japanese": "信号",
+          "romaji": "shingō",
+          "accent": "しんごう○",
+          "english": "traffic lights"
+        },
+        {
+          "japanese": "横断歩道",
+          "romaji": "ōdan hodō",
+          "accent": "おうだんほ↓どう",
+          "english": "pedestrian crossing"
+        },
+        {
+          "japanese": "角",
+          "romaji": "kado",
+          "accent": "か↓ど",
+          "english": "corner"
+        },
+        {
+          "japanese": "交差点",
+          "romaji": "kōsaten",
+          "accent": "こうさてん○",
+          "english": "intersection"
+        },
+        {
+          "japanese": "道",
+          "romaji": "michi",
+          "accent": "みち○",
+          "english": "road"
+        },
+        {
+          "japanese": "橋",
+          "romaji": "hashi",
+          "accent": "はし↓",
+          "english": "bridge"
+        },
+        {
+          "japanese": "道案内",
+          "romaji": "michi annai",
+          "accent": "みちあ↓んない",
+          "english": "directions"
+        },
+        {
+          "japanese": "まっすぐ",
+          "romaji": "massugu",
+          "accent": "まっす↓ぐ",
+          "english": "straight"
+        },
+        {
+          "japanese": "左",
+          "romaji": "hidari",
+          "accent": "ひだり○",
+          "english": "left"
+        },
+        {
+          "japanese": "曲がる",
+          "romaji": "magaru",
+          "accent": "まがる○",
+          "english": "to turn"
+        },
+        {
+          "japanese": "右",
+          "romaji": "migi",
+          "accent": "みぎ○",
+          "english": "right"
+        },
+        {
+          "japanese": "渡る",
+          "romaji": "wataru",
+          "accent": "わたる○",
+          "english": "to cross / to go across"
+        },
+        {
+          "japanese": "～つ目",
+          "romaji": "~tsume",
+          "accent": "～つめ↓",
+          "english": "the ～th (number)"
+        },
+        {
+          "japanese": "1つ目",
+          "romaji": "hitotsume",
+          "accent": "ひとつめ↓",
+          "english": "the first"
+        },
+        {
+          "japanese": "2つ目",
+          "romaji": "futatsume",
+          "accent": "ふたつめ↓",
+          "english": "the second"
+        },
+        {
+          "japanese": "バス停",
+          "romaji": "basu tei",
+          "accent": "バスてい○",
+          "english": "bus stop"
+        },
+        {
+          "japanese": "郵便局",
+          "romaji": "yūbinkyoku",
+          "accent": "ゆうび↓んきょく",
+          "english": "post office"
+        },
+        {
+          "japanese": "デパート",
+          "romaji": "depāto",
+          "accent": "デパ↓ート",
+          "english": "department store"
+        },
+        {
+          "japanese": "科学",
+          "romaji": "kagaku",
+          "accent": "か↓がく",
+          "english": "science"
+        },
+        {
+          "japanese": "博物館",
+          "romaji": "hakubutsukan",
+          "accent": "はくぶつ↓かん",
+          "english": "museum"
+        },
+        {
+          "japanese": "ずっと",
+          "romaji": "zutto",
+          "accent": "ずっと○",
+          "english": "all the way / without turning"
+        },
+        {
+          "japanese": "市立",
+          "romaji": "shiritsu",
+          "accent": "し↓りつ",
+          "english": "municipal"
+        },
+        {
+          "japanese": "すぐ",
+          "romaji": "sugu",
+          "accent": "す↓ぐ",
+          "english": "just / immediately"
+        },
+        {
+          "japanese": "曲がったところ",
+          "romaji": "magatta tokoro",
+          "accent": "まがったところ↓",
+          "english": "after turning"
+        }
       ],
       "audio": "/audio/y/lesson6/wordlist_Y_06-1.mp3"
     },
@@ -14,7 +169,102 @@
       "title": "そちらに行きたいんですが…",
       "number": "2.",
       "wordList": [
-        
+        {
+          "japanese": "銀行",
+          "romaji": "ginkō",
+          "accent": "ぎんこう○",
+          "english": "bank"
+        },
+        {
+          "japanese": "神社",
+          "romaji": "jinja",
+          "accent": "じ↓んじゃ",
+          "english": "shrine"
+        },
+        {
+          "japanese": "駐車場",
+          "romaji": "chūshajō",
+          "accent": "ちゅうしゃじょう○",
+          "english": "parking lot"
+        },
+        {
+          "japanese": "交番",
+          "romaji": "kōban",
+          "accent": "こうばん○",
+          "english": "police substation"
+        },
+        {
+          "japanese": "病院",
+          "romaji": "byōin",
+          "accent": "びょういん○",
+          "english": "hospital"
+        },
+        {
+          "japanese": "黒い",
+          "romaji": "kuroi",
+          "accent": "くろ↓い",
+          "english": "black"
+        },
+        {
+          "japanese": "白い",
+          "romaji": "shiroi",
+          "accent": "しろ↓い",
+          "english": "white"
+        },
+        {
+          "japanese": "青い",
+          "romaji": "aoi",
+          "accent": "あお↓い",
+          "english": "blue"
+        },
+        {
+          "japanese": "ビル",
+          "romaji": "biru",
+          "accent": "ビ↓ル",
+          "english": "building"
+        },
+        {
+          "japanese": "アジア食材",
+          "romaji": "ajia shokuzai",
+          "accent": "アジアしょ↓くざい",
+          "english": "Asian ingredients"
+        },
+        {
+          "japanese": "そちら",
+          "romaji": "sochira",
+          "accent": "そちら○",
+          "english": "there"
+        },
+        {
+          "japanese": "北口",
+          "romaji": "kitaguchi",
+          "accent": "きたぐち○",
+          "english": "north exit / entrance"
+        },
+        {
+          "japanese": "間（～と～の間）",
+          "romaji": "aida (~ to ~ no aida)",
+          "accent": "あいだ○（～と～のあいだ○）",
+          "english": "between ～ and ～"
+        },
+        {
+          "japanese": "そうすると",
+          "romaji": "sō suru to",
+          "accent": "そうすると○",
+          "english": "after that"
+        },
+        {
+          "japanese": "見える",
+          "romaji": "mieru",
+          "accent": "みえ↓る",
+          "english": "to see"
+        },
+        {
+          "japanese": "お待ちしております",
+          "romaji": "omachi shite orimasu",
+          "accent": "おまちしておりま↓す",
+          "english": "We look forward to seeing you. (polite expression)"
+        }
       ],
       "audio": "/audio/y/lesson6/wordlist_Y_06-2.mp3"
     },
@@ -22,7 +272,54 @@
       "title": "この先に白くて大きな家があります",
       "number": "3.",
       "wordList": [
-        
+        {
+          "japanese": "帰る",
+          "romaji": "kaeru",
+          "accent": "か↓える",
+          "english": "to go home"
+        },
+        {
+          "japanese": "～町（小島町）",
+          "romaji": "～chō (Kojima-chō)",
+          "accent": "～ちょう（こじまちょう○）",
+          "english": "～ Town (geographical division within a district) (e.g. Kojima-cho)"
+        },
+        {
+          "japanese": "高校",
+          "romaji": "kōkō",
+          "accent": "こうこう○",
+          "english": "high school"
+        },
+        {
+          "japanese": "送る",
+          "romaji": "okuru",
+          "accent": "おくる○",
+          "english": "to take someone home"
+        },
+        {
+          "japanese": "大きな",
+          "romaji": "ōkina",
+          "accent": "お↓おきな",
+          "english": "large"
+        },
+        {
+          "japanese": "入る",
+          "romaji": "hairu",
+          "accent": "は↓いる",
+          "english": "to turn"
+        },
+        {
+          "japanese": "どの辺？",
+          "romaji": "dono hen?",
+          "accent": "どのへん○？／ど↓のへん？",
+          "english": "Where is it?"
+        },
+        {
+          "japanese": "ここでいいです",
+          "romaji": "koko de ii desu",
+          "accent": "ここでい↓いです",
+          "english": "Here is fine."
+        }
       ],
       "audio": "/audio/y/lesson6/wordlist_Y_06-3.mp3"
     }

@@ -11,7 +11,7 @@
       "audio": "/audio/z/lesson9/wordlist_Z_09-1.mp3"
     },
     {
-      "title": "こんにちは",
+      "title": "あけましておめでとうございます",
       "number": "2.",
       "wordList": [
         
@@ -19,7 +19,7 @@
       "audio": "/audio/z/lesson9/wordlist_Z_09-2.mp3"
     },
     {
-      "title": "こんにちは",
+      "title": "田舎に帰って家族でお祝いします",
       "number": "3.",
       "wordList": [
         
@@ -27,12 +27,20 @@
       "audio": "/audio/z/lesson9/wordlist_Z_09-3.mp3"
     },
     {
-      "title": "xxx",
+      "title": "イベントの記事",
       "number": "4.",
       "wordList": [
         
       ],
       "audio": "/audio/z/lesson9/wordlist_Z_09-4.mp3"
+    },
+    {
+      "title": "新年のメッセージ",
+      "number": "5.",
+      "wordList": [
+        
+      ],
+      "audio": "/audio/z/lesson9/wordlist_Z_09-5.mp3"
     }
   ]
 }

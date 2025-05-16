@@ -6,7 +6,126 @@
       "title": "趣味は料理をすることです",
       "number": "1.",
       "wordList": [
-        
+        {
+          "japanese": "趣味",
+          "romaji": "shumi",
+          "accent": "しゅ↓み",
+          "english": "hobby"
+        },
+        {
+          "japanese": "音楽",
+          "romaji": "ongaku",
+          "accent": "お↓んがく",
+          "english": "music"
+        },
+        {
+          "japanese": "聞く",
+          "romaji": "kiku",
+          "accent": "きく○",
+          "english": "to listen"
+        },
+        {
+          "japanese": "本",
+          "romaji": "hon",
+          "accent": "ほ↓ん",
+          "english": "book"
+        },
+        {
+          "japanese": "読む",
+          "romaji": "yomu",
+          "accent": "よ↓む",
+          "english": "to read"
+        },
+        {
+          "japanese": "もの（おいしいもの）",
+          "romaji": "mono (oishii mono)",
+          "accent": "もの↓（おいしいもの↓）",
+          "english": "thing / something (e.g. something tasty)"
+        },
+        {
+          "japanese": "写真",
+          "romaji": "shashin",
+          "accent": "しゃしん○",
+          "english": "photograph"
+        },
+        {
+          "japanese": "撮る",
+          "romaji": "toru",
+          "accent": "と↓る",
+          "english": "to take (a photo, video)"
+        },
+        {
+          "japanese": "ピアノ",
+          "romaji": "piano",
+          "accent": "ピアノ○",
+          "english": "piano"
+        },
+        {
+          "japanese": "ギター",
+          "romaji": "gitaa",
+          "accent": "ギ↓ター／ギター○",
+          "english": "guitar"
+        },
+        {
+          "japanese": "弾く",
+          "romaji": "hiku",
+          "accent": "ひく○",
+          "english": "to play (an instrument)"
+        },
+        {
+          "japanese": "おしゃべり",
+          "romaji": "oshaberi",
+          "accent": "おしゃ↓べり",
+          "english": "chatting"
+        },
+        {
+          "japanese": "料理",
+          "romaji": "ryoori",
+          "accent": "りょ↓うり",
+          "english": "cooking"
+        },
+        {
+          "japanese": "旅行",
+          "romaji": "ryokou",
+          "accent": "りょこう○",
+          "english": "travel"
+        },
+        {
+          "japanese": "テニス",
+          "romaji": "tenisu",
+          "accent": "テ↓ニス",
+          "english": "tennis"
+        },
+        {
+          "japanese": "いろいろ（な）",
+          "romaji": "iroiro (na)",
+          "accent": "いろいろ（な）○",
+          "english": "various"
+        },
+        {
+          "japanese": "こと（好きなこと）",
+          "romaji": "koto (sukina koto)",
+          "accent": "こと↓（すき↓なこと↓）",
+          "english": "thing / something (e.g. something you like)"
+        },
+        {
+          "japanese": "人",
+          "romaji": "hito",
+          "accent": "ひと○",
+          "english": "people"
+        },
+        {
+          "japanese": "話す",
+          "romaji": "hanasu",
+          "accent": "はな↓す",
+          "english": "to talk"
+        },
+        {
+          "japanese": "特にない",
+          "romaji": "toku ni nai",
+          "accent": "と↓くに　な↓い",
+          "english": "nothing in particular"
+        }
       ],
       "audio": "/audio/y/lesson2/wordlist_Y_02-1.mp3"
     },
@@ -14,7 +133,96 @@
       "title": "休みの日は何をしますか？",
       "number": "2.",
       "wordList": [
-        
+        {
+          "japanese": "野球",
+          "romaji": "yakyuu",
+          "accent": "やきゅう○",
+          "english": "baseball"
+        },
+        {
+          "japanese": "バドミントン",
+          "romaji": "badominton",
+          "accent": "バドミ↓ントン",
+          "english": "badminton"
+        },
+        {
+          "japanese": "アニメ",
+          "romaji": "anime",
+          "accent": "ア↓ニメ／アニメ○",
+          "english": "anime (animation)"
+        },
+        {
+          "japanese": "市",
+          "romaji": "shi",
+          "accent": "し↓",
+          "english": "city"
+        },
+        {
+          "japanese": "体育館",
+          "romaji": "taiikukan",
+          "accent": "たいいく↓かん",
+          "english": "gym"
+        },
+        {
+          "japanese": "毎週",
+          "romaji": "maishuu",
+          "accent": "まいしゅう○",
+          "english": "every week"
+        },
+        {
+          "japanese": "夕方",
+          "romaji": "yuugata",
+          "accent": "ゆうがた○",
+          "english": "early evening"
+        },
+        {
+          "japanese": "そのあと",
+          "romaji": "sono ato",
+          "accent": "そのあ↓と",
+          "english": "after that ～"
+        },
+        {
+          "japanese": "本当に",
+          "romaji": "hontou ni",
+          "accent": "ほんとうに○",
+          "english": "really"
+        },
+        {
+          "japanese": "～の？",
+          "romaji": "～ no?",
+          "accent": "～の？",
+          "english": "(used to ask questions in conversation)"
+        },
+        {
+          "japanese": "ぼく",
+          "romaji": "boku",
+          "accent": "ぼ↓く／ぼく○",
+          "english": "I (usually used by male person)"
+        },
+        {
+          "japanese": "出かける",
+          "romaji": "dekakeru",
+          "accent": "でかける○",
+          "english": "to go out"
+        },
+        {
+          "japanese": "特に",
+          "romaji": "toku ni",
+          "accent": "と↓くに",
+          "english": "especially"
+        },
+        {
+          "japanese": "キャッチボール",
+          "romaji": "kyacchi-booru",
+          "accent": "キャッチボ↓ール",
+          "english": "playing catch"
+        },
+        {
+          "japanese": "お子さん",
+          "romaji": "okosan",
+          "accent": "おこさん○",
+          "english": "(your) child"
+        }
       ],
       "audio": "/audio/y/lesson2/wordlist_Y_02-2.mp3"
     },
@@ -22,7 +230,192 @@
       "title": "スタッフ紹介",
       "number": "3.",
       "wordList": [
-        
+        {
+          "japanese": "娘",
+          "romaji": "musume",
+          "accent": "むすめ↓",
+          "english": "daughter"
+        },
+        {
+          "japanese": "～人家族（3人家族）",
+          "romaji": "～nin kazoku (san-nin kazoku)",
+          "accent": "～にんか↓ぞく（さんにんか↓ぞく）",
+          "english": "a family of ～ (e.g. a family of three)"
+        },
+        {
+          "japanese": "犬",
+          "romaji": "inu",
+          "accent": "いぬ↓",
+          "english": "dog"
+        },
+        {
+          "japanese": "キャンプ",
+          "romaji": "kyanpu",
+          "accent": "キャ↓ンプ",
+          "english": "camp"
+        },
+        {
+          "japanese": "つり",
+          "romaji": "tsuri",
+          "accent": "つり○",
+          "english": "fishing"
+        },
+        {
+          "japanese": "海",
+          "romaji": "umi",
+          "accent": "う↓み",
+          "english": "sea / ocean"
+        },
+        {
+          "japanese": "山",
+          "romaji": "yama",
+          "accent": "やま↓",
+          "english": "mountain"
+        },
+        {
+          "japanese": "～語（中国語）",
+          "romaji": "～go (chuugokugo)",
+          "accent": "～ご（ちゅうごくご○）",
+          "english": "～ language (e.g. Chinese language)"
+        },
+        {
+          "japanese": "ことば",
+          "romaji": "kotoba",
+          "accent": "ことば↓",
+          "english": "language"
+        },
+        {
+          "japanese": "アウトドア",
+          "romaji": "autodoa",
+          "accent": "アウトド↓ア",
+          "english": "outdoor / outdoors"
+        },
+        {
+          "japanese": "サイクリング",
+          "romaji": "saikuringu",
+          "accent": "サ↓イクリング",
+          "english": "cycling"
+        },
+        {
+          "japanese": "教える",
+          "romaji": "oshieru",
+          "accent": "おしえる○",
+          "english": "to tell"
+        },
+        {
+          "japanese": "～人（フィリピン人）",
+          "romaji": "～jin (firipin-jin)",
+          "accent": "～じん（フィリピ↓ンじん）",
+          "english": "people from ～ (e.g. Filipino)"
+        },
+        {
+          "japanese": "習う",
+          "romaji": "narau",
+          "accent": "なら↓う",
+          "english": "to learn"
+        },
+        {
+          "japanese": "英語",
+          "romaji": "eigo",
+          "accent": "えいご○",
+          "english": "English language"
+        },
+        {
+          "japanese": "できる",
+          "romaji": "dekiru",
+          "accent": "でき↓る",
+          "english": "to be able to do something"
+        },
+        {
+          "japanese": "いけばな",
+          "romaji": "ikebana",
+          "accent": "いけ↓ばな",
+          "english": "ikebana (flower arrangement)"
+        },
+        {
+          "japanese": "フィリピノ語",
+          "romaji": "firipino-go",
+          "accent": "フィリピノご○",
+          "english": "Filipino language"
+        },
+        {
+          "japanese": "スペイン語",
+          "romaji": "supein-go",
+          "accent": "スペインご○",
+          "english": "Spanish language"
+        },
+        {
+          "japanese": "～人",
+          "romaji": "～nin",
+          "accent": "～にん",
+          "english": "～ person(s)"
+        },
+        {
+          "japanese": "何人",
+          "romaji": "nannin",
+          "accent": "な↓んにん",
+          "english": "how many people / persons"
+        },
+        {
+          "japanese": "1人",
+          "romaji": "hitori",
+          "accent": "ひと↓り",
+          "english": "one person"
+        },
+        {
+          "japanese": "2人",
+          "romaji": "futari",
+          "accent": "ふたり↓／ふたり○",
+          "english": "two people"
+        },
+        {
+          "japanese": "3人",
+          "romaji": "sannin",
+          "accent": "さんに↓ん／さんにん○",
+          "english": "three people"
+        },
+        {
+          "japanese": "4人",
+          "romaji": "yonin",
+          "accent": "よに↓ん／よにん○",
+          "english": "four people"
+        },
+        {
+          "japanese": "5人",
+          "romaji": "gonin",
+          "accent": "ごに↓ん／ごにん○",
+          "english": "five people"
+        },
+        {
+          "japanese": "6人",
+          "romaji": "rokunin",
+          "accent": "ろく↓にん",
+          "english": "six people"
+        },
+        {
+          "japanese": "7人",
+          "romaji": "nananin / shichinin",
+          "accent": "なな↓にん／しち↓にん",
+          "english": "seven people"
+        },
+        {
+          "japanese": "8人",
+          "romaji": "hachinin",
+          "accent": "はち↓にん",
+          "english": "eight people"
+        },
+        {
+          "japanese": "9人",
+          "romaji": "kyuunin",
+          "accent": "きゅ↓うにん",
+          "english": "nine people"
+        },
+        {
+          "japanese": "10人",
+          "romaji": "juunin",
+          "accent": "じゅ↓うにん",
+          "english": "ten people"
+        }
       ],
       "audio": "/audio/y/lesson2/wordlist_Y_02-3.mp3"
     }

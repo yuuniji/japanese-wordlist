@@ -3,7 +3,7 @@
   "number": "第13課",
   "sections": [
     {
-      "title": "こんにちは",
+      "title": "市の行事に使われてます",
       "number": "1.",
       "wordList": [
         
@@ -11,7 +11,7 @@
       "audio": "/audio/z/lesson13/wordlist_Z_13-1.mp3"
     },
     {
-      "title": "こんにちは",
+      "title": "はじめて利用するんですが…",
       "number": "2.",
       "wordList": [
         
@@ -19,12 +19,28 @@
       "audio": "/audio/z/lesson13/wordlist_Z_13-2.mp3"
     },
     {
-      "title": "こんにちは",
+      "title": "図書館を使いたいんですが…",
       "number": "3.",
       "wordList": [
         
       ],
       "audio": "/audio/z/lesson13/wordlist_Z_13-3.mp3"
+    },
+    {
+      "title": "図書館の利用案内",
+      "number": "4.",
+      "wordList": [
+        
+      ],
+      "audio": "/audio/z/lesson13/wordlist_Z_13-4.mp3"
+    },
+    {
+      "title": "禁止の表示",
+      "number": "5.",
+      "wordList": [
+        
+      ],
+      "audio": "/audio/z/lesson13/wordlist_Z_13-5.mp3"
     }
   ]
 }

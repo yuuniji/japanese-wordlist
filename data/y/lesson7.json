@@ -6,7 +6,84 @@
       "title": "何時にどこですか？",
       "number": "1.",
       "wordList": [
-        
+        {
+          "japanese": "駅",
+          "romaji": "eki",
+          "accent": "え↓き",
+          "english": "train station"
+        },
+        {
+          "japanese": "受付",
+          "romaji": "uketsuke",
+          "accent": "うけつけ○",
+          "english": "reception"
+        },
+        {
+          "japanese": "ホール",
+          "romaji": "hōru",
+          "accent": "ホ↓ール",
+          "english": "hall"
+        },
+        {
+          "japanese": "会社",
+          "romaji": "kaisha",
+          "accent": "かいしゃ○",
+          "english": "company"
+        },
+        {
+          "japanese": "門",
+          "romaji": "mon",
+          "accent": "も↓ん",
+          "english": "gate"
+        },
+        {
+          "japanese": "集合（する）",
+          "romaji": "shūgō (suru)",
+          "accent": "しゅうごう（する）○",
+          "english": "(to) assemble"
+        },
+        {
+          "japanese": "では",
+          "romaji": "dewa",
+          "accent": "で↓は",
+          "english": "so"
+        },
+        {
+          "japanese": "案内する",
+          "romaji": "annai suru",
+          "accent": "あんな↓いする",
+          "english": "to show / to guide"
+        },
+        {
+          "japanese": "待ち合わせ",
+          "romaji": "machiawase",
+          "accent": "まちあわせ○",
+          "english": "meeting up (at a certain time and place)"
+        },
+        {
+          "japanese": "イベント",
+          "romaji": "ibento",
+          "accent": "イベント○",
+          "english": "event"
+        },
+        {
+          "japanese": "始まる",
+          "romaji": "hajimaru",
+          "accent": "はじまる○",
+          "english": "to start"
+        },
+        {
+          "japanese": "スタッフ",
+          "romaji": "sutaffu",
+          "accent": "スタ↓ッフ",
+          "english": "staff"
+        },
+        {
+          "japanese": "～前（30分前）",
+          "romaji": "～ mae (sanjuppun mae)",
+          "accent": "～まえ　（さんじゅっぷ↓んまえ）",
+          "english": "～before (e.g. 30 minutes before)"
+        }
       ],
       "audio": "/audio/y/lesson7/wordlist_Y_07-1.mp3"
     },
@@ -14,7 +91,36 @@
       "title": "明日、何時にしますか？",
       "number": "2.",
       "wordList": [
-        
+        {
+          "japanese": "待ち合わせする",
+          "romaji": "machiawase suru",
+          "accent": "まちあわせする○",
+          "english": "to meet (each other)"
+        },
+        {
+          "japanese": "平和",
+          "romaji": "heiwa",
+          "accent": "へいわ○",
+          "english": "peace"
+        },
+        {
+          "japanese": "鳥",
+          "romaji": "tori",
+          "accent": "とり○",
+          "english": "bird"
+        },
+        {
+          "japanese": "像",
+          "romaji": "zō",
+          "accent": "ぞ↓う",
+          "english": "statue"
+        },
+        {
+          "japanese": "それ、何ですか？",
+          "romaji": "sore, nan desu ka?",
+          "accent": "それ○、な↓んですか？",
+          "english": "What's that? (used to ask again what the other person said if you do not understand what they mean)"
+        }
       ],
       "audio": "/audio/y/lesson7/wordlist_Y_07-2.mp3"
     },
@@ -22,7 +128,102 @@
       "title": "電車が止まりました",
       "number": "3.",
       "wordList": [
-        
+        {
+          "japanese": "事故",
+          "romaji": "jiko",
+          "accent": "じ↓こ",
+          "english": "accident"
+        },
+        {
+          "japanese": "止まる",
+          "romaji": "tomaru",
+          "accent": "とまる○",
+          "english": "to stop"
+        },
+        {
+          "japanese": "連絡する",
+          "romaji": "renraku suru",
+          "accent": "れんらくする○",
+          "english": "to contact"
+        },
+        {
+          "japanese": "ねぼうする",
+          "romaji": "nebou suru",
+          "accent": "ねぼうする○",
+          "english": "to oversleep"
+        },
+        {
+          "japanese": "今から",
+          "romaji": "ima kara",
+          "accent": "い↓まから",
+          "english": "from now on"
+        },
+        {
+          "japanese": "急ぐ",
+          "romaji": "isogu",
+          "accent": "いそ↓ぐ",
+          "english": "to hurry"
+        },
+        {
+          "japanese": "先に",
+          "romaji": "saki ni",
+          "accent": "さきに○",
+          "english": "before"
+        },
+        {
+          "japanese": "始める",
+          "romaji": "hajimeru",
+          "accent": "はじめる○",
+          "english": "to start"
+        },
+        {
+          "japanese": "道に迷う",
+          "romaji": "michi ni mayou",
+          "accent": "みちにまよ↓う",
+          "english": "to get lost"
+        },
+        {
+          "japanese": "遅れる",
+          "romaji": "okureru",
+          "accent": "おくれる○",
+          "english": "to be late"
+        },
+        {
+          "japanese": "着く",
+          "romaji": "tsuku",
+          "accent": "つ↓く",
+          "english": "to arrive"
+        },
+        {
+          "japanese": "大丈夫（な）",
+          "romaji": "daijoubu (na)",
+          "accent": "だいじょう↓ぶ（な）",
+          "english": "fine / OK"
+        },
+        {
+          "japanese": "時間",
+          "romaji": "jikan",
+          "accent": "じかん○",
+          "english": "time"
+        },
+        {
+          "japanese": "まちがえる",
+          "romaji": "machigaeru",
+          "accent": "まちが↓える",
+          "english": "to misunderstand"
+        },
+        {
+          "japanese": "待つ",
+          "romaji": "matsu",
+          "accent": "ま↓つ",
+          "english": "to wait"
+        },
+        {
+          "japanese": "カフェ",
+          "romaji": "kafe",
+          "accent": "カ↓フェ",
+          "english": "café"
+        }
       ],
       "audio": "/audio/y/lesson7/wordlist_Y_07-3.mp3"
     }

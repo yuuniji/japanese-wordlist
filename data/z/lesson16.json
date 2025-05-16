@@ -3,7 +3,7 @@
   "number": "第16課",
   "sections": [
     {
-      "title": "こんにちは",
+      "title": "緊急地震速報です",
       "number": "1.",
       "wordList": [
         
@@ -11,7 +11,7 @@
       "audio": "/audio/z/lesson16/wordlist_Z_16-1.mp3"
     },
     {
-      "title": "こんにちは",
+      "title": "避難訓練を始めます",
       "number": "2.",
       "wordList": [
         
@@ -19,12 +19,28 @@
       "audio": "/audio/z/lesson16/wordlist_Z_16-2.mp3"
     },
     {
-      "title": "こんにちは",
+      "title": "地震が起こったときは…",
       "number": "3.",
       "wordList": [
         
       ],
       "audio": "/audio/z/lesson16/wordlist_Z_16-3.mp3"
+    },
+    {
+      "title": "避難所はどこですか？",
+      "number": "4.",
+      "wordList": [
+        
+      ],
+      "audio": "/audio/z/lesson16/wordlist_Z_16-4.mp3"
+    },
+    {
+      "title": "防災パンフレット",
+      "number": "5.",
+      "wordList": [
+        
+      ],
+      "audio": "/audio/z/lesson16/wordlist_Z_16-5.mp3"
     }
   ]
 }
