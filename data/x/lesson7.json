@@ -387,7 +387,66 @@
       "title": "アパートに住んでいます",
       "number": "4.",
       "wordList": [
-        
+          {
+            "japanese": "アパート",
+            "romaji": "apaato",
+            "accent": "アパ↓ート",
+            "english": "apartment"
+          },
+          {
+            "japanese": "マンション",
+            "romaji": "manshon",
+            "accent": "マ↓ンション",
+            "english": "condominium"
+          },
+          {
+            "japanese": "寮",
+            "romaji": "ryoo",
+            "accent": "りょ↓う",
+            "english": "dormitory"
+          },
+          {
+            "japanese": "シェアハウス",
+            "romaji": "shea-hausu",
+            "accent": "シェアハ↓ウス",
+            "english": "shared house"
+          },
+          {
+            "japanese": "一戸建て",
+            "romaji": "ikkodate",
+            "accent": "いっこだて○",
+            "english": "detached house"
+          },
+          {
+            "japanese": "お寺",
+            "romaji": "otera",
+            "accent": "おてら○",
+            "english": "temple"
+          },
+          {
+            "japanese": "学校",
+            "romaji": "gakkoo",
+            "accent": "がっこう○",
+            "english": "school"
+          },
+          {
+            "japanese": "公園",
+            "romaji": "kooen",
+            "accent": "こうえん○",
+            "english": "park"
+          },
+          {
+            "japanese": "すごい",
+            "romaji": "sugoi",
+            "accent": "すご↓い",
+            "english": "amazing"
+          },
+          {
+            "japanese": "すごいですね",
+            "romaji": "sugoi desu ne",
+            "accent": "すご↓いですね",
+            "english": "That's amazing."
+          }        
       ],
       "audio": "/audio/x/lesson1/wordlist_X_07-4.mp3"
     },
@@ -395,7 +454,156 @@
       "title": "洗濯機 ・エアコンのボタン",
       "number": "5.",
       "wordList": [
-        
+          {
+            "japanese": "入れる／入",
+            "romaji": "ireru",
+            "accent": "いれる○",
+            "english": "to turn on / ON"
+          },
+          {
+            "japanese": "切る／切",
+            "romaji": "kiru",
+            "accent": "き↓る",
+            "english": "to turn off / OFF"
+          },
+          {
+            "japanese": "スタート",
+            "romaji": "sutaato",
+            "accent": "スタ↓ート",
+            "english": "start"
+          },
+          {
+            "japanese": "コース",
+            "romaji": "koosu",
+            "accent": "コ↓ース",
+            "english": "mode"
+          },
+          {
+            "japanese": "電源",
+            "romaji": "dengen",
+            "accent": "でんげん○",
+            "english": "power supply"
+          },
+          {
+            "japanese": "一時停止",
+            "romaji": "ichiji-teeshi",
+            "accent": "いち↓じていし／いちじて↓いし",
+            "english": "pause"
+          },
+          {
+            "japanese": "標準",
+            "romaji": "hyoojun",
+            "accent": "ひょうじゅん○",
+            "english": "standard"
+          },
+          {
+            "japanese": "おいそぎ",
+            "romaji": "oisogi",
+            "accent": "おいそぎ○",
+            "english": "quick wash"
+          },
+          {
+            "japanese": "手洗い",
+            "romaji": "tearai",
+            "accent": "てあ↓らい",
+            "english": "hand wash"
+          },
+          {
+            "japanese": "毛布",
+            "romaji": "moofu",
+            "accent": "も↓うふ",
+            "english": "blankets"
+          },
+          {
+            "japanese": "ドライ",
+            "romaji": "dorai",
+            "accent": "ドラ↓イ",
+            "english": "delicate wash"
+          },
+          {
+            "japanese": "槽洗浄",
+            "romaji": "soosenjoo",
+            "accent": "そうせ↓んじょう",
+            "english": "drum cleaning"
+          },
+          {
+            "japanese": "予約",
+            "romaji": "yoyaku",
+            "accent": "よやく○",
+            "english": "timer"
+          },
+          {
+            "japanese": "残り",
+            "romaji": "nokori",
+            "accent": "のこり↓",
+            "english": "remaining"
+          },
+          {
+            "japanese": "水量",
+            "romaji": "suiryoo",
+            "accent": "すいりょう○",
+            "english": "water volume"
+          },
+          {
+            "japanese": "冷房",
+            "romaji": "reeboo",
+            "accent": "れいぼう○",
+            "english": "cool"
+          },
+          {
+            "japanese": "暖房",
+            "romaji": "danboo",
+            "accent": "だんぼう○",
+            "english": "heat"
+          },
+          {
+            "japanese": "除湿",
+            "romaji": "joshitsu",
+            "accent": "じょしつ○",
+            "english": "dehumidify"
+          },
+          {
+            "japanese": "自動",
+            "romaji": "jidoo",
+            "accent": "じどう○",
+            "english": "automatic"
+          },
+          {
+            "japanese": "温度",
+            "romaji": "ondo",
+            "accent": "お↓んど",
+            "english": "temperature"
+          },
+          {
+            "japanese": "風向",
+            "romaji": "kazamuki / fuukoo",
+            "accent": "かざむき○／ふうこう○",
+            "english": "wind direction"
+          },
+          {
+            "japanese": "風量",
+            "romaji": "fuuryoo",
+            "accent": "ふうりょ↓う／ふうりょう○",
+            "english": "wind speed"
+          },
+          {
+            "japanese": "停止",
+            "romaji": "teeshi",
+            "accent": "ていし○",
+            "english": "stop"
+          },
+          {
+            "japanese": "タイマー",
+            "romaji": "taimaa",
+            "accent": "タ↓イマー",
+            "english": "timer"
+          },
+          {
+            "japanese": "取消",
+            "romaji": "torikeshi",
+            "accent": "とりけし○",
+            "english": "cancel"
+          }        
       ],
       "audio": "/audio/x/lesson1/wordlist_X_07-5.mp3"
     }
