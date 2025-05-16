@@ -3,54 +3,242 @@
   "number": "第8課",
   "sections": [
     {
-      "title": "こんにちは",
+      "title": "ここで打ち合わせをします",
       "number": "1.",
       "wordList": [
         {
-          "japanese": "おはよう",
-          "romaji": "ohayoo",
-          "accent": "おはよう",
-          "english": "Good"
+          "japanese": "更衣室",
+          "romaji": "kooishitsu",
+          "accent": "こうい↓しつ",
+          "english": "changing room"
         },
         {
-          "japanese": "こんにちは",
-          "romaji": "konnichiwa",
-          "accent": "こんにちは",
-          "english": "Good"
+          "japanese": "食堂",
+          "romaji": "shokudoo",
+          "accent": "しょくどう○",
+          "english": "cafeteria"
         },
         {
-          "japanese": "こんばんは",
-          "romaji": "konbanwa",
-          "accent": "こんばんは",
-          "english": "Good"
+          "japanese": "給湯室",
+          "romaji": "kyuutooshitsu",
+          "accent": "きゅうと↓うしつ",
+          "english": "kitchenette"
+        },
+        {
+          "japanese": "会議室",
+          "romaji": "kaigishitsu",
+          "accent": "かいぎ↓しつ",
+          "english": "conference room"
+        },
+        {
+          "japanese": "喫煙所",
+          "romaji": "kitsuenjo",
+          "accent": "きつえんじょ○",
+          "english": "smoking room / smoking area"
+        },
+        {
+          "japanese": "倉庫",
+          "romaji": "sooko",
+          "accent": "そ↓うこ",
+          "english": "storeroom"
+        },
+        {
+          "japanese": "着替える／着替えます",
+          "romaji": "kigaeru / kigaemasu",
+          "accent": "きが↓える／きがえ↓る／きがえま↓す",
+          "english": "to change (clothing)"
+        },
+        {
+          "japanese": "ご飯を食べる／食べます",
+          "romaji": "gohan o taberu / tabemasu",
+          "accent": "ご↓はんをたべ↓る／たべま↓す",
+          "english": "to have meal"
+        },
+        {
+          "japanese": "お茶をいれる／いれます",
+          "romaji": "ocha o ireru / iremasu",
+          "accent": "おちゃをいれる○／いれま↓す",
+          "english": "to make tea"
+        },
+        {
+          "japanese": "打ち合わせをする／します",
+          "romaji": "uchiawase o suru / shimasu",
+          "accent": "うちあわせをする○／しま↓す",
+          "english": "to do meeting"
+        },
+        {
+          "japanese": "男性",
+          "romaji": "dansee",
+          "accent": "だんせい○",
+          "english": "men"
         }
       ],
-      "audio": "/audio/x/lesson1/wordlist_X_01-1.mp3"
+      "audio": "/audio/x/lesson8/wordlist_X_08-1.mp3"
     },
     {
-      "title": "こんにちは",
+      "title": "食堂にいます",
       "number": "2.",
       "wordList": [
         {
-          "japanese": "おはよう",
-          "romaji": "ohayoo",
-          "accent": "おはよう",
-          "english": "Good"
+          "japanese": "いる／います",
+          "romaji": "iru / imasu",
+          "accent": "いる○／いま↓す",
+          "english": "to be present"
         },
         {
-          "japanese": "こんにちは",
-          "romaji": "konnichiwa",
-          "accent": "こんにちは",
-          "english": "Good"
+          "japanese": "たぶん",
+          "romaji": "tabun",
+          "accent": "た↓ぶん",
+          "english": "probably"
         },
         {
-          "japanese": "こんばんは",
-          "romaji": "konbanwa",
-          "accent": "こんばんは",
-          "english": "Good"
+          "japanese": "～よ　（いるよ）",
+          "romaji": "～yo　(iru yo)",
+          "accent": "～よ　（いる○よ）",
+          "english": "(used when telling someone information they did not know)"
+        },
+        {
+          "japanese": "～ね　（いませんね）",
+          "romaji": "～ne　(imasen ne)",
+          "accent": "～ね　（いませ↓んね）",
+          "english": "(used when sharing information with someone)"
+        },
+        {
+          "japanese": "探してみます",
+          "romaji": "sagashite mimasu",
+          "accent": "さがしてみま↓す",
+          "english": "I'll try to look."
         }
       ],
-      "audio": "/audio/x/lesson1/wordlist_X_01-2.mp3"
+      "audio": "/audio/x/lesson8/wordlist_X_08-2.mp3"
+    },
+    {
+      "title": "はさみは、そこにあります",
+      "number": "3.",
+      "wordList": [
+        {
+          "japanese": "上",
+          "romaji": "ue",
+          "accent": "うえ○／～（の）うえ↓",
+          "english": "above"
+        },
+        {
+          "japanese": "下",
+          "romaji": "shita",
+          "accent": "した○／～（の）した↓",
+          "english": "below"
+        },
+        {
+          "japanese": "中",
+          "romaji": "naka",
+          "accent": "な↓か",
+          "english": "inside"
+        },
+        {
+          "japanese": "横",
+          "romaji": "yoko",
+          "accent": "よこ○",
+          "english": "beside"
+        },
+        {
+          "japanese": "のり",
+          "romaji": "nori",
+          "accent": "のり↓",
+          "english": "glue"
+        },
+        {
+          "japanese": "引き出し",
+          "romaji": "hikidashi",
+          "accent": "ひきだし○",
+          "english": "drawer"
+        },
+        {
+          "japanese": "ガムテープ",
+          "romaji": "gamu-teepu",
+          "accent": "ガムテ↓ープ",
+          "english": "duct tape"
+        },
+        {
+          "japanese": "箱",
+          "romaji": "hako",
+          "accent": "はこ○",
+          "english": "box"
+        },
+        {
+          "japanese": "FAX",
+          "romaji": "fakkusu",
+          "accent": "ファ↓ックス",
+          "english": "fax"
+        },
+        {
+          "japanese": "コピー機",
+          "romaji": "kopiiki",
+          "accent": "コピ↓ーき",
+          "english": "copy machine"
+        },
+        {
+          "japanese": "はさみ",
+          "romaji": "hasami",
+          "accent": "はさみ↓／はさ↓み",
+          "english": "scissors"
+        },
+        {
+          "japanese": "机",
+          "romaji": "tsukue",
+          "accent": "つくえ○",
+          "english": "desk"
+        },
+        {
+          "japanese": "ごみ箱",
+          "romaji": "gomibako",
+          "accent": "ごみば↓こ",
+          "english": "garbage can"
+        },
+        {
+          "japanese": "ここ",
+          "romaji": "koko",
+          "accent": "ここ○",
+          "english": "here"
+        },
+        {
+          "japanese": "そこ",
+          "romaji": "soko",
+          "accent": "そこ○",
+          "english": "there"
+        },
+        {
+          "japanese": "あそこ",
+          "romaji": "asoko",
+          "accent": "あそこ○",
+          "english": "over there"
+        },
+        {
+          "japanese": "ありました",
+          "romaji": "arimashita",
+          "accent": "ありま↓した",
+          "english": "It's here. (used when you have found something you were looking for)"
+        }
+      ],
+      "audio": "/audio/x/lesson8/wordlist_X_08-3.mp3"
+    },
+    {
+      "title": "部屋の表示",
+      "number": "4.",
+      "wordList": [
+        {
+          "japanese": "応接室",
+          "romaji": "oosetsushitsu",
+          "accent": "おうせつ↓しつ",
+          "english": "reception room"
+        },
+        {
+          "japanese": "事務室",
+          "romaji": "jimushitsu",
+          "accent": "じむ↓しつ",
+          "english": "office"
+        }
+      ],
+      "audio": "/audio/x/lesson8/wordlist_X_08-4.mp3"
     }
   ]
 }

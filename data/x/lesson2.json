@@ -157,7 +157,7 @@
             "english": "ten"
           }
       ],
-      "audio": "/audio/x/lesson1/wordlist_X_02-1.mp3"
+      "audio": "/audio/x/lesson2/wordlist_X_02-1.mp3"
     },
     {
       "title": "日本語、できますか？",
@@ -248,7 +248,7 @@
             "english": "Um… (used when the speaker wants to start talking to someone)"
           }
       ],
-      "audio": "/audio/x/lesson1/wordlist_X_02-2.mp3"
+      "audio": "/audio/x/lesson2/wordlist_X_02-2.mp3"
     },
     {
       "title": "これは日本語で何と言いますか？",
@@ -321,7 +321,7 @@
             "english": "That's right."
           }
       ],
-      "audio": "/audio/x/lesson1/wordlist_X_02-3.mp3"
+      "audio": "/audio/x/lesson2/wordlist_X_02-3.mp3"
     }
   ]
 }

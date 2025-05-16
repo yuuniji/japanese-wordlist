@@ -61,7 +61,7 @@
           "english": "Nice to meet you."
         }
       ],
-      "audio": "/audio/x/lesson1/wordlist_X_03-1.mp3"
+      "audio": "/audio/x/lesson3/wordlist_X_03-1.mp3"
     },
     {
       "title": "名札",
@@ -74,7 +74,7 @@
           "english": "Indonesia"
         }
       ],
-      "audio": "/audio/x/lesson1/wordlist_X_03-2.mp3"
+      "audio": "/audio/x/lesson3/wordlist_X_03-2.mp3"
     },
     {
       "title": "ご出身は？",
@@ -177,7 +177,7 @@
           "english": "Are you from ～?"
         }
       ],
-      "audio": "/audio/x/lesson1/wordlist_X_03-3.mp3"
+      "audio": "/audio/x/lesson3/wordlist_X_03-3.mp3"
     },
     {
       "title": "申込書",
@@ -244,7 +244,7 @@
           "english": "application form"
         }
       ],
-      "audio": "/audio/x/lesson1/wordlist_X_03-4.mp3"
+      "audio": "/audio/x/lesson3/wordlist_X_03-4.mp3"
     }
   ]
 }
