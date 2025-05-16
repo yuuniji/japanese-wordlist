@@ -6,7 +6,120 @@
       "title": "もう行きましたか？",
       "number": "1.",
       "wordList": [
-        
+        {
+          "japanese": "動物園",
+          "romaji": "doubutsuen",
+          "accent": "どうぶつ↓えん",
+          "english": "zoo"
+        },
+        {
+          "japanese": "お城",
+          "romaji": "oshiro",
+          "accent": "おしろ○",
+          "english": "castle"
+        },
+        {
+          "japanese": "レストラン",
+          "romaji": "resutoran",
+          "accent": "レ↓ストラン",
+          "english": "restaurant"
+        },
+        {
+          "japanese": "博物館",
+          "romaji": "hakubutsukan",
+          "accent": "はくぶつ↓かん",
+          "english": "museum"
+        },
+        {
+          "japanese": "アウトレットモール",
+          "romaji": "autoretto mooru",
+          "accent": "アウトレットモ↓ール",
+          "english": "outlet mall"
+        },
+        {
+          "japanese": "プロレス",
+          "romaji": "puroresu",
+          "accent": "プロレス○",
+          "english": "professional wrestling"
+        },
+        {
+          "japanese": "タワー",
+          "romaji": "tawaa",
+          "accent": "タ↓ワー",
+          "english": "tower"
+        },
+        {
+          "japanese": "野球",
+          "romaji": "yakyuu",
+          "accent": "やきゅう○",
+          "english": "baseball"
+        },
+        {
+          "japanese": "もう",
+          "romaji": "mou",
+          "accent": "も↓う",
+          "english": "already"
+        },
+        {
+          "japanese": "まだ",
+          "romaji": "mada",
+          "accent": "ま↓だ",
+          "english": "not yet"
+        },
+        {
+          "japanese": "アジア",
+          "romaji": "ajia",
+          "accent": "ア↓ジア",
+          "english": "Asia"
+        },
+        {
+          "japanese": "すごく",
+          "romaji": "sugoku",
+          "accent": "すご↓く",
+          "english": "very"
+        },
+        {
+          "japanese": "市民体育館",
+          "romaji": "shimin taiikukan",
+          "accent": "しみんたいいく↓かん",
+          "english": "municipal gymnasium"
+        },
+        {
+          "japanese": "試合",
+          "romaji": "shiai",
+          "accent": "しあい○",
+          "english": "match"
+        },
+        {
+          "japanese": "やる",
+          "romaji": "yaru",
+          "accent": "やる○",
+          "english": "to do"
+        },
+        {
+          "japanese": "メンバー",
+          "romaji": "menbaa",
+          "accent": "メ↓ンバー",
+          "english": "member"
+        },
+        {
+          "japanese": "足りない",
+          "romaji": "tarinai",
+          "accent": "たりない○",
+          "english": "not enough"
+        },
+        {
+          "japanese": "無理（な）",
+          "romaji": "muri (na)",
+          "accent": "む↓り（な）",
+          "english": "impossible"
+        },
+        {
+          "japanese": "わかる",
+          "romaji": "wakaru",
+          "accent": "わか↓る",
+          "english": "to understand"
+        }
       ],
       "audio": "/audio/y/lesson8/wordlist_Y_08-1.mp3"
     },
@@ -14,7 +127,102 @@
       "title": "このあと、どうしますか？",
       "number": "2.",
       "wordList": [
-        
+        {
+          "japanese": "お金",
+          "romaji": "okane",
+          "accent": "おかね○",
+          "english": "money"
+        },
+        {
+          "japanese": "おろす",
+          "romaji": "orosu",
+          "accent": "おろ↓す",
+          "english": "to withdraw"
+        },
+        {
+          "japanese": "食事",
+          "romaji": "shokuji",
+          "accent": "しょくじ○",
+          "english": "meal / eating"
+        },
+        {
+          "japanese": "ちょっと",
+          "romaji": "chotto",
+          "accent": "ちょ↓っと",
+          "english": "a little"
+        },
+        {
+          "japanese": "休む",
+          "romaji": "yasumu",
+          "accent": "やす↓む",
+          "english": "to rest"
+        },
+        {
+          "japanese": "ジョギングシューズ",
+          "romaji": "jogingu shuuzu",
+          "accent": "ジョギングシュ↓ーズ",
+          "english": "jogging shoes"
+        },
+        {
+          "japanese": "ATM",
+          "romaji": "eetiiemu",
+          "accent": "エーティーエ↓ム",
+          "english": "ATM (automated teller machine)"
+        },
+        {
+          "japanese": "ゲームコーナー",
+          "romaji": "geemu koonaa",
+          "accent": "ゲームコ↓ーナー",
+          "english": "game arcade"
+        },
+        {
+          "japanese": "フードコート",
+          "romaji": "fuudo kooto",
+          "accent": "フードコ↓ート",
+          "english": "food court"
+        },
+        {
+          "japanese": "カフェ",
+          "romaji": "kafe",
+          "accent": "カ↓フェ",
+          "english": "café"
+        },
+        {
+          "japanese": "映画館",
+          "romaji": "eigakan",
+          "accent": "えいが↓かん",
+          "english": "movie theater"
+        },
+        {
+          "japanese": "スポーツ店",
+          "romaji": "supootsu ten",
+          "accent": "スポーツ↓てん",
+          "english": "sports shop"
+        },
+        {
+          "japanese": "このあと",
+          "romaji": "kono ato",
+          "accent": "このあ↓と",
+          "english": "after this"
+        },
+        {
+          "japanese": "お腹がすく",
+          "romaji": "onaka ga suku",
+          "accent": "おなかがすく○",
+          "english": "to get hungry"
+        },
+        {
+          "japanese": "何か",
+          "romaji": "nanika",
+          "accent": "な↓にか",
+          "english": "something"
+        },
+        {
+          "japanese": "その前に",
+          "romaji": "sono mae ni",
+          "accent": "そのま↓えに",
+          "english": "before that"
+        }
       ],
       "audio": "/audio/y/lesson8/wordlist_Y_08-2.mp3"
     },
@@ -22,7 +230,84 @@
       "title": "パンダがかわいかったです",
       "number": "3.",
       "wordList": [
-        
+        {
+          "japanese": "すばらしい",
+          "romaji": "subarashii",
+          "accent": "すばらし↓い",
+          "english": "wonderful"
+        },
+        {
+          "japanese": "難しい",
+          "romaji": "muzukashii",
+          "accent": "むずかしい○／むずかし↓い",
+          "english": "difficult"
+        },
+        {
+          "japanese": "感動する",
+          "romaji": "kandou suru",
+          "accent": "かんどうする○",
+          "english": "to be deeply moved"
+        },
+        {
+          "japanese": "かわいい",
+          "romaji": "kawaii",
+          "accent": "かわい↓い",
+          "english": "cute"
+        },
+        {
+          "japanese": "展覧会",
+          "romaji": "tenrankai",
+          "accent": "てんら↓んかい",
+          "english": "exhibition"
+        },
+        {
+          "japanese": "パンダ",
+          "romaji": "panda",
+          "accent": "パ↓ンダ",
+          "english": "panda"
+        },
+        {
+          "japanese": "サル",
+          "romaji": "saru",
+          "accent": "サ↓ル",
+          "english": "monkey"
+        },
+        {
+          "japanese": "現代",
+          "romaji": "gendai",
+          "accent": "げ↓んだい",
+          "english": "modern"
+        },
+        {
+          "japanese": "作品",
+          "romaji": "sakuhin",
+          "accent": "さくひん○",
+          "english": "art"
+        },
+        {
+          "japanese": "ホラー映画",
+          "romaji": "horaa eiga",
+          "accent": "ホラーえ↓いが",
+          "english": "horror movie"
+        },
+        {
+          "japanese": "つまらない",
+          "romaji": "tsumaranai",
+          "accent": "つまら↓ない",
+          "english": "boring"
+        },
+        {
+          "japanese": "退屈（な）",
+          "romaji": "taikutsu (na)",
+          "accent": "たいくつ（な）○",
+          "english": "boring"
+        },
+        {
+          "japanese": "いまいち（な）",
+          "romaji": "imaichi (na)",
+          "accent": "いま↓いち（な）",
+          "english": "not so good"
+        }
       ],
       "audio": "/audio/y/lesson8/wordlist_Y_08-3.mp3"
     }

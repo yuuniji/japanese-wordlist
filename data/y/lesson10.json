@@ -6,7 +6,228 @@
       "title": "教室案内",
       "number": "1.",
       "wordList": [
-        
+        {
+          "japanese": "曜日",
+          "romaji": "youbi",
+          "accent": "ようび○",
+          "english": "a day of the week"
+        },
+        {
+          "japanese": "時間",
+          "romaji": "jikan",
+          "accent": "じかん○",
+          "english": "time"
+        },
+        {
+          "japanese": "費用",
+          "romaji": "hiyou",
+          "accent": "ひ↓よう",
+          "english": "cost"
+        },
+        {
+          "japanese": "毎月",
+          "romaji": "maitsuki",
+          "accent": "まいつき○",
+          "english": "every month"
+        },
+        {
+          "japanese": "第～（第3木曜日）",
+          "romaji": "dai~ (dai san mokuyoubi)",
+          "accent": "だい～（だいさんもくよ↓うび）",
+          "english": "the first, the second, etc. (e.g. the third Thursday of the month)"
+        },
+        {
+          "japanese": "公民館",
+          "romaji": "kouminkan",
+          "accent": "こうみ↓んかん",
+          "english": "local community center"
+        },
+        {
+          "japanese": "問い合わせ",
+          "romaji": "toiawase",
+          "accent": "といあわせ○",
+          "english": "inquiry"
+        },
+        {
+          "japanese": "スタート（10月スタート）",
+          "romaji": "sutaato (juugatsu sutaato)",
+          "accent": "スタ↓ート（じゅうがつスタ↓ート）",
+          "english": "starting in/on (e.g. starting in October)"
+        },
+        {
+          "japanese": "旬",
+          "romaji": "shun",
+          "accent": "しゅん○／しゅ↓ん",
+          "english": "seasonal food"
+        },
+        {
+          "japanese": "味わう",
+          "romaji": "ajiwau",
+          "accent": "あじわ↓う",
+          "english": "to taste / to savor"
+        },
+        {
+          "japanese": "全～回（全4回）",
+          "romaji": "zen~kai (zen yon kai)",
+          "accent": "ぜ↓ん～か↓い（ぜ↓ん△よんか↓い）",
+          "english": "~ times in total (e.g. 4 times in total)"
+        },
+        {
+          "japanese": "調理室",
+          "romaji": "chourishitsu",
+          "accent": "ちょうり↓しつ",
+          "english": "kitchen"
+        },
+        {
+          "japanese": "各",
+          "romaji": "kaku",
+          "accent": "か↓く",
+          "english": "each"
+        },
+        {
+          "japanese": "先着",
+          "romaji": "senchaku",
+          "accent": "せんちゃく○",
+          "english": "first (people to apply)"
+        },
+        {
+          "japanese": "書道",
+          "romaji": "shodou",
+          "accent": "しょ↓どう",
+          "english": "Japanese calligraphy"
+        },
+        {
+          "japanese": "日時",
+          "romaji": "nichiji",
+          "accent": "に↓ちじ",
+          "english": "date and time"
+        },
+        {
+          "japanese": "～代（テキスト代）",
+          "romaji": "~dai (tekisuto dai)",
+          "accent": "～だい（テキストだい○）",
+          "english": "~ fee (e.g. textbook fee)"
+        },
+        {
+          "japanese": "外国人向け",
+          "romaji": "gaikokujin muke",
+          "accent": "がいこくじんむけ○",
+          "english": "for non-Japanese residents"
+        },
+        {
+          "japanese": "体験教室",
+          "romaji": "taiken kyoushitsu",
+          "accent": "たいけんきょ↓うしつ",
+          "english": "trial lesson"
+        },
+        {
+          "japanese": "身につける",
+          "romaji": "mi ni tsukeru",
+          "accent": "みにつけ↓る",
+          "english": "to learn"
+        },
+        {
+          "japanese": "月",
+          "romaji": "tsuki",
+          "accent": "つき↓",
+          "english": "month"
+        },
+        {
+          "japanese": "テキスト",
+          "romaji": "tekisuto",
+          "accent": "テ↓キスト",
+          "english": "textbook"
+        },
+        {
+          "japanese": "道具",
+          "romaji": "dougu",
+          "accent": "どうぐ↓",
+          "english": "equipment"
+        },
+        {
+          "japanese": "各自",
+          "romaji": "kakuji",
+          "accent": "か↓くじ",
+          "english": "each person"
+        },
+        {
+          "japanese": "見学",
+          "romaji": "kengaku",
+          "accent": "けんがく○",
+          "english": "observation"
+        },
+        {
+          "japanese": "申し込み",
+          "romaji": "moushikomi",
+          "accent": "もうしこみ○",
+          "english": "application"
+        },
+        {
+          "japanese": "お持ちください",
+          "romaji": "omochi kudasai",
+          "accent": "おもちくださ↓い",
+          "english": "Please bring ~. (polite)"
+        },
+        {
+          "japanese": "参加されています",
+          "romaji": "sanka sarete imasu",
+          "accent": "さんかされていま↓す",
+          "english": "~ are participating. (polite)"
+        },
+        {
+          "japanese": "いらしてください",
+          "romaji": "irashite kudasai",
+          "accent": "いら↓してくださ↓い",
+          "english": "Please come. (polite)"
+        },
+        {
+          "japanese": "かかる",
+          "romaji": "kakaru",
+          "accent": "かか↓る",
+          "english": "to cost (a fee)"
+        },
+        {
+          "japanese": "合気道",
+          "romaji": "aikidou",
+          "accent": "あいき↓どう",
+          "english": "aikido"
+        },
+        {
+          "japanese": "～回完結（1回完結）",
+          "romaji": "~kai kanketsu (ikkai kanketsu)",
+          "accent": "～かいかんけつ○（いっかいかんけつ○）",
+          "english": "~ time completion (e.g. one-time completion)"
+        },
+        {
+          "japanese": "体育室",
+          "romaji": "taiikushitsu",
+          "accent": "たいいく↓しつ",
+          "english": "exercise room"
+        },
+        {
+          "japanese": "動きやすい",
+          "romaji": "ugoki yasui",
+          "accent": "うごきやす↓い",
+          "english": "easy to move (in)"
+        },
+        {
+          "japanese": "道着",
+          "romaji": "dougi",
+          "accent": "どうぎ↓",
+          "english": "dougi (martial arts uniform)"
+        },
+        {
+          "japanese": "かまいません",
+          "romaji": "kamai masen",
+          "accent": "かまいませ↓ん",
+          "english": "~ doesn't matter."
+        },
+        {
+          "japanese": "必要ありません",
+          "romaji": "hitsuyou arimasen",
+          "accent": "ひつようありませ↓ん",
+          "english": "~ is not necessary."
+        }
       ],
       "audio": "/audio/y/lesson10/wordlist_Y_10-1.mp3"
     },
@@ -14,7 +235,102 @@
       "title": "合気道をやってみたいんですが…",
       "number": "2.",
       "wordList": [
-        
+        {
+          "japanese": "道具",
+          "romaji": "dougu",
+          "accent": "どうぐ↓",
+          "english": "equipment"
+        },
+        {
+          "japanese": "参加する",
+          "romaji": "sanka suru",
+          "accent": "さんかする○",
+          "english": "to join"
+        },
+        {
+          "japanese": "クラス",
+          "romaji": "kurasu",
+          "accent": "ク↓ラス",
+          "english": "class"
+        },
+        {
+          "japanese": "必要（な）",
+          "romaji": "hitsuyou (na)",
+          "accent": "ひつよう（な）○",
+          "english": "necessary"
+        },
+        {
+          "japanese": "最初",
+          "romaji": "saisho",
+          "accent": "さいしょ○",
+          "english": "at first"
+        },
+        {
+          "japanese": "あとは",
+          "romaji": "ato wa",
+          "accent": "あ↓とは",
+          "english": "after that"
+        },
+        {
+          "japanese": "聞く",
+          "romaji": "kiku",
+          "accent": "きく○",
+          "english": "to ask"
+        },
+        {
+          "japanese": "まだ空いていますか？",
+          "romaji": "mada aiteimasu ka?",
+          "accent": "ま↓だ　あいていま↓すか？",
+          "english": "Is there still availability?"
+        },
+        {
+          "japanese": "払う",
+          "romaji": "harau",
+          "accent": "はら↓う",
+          "english": "to pay"
+        },
+        {
+          "japanese": "もういっぱいです",
+          "romaji": "mou ippai desu",
+          "accent": "も↓う　いっぱいで↓す",
+          "english": "It is full."
+        },
+        {
+          "japanese": "少々お待ちください",
+          "romaji": "shoushou omachi kudasai",
+          "accent": "しょ↓うしょうおまちくださ↓い",
+          "english": "Please wait a moment. (polite expression)"
+        },
+        {
+          "japanese": "興味がある",
+          "romaji": "kyoumi ga aru",
+          "accent": "きょ↓うみが　あ↓る",
+          "english": "to be interested in"
+        },
+        {
+          "japanese": "それとも",
+          "romaji": "soretomo",
+          "accent": "それと↓も",
+          "english": "or"
+        },
+        {
+          "japanese": "コース",
+          "romaji": "koosu",
+          "accent": "コ↓ース",
+          "english": "course"
+        },
+        {
+          "japanese": "全部",
+          "romaji": "zenbu",
+          "accent": "ぜ↓んぶ",
+          "english": "all"
+        },
+        {
+          "japanese": "用意する",
+          "romaji": "youi suru",
+          "accent": "よ↓ういする",
+          "english": "to prepare / to offer"
+        }
       ],
       "audio": "/audio/y/lesson10/wordlist_Y_10-2.mp3"
     },
@@ -22,7 +338,72 @@
       "title": "日本語のクラスはどうですか？",
       "number": "3.",
       "wordList": [
-        
+        {
+          "japanese": "もっと",
+          "romaji": "motto",
+          "accent": "も↓っと",
+          "english": "more"
+        },
+        {
+          "japanese": "週",
+          "romaji": "shuu",
+          "accent": "しゅ↓う",
+          "english": "week"
+        },
+        {
+          "japanese": "何回",
+          "romaji": "nankai / nankai / nankai",
+          "accent": "なんか↓い／な↓んかい／なんかい○",
+          "english": "how many times"
+        },
+        {
+          "japanese": "～回",
+          "romaji": "~kai",
+          "accent": "～かい　（いっか↓い／いっかい○）",
+          "english": "~ times (e.g. once / one time)"
+        },
+        {
+          "japanese": "ただ",
+          "romaji": "tada",
+          "accent": "た↓だ",
+          "english": "free of charge"
+        },
+        {
+          "japanese": "チラシ",
+          "romaji": "chirashi",
+          "accent": "チラシ○",
+          "english": "flyer"
+        },
+        {
+          "japanese": "持って来る",
+          "romaji": "motte kuru",
+          "accent": "もってく↓る",
+          "english": "to bring"
+        },
+        {
+          "japanese": "ちょっといいですか？",
+          "romaji": "chotto ii desu ka?",
+          "accent": "ちょ↓っと　い↓いですか？",
+          "english": "Can I have a minute?"
+        },
+        {
+          "japanese": "きびしい",
+          "romaji": "kibishii",
+          "accent": "きびし↓い",
+          "english": "strict"
+        },
+        {
+          "japanese": "申込書",
+          "romaji": "moushikomisho",
+          "accent": "もうしこみしょ○",
+          "english": "application form"
+        },
+        {
+          "japanese": "紹介する",
+          "romaji": "shoukai suru",
+          "accent": "しょうかいする○",
+          "english": "to introduce"
+        }
       ],
       "audio": "/audio/y/lesson10/wordlist_Y_10-3.mp3"
     },
@@ -30,7 +411,42 @@
       "title": "高校のとき、少し勉強しました",
       "number": "4.",
       "wordList": [
-        
+        {
+          "japanese": "母語",
+          "romaji": "bogo",
+          "accent": "ぼ↓ご",
+          "english": "mother tongue"
+        },
+        {
+          "japanese": "どういう",
+          "romaji": "dou iu",
+          "accent": "ど↓ういう",
+          "english": "what (kind of)"
+        },
+        {
+          "japanese": "意味",
+          "romaji": "imi",
+          "accent": "い↓み",
+          "english": "meaning"
+        },
+        {
+          "japanese": "使う",
+          "romaji": "tsukau",
+          "accent": "つかう○",
+          "english": "to use"
+        },
+        {
+          "japanese": "前に",
+          "romaji": "mae ni",
+          "accent": "ま↓えに／まえに○",
+          "english": "before"
+        },
+        {
+          "japanese": "どんなこと",
+          "romaji": "donna koto",
+          "accent": "ど↓んなこと",
+          "english": "what kinds of things"
+        }
       ],
       "audio": "/audio/y/lesson10/wordlist_Y_10-4.mp3"
     }

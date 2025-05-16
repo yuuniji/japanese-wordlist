@@ -6,7 +6,96 @@
       "title": "辛そうな料理ですね",
       "number": "1.",
       "wordList": [
-        
+        {
+          "japanese": "味",
+          "romaji": "aji",
+          "accent": "あじ○",
+          "english": "taste / flavor"
+        },
+        {
+          "japanese": "甘い",
+          "romaji": "amai",
+          "accent": "あまい○／あま↓い",
+          "english": "sweet"
+        },
+        {
+          "japanese": "辛い",
+          "romaji": "karai",
+          "accent": "から↓い",
+          "english": "spicy / hot"
+        },
+        {
+          "japanese": "すっぱい",
+          "romaji": "suppai",
+          "accent": "すっぱ↓い",
+          "english": "sour"
+        },
+        {
+          "japanese": "しょっぱい",
+          "romaji": "shoppai",
+          "accent": "しょっぱ↓い",
+          "english": "salty"
+        },
+        {
+          "japanese": "苦い",
+          "romaji": "nigai",
+          "accent": "にが↓い",
+          "english": "bitter"
+        },
+        {
+          "japanese": "こい（味がこい）",
+          "romaji": "koi (aji ga koi)",
+          "accent": "こ↓い（あじがこ↓い）",
+          "english": "strong (e.g. strong flavor)"
+        },
+        {
+          "japanese": "うすい（味がうすい）",
+          "romaji": "usui (aji ga usui)",
+          "accent": "うすい○／うす↓い（あじがうすい○）",
+          "english": "weak (e.g. weak flavor)"
+        },
+        {
+          "japanese": "まずい",
+          "romaji": "mazui",
+          "accent": "まず↓い",
+          "english": "tastes bad"
+        },
+        {
+          "japanese": "お弁当",
+          "romaji": "obentou",
+          "accent": "おべんとう○",
+          "english": "obento (lunch box)"
+        },
+        {
+          "japanese": "チョコレートバニラクリームラテ",
+          "romaji": "chokoreeto banira kuriimu rate",
+          "accent": "チョコレートバニラクリームラ↓テ",
+          "english": "chocolate vanilla cream latte"
+        },
+        {
+          "japanese": "みかん",
+          "romaji": "mikan",
+          "accent": "み↓かん",
+          "english": "orange"
+        },
+        {
+          "japanese": "庭",
+          "romaji": "niwa",
+          "accent": "にわ○",
+          "english": "garden"
+        },
+        {
+          "japanese": "とれる",
+          "romaji": "toreru",
+          "accent": "とれ↓る",
+          "english": "to pick"
+        },
+        {
+          "japanese": "そんなことない",
+          "romaji": "sonna koto nai",
+          "accent": "そんなこ↓と　な↓い",
+          "english": "Actually, it isn’t."
+        }
       ],
       "audio": "/audio/y/lesson12/wordlist_Y_12-1.mp3"
     },
@@ -14,7 +103,66 @@
       "title": "甘くておいしいですね",
       "number": "2.",
       "wordList": [
-        
+        {
+          "japanese": "卵焼き",
+          "romaji": "tamagoyaki",
+          "accent": "たまごやき○",
+          "english": "tamago-yaki (rolled omelet)"
+        },
+        {
+          "japanese": "お好み焼き",
+          "romaji": "okonomiyaki",
+          "accent": "おこのみやき○",
+          "english": "okonomiyaki (Japanese-style pancake)"
+        },
+        {
+          "japanese": "梅干し",
+          "romaji": "umeboshi",
+          "accent": "うめぼし○",
+          "english": "umeboshi (pickled plum)"
+        },
+        {
+          "japanese": "すき焼き",
+          "romaji": "sukiyaki",
+          "accent": "すきやき○",
+          "english": "sukiyaki (Japanese beef hot pot)"
+        },
+        {
+          "japanese": "生",
+          "romaji": "nama",
+          "accent": "な↓ま",
+          "english": "raw"
+        },
+        {
+          "japanese": "もう1つ",
+          "romaji": "mou hitotsu",
+          "accent": "もうひと↓つ",
+          "english": "another one"
+        },
+        {
+          "japanese": "バインセオ",
+          "romaji": "bainseo / bainseo",
+          "accent": "バイ↓ンセオ／バ↓インセオ",
+          "english": "banh xeo (Vietnamese stuffed savory pancake)"
+        },
+        {
+          "japanese": "お腹がいっぱい（な）",
+          "romaji": "onaka ga ippai (na)",
+          "accent": "おなかがいっぱい（な）○",
+          "english": "full"
+        },
+        {
+          "japanese": "苦手（な）",
+          "romaji": "nigate (na)",
+          "accent": "にがて（な）○",
+          "english": "dislike"
+        },
+        {
+          "japanese": "どんどん",
+          "romaji": "dondon",
+          "accent": "ど↓んどん",
+          "english": "more"
+        }
       ],
       "audio": "/audio/y/lesson12/wordlist_Y_12-2.mp3"
     },
@@ -22,7 +170,60 @@
       "title": "卵の料理です",
       "number": "3.",
       "wordList": [
-        
+        {
+          "japanese": "茶碗蒸し",
+          "romaji": "chawanmushi",
+          "accent": "ちゃわ↓んむし",
+          "english": "steamed egg custard"
+        },
+        {
+          "japanese": "プリン",
+          "romaji": "purin",
+          "accent": "プ↓リン",
+          "english": "pudding"
+        },
+        {
+          "japanese": "だし",
+          "romaji": "dashi",
+          "accent": "だし↓",
+          "english": "dashi (Japanese soup stock)"
+        },
+        {
+          "japanese": "まあ",
+          "romaji": "maa",
+          "accent": "ま↓あ",
+          "english": "well…"
+        },
+        {
+          "japanese": "スープ",
+          "romaji": "suupu",
+          "accent": "ス↓ープ",
+          "english": "soup"
+        },
+        {
+          "japanese": "きのこ",
+          "romaji": "kinoko",
+          "accent": "き↓のこ",
+          "english": "mushroom"
+        },
+        {
+          "japanese": "銀杏",
+          "romaji": "ginnan",
+          "accent": "ぎんな↓ん",
+          "english": "gingko nuts"
+        },
+        {
+          "japanese": "入れる",
+          "romaji": "ireru",
+          "accent": "いれる○",
+          "english": "to put in"
+        },
+        {
+          "japanese": "いいにおい",
+          "romaji": "ii nioi",
+          "accent": "い↓い　にお↓い",
+          "english": "smells good"
+        }
       ],
       "audio": "/audio/y/lesson12/wordlist_Y_12-3.mp3"
     },
@@ -30,7 +231,120 @@
       "title": "カップ焼きそばの作り方",
       "number": "4.",
       "wordList": [
-        
+        {
+          "japanese": "調理方法",
+          "romaji": "chourihouhou",
+          "accent": "ちょうりほ↓うほう",
+          "english": "cooking instructions"
+        },
+        {
+          "japanese": "フタ",
+          "romaji": "futa",
+          "accent": "フタ○",
+          "english": "lid"
+        },
+        {
+          "japanese": "取り出す",
+          "romaji": "toridasu",
+          "accent": "とりだ↓す／とりだす○",
+          "english": "to take out"
+        },
+        {
+          "japanese": "めん",
+          "romaji": "men",
+          "accent": "め↓ん",
+          "english": "noodles"
+        },
+        {
+          "japanese": "熱湯",
+          "romaji": "nettou",
+          "accent": "ねっとう○",
+          "english": "boiling water"
+        },
+        {
+          "japanese": "注ぐ",
+          "romaji": "sosogu",
+          "accent": "そそぐ○",
+          "english": "to pour"
+        },
+        {
+          "japanese": "お湯",
+          "romaji": "oyu",
+          "accent": "おゆ○",
+          "english": "hot water"
+        },
+        {
+          "japanese": "捨てる",
+          "romaji": "suteru",
+          "accent": "すてる○",
+          "english": "to discard"
+        },
+        {
+          "japanese": "かける",
+          "romaji": "kakeru",
+          "accent": "かけ↓る",
+          "english": "to sprinkle"
+        },
+        {
+          "japanese": "混ぜる",
+          "romaji": "mazeru",
+          "accent": "まぜ↓る",
+          "english": "to mix"
+        },
+        {
+          "japanese": "はがす",
+          "romaji": "hagasu",
+          "accent": "はが↓す",
+          "english": "to remove"
+        },
+        {
+          "japanese": "かやく",
+          "romaji": "kayaku",
+          "accent": "かやく○",
+          "english": "condiment"
+        },
+        {
+          "japanese": "ふりかけ",
+          "romaji": "furikake",
+          "accent": "ふりかけ○",
+          "english": "dried topping"
+        },
+        {
+          "japanese": "あける",
+          "romaji": "akeru",
+          "accent": "あける○",
+          "english": "to empty into / onto"
+        },
+        {
+          "japanese": "内側",
+          "romaji": "uchigawa",
+          "accent": "うちがわ○",
+          "english": "on the inside"
+        },
+        {
+          "japanese": "線",
+          "romaji": "sen",
+          "accent": "せ↓ん",
+          "english": "line"
+        },
+        {
+          "japanese": "フタをする",
+          "romaji": "futa o suru",
+          "accent": "フタをする○",
+          "english": "to put the lid on"
+        },
+        {
+          "japanese": "湯切り口",
+          "romaji": "yukiriguchi",
+          "accent": "ゆきり↓ぐち",
+          "english": "drainage opening"
+        },
+        {
+          "japanese": "できあがり",
+          "romaji": "dekiagari",
+          "accent": "できあがり○",
+          "english": "finished"
+        }
       ],
       "audio": "/audio/y/lesson12/wordlist_Y_12-4.mp3"
     }

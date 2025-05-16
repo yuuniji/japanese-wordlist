@@ -6,7 +6,78 @@
       "title": "どこで日本語を勉強しましたか？",
       "number": "1.",
       "wordList": [
-        
+        {
+          "japanese": "日本語学校",
+          "romaji": "nihongo gakkou",
+          "accent": "にほんごが↓っこう",
+          "english": "Japanese language school"
+        },
+        {
+          "japanese": "高校",
+          "romaji": "koukou",
+          "accent": "こうこう○",
+          "english": "high school"
+        },
+        {
+          "japanese": "どれぐらい",
+          "romaji": "dore gurai",
+          "accent": "どれぐらい○",
+          "english": "how long"
+        },
+        {
+          "japanese": "上手（な）",
+          "romaji": "jouzu (na)",
+          "accent": "じょうず↓（な）",
+          "english": "well / good at"
+        },
+        {
+          "japanese": "～間　（2年間）",
+          "romaji": "~kan (ni nenkan)",
+          "accent": "～かん　（にね↓んかん）",
+          "english": "for ～ (e.g. for two years)"
+        },
+        {
+          "japanese": "自分で",
+          "romaji": "jibun de",
+          "accent": "じぶんで○",
+          "english": "on my own"
+        },
+        {
+          "japanese": "まだまだです",
+          "romaji": "mada mada desu",
+          "accent": "ま↓だ△ま↓だです",
+          "english": "Not even close."
+        },
+        {
+          "japanese": "そんなことないです",
+          "romaji": "sonna koto nai desu",
+          "accent": "そんなこ↓と　な↓いです",
+          "english": "Not really."
+        },
+        {
+          "japanese": "大学",
+          "romaji": "daigaku",
+          "accent": "だいがく○",
+          "english": "university / college"
+        },
+        {
+          "japanese": "ラジオ",
+          "romaji": "rajio",
+          "accent": "ラ↓ジオ",
+          "english": "radio"
+        },
+        {
+          "japanese": "ネット",
+          "romaji": "netto",
+          "accent": "ネット○",
+          "english": "Internet"
+        },
+        {
+          "japanese": "アプリ",
+          "romaji": "apuri",
+          "accent": "ア↓プリ",
+          "english": "app / application"
+        }
       ],
       "audio": "/audio/y/lesson9/wordlist_Y_09-1.mp3"
     },
@@ -14,7 +85,114 @@
       "title": "会話は得意です",
       "number": "2.",
       "wordList": [
-        
+        {
+          "japanese": "日本語",
+          "romaji": "nihongo",
+          "accent": "にほんご○",
+          "english": "Japanese language"
+        },
+        {
+          "japanese": "勉強",
+          "romaji": "benkyou",
+          "accent": "べんきょう○",
+          "english": "study"
+        },
+        {
+          "japanese": "簡単（な）",
+          "romaji": "kantan (na)",
+          "accent": "かんたん（な）○",
+          "english": "easy"
+        },
+        {
+          "japanese": "難しい",
+          "romaji": "muzukashii",
+          "accent": "むずかしい○／むずかし↓い",
+          "english": "difficult"
+        },
+        {
+          "japanese": "似ている",
+          "romaji": "niteiru",
+          "accent": "にている○",
+          "english": "similar"
+        },
+        {
+          "japanese": "違う",
+          "romaji": "chigau",
+          "accent": "ちがう○",
+          "english": "different"
+        },
+        {
+          "japanese": "得意（な）",
+          "romaji": "tokui (na)",
+          "accent": "とく↓い（な）／とくいな○",
+          "english": "good at"
+        },
+        {
+          "japanese": "苦手（な）",
+          "romaji": "nigate (na)",
+          "accent": "にがて（な）○",
+          "english": "poor at"
+        },
+        {
+          "japanese": "文法",
+          "romaji": "bunpou",
+          "accent": "ぶんぽう○",
+          "english": "grammar"
+        },
+        {
+          "japanese": "発音",
+          "romaji": "hatsuon",
+          "accent": "はつおん○",
+          "english": "pronunciation"
+        },
+        {
+          "japanese": "文字",
+          "romaji": "moji",
+          "accent": "も↓じ",
+          "english": "characters"
+        },
+        {
+          "japanese": "ひらがな",
+          "romaji": "hiragana",
+          "accent": "ひらが↓な",
+          "english": "hiragana"
+        },
+        {
+          "japanese": "カタカナ",
+          "romaji": "katakana",
+          "accent": "カタカ↓ナ",
+          "english": "katakana"
+        },
+        {
+          "japanese": "漢字",
+          "romaji": "kanji",
+          "accent": "かんじ○",
+          "english": "kanji"
+        },
+        {
+          "japanese": "会話",
+          "romaji": "kaiwa",
+          "accent": "かいわ○",
+          "english": "conversation"
+        },
+        {
+          "japanese": "モンゴル語",
+          "romaji": "mongoru go",
+          "accent": "モンゴルご○",
+          "english": "Mongolian language"
+        },
+        {
+          "japanese": "ベトナム語",
+          "romaji": "betonamu go",
+          "accent": "ベトナムご○",
+          "english": "Vietnamese language"
+        },
+        {
+          "japanese": "覚える",
+          "romaji": "oboeru",
+          "accent": "おぼえ↓る",
+          "english": "to memorize"
+        }
       ],
       "audio": "/audio/y/lesson9/wordlist_Y_09-2.mp3"
     },
@@ -22,7 +200,96 @@
       "title": "日本語をチェックしてもらえませんか？",
       "number": "3.",
       "wordList": [
-        
+        {
+          "japanese": "教える",
+          "romaji": "oshieru",
+          "accent": "おしえる○",
+          "english": "to teach"
+        },
+        {
+          "japanese": "辞書",
+          "romaji": "jisho",
+          "accent": "じ↓しょ",
+          "english": "dictionary"
+        },
+        {
+          "japanese": "貸す",
+          "romaji": "kasu",
+          "accent": "かす○",
+          "english": "to lend"
+        },
+        {
+          "japanese": "見せる",
+          "romaji": "miseru",
+          "accent": "みせ↓る",
+          "english": "to show"
+        },
+        {
+          "japanese": "チェックする",
+          "romaji": "chekku suru",
+          "accent": "チェ↓ックする",
+          "english": "to check"
+        },
+        {
+          "japanese": "説明する",
+          "romaji": "setsumei suru",
+          "accent": "せつめいする○",
+          "english": "to explain"
+        },
+        {
+          "japanese": "紙",
+          "romaji": "kami",
+          "accent": "かみ↓",
+          "english": "paper"
+        },
+        {
+          "japanese": "書く",
+          "romaji": "kaku",
+          "accent": "か↓く",
+          "english": "to write"
+        },
+        {
+          "japanese": "言う",
+          "romaji": "iu",
+          "accent": "いう○",
+          "english": "to say / to tell"
+        },
+        {
+          "japanese": "ゆっくり",
+          "romaji": "yukkuri",
+          "accent": "ゆっく↓り",
+          "english": "slowly"
+        },
+        {
+          "japanese": "～方（読み方）",
+          "romaji": "~kata (yomikata)",
+          "accent": "～かた　（よみか↓た）",
+          "english": "how to (e.g. how to read)"
+        },
+        {
+          "japanese": "メール",
+          "romaji": "meeru",
+          "accent": "メール○",
+          "english": "email"
+        },
+        {
+          "japanese": "書類",
+          "romaji": "shorui",
+          "accent": "しょるい○",
+          "english": "document"
+        },
+        {
+          "japanese": "教科書",
+          "romaji": "kyoukasho",
+          "accent": "きょうか↓しょ",
+          "english": "textbook"
+        },
+        {
+          "japanese": "自信がありません",
+          "romaji": "jishin ga arimasen",
+          "accent": "じしんがありませ↓ん",
+          "english": "I am not confident."
+        }
       ],
       "audio": "/audio/y/lesson9/wordlist_Y_09-3.mp3"
     },
@@ -30,7 +297,120 @@
       "title": "いい練習のし方がありますか？",
       "number": "4.",
       "wordList": [
-        
+        {
+          "japanese": "練習",
+          "romaji": "renshuu",
+          "accent": "れんしゅう○",
+          "english": "practice"
+        },
+        {
+          "japanese": "探す",
+          "romaji": "sagasu",
+          "accent": "さがす○",
+          "english": "to look for"
+        },
+        {
+          "japanese": "何回も",
+          "romaji": "nankai mo",
+          "accent": "なんか↓いも／な↓んかいも",
+          "english": "several times"
+        },
+        {
+          "japanese": "教室",
+          "romaji": "kyoushitsu",
+          "accent": "きょうしつ○",
+          "english": "classroom"
+        },
+        {
+          "japanese": "無料",
+          "romaji": "muryou",
+          "accent": "むりょう○",
+          "english": "free of charge"
+        },
+        {
+          "japanese": "先生",
+          "romaji": "sensei",
+          "accent": "せんせ↓い",
+          "english": "teacher / instructor"
+        },
+        {
+          "japanese": "知恵",
+          "romaji": "chie",
+          "accent": "ちえ↓",
+          "english": "wisdom"
+        },
+        {
+          "japanese": "拝借する",
+          "romaji": "haishaku suru",
+          "accent": "はいしゃくする○",
+          "english": "to borrow"
+        },
+        {
+          "japanese": "サイト",
+          "romaji": "saito",
+          "accent": "サイト○",
+          "english": "(web)site"
+        },
+        {
+          "japanese": "トップ",
+          "romaji": "toppu",
+          "accent": "ト↓ップ",
+          "english": "top"
+        },
+        {
+          "japanese": "カテゴリー",
+          "romaji": "kategorii",
+          "accent": "カテ↓ゴリー／カ↓テゴリー",
+          "english": "category"
+        },
+        {
+          "japanese": "ランキング",
+          "romaji": "rankingu",
+          "accent": "ランキング○",
+          "english": "ranking"
+        },
+        {
+          "japanese": "わし",
+          "romaji": "washi",
+          "accent": "わし○",
+          "english": "I (role language for an elderly person)"
+        },
+        {
+          "japanese": "検索",
+          "romaji": "kensaku",
+          "accent": "けんさく○",
+          "english": "search"
+        },
+        {
+          "japanese": "質問",
+          "romaji": "shitsumon",
+          "accent": "しつもん○",
+          "english": "question"
+        },
+        {
+          "japanese": "相談",
+          "romaji": "soudan",
+          "accent": "そうだん○",
+          "english": "discussion"
+        },
+        {
+          "japanese": "おしゃべりする",
+          "romaji": "oshaberi suru",
+          "accent": "おしゃ↓べりする",
+          "english": "to chat"
+        },
+        {
+          "japanese": "シャドーイングする",
+          "romaji": "shadouingu suru",
+          "accent": "シャドーイングする○",
+          "english": "to shadow (repeat after listening)"
+        },
+        {
+          "japanese": "ボランティア",
+          "romaji": "borantia",
+          "accent": "ボラ↓ンティア",
+          "english": "volunteer"
+        }
       ],
       "audio": "/audio/y/lesson9/wordlist_Y_09-4.mp3"
     }

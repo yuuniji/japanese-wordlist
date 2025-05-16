@@ -6,7 +6,234 @@
       "title": "だれが何を持って行きますか？",
       "number": "1.",
       "wordList": [
-        
+        {
+          "japanese": "バーベキュー",
+          "romaji": "baabekyuu",
+          "accent": "バーベ↓キュー",
+          "english": "barbecue"
+        },
+        {
+          "japanese": "肉",
+          "romaji": "niku",
+          "accent": "にく↓",
+          "english": "meat"
+        },
+        {
+          "japanese": "牛肉",
+          "romaji": "gyuuniku",
+          "accent": "ぎゅうにく○",
+          "english": "beef"
+        },
+        {
+          "japanese": "豚肉",
+          "romaji": "butaniku",
+          "accent": "ぶたにく○",
+          "english": "pork"
+        },
+        {
+          "japanese": "鶏肉",
+          "romaji": "toriniku",
+          "accent": "とりにく○",
+          "english": "chicken"
+        },
+        {
+          "japanese": "ソーセージ",
+          "romaji": "sooseeji",
+          "accent": "ソーセ↓ージ",
+          "english": "sausage"
+        },
+        {
+          "japanese": "シーフード",
+          "romaji": "shiifoodo",
+          "accent": "シーフ↓ード",
+          "english": "seafood"
+        },
+        {
+          "japanese": "魚",
+          "romaji": "sakana",
+          "accent": "さかな○",
+          "english": "fish"
+        },
+        {
+          "japanese": "エビ",
+          "romaji": "ebi",
+          "accent": "エビ○",
+          "english": "shrimp"
+        },
+        {
+          "japanese": "イカ",
+          "romaji": "ika",
+          "accent": "イカ○",
+          "english": "squid"
+        },
+        {
+          "japanese": "ホタテ",
+          "romaji": "hotate",
+          "accent": "ホタテ○",
+          "english": "scallop"
+        },
+        {
+          "japanese": "りんご",
+          "romaji": "ringo",
+          "accent": "りんご○",
+          "english": "apple"
+        },
+        {
+          "japanese": "バナナ",
+          "romaji": "banana",
+          "accent": "バ↓ナナ",
+          "english": "banana"
+        },
+        {
+          "japanese": "焼きそば",
+          "romaji": "yakisoba",
+          "accent": "やきそば○",
+          "english": "yakisoba (fried noodles)"
+        },
+        {
+          "japanese": "おにぎり",
+          "romaji": "onigiri",
+          "accent": "おに↓ぎり",
+          "english": "onigiri (rice ball)"
+        },
+        {
+          "japanese": "焼肉",
+          "romaji": "yakiniku",
+          "accent": "やきにく○",
+          "english": "yakiniku (Japanese grilled meat)"
+        },
+        {
+          "japanese": "たれ",
+          "romaji": "tare",
+          "accent": "たれ↓",
+          "english": "tare (dipping sauce)"
+        },
+        {
+          "japanese": "ソース",
+          "romaji": "soosu",
+          "accent": "ソ↓ース",
+          "english": "sauce"
+        },
+        {
+          "japanese": "お菓子",
+          "romaji": "okashi",
+          "accent": "おか↓し",
+          "english": "sweets"
+        },
+        {
+          "japanese": "ソフトドリンク",
+          "romaji": "sofutodorinku",
+          "accent": "ソフトドリ↓ンク",
+          "english": "soft drink"
+        },
+        {
+          "japanese": "お茶",
+          "romaji": "ocha",
+          "accent": "おちゃ○",
+          "english": "tea / Japanese tea"
+        },
+        {
+          "japanese": "ジュース",
+          "romaji": "juusu",
+          "accent": "ジュ↓ース",
+          "english": "juice"
+        },
+        {
+          "japanese": "お酒",
+          "romaji": "osake",
+          "accent": "おさけ○",
+          "english": "alcohol"
+        },
+        {
+          "japanese": "ビール",
+          "romaji": "biiru",
+          "accent": "ビ↓ール",
+          "english": "beer"
+        },
+        {
+          "japanese": "ワイン",
+          "romaji": "wain",
+          "accent": "ワ↓イン",
+          "english": "wine"
+        },
+        {
+          "japanese": "日本酒",
+          "romaji": "nihonshu",
+          "accent": "にほんしゅ○",
+          "english": "sake (Japanese rice wine)"
+        },
+        {
+          "japanese": "焼酎",
+          "romaji": "shouchuu",
+          "accent": "しょうちゅ↓う",
+          "english": "shochu (Japanese distilled liquor)"
+        },
+        {
+          "japanese": "コップ",
+          "romaji": "koppu",
+          "accent": "コップ○",
+          "english": "drinking cup"
+        },
+        {
+          "japanese": "お皿",
+          "romaji": "osara",
+          "accent": "おさら○",
+          "english": "plate"
+        },
+        {
+          "japanese": "わりばし",
+          "romaji": "waribashi",
+          "accent": "わりばし○",
+          "english": "disposable wooden chopsticks"
+        },
+        {
+          "japanese": "ごみ袋",
+          "romaji": "gomibukuro",
+          "accent": "ごみぶ↓くろ",
+          "english": "garbage bag"
+        },
+        {
+          "japanese": "準備",
+          "romaji": "junbi",
+          "accent": "じゅ↓んび",
+          "english": "preparation"
+        },
+        {
+          "japanese": "持って行く",
+          "romaji": "motteiku",
+          "accent": "もっていく○／も↓っていく",
+          "english": "to take (something with you)"
+        },
+        {
+          "japanese": "手伝う",
+          "romaji": "tetsudau",
+          "accent": "てつだ↓う",
+          "english": "to help"
+        },
+        {
+          "japanese": "飲み物",
+          "romaji": "nomimono",
+          "accent": "のみも↓の／のみ↓もの",
+          "english": "drink"
+        },
+        {
+          "japanese": "バーベキュー場",
+          "romaji": "baabekyuu jou",
+          "accent": "バーベキューじょう○",
+          "english": "barbecue area"
+        },
+        {
+          "japanese": "デザート",
+          "romaji": "dezaato",
+          "accent": "デザ↓ート",
+          "english": "dessert"
+        },
+        {
+          "japanese": "焼く",
+          "romaji": "yaku",
+          "accent": "やく○",
+          "english": "to grill"
+        }
       ],
       "audio": "/audio/y/lesson11/wordlist_Y_11-1.mp3"
     },
@@ -14,7 +241,72 @@
       "title": "どっちがいいですか？",
       "number": "2.",
       "wordList": [
-        
+        {
+          "japanese": "からあげ",
+          "romaji": "karaage",
+          "accent": "からあげ○",
+          "english": "fried chicken"
+        },
+        {
+          "japanese": "焼き鳥",
+          "romaji": "yakitori",
+          "accent": "やきとり○",
+          "english": "yakitori (grilled chicken)"
+        },
+        {
+          "japanese": "塩",
+          "romaji": "shio",
+          "accent": "しお↓",
+          "english": "salt"
+        },
+        {
+          "japanese": "紅茶",
+          "romaji": "koucha",
+          "accent": "こうちゃ○",
+          "english": "black tea"
+        },
+        {
+          "japanese": "ウーロン茶",
+          "romaji": "uuroncha",
+          "accent": "ウーロ↓ンちゃ",
+          "english": "oolong tea"
+        },
+        {
+          "japanese": "チョコレートケーキ",
+          "romaji": "chokoreeto keeki",
+          "accent": "チョコレートケ↓ーキ",
+          "english": "chocolate cake"
+        },
+        {
+          "japanese": "チーズケーキ",
+          "romaji": "chiizukeeki",
+          "accent": "チーズケ↓ーキ",
+          "english": "cheesecake"
+        },
+        {
+          "japanese": "どっち",
+          "romaji": "docchi",
+          "accent": "ど↓っち",
+          "english": "which (out of two, casual)"
+        },
+        {
+          "japanese": "どれ",
+          "romaji": "dore",
+          "accent": "ど↓れ",
+          "english": "which one (of three or more)"
+        },
+        {
+          "japanese": "売る",
+          "romaji": "uru",
+          "accent": "うる○",
+          "english": "to sell"
+        },
+        {
+          "japanese": "両方",
+          "romaji": "ryouhou",
+          "accent": "りょうほ↓う／りょうほう○",
+          "english": "both"
+        }
       ],
       "audio": "/audio/y/lesson11/wordlist_Y_11-2.mp3"
     },
@@ -22,7 +314,156 @@
       "title": "この料理、卵を使ってますか",
       "number": "3.",
       "wordList": [
-        
+        {
+          "japanese": "アレルギー",
+          "romaji": "arerugii",
+          "accent": "アレ↓ルギー",
+          "english": "allergy"
+        },
+        {
+          "japanese": "エビ",
+          "romaji": "ebi",
+          "accent": "エビ○",
+          "english": "shrimp"
+        },
+        {
+          "japanese": "カニ",
+          "romaji": "kani",
+          "accent": "カニ○",
+          "english": "crab"
+        },
+        {
+          "japanese": "卵",
+          "romaji": "tamago",
+          "accent": "たま↓ご",
+          "english": "egg"
+        },
+        {
+          "japanese": "ピーナッツ",
+          "romaji": "piinattsu",
+          "accent": "ピ↓ーナッツ",
+          "english": "peanuts"
+        },
+        {
+          "japanese": "落花生",
+          "romaji": "rakkasei",
+          "accent": "らっか↓せい",
+          "english": "peanuts"
+        },
+        {
+          "japanese": "そば粉",
+          "romaji": "sobako",
+          "accent": "そばこ○",
+          "english": "buckwheat flour"
+        },
+        {
+          "japanese": "小麦",
+          "romaji": "komugi",
+          "accent": "こむぎ○",
+          "english": "wheat"
+        },
+        {
+          "japanese": "小麦粉",
+          "romaji": "komugiko",
+          "accent": "こむぎこ○",
+          "english": "flour"
+        },
+        {
+          "japanese": "乳製品",
+          "romaji": "nyuuseihin",
+          "accent": "にゅうせ↓いひん",
+          "english": "dairy products"
+        },
+        {
+          "japanese": "牛乳",
+          "romaji": "gyuunyuu",
+          "accent": "ぎゅうにゅう○",
+          "english": "milk"
+        },
+        {
+          "japanese": "バター",
+          "romaji": "bataa",
+          "accent": "バ↓ター",
+          "english": "butter"
+        },
+        {
+          "japanese": "チーズ",
+          "romaji": "chiizu",
+          "accent": "チ↓ーズ",
+          "english": "cheese"
+        },
+        {
+          "japanese": "ヨーグルト",
+          "romaji": "yooguruto",
+          "accent": "ヨーグ↓ルト",
+          "english": "yoghurt"
+        },
+        {
+          "japanese": "材料",
+          "romaji": "zairyou",
+          "accent": "ざいりょ↓う",
+          "english": "ingredient"
+        },
+        {
+          "japanese": "ハラル",
+          "romaji": "hararu",
+          "accent": "ハ↓ラル",
+          "english": "halal (allowed for Muslims)"
+        },
+        {
+          "japanese": "消費期限",
+          "romaji": "shouhikigen",
+          "accent": "しょうひき↓げん",
+          "english": "expiration date"
+        },
+        {
+          "japanese": "ピザ",
+          "romaji": "piza",
+          "accent": "ピ↓ザ",
+          "english": "pizza"
+        },
+        {
+          "japanese": "入っている",
+          "romaji": "haitteiru",
+          "accent": "は↓いっている",
+          "english": "contain"
+        },
+        {
+          "japanese": "よかったら",
+          "romaji": "yokattara",
+          "accent": "よ↓かったら",
+          "english": "if you'd like"
+        },
+        {
+          "japanese": "もつ",
+          "romaji": "motsu",
+          "accent": "も↓つ",
+          "english": "to be good for"
+        },
+        {
+          "japanese": "今日中に",
+          "romaji": "kyoujuuni",
+          "accent": "きょうじゅうに○",
+          "english": "by today"
+        },
+        {
+          "japanese": "コーナー",
+          "romaji": "koonaa",
+          "accent": "コ↓ーナー",
+          "english": "section"
+        },
+        {
+          "japanese": "商品",
+          "romaji": "shouhin",
+          "accent": "しょ↓うひん",
+          "english": "product"
+        },
+        {
+          "japanese": "すべて",
+          "romaji": "subete",
+          "accent": "す↓べて",
+          "english": "everything"
+        }
       ],
       "audio": "/audio/y/lesson11/wordlist_Y_11-3.mp3"
     },
@@ -30,7 +471,114 @@
       "title": "食品表示",
       "number": "4.",
       "wordList": [
-        
+        {
+          "japanese": "レトルト",
+          "romaji": "retoruto",
+          "accent": "レトルト○／レト↓ルト",
+          "english": "boil-in-the-bag"
+        },
+        {
+          "japanese": "乳成分",
+          "romaji": "nyuuseibun",
+          "accent": "にゅうせ↓いぶん",
+          "english": "milk constituent"
+        },
+        {
+          "japanese": "大豆",
+          "romaji": "daizu",
+          "accent": "だいず○",
+          "english": "soy"
+        },
+        {
+          "japanese": "名称",
+          "romaji": "meishou",
+          "accent": "めいしょう○",
+          "english": "name"
+        },
+        {
+          "japanese": "原材料名",
+          "romaji": "genzairyoumei",
+          "accent": "げんざいりょ↓うめい",
+          "english": "list of raw ingredients"
+        },
+        {
+          "japanese": "殺菌方法",
+          "romaji": "sakkinhouhou",
+          "accent": "さっきんほ↓うほう",
+          "english": "sterilization method"
+        },
+        {
+          "japanese": "内容量",
+          "romaji": "naiyouryou",
+          "accent": "ないよ↓うりょう",
+          "english": "volume"
+        },
+        {
+          "japanese": "賞味期限",
+          "romaji": "shoumikigen",
+          "accent": "しょうみき↓げん",
+          "english": "best-before date"
+        },
+        {
+          "japanese": "保存方法",
+          "romaji": "hozonhouhou",
+          "accent": "ほぞんほ↓うほう",
+          "english": "how to store"
+        },
+        {
+          "japanese": "販売者",
+          "romaji": "hanbaisha",
+          "accent": "はんば↓いしゃ",
+          "english": "seller"
+        },
+        {
+          "japanese": "本品",
+          "romaji": "honpin",
+          "accent": "ほ↓んぴん",
+          "english": "this product"
+        },
+        {
+          "japanese": "含まれる",
+          "romaji": "fukumareru",
+          "accent": "ふくまれ↓る",
+          "english": "be included"
+        },
+        {
+          "japanese": "アレルギー物質",
+          "romaji": "arerugii busshitsu",
+          "accent": "アレルギーぶ↓っしつ",
+          "english": "allergen"
+        },
+        {
+          "japanese": "おにぎり",
+          "romaji": "onigiri",
+          "accent": "おに↓ぎり",
+          "english": "onigiri (rice ball)"
+        },
+        {
+          "japanese": "エビピラフ",
+          "romaji": "ebipirafu",
+          "accent": "エビピ↓ラフ",
+          "english": "shrimp pilaf"
+        },
+        {
+          "japanese": "製造者",
+          "romaji": "seizou-sha",
+          "accent": "せいぞ↓うしゃ",
+          "english": "manufacturer"
+        },
+        {
+          "japanese": "チョコレート",
+          "romaji": "chokoreeto",
+          "accent": "チョコレ↓ート",
+          "english": "chocolate"
+        },
+        {
+          "japanese": "～品目",
+          "romaji": "～hinmoku",
+          "accent": "～ひ↓んもく",
+          "english": "～ items (e.g. 27 items)"
+        }
       ],
       "audio": "/audio/y/lesson11/wordlist_Y_11-4.mp3"
     }
