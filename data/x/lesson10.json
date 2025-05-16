@@ -3,20 +3,483 @@
   "number": "第10課",
   "sections": [
     {
-      "title": "こんにちは",
+      "title": "ちょっと手伝ってください",
       "number": "1.",
       "wordList": [
-        
+          {
+            "japanese": "段ボール",
+            "romaji": "danbooru",
+            "accent": "だんボ↓ール",
+            "english": "cardboard"
+          },
+          {
+            "japanese": "ドライバー",
+            "romaji": "doraibaa",
+            "accent": "ドライバー○",
+            "english": "screwdriver"
+          },
+          {
+            "japanese": "ごみ",
+            "romaji": "gomi",
+            "accent": "ごみ↓",
+            "english": "garbage"
+          },
+          {
+            "japanese": "窓",
+            "romaji": "mado",
+            "accent": "ま↓ど",
+            "english": "window"
+          },
+          {
+            "japanese": "プロジェクタ",
+            "romaji": "purojekuta",
+            "accent": "プロジェクタ○",
+            "english": "projector"
+          },
+          {
+            "japanese": "リモコン",
+            "romaji": "rimokon",
+            "accent": "リモコン○",
+            "english": "remote controller"
+          },
+          {
+            "japanese": "置いて（ください）",
+            "romaji": "oite (kudasai)",
+            "accent": "おいて（くださ↓い）",
+            "english": "(Please) put it down."
+          },
+          {
+            "japanese": "取って（ください）",
+            "romaji": "totte (kudasai)",
+            "accent": "と↓って（くださ↓い）",
+            "english": "(Please) take it."
+          },
+          {
+            "japanese": "並べて（ください）",
+            "romaji": "narabete (kudasai)",
+            "accent": "ならべて（くださ↓い）",
+            "english": "(Please) arrange it."
+          },
+          {
+            "japanese": "片付けて（ください）",
+            "romaji": "katazukete (kudasai)",
+            "accent": "かたづ↓けて（くださ↓い）",
+            "english": "(Please) tidy it up."
+          },
+          {
+            "japanese": "捨てて（ください）",
+            "romaji": "sutete (kudasai)",
+            "accent": "すてて（くださ↓い）",
+            "english": "(Please) throw it away."
+          },
+          {
+            "japanese": "持って来て（ください）",
+            "romaji": "motte-kite (kudasai)",
+            "accent": "もってき↓て（くださ↓い）",
+            "english": "(Please) bring it here."
+          },
+          {
+            "japanese": "持って行って（ください）",
+            "romaji": "motte-itte (kudasai)",
+            "accent": "もってい↓って（くださ↓い）",
+            "english": "(Please) take it there."
+          },
+          {
+            "japanese": "閉めて（ください）",
+            "romaji": "shimete (kudasai)",
+            "accent": "し↓めて（くださ↓い）",
+            "english": "(Please) close it."
+          },
+          {
+            "japanese": "手伝って（ください）",
+            "romaji": "tetsudatte (kudasai)",
+            "accent": "てつだ↓って（くださ↓い）",
+            "english": "(Please) help."
+          }        
       ],
       "audio": "/audio/x/lesson10/wordlist_X_10-1.mp3"
     },
     {
-      "title": "こんにちは",
+      "title": "すみません、いくつですか？",
       "number": "2.",
       "wordList": [
-        
+          {
+            "japanese": "～枚",
+            "romaji": "～mai",
+            "accent": "～まい",
+            "english": "～ sheets"
+          },
+          {
+            "japanese": "コピー",
+            "romaji": "kopii",
+            "accent": "コ↓ピー",
+            "english": "copy"
+          },
+          {
+            "japanese": "隣",
+            "romaji": "tonari",
+            "accent": "となり○",
+            "english": "next to"
+          },
+          {
+            "japanese": "～までに",
+            "romaji": "～made ni",
+            "accent": "～ま↓でに",
+            "english": "by ～"
+          },
+          {
+            "japanese": "あとで",
+            "romaji": "ato de",
+            "accent": "あ↓とで",
+            "english": "later"
+          },
+          {
+            "japanese": "もしもし",
+            "romaji": "moshi moshi",
+            "accent": "も↓しもし",
+            "english": "Hello. (on the phone)"
+          },
+          {
+            "japanese": "来てください",
+            "romaji": "kite kudasai",
+            "accent": "き↓てくださ↓い",
+            "english": "Please come."
+          },
+          {
+            "japanese": "13時",
+            "romaji": "juu-san-ji",
+            "accent": "じゅうさ↓んじ",
+            "english": "1:00 p.m."
+          },
+          {
+            "japanese": "14時",
+            "romaji": "juu-yo-ji",
+            "accent": "じゅうよ↓じ",
+            "english": "2:00 p.m."
+          },
+          {
+            "japanese": "15時",
+            "romaji": "juu-go-ji",
+            "accent": "じゅうご↓じ",
+            "english": "3:00 p.m."
+          },
+          {
+            "japanese": "16時",
+            "romaji": "juu-roku-ji",
+            "accent": "じゅうろく↓じ",
+            "english": "4:00 p.m."
+          },
+          {
+            "japanese": "17時",
+            "romaji": "juu-shichi-ji",
+            "accent": "じゅうしち↓じ",
+            "english": "5:00 p.m."
+          },
+          {
+            "japanese": "18時",
+            "romaji": "juu-hachi-ji",
+            "accent": "じゅうはち↓じ",
+            "english": "6:00 p.m."
+          },
+          {
+            "japanese": "19時",
+            "romaji": "juu-ku-ji",
+            "accent": "じゅうく↓じ",
+            "english": "7:00 p.m."
+          },
+          {
+            "japanese": "20時",
+            "romaji": "nijuu-ji",
+            "accent": "にじゅ↓うじ",
+            "english": "8:00 p.m."
+          },
+          {
+            "japanese": "21時",
+            "romaji": "nijuu-ichi-ji",
+            "accent": "に↓じゅう△いち↓じ",
+            "english": "9:00 p.m."
+          },
+          {
+            "japanese": "22時",
+            "romaji": "nijuu-ni-ji",
+            "accent": "に↓じゅう△に↓じ",
+            "english": "10:00 p.m."
+          },
+          {
+            "japanese": "23時",
+            "romaji": "nijuu-san-ji",
+            "accent": "に↓じゅう△さ↓んじ",
+            "english": "11:00 p.m."
+          },
+          {
+            "japanese": "0時",
+            "romaji": "ree-ji",
+            "accent": "れ↓いじ",
+            "english": "12:00 midnight"
+          }        
       ],
       "audio": "/audio/x/lesson10/wordlist_X_10-2.mp3"
+    },
+    {
+      "title": "仕事のメモ",
+      "number": "3.",
+      "wordList": [
+          {
+            "japanese": "すぐに",
+            "romaji": "suguni",
+            "accent": "す↓ぐに",
+            "english": "immediately"
+          },
+          {
+            "japanese": "第～　（第2）",
+            "romaji": "dai～  (dai-ni)",
+            "accent": "だい～　（だいに○）",
+            "english": "no.～　(e.g. no. 2)"
+          },
+          {
+            "japanese": "～部　（100部）",
+            "romaji": "～bu　(hyaku-bu)",
+            "accent": "～ぶ　（ひゃく↓ぶ）",
+            "english": "～ copies　(e.g. 100 copies)"
+          },
+          {
+            "japanese": "電話する／電話します",
+            "romaji": "denwa-suru / denwa-shimasu",
+            "accent": "でんわする○／でんわしま↓す",
+            "english": "to telephone"
+          },
+          {
+            "japanese": "電話してください",
+            "romaji": "denwa-shite kudasai",
+            "accent": "でんわしてくださ↓い",
+            "english": "Please telephone."
+          },
+          {
+            "japanese": "折り返し",
+            "romaji": "orikaeshi",
+            "accent": "おりかえし○",
+            "english": "return (a call)"
+          },
+          {
+            "japanese": "電話がありました",
+            "romaji": "denwa ga arimashita",
+            "accent": "でんわがありま↓した",
+            "english": "Someone called."
+          }        
+      ],
+      "audio": "/audio/x/lesson10/wordlist_X_10-3.mp3"
+    },
+    {
+      "title": "スマホの充電器、ありますか？",
+      "number": "4.",
+      "wordList": [
+          {
+            "japanese": "貸す／貸します",
+            "romaji": "kasu / kashimasu",
+            "accent": "かす○／かしま↓す",
+            "english": "to lend"
+          },
+          {
+            "japanese": "借りる／借ります",
+            "romaji": "kariru / karimasu",
+            "accent": "かりる○／かりま↓す",
+            "english": "to borrow"
+          },
+          {
+            "japanese": "はさみ",
+            "romaji": "hasami",
+            "accent": "はさみ↓／はさ↓み",
+            "english": "scissors"
+          },
+          {
+            "japanese": "カッター",
+            "romaji": "kattaa",
+            "accent": "カ↓ッター",
+            "english": "box cutter"
+          },
+          {
+            "japanese": "のり",
+            "romaji": "nori",
+            "accent": "のり↓",
+            "english": "glue"
+          },
+          {
+            "japanese": "ホチキス",
+            "romaji": "hochikisu",
+            "accent": "ホ↓チキス",
+            "english": "stapler"
+          },
+          {
+            "japanese": "えんぴつ",
+            "romaji": "enpitsu",
+            "accent": "えんぴつ○",
+            "english": "pencil"
+          },
+          {
+            "japanese": "ペン",
+            "romaji": "pen",
+            "accent": "ペ↓ン",
+            "english": "pen"
+          },
+          {
+            "japanese": "電卓",
+            "romaji": "dentaku",
+            "accent": "でんたく○",
+            "english": "calculator"
+          },
+          {
+            "japanese": "充電器",
+            "romaji": "juudenki",
+            "accent": "じゅうで↓んき",
+            "english": "charger"
+          },
+          {
+            "japanese": "ふせん",
+            "romaji": "fusen",
+            "accent": "ふせん○",
+            "english": "sticky note"
+          },
+          {
+            "japanese": "いいよ",
+            "romaji": "ii yo",
+            "accent": "い↓いよ",
+            "english": "Okay. (a casual way of saying いいですよ)"
+          },
+          {
+            "japanese": "ありますよ／あるよ",
+            "romaji": "arimasu yo / aru yo",
+            "accent": "ありま↓すよ／あ↓るよ",
+            "english": "I have it."
+          }        
+      ],
+      "audio": "/audio/x/lesson10/wordlist_X_10-4.mp3"
+    },
+    {
+      "title": "チェックリスト",
+      "number": "5.",
+      "wordList": [
+          {
+            "japanese": "フォーク",
+            "romaji": "fooku",
+            "accent": "フォ↓ーク",
+            "english": "fork"
+          },
+          {
+            "japanese": "ナイフ",
+            "romaji": "naifu",
+            "accent": "ナ↓イフ",
+            "english": "knife"
+          },
+          {
+            "japanese": "スプーン",
+            "romaji": "supuun",
+            "accent": "スプ↓ーン",
+            "english": "spoon"
+          },
+          {
+            "japanese": "はし",
+            "romaji": "hashi",
+            "accent": "は↓し",
+            "english": "chopsticks"
+          },
+          {
+            "japanese": "塩",
+            "romaji": "shio",
+            "accent": "しお↓",
+            "english": "salt"
+          },
+          {
+            "japanese": "こしょう",
+            "romaji": "koshoo",
+            "accent": "こしょ↓う",
+            "english": "pepper"
+          },
+          {
+            "japanese": "砂糖",
+            "romaji": "satoo",
+            "accent": "さと↓う",
+            "english": "sugar"
+          },
+          {
+            "japanese": "ミルク",
+            "romaji": "miruku",
+            "accent": "ミ↓ルク",
+            "english": "milk"
+          },
+          {
+            "japanese": "備品リスト",
+            "romaji": "bihin-risuto",
+            "accent": "びひんリ↓スト",
+            "english": "inventory"
+          },
+          {
+            "japanese": "品名",
+            "romaji": "hinmee",
+            "accent": "ひんめい○",
+            "english": "name of item"
+          },
+          {
+            "japanese": "数量",
+            "romaji": "suuryoo",
+            "accent": "すうりょ↓う",
+            "english": "quantity"
+          },
+          {
+            "japanese": "石けん",
+            "romaji": "sekken",
+            "accent": "せっけん○",
+            "english": "soap"
+          },
+          {
+            "japanese": "シャンプー",
+            "romaji": "shanpuu",
+            "accent": "シャ↓ンプー",
+            "english": "shampoo"
+          },
+          {
+            "japanese": "コンディショナー",
+            "romaji": "kondishonaa",
+            "accent": "コンディ↓ショナー",
+            "english": "conditioner"
+          },
+          {
+            "japanese": "歯ブラシ",
+            "romaji": "haburashi",
+            "accent": "はブ↓ラシ",
+            "english": "toothbrush"
+          },
+          {
+            "japanese": "かみそり",
+            "romaji": "kamisori",
+            "accent": "かみそ↓り",
+            "english": "razor"
+          },
+          {
+            "japanese": "タオル",
+            "romaji": "taoru",
+            "accent": "タ↓オル",
+            "english": "towel"
+          },
+          {
+            "japanese": "バスタオル",
+            "romaji": "basu-taoru",
+            "accent": "バスタ↓オル",
+            "english": "bath towel"
+          },
+          {
+            "japanese": "トイレットペーパー",
+            "romaji": "toiretto-peepaa",
+            "accent": "トイレットペ↓ーパー",
+            "english": "toilet paper"
+          },
+          {
+            "japanese": "バスルーム",
+            "romaji": "basu-ruumu",
+            "accent": "バスル↓ーム",
+            "english": "bathroom"
+          }        
+      ],
+      "audio": "/audio/x/lesson10/wordlist_X_10-5.mp3"
     }
   ]
 }

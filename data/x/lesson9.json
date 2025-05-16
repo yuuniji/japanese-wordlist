@@ -3,20 +3,524 @@
   "number": "第9課",
   "sections": [
     {
-      "title": "こんにちは",
+      "title": "何時に起きますか？",
       "number": "1.",
       "wordList": [
-        
+          {
+            "japanese": "今",
+            "romaji": "ima",
+            "accent": "い↓ま",
+            "english": "now"
+          },
+          {
+            "japanese": "何時",
+            "romaji": "nan-ji",
+            "accent": "な↓んじ",
+            "english": "what time"
+          },
+          {
+            "japanese": "朝",
+            "romaji": "asa",
+            "accent": "あ↓さ",
+            "english": "morning"
+          },
+          {
+            "japanese": "昼",
+            "romaji": "hiru",
+            "accent": "ひる↓",
+            "english": "afternoon"
+          },
+          {
+            "japanese": "夜",
+            "romaji": "yoru",
+            "accent": "よ↓る",
+            "english": "night"
+          },
+          {
+            "japanese": "午前",
+            "romaji": "gozen",
+            "accent": "ご↓ぜん",
+            "english": "a.m."
+          },
+          {
+            "japanese": "午後",
+            "romaji": "gogo",
+            "accent": "ご↓ご",
+            "english": "p.m."
+          },
+          {
+            "japanese": "～時",
+            "romaji": "～ji",
+            "accent": "～じ",
+            "english": "～ o'clock"
+          },
+          {
+            "japanese": "1時",
+            "romaji": "ichi-ji",
+            "accent": "いち↓じ",
+            "english": "one o'clock"
+          },
+          {
+            "japanese": "2時",
+            "romaji": "ni-ji",
+            "accent": "に↓じ",
+            "english": "two o'clock"
+          },
+          {
+            "japanese": "3時",
+            "romaji": "san-ji",
+            "accent": "さ↓んじ",
+            "english": "three o'clock"
+          },
+          {
+            "japanese": "4時",
+            "romaji": "yo-ji",
+            "accent": "よ↓じ",
+            "english": "four o'clock"
+          },
+          {
+            "japanese": "5時",
+            "romaji": "go-ji",
+            "accent": "ご↓じ",
+            "english": "five o'clock"
+          },
+          {
+            "japanese": "6時",
+            "romaji": "roku-ji",
+            "accent": "ろく↓じ",
+            "english": "six o'clock"
+          },
+          {
+            "japanese": "7時",
+            "romaji": "shichi-ji",
+            "accent": "しち↓じ",
+            "english": "seven o'clock"
+          },
+          {
+            "japanese": "8時",
+            "romaji": "hachi-ji",
+            "accent": "はち↓じ",
+            "english": "eight o'clock"
+          },
+          {
+            "japanese": "9時",
+            "romaji": "ku-ji",
+            "accent": "く↓じ",
+            "english": "nine o'clock"
+          },
+          {
+            "japanese": "10時",
+            "romaji": "juu-ji",
+            "accent": "じゅ↓うじ",
+            "english": "ten o'clock"
+          },
+          {
+            "japanese": "11時",
+            "romaji": "juu-ichi-ji",
+            "accent": "じゅういち↓じ",
+            "english": "eleven o'clock"
+          },
+          {
+            "japanese": "12時",
+            "romaji": "juu-ni-ji",
+            "accent": "じゅうに↓じ",
+            "english": "twelve o'clock"
+          },
+          {
+            "japanese": "～分",
+            "romaji": "～fun / pun",
+            "accent": "～ふん／ぷん",
+            "english": "～ minutes (indicate the time)"
+          },
+          {
+            "japanese": "15分",
+            "romaji": "juu-go-fun",
+            "accent": "じゅうご↓ふん",
+            "english": "～ :15 / quarter past ～"
+          },
+          {
+            "japanese": "30分",
+            "romaji": "sanjuppun",
+            "accent": "さんじゅ↓っぷん",
+            "english": "～ :30 / half past ～"
+          },
+          {
+            "japanese": "45分",
+            "romaji": "yonjuu-go-fun",
+            "accent": "よ↓んじゅう△ご↓ふん",
+            "english": "～ :45 / quarter to ～"
+          },
+          {
+            "japanese": "半",
+            "romaji": "han",
+            "accent": "は↓ん",
+            "english": "～ :30 / half past ～"
+          },
+          {
+            "japanese": "起きる／起きます",
+            "romaji": "okiru / okimasu",
+            "accent": "おき↓る／おきま↓す",
+            "english": "to wake up"
+          },
+          {
+            "japanese": "寝る／寝ます",
+            "romaji": "neru / nemasu",
+            "accent": "ねる○／ねま↓す",
+            "english": "to sleep"
+          },
+          {
+            "japanese": "毎日",
+            "romaji": "mainichi",
+            "accent": "ま↓いにち／まいにち○",
+            "english": "every day"
+          },
+          {
+            "japanese": "早い",
+            "romaji": "hayai",
+            "accent": "はや↓い",
+            "english": "early"
+          },
+          {
+            "japanese": "ええ",
+            "romaji": "ee",
+            "accent": "え↓え",
+            "english": "yes"
+          },
+          {
+            "japanese": "毎朝",
+            "romaji": "maiasa",
+            "accent": "ま↓いあさ／まいあさ○",
+            "english": "every morning"
+          },
+          {
+            "japanese": "ジョギング",
+            "romaji": "jogingu",
+            "accent": "ジョギング○",
+            "english": "jogging"
+          },
+          {
+            "japanese": "する／します",
+            "romaji": "suru / shimasu",
+            "accent": "する○／しま↓す",
+            "english": "to do"
+          },
+          {
+            "japanese": "だいたい",
+            "romaji": "daitai",
+            "accent": "だいたい○",
+            "english": "about / around"
+          },
+          {
+            "japanese": "～ごろ",
+            "romaji": "～goro",
+            "accent": "～ご↓ろ",
+            "english": "around ～"
+          },
+          {
+            "japanese": "遅い",
+            "romaji": "osoi",
+            "accent": "おそい○／おそ↓い",
+            "english": "late"
+          },
+          {
+            "japanese": "ゲーム",
+            "romaji": "geemu",
+            "accent": "ゲ↓ーム",
+            "english": "games"
+          },
+          {
+            "japanese": "早いですね",
+            "romaji": "hayai desu ne",
+            "accent": "はや↓いですね",
+            "english": "That's early."
+          },
+          {
+            "japanese": "遅いですね",
+            "romaji": "osoi desu ne",
+            "accent": "おそ↓いですね",
+            "english": "That's late."
+          },
+          {
+            "japanese": "お祈り",
+            "romaji": "oinori",
+            "accent": "おいのり○",
+            "english": "prayer"
+          },
+          {
+            "japanese": "勉強する／勉強します",
+            "romaji": "benkyoo-suru / benkyoo-shimasu",
+            "accent": "べんきょうする○／べんきょうしま↓す",
+            "english": "to study"
+          },
+          {
+            "japanese": "音楽",
+            "romaji": "ongaku",
+            "accent": "お↓んがく",
+            "english": "music"
+          },
+          {
+            "japanese": "聞く／聞きます",
+            "romaji": "kiku / kikimasu",
+            "accent": "きく○／ききま↓す",
+            "english": "to listen"
+          },
+          {
+            "japanese": "ネット",
+            "romaji": "netto",
+            "accent": "ネット○",
+            "english": "Internet"
+          },
+          {
+            "japanese": "見る／見ます",
+            "romaji": "miru / mimasu",
+            "accent": "み↓る／みま↓す",
+            "english": "to watch"
+          }        
       ],
       "audio": "/audio/x/lesson9/wordlist_X_09-1.mp3"
     },
     {
-      "title": "こんにちは",
+      "title": "1 日のスケジュールを説明します",
       "number": "2.",
       "wordList": [
-        
+          {
+            "japanese": "朝礼",
+            "romaji": "chooree",
+            "accent": "ちょうれい○",
+            "english": "morning assembly"
+          },
+          {
+            "japanese": "仕事",
+            "romaji": "shigoto",
+            "accent": "しごと○",
+            "english": "work"
+          },
+          {
+            "japanese": "昼休み",
+            "romaji": "hiruyasumi",
+            "accent": "ひるや↓すみ",
+            "english": "lunch break"
+          },
+          {
+            "japanese": "休み時間",
+            "romaji": "yasumijikan",
+            "accent": "やすみじ↓かん",
+            "english": "break time"
+          },
+          {
+            "japanese": "残業",
+            "romaji": "zangyoo",
+            "accent": "ざんぎょう○",
+            "english": "overtime"
+          },
+          {
+            "japanese": "はじめに",
+            "romaji": "hajimeni",
+            "accent": "はじめに○",
+            "english": "first"
+          },
+          {
+            "japanese": "ときどき",
+            "romaji": "tokidoki",
+            "accent": "ときどき○",
+            "english": "sometimes"
+          },
+          {
+            "japanese": "1日",
+            "romaji": "ichinichi",
+            "accent": "いちにち↓",
+            "english": "for the day"
+          },
+          {
+            "japanese": "スケジュール",
+            "romaji": "sukejuuru",
+            "accent": "スケ↓ジュール",
+            "english": "schedule"
+          },
+          {
+            "japanese": "説明する／説明します",
+            "romaji": "setsumee-suru / setsumee-shimasu",
+            "accent": "せつめいする○／せつめいしま↓す",
+            "english": "to explain"
+          }        
       ],
       "audio": "/audio/x/lesson9/wordlist_X_09-2.mp3"
+    },
+    {
+      "title": "スケジュールボード",
+      "number": "3.",
+      "wordList": [
+          {
+            "japanese": "在",
+            "romaji": "zai",
+            "accent": "ざ↓い",
+            "english": "present"
+          },
+          {
+            "japanese": "不在",
+            "romaji": "fuzai",
+            "accent": "ふざい○",
+            "english": "absent"
+          },
+          {
+            "japanese": "遅刻",
+            "romaji": "chikoku",
+            "accent": "ちこく○",
+            "english": "late"
+          },
+          {
+            "japanese": "休み",
+            "romaji": "yasumi",
+            "accent": "やすみ↓",
+            "english": "off"
+          },
+          {
+            "japanese": "外出",
+            "romaji": "gaishutsu",
+            "accent": "がいしゅつ○",
+            "english": "out"
+          },
+          {
+            "japanese": "早退",
+            "romaji": "sootai",
+            "accent": "そうたい○",
+            "english": "left early"
+          },
+          {
+            "japanese": "行動",
+            "romaji": "koodoo",
+            "accent": "こうどう○",
+            "english": "activity"
+          },
+          {
+            "japanese": "予定表",
+            "romaji": "yoteehyoo",
+            "accent": "よていひょう○",
+            "english": "schedule board"
+          },
+          {
+            "japanese": "氏名",
+            "romaji": "shimee",
+            "accent": "し↓めい",
+            "english": "full name"
+          },
+          {
+            "japanese": "銀行",
+            "romaji": "ginkoo",
+            "accent": "ぎんこう○",
+            "english": "bank"
+          }        
+      ],
+      "audio": "/audio/x/lesson9/wordlist_X_09-3.mp3"
+    },
+    {
+      "title": "私は日曜日がいいです",
+      "number": "4.",
+      "wordList": [
+          {
+            "japanese": "何曜日",
+            "romaji": "nan-yoobi",
+            "accent": "なんよ↓うび",
+            "english": "which day of the week"
+          },
+          {
+            "japanese": "月曜日／月",
+            "romaji": "getsu-yoobi / getsu",
+            "accent": "げつよ↓うび／げ↓つ",
+            "english": "Monday"
+          },
+          {
+            "japanese": "火曜日／火",
+            "romaji": "ka-yoobi / ka",
+            "accent": "かよ↓うび／か↓",
+            "english": "Tuesday"
+          },
+          {
+            "japanese": "水曜日／水",
+            "romaji": "sui-yoobi / sui",
+            "accent": "すいよ↓うび／す↓い",
+            "english": "Wednesday"
+          },
+          {
+            "japanese": "木曜日／木",
+            "romaji": "moku-yoobi / moku",
+            "accent": "もくよ↓うび／も↓く",
+            "english": "Thursday"
+          },
+          {
+            "japanese": "金曜日／金",
+            "romaji": "kin-yoobi / kin",
+            "accent": "きんよ↓うび／き↓ん",
+            "english": "Friday"
+          },
+          {
+            "japanese": "土曜日／土",
+            "romaji": "do-yoobi / do",
+            "accent": "どよ↓うび／ど↓",
+            "english": "Saturday"
+          },
+          {
+            "japanese": "日曜日／日",
+            "romaji": "nichi-yoobi / nichi",
+            "accent": "にちよ↓うび／に↓ち",
+            "english": "Sunday"
+          },
+          {
+            "japanese": "プール",
+            "romaji": "puuru",
+            "accent": "プ↓ール",
+            "english": "swimming pool"
+          },
+          {
+            "japanese": "ご飯",
+            "romaji": "gohan",
+            "accent": "ご↓はん",
+            "english": "food / meal"
+          },
+          {
+            "japanese": "映画",
+            "romaji": "eega",
+            "accent": "えいが○／え↓いが",
+            "english": "movie"
+          },
+          {
+            "japanese": "いつ",
+            "romaji": "itsu",
+            "accent": "い↓つ",
+            "english": "when"
+          },
+          {
+            "japanese": "行く／行きます",
+            "romaji": "iku / ikimasu",
+            "accent": "いく○／いきま↓す",
+            "english": "to go"
+          },
+          {
+            "japanese": "いい",
+            "romaji": "ii",
+            "accent": "い↓い",
+            "english": "good"
+          },
+          {
+            "japanese": "だいじょうぶ（な）",
+            "romaji": "daijoobu (na)",
+            "accent": "だいじょ↓うぶ（な）",
+            "english": "fine"
+          },
+          {
+            "japanese": "だめ（な）",
+            "romaji": "dame (na)",
+            "accent": "だめ↓（な）",
+            "english": "no good"
+          },
+          {
+            "japanese": "～にしましょう",
+            "romaji": "～ni shimashoo",
+            "accent": "～にしましょ↓う",
+            "english": "Let's do it on ～."
+          }        
+      ],
+      "audio": "/audio/x/lesson9/wordlist_X_09-4.mp3"
     }
   ]
 }
