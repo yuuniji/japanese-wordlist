@@ -6,7 +6,306 @@
       "title": "掲示板のお知らせ",
       "number": "1.",
       "wordList": [
-        
+        {
+          "japanese": "おみこし",
+          "romaji": "omikoshi",
+          "accent": "おみ↓こし",
+          "english": "portable shrine"
+        },
+        {
+          "japanese": "かつぐ",
+          "romaji": "katsugu",
+          "accent": "かつ↓ぐ",
+          "english": "to carry over the shoulder"
+        },
+        {
+          "japanese": "海岸",
+          "romaji": "kaigan",
+          "accent": "かいがん○",
+          "english": "beach"
+        },
+        {
+          "japanese": "ごみ",
+          "romaji": "gomi",
+          "accent": "ごみ↓",
+          "english": "garbage"
+        },
+        {
+          "japanese": "拾う",
+          "romaji": "hirou",
+          "accent": "ひろう○",
+          "english": "to pick up"
+        },
+        {
+          "japanese": "出る（水が出る）",
+          "romaji": "deru (mizu ga deru)",
+          "accent": "で↓る　（みずがで↓る）",
+          "english": "to be running (e.g. the water is running)"
+        },
+        {
+          "japanese": "地震",
+          "romaji": "jishin",
+          "accent": "じしん○",
+          "english": "earthquake"
+        },
+        {
+          "japanese": "火事",
+          "romaji": "kaji",
+          "accent": "か↓じ",
+          "english": "fire"
+        },
+        {
+          "japanese": "訓練",
+          "romaji": "kunren",
+          "accent": "く↓んれん",
+          "english": "drill"
+        },
+        {
+          "japanese": "断水（する）",
+          "romaji": "dansui (suru)",
+          "accent": "だんすい（する）○",
+          "english": "water outage (to cut off the water)"
+        },
+        {
+          "japanese": "水道工事",
+          "romaji": "suidou kouji",
+          "accent": "すいどうこ↓うじ",
+          "english": "water-service work"
+        },
+        {
+          "japanese": "濁る（水が濁る）",
+          "romaji": "nigoru (mizu ga nigoru)",
+          "accent": "にご↓る　（みずがにご↓る）",
+          "english": "to become cloudy (e.g. the water becomes cloudy)"
+        },
+        {
+          "japanese": "使用する",
+          "romaji": "shiyou suru",
+          "accent": "しようする○",
+          "english": "to use"
+        },
+        {
+          "japanese": "お知らせ",
+          "romaji": "oshirase",
+          "accent": "おしらせ○",
+          "english": "notice"
+        },
+        {
+          "japanese": "下記のとおり",
+          "romaji": "kaki no toori",
+          "accent": "か↓きのと↓おり",
+          "english": "as follows"
+        },
+        {
+          "japanese": "しばらく",
+          "romaji": "shibaraku",
+          "accent": "しば↓らく",
+          "english": "a little while"
+        },
+        {
+          "japanese": "出す（水を出す）",
+          "romaji": "dasu (mizu o dasu)",
+          "accent": "だ↓す　（みずをだ↓す）",
+          "english": "to run (e.g. run the water)"
+        },
+        {
+          "japanese": "迷惑／ご迷惑",
+          "romaji": "meiwaku / gomeiwaku",
+          "accent": "め↓いわく／ごめ↓いわく",
+          "english": "inconvenience"
+        },
+        {
+          "japanese": "ご協力お願いいたします",
+          "romaji": "gokyouryoku onegai itashimasu",
+          "accent": "ごきょうりょくおねがいいたしま↓す",
+          "english": "We ask for your cooperation. (polite expression)"
+        },
+        {
+          "japanese": "防災",
+          "romaji": "bousai",
+          "accent": "ぼうさい○",
+          "english": "disaster preparedness"
+        },
+        {
+          "japanese": "小学校",
+          "romaji": "shougakkou",
+          "accent": "しょうが↓っこう",
+          "english": "elementary school"
+        },
+        {
+          "japanese": "校庭",
+          "romaji": "koutei",
+          "accent": "こうてい○",
+          "english": "school field"
+        },
+        {
+          "japanese": "雨天",
+          "romaji": "uten / uten",
+          "accent": "うてん○／う↓てん",
+          "english": "rain"
+        },
+        {
+          "japanese": "場合",
+          "romaji": "baai",
+          "accent": "ばあい○",
+          "english": "in case of"
+        },
+        {
+          "japanese": "内容",
+          "romaji": "naiyou",
+          "accent": "ないよう○",
+          "english": "details"
+        },
+        {
+          "japanese": "通報訓練",
+          "romaji": "tsuuhou kunren",
+          "accent": "つうほうく↓んれん",
+          "english": "reporting drill"
+        },
+        {
+          "japanese": "避難訓練",
+          "romaji": "hinan kunren",
+          "accent": "ひなんく↓んれん",
+          "english": "evacuation drill"
+        },
+        {
+          "japanese": "消火訓練",
+          "romaji": "shouka kunren",
+          "accent": "しょうかく↓んれん",
+          "english": "fire-fighting drill"
+        },
+        {
+          "japanese": "AED訓練",
+          "romaji": "AED kunren",
+          "accent": "エーイーディーく↓んれん",
+          "english": "AED drill"
+        },
+        {
+          "japanese": "隣近所の人",
+          "romaji": "tonari kinjo no hito",
+          "accent": "となりき↓んじょのひと↓",
+          "english": "neighbors"
+        },
+        {
+          "japanese": "声をかけあう",
+          "romaji": "koe o kakeau",
+          "accent": "こ↓えを　かけあ↓う",
+          "english": "to speak to each other"
+        },
+        {
+          "japanese": "条件",
+          "romaji": "jouken",
+          "accent": "じょうけ↓ん",
+          "english": "conditions"
+        },
+        {
+          "japanese": "運動靴",
+          "romaji": "undou kutsu",
+          "accent": "うんど↓うぐつ",
+          "english": "athletic shoes"
+        },
+        {
+          "japanese": "動きやすい",
+          "romaji": "ugokiyasui",
+          "accent": "うごきやす↓い",
+          "english": "easy-to-move around"
+        },
+        {
+          "japanese": "はっぴ",
+          "romaji": "happi",
+          "accent": "はっぴ○",
+          "english": "happi coat"
+        },
+        {
+          "japanese": "貸し出し",
+          "romaji": "kashidashi",
+          "accent": "かしだし○",
+          "english": "rental"
+        },
+        {
+          "japanese": "希望",
+          "romaji": "kibou",
+          "accent": "きぼう○",
+          "english": "wish"
+        },
+        {
+          "japanese": "申し込む",
+          "romaji": "moushikomu",
+          "accent": "もうしこ↓む",
+          "english": "to sign up"
+        },
+        {
+          "japanese": "集合",
+          "romaji": "shuugou",
+          "accent": "しゅうごう○",
+          "english": "assembly"
+        },
+        {
+          "japanese": "ジーンズ",
+          "romaji": "jiinzu",
+          "accent": "ジ↓ーンズ",
+          "english": "jeans"
+        },
+        {
+          "japanese": "当日",
+          "romaji": "toujitsu",
+          "accent": "とうじつ○",
+          "english": "on the day"
+        },
+        {
+          "japanese": "おいでください",
+          "romaji": "oide kudasai",
+          "accent": "おいでくださ↓い",
+          "english": "Please come. (polite expression)"
+        },
+        {
+          "japanese": "延期する",
+          "romaji": "enki suru",
+          "accent": "えんきする○",
+          "english": "to postpone"
+        },
+        {
+          "japanese": "持ち物",
+          "romaji": "mochimono",
+          "accent": "もち↓もの／もちも↓の",
+          "english": "what to bring"
+        },
+        {
+          "japanese": "汚れる",
+          "romaji": "yogoreru",
+          "accent": "よごれる○",
+          "english": "to get dirty"
+        },
+        {
+          "japanese": "軍手",
+          "romaji": "gunte",
+          "accent": "ぐんて○",
+          "english": "cotton work gloves"
+        },
+        {
+          "japanese": "～程度（2時間程度）",
+          "romaji": "～teido (ni jikan teido)",
+          "accent": "～て↓いど　（にじかんて↓いど）",
+          "english": "around ～ (e.g. around two hours)"
+        },
+        {
+          "japanese": "作業",
+          "romaji": "sagyō",
+          "accent": "さ↓ぎょう",
+          "english": "work"
+        },
+        {
+          "japanese": "世話役",
+          "romaji": "sewayaku",
+          "accent": "せわやく○",
+          "english": "facilitator"
+        },
+        {
+          "japanese": "会（ボランティアの会）",
+          "romaji": "kai (borantia no kai)",
+          "accent": "か↓い　（ボラ↓ンティアのか↓い）",
+          "english": "group (e.g. volunteer group)"
+        }
       ],
       "audio": "/audio/z/lesson7/wordlist_Z_07-1.mp3"
     },
@@ -14,7 +313,126 @@
       "title": "ガス点検のお知らせですね",
       "number": "2.",
       "wordList": [
-        
+        {
+          "japanese": "ガス",
+          "romaji": "gasu",
+          "accent": "ガ↓ス",
+          "english": "gas"
+        },
+        {
+          "japanese": "点検",
+          "romaji": "tenken",
+          "accent": "てんけん○",
+          "english": "inspection"
+        },
+        {
+          "japanese": "フリーマーケット",
+          "romaji": "furiimaaketto",
+          "accent": "フリーマ↓ーケット",
+          "english": "flea market"
+        },
+        {
+          "japanese": "祭り／お祭り",
+          "romaji": "matsuri / omatsuri",
+          "accent": "まつり○／おまつり○",
+          "english": "festival"
+        },
+        {
+          "japanese": "寄付",
+          "romaji": "kifu",
+          "accent": "き↓ふ",
+          "english": "donation"
+        },
+        {
+          "japanese": "お願い",
+          "romaji": "onegai",
+          "accent": "おねがい○",
+          "english": "request"
+        },
+        {
+          "japanese": "花火大会",
+          "romaji": "hanabi taikai",
+          "accent": "はなびた↓いかい",
+          "english": "fireworks display"
+        },
+        {
+          "japanese": "今月",
+          "romaji": "kongetsu",
+          "accent": "こんげつ○",
+          "english": "this month"
+        },
+        {
+          "japanese": "来月",
+          "romaji": "raigetsu",
+          "accent": "ら↓いげつ",
+          "english": "next month"
+        },
+        {
+          "japanese": "ポスト",
+          "romaji": "posuto",
+          "accent": "ポ↓スト",
+          "english": "mailbox"
+        },
+        {
+          "japanese": "ガス会社",
+          "romaji": "gasu gaisha",
+          "accent": "ガスが↓いしゃ",
+          "english": "gas company"
+        },
+        {
+          "japanese": "間（14時から15時の間）",
+          "romaji": "aida (juuyoji kara juugoji no aida)",
+          "accent": "あいだ○（じゅうよ↓じから じゅうご↓じのあいだ）",
+          "english": "between (e.g. between 2 p.m. and 3 p.m.)"
+        },
+        {
+          "japanese": "封筒",
+          "romaji": "fuutou",
+          "accent": "ふうとう○",
+          "english": "envelope"
+        },
+        {
+          "japanese": "手紙",
+          "romaji": "tegami",
+          "accent": "てがみ○",
+          "english": "letter"
+        },
+        {
+          "japanese": "～だけ",
+          "romaji": "～dake",
+          "accent": "～だけ↓",
+          "english": "only ～"
+        },
+        {
+          "japanese": "中止",
+          "romaji": "chuushi",
+          "accent": "ちゅうし○",
+          "english": "cancel"
+        },
+        {
+          "japanese": "広場",
+          "romaji": "hiroba",
+          "accent": "ひ↓ろば",
+          "english": "plaza / square"
+        },
+        {
+          "japanese": "～回目（2回目）",
+          "romaji": "～kaime (nikaime)",
+          "accent": "～かいめ↓（にかいめ↓）",
+          "english": "the ～th (e.g. the second)"
+        },
+        {
+          "japanese": "食器",
+          "romaji": "shokki",
+          "accent": "しょっき○",
+          "english": "tableware"
+        },
+        {
+          "japanese": "おもちゃ",
+          "romaji": "omocha",
+          "accent": "おも↓ちゃ",
+          "english": "toy"
+        }
       ],
       "audio": "/audio/z/lesson7/wordlist_Z_07-2.mp3"
     },
@@ -22,7 +440,210 @@
       "title": "さくら市民センターからお知らせします",
       "number": "3.",
       "wordList": [
-        
+        {
+          "japanese": "コンサート",
+          "romaji": "konsaato",
+          "accent": "コ↓ンサート",
+          "english": "concert"
+        },
+        {
+          "japanese": "販売会",
+          "romaji": "hanbaikai",
+          "accent": "はんば↓いかい",
+          "english": "marketing event"
+        },
+        {
+          "japanese": "カラオケ大会",
+          "romaji": "karaoke taikai",
+          "accent": "カラオケた↓いかい",
+          "english": "karaoke competition"
+        },
+        {
+          "japanese": "ブラスバンド",
+          "romaji": "burasubando",
+          "accent": "ブラスバ↓ンド",
+          "english": "brass band"
+        },
+        {
+          "japanese": "演奏",
+          "romaji": "ensou",
+          "accent": "えんそう○",
+          "english": "musical performance"
+        },
+        {
+          "japanese": "踊り",
+          "romaji": "odori",
+          "accent": "おどり○",
+          "english": "dance"
+        },
+        {
+          "japanese": "練習",
+          "romaji": "renshuu",
+          "accent": "れんしゅう○",
+          "english": "practice"
+        },
+        {
+          "japanese": "道の駅",
+          "romaji": "michi no eki",
+          "accent": "みちのえ↓き",
+          "english": "Michi-no-eki (roadside stations)"
+        },
+        {
+          "japanese": "公民館",
+          "romaji": "kouminkan",
+          "accent": "こうみ↓んかん",
+          "english": "local community center"
+        },
+        {
+          "japanese": "市民センター",
+          "romaji": "shimin sentaa",
+          "accent": "しみんセ↓ンター",
+          "english": "civic center"
+        },
+        {
+          "japanese": "～において",
+          "romaji": "～ni oite",
+          "accent": "～にお↓いて",
+          "english": "in ～"
+        },
+        {
+          "japanese": "開催する",
+          "romaji": "kaisai suru",
+          "accent": "かいさいする○",
+          "english": "to hold"
+        },
+        {
+          "japanese": "入場券",
+          "romaji": "nyuujouken",
+          "accent": "にゅうじょ↓うけん",
+          "english": "entrance ticket"
+        },
+        {
+          "japanese": "販売中",
+          "romaji": "hanbaichuu",
+          "accent": "はんばいちゅう○",
+          "english": "on sale"
+        },
+        {
+          "japanese": "ピアノの夕べ",
+          "romaji": "piano no yuube",
+          "accent": "ピアノのゆうべ↓",
+          "english": "an evening of piano music"
+        },
+        {
+          "japanese": "および",
+          "romaji": "oyobi",
+          "accent": "お↓よび",
+          "english": "and"
+        },
+        {
+          "japanese": "～からお知らせします",
+          "romaji": "～kara oshirase shimasu",
+          "accent": "～からおしらせしま↓す",
+          "english": "We have an announcement from ～.  (polite expression)"
+        },
+        {
+          "japanese": "皆様のご来場をお待ちしています",
+          "romaji": "minasama no goraijou o omachi shite imasu",
+          "accent": "みな↓さまの　ごらいじょう○を　おまちしていま↓す",
+          "english": "We look forward to your visit. (polite expression)"
+        },
+        {
+          "japanese": "明日",
+          "romaji": "asu",
+          "accent": "あす○／あす↓",
+          "english": "tomorrow"
+        },
+        {
+          "japanese": "行う",
+          "romaji": "okonau",
+          "accent": "おこなう○",
+          "english": "to do"
+        },
+        {
+          "japanese": "見学（する）",
+          "romaji": "kengaku suru",
+          "accent": "けんがくする○",
+          "english": "(to) observe"
+        },
+        {
+          "japanese": "どなたでも",
+          "romaji": "donata demo",
+          "accent": "ど↓なたで↓も／どなたでも○",
+          "english": "anyone (polite expression)"
+        },
+        {
+          "japanese": "～からのお知らせです",
+          "romaji": "～kara no oshirase desu",
+          "accent": "～から↓のおしらせです",
+          "english": "We have an announcement from ～. (polite expression)"
+        },
+        {
+          "japanese": "お気軽にお越しください",
+          "romaji": "okigaru ni okoshi kudasai",
+          "accent": "おきがるにおこしくださ↓い",
+          "english": "Please feel free to stop by. (polite expression)"
+        },
+        {
+          "japanese": "～について",
+          "romaji": "～ni tsuite",
+          "accent": "～につ↓いて",
+          "english": "about ～"
+        },
+        {
+          "japanese": "本日",
+          "romaji": "honjitsu",
+          "accent": "ほ↓んじつ",
+          "english": "today"
+        },
+        {
+          "japanese": "開く",
+          "romaji": "hiraku",
+          "accent": "ひら↓く",
+          "english": "to hold"
+        },
+        {
+          "japanese": "予定する",
+          "romaji": "yotei suru",
+          "accent": "よていする○",
+          "english": "to be scheduled"
+        },
+        {
+          "japanese": "～についてお知らせします",
+          "romaji": "～ni tsuite oshirase shimasu",
+          "accent": "～につ↓いておしらせしま↓す",
+          "english": "We are pleased to announce that ～. (polite expression)"
+        },
+        {
+          "japanese": "お誘い合わせの上、お出かけください",
+          "romaji": "osasoiawase no ue, odekake kudasai",
+          "accent": "おさそいあわせのうえ○、おでかけくださ↓い",
+          "english": "Please feel free to join us with your family and friends. (polite expression)"
+        },
+        {
+          "japanese": "地元",
+          "romaji": "jimoto",
+          "accent": "じもと○",
+          "english": "local"
+        },
+        {
+          "japanese": "農家",
+          "romaji": "nouka",
+          "accent": "の↓うか",
+          "english": "farmer"
+        },
+        {
+          "japanese": "生産する",
+          "romaji": "seisan suru",
+          "accent": "せいさんする○",
+          "english": "to produce"
+        },
+        {
+          "japanese": "町役場",
+          "romaji": "machiyakuba",
+          "accent": "まちや↓くば",
+          "english": "town hall"
+        }
       ],
       "audio": "/audio/z/lesson7/wordlist_Z_07-3.mp3"
     },
@@ -30,7 +651,42 @@
       "title": "盆踊り？　何ですか？",
       "number": "4.",
       "wordList": [
-        
+        {
+          "japanese": "盆踊り",
+          "romaji": "bon odori",
+          "accent": "ぼんお↓どり",
+          "english": "Bon Odori dance"
+        },
+        {
+          "japanese": "輪になる",
+          "romaji": "wa ni naru",
+          "accent": "わ↓にな↓る",
+          "english": "to form a circle"
+        },
+        {
+          "japanese": "～に合わせて（音楽に合わせて）",
+          "romaji": "～ni awasete (ongaku ni awasete)",
+          "accent": "～にあわ↓せて（お↓んがくにあわ↓せて）",
+          "english": "along to the ～ (e.g. to the music)"
+        },
+        {
+          "japanese": "だれでも",
+          "romaji": "dare demo",
+          "accent": "だ↓れでも／だれでも○",
+          "english": "anyone"
+        },
+        {
+          "japanese": "～たち（娘たち）",
+          "romaji": "～tachi (musume tachi)",
+          "accent": "～たち（むすめ↓たち）",
+          "english": "plural for people (e.g. my daughters)"
+        },
+        {
+          "japanese": "1人で",
+          "romaji": "hitori de",
+          "accent": "ひと↓りで",
+          "english": "by oneself"
+        }
       ],
       "audio": "/audio/z/lesson7/wordlist_Z_07-4.mp3"
     }

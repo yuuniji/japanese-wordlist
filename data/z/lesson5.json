@@ -6,7 +6,120 @@
       "title": "いつか行ってみたいです",
       "number": "1.",
       "wordList": [
-        
+        {
+          "japanese": "自然",
+          "romaji": "shizen",
+          "accent": "しぜん○",
+          "english": "nature"
+        },
+        {
+          "japanese": "豊か（な）",
+          "romaji": "yutaka (na)",
+          "accent": "ゆ↓たか（な）",
+          "english": "abundant"
+        },
+        {
+          "japanese": "暖かい",
+          "romaji": "atatakai",
+          "accent": "あたたか↓い",
+          "english": "warm"
+        },
+        {
+          "japanese": "混んでいる",
+          "romaji": "konde iru",
+          "accent": "こ↓んでいる",
+          "english": "crowded"
+        },
+        {
+          "japanese": "遊ぶ",
+          "romaji": "asobu",
+          "accent": "あそぶ○",
+          "english": "to have fun"
+        },
+        {
+          "japanese": "海外",
+          "romaji": "kaigai",
+          "accent": "か↓いがい",
+          "english": "overseas"
+        },
+        {
+          "japanese": "観光客",
+          "romaji": "kankōkyaku",
+          "accent": "かんこ↓うきゃく",
+          "english": "tourist"
+        },
+        {
+          "japanese": "人気がある",
+          "romaji": "ninki ga aru",
+          "accent": "にんきがあ↓る",
+          "english": "popular"
+        },
+        {
+          "japanese": "北海道",
+          "romaji": "Hokkaidō",
+          "accent": "ほっか↓いどう",
+          "english": "Hokkaido"
+        },
+        {
+          "japanese": "沖縄",
+          "romaji": "Okinawa",
+          "accent": "おきなわ○",
+          "english": "Okinawa"
+        },
+        {
+          "japanese": "一日中",
+          "romaji": "ichinichijū",
+          "accent": "いちにちじゅう○",
+          "english": "all day long"
+        },
+        {
+          "japanese": "新鮮（な）",
+          "romaji": "shinsen (na)",
+          "accent": "しんせん（な）○",
+          "english": "fresh"
+        },
+        {
+          "japanese": "ウニ",
+          "romaji": "uni",
+          "accent": "ウ↓ニ",
+          "english": "sea urchin"
+        },
+        {
+          "japanese": "シュノーケリング",
+          "romaji": "shunōkeringu",
+          "accent": "シュノーケリング○",
+          "english": "snorkeling"
+        },
+        {
+          "japanese": "番組",
+          "romaji": "bangumi",
+          "accent": "ばんぐみ○",
+          "english": "program"
+        },
+        {
+          "japanese": "いつか",
+          "romaji": "itsuka",
+          "accent": "い↓つか",
+          "english": "one day"
+        },
+        {
+          "japanese": "やっぱり",
+          "romaji": "yappari",
+          "accent": "やっぱ↓り",
+          "english": "as expected"
+        },
+        {
+          "japanese": "ラッシュ",
+          "romaji": "rasshu",
+          "accent": "ラ↓ッシュ",
+          "english": "rush hour"
+        },
+        {
+          "japanese": "水族館",
+          "romaji": "suizokukan",
+          "accent": "すいぞく↓かん",
+          "english": "aquarium"
+        }
       ],
       "audio": "/audio/z/lesson5/wordlist_Z_05-1.mp3"
     },
@@ -14,7 +127,66 @@
       "title": "景色がきれいなところがいいです",
       "number": "2.",
       "wordList": [
-        
+        {
+          "japanese": "ボート",
+          "romaji": "bōto",
+          "accent": "ボ↓ート",
+          "english": "boat"
+        },
+        {
+          "japanese": "サイクリング",
+          "romaji": "saikuringu",
+          "accent": "サ↓イクリング",
+          "english": "cycling"
+        },
+        {
+          "japanese": "遊園地",
+          "romaji": "yūenchi",
+          "accent": "ゆうえ↓んち",
+          "english": "amusement park"
+        },
+        {
+          "japanese": "温泉",
+          "romaji": "onsen",
+          "accent": "おんせん○",
+          "english": "hot spring"
+        },
+        {
+          "japanese": "行き先",
+          "romaji": "ikisaki",
+          "accent": "いきさき○",
+          "english": "destination"
+        },
+        {
+          "japanese": "湖",
+          "romaji": "mizuumi",
+          "accent": "みず↓うみ",
+          "english": "lake"
+        },
+        {
+          "japanese": "レンタサイクル",
+          "romaji": "rentasaikuru",
+          "accent": "レンタサ↓イクル",
+          "english": "bicycle rentals"
+        },
+        {
+          "japanese": "先輩",
+          "romaji": "senpai",
+          "accent": "せんぱい○",
+          "english": "senior co-worker / senior colleague"
+        },
+        {
+          "japanese": "出発する",
+          "romaji": "shuppatsu suru",
+          "accent": "しゅっぱつする○",
+          "english": "to depart"
+        },
+        {
+          "japanese": "ごめんなさい",
+          "romaji": "gomennasai",
+          "accent": "ごめんなさ↓い／ごめんなさい○",
+          "english": "Sorry."
+        }
       ],
       "audio": "/audio/z/lesson5/wordlist_Z_05-2.mp3"
     },
@@ -22,7 +194,240 @@
       "title": "どんなところに泊まったらいいですか？",
       "number": "3.",
       "wordList": [
-        
+        {
+          "japanese": "旅行",
+          "romaji": "ryokō",
+          "accent": "りょこう○",
+          "english": "travel"
+        },
+        {
+          "japanese": "泊まる",
+          "romaji": "tomaru",
+          "accent": "とまる○",
+          "english": "to stay"
+        },
+        {
+          "japanese": "ホテル",
+          "romaji": "hoteru",
+          "accent": "ホ↓テル",
+          "english": "hotel"
+        },
+        {
+          "japanese": "旅館",
+          "romaji": "ryokan",
+          "accent": "りょかん○",
+          "english": "Japanese inn"
+        },
+        {
+          "japanese": "民宿",
+          "romaji": "minshuku",
+          "accent": "みんしゅく○",
+          "english": "private lodging"
+        },
+        {
+          "japanese": "交通手段",
+          "romaji": "kōtsū shudan",
+          "accent": "こうつうしゅ↓だん",
+          "english": "means of transportation"
+        },
+        {
+          "japanese": "バス",
+          "romaji": "basu",
+          "accent": "バ↓ス",
+          "english": "bus"
+        },
+        {
+          "japanese": "電車",
+          "romaji": "densha",
+          "accent": "でんしゃ○／で↓んしゃ",
+          "english": "train"
+        },
+        {
+          "japanese": "船",
+          "romaji": "fune",
+          "accent": "ふ↓ね",
+          "english": "ship"
+        },
+        {
+          "japanese": "飛行機",
+          "romaji": "hikōki",
+          "accent": "ひこ↓うき",
+          "english": "plane"
+        },
+        {
+          "japanese": "車",
+          "romaji": "kuruma",
+          "accent": "くるま○",
+          "english": "car"
+        },
+        {
+          "japanese": "準備する",
+          "romaji": "junbi suru",
+          "accent": "じゅ↓んびする",
+          "english": "to prepare"
+        },
+        {
+          "japanese": "スキー板",
+          "romaji": "sukī ita",
+          "accent": "スキ↓ーいた／スキーい↓た",
+          "english": "skis"
+        },
+        {
+          "japanese": "スキーウェア",
+          "romaji": "sukī wea",
+          "accent": "スキーウェ↓ア",
+          "english": "skiwear"
+        },
+        {
+          "japanese": "手袋",
+          "romaji": "tebukuro",
+          "accent": "てぶ↓くろ",
+          "english": "gloves"
+        },
+        {
+          "japanese": "サングラス",
+          "romaji": "sangurasu",
+          "accent": "サング↓ラス",
+          "english": "sunglasses"
+        },
+        {
+          "japanese": "水着",
+          "romaji": "mizugi",
+          "accent": "みずぎ○",
+          "english": "swimsuit"
+        },
+        {
+          "japanese": "日光",
+          "romaji": "Nikkō",
+          "accent": "に↓っこう",
+          "english": "Nikko"
+        },
+        {
+          "japanese": "紅葉",
+          "romaji": "kōyō",
+          "accent": "こうよう○",
+          "english": "autumn leaves"
+        },
+        {
+          "japanese": "かなり",
+          "romaji": "kanari",
+          "accent": "か↓なり",
+          "english": "quite"
+        },
+        {
+          "japanese": "厚い",
+          "romaji": "atsui",
+          "accent": "あつい○／あつ↓い",
+          "english": "thick / heavy"
+        },
+        {
+          "japanese": "上着",
+          "romaji": "uwagi",
+          "accent": "うわぎ○",
+          "english": "jacket"
+        },
+        {
+          "japanese": "奈良",
+          "romaji": "Nara",
+          "accent": "な↓ら",
+          "english": "Nara"
+        },
+        {
+          "japanese": "小さな",
+          "romaji": "chīsana",
+          "accent": "ち↓いさな",
+          "english": "small"
+        },
+        {
+          "japanese": "宿",
+          "romaji": "yado",
+          "accent": "や↓ど",
+          "english": "inn"
+        },
+        {
+          "japanese": "時期",
+          "romaji": "jiki",
+          "accent": "じ↓き",
+          "english": "season"
+        },
+        {
+          "japanese": "混む",
+          "romaji": "komu",
+          "accent": "こ↓む",
+          "english": "to be crowded"
+        },
+        {
+          "japanese": "計画",
+          "romaji": "keikaku",
+          "accent": "けいかく○",
+          "english": "plan"
+        },
+        {
+          "japanese": "立てる（計画を立てる）",
+          "romaji": "tateru (keikaku o tateru)",
+          "accent": "たて↓る（けいかくをたて↓る）",
+          "english": "to make (e.g. put together a plan)"
+        },
+        {
+          "japanese": "調べる",
+          "romaji": "shiraberu",
+          "accent": "しらべ↓る",
+          "english": "to check"
+        },
+        {
+          "japanese": "富山",
+          "romaji": "Toyama",
+          "accent": "と↓やま",
+          "english": "Toyama"
+        },
+        {
+          "japanese": "くわしい",
+          "romaji": "kuwashii",
+          "accent": "くわし↓い",
+          "english": "know in details"
+        },
+        {
+          "japanese": "回転ずし",
+          "romaji": "kaiten-zushi",
+          "accent": "かいて↓んずし",
+          "english": "conveyor belt sushi"
+        },
+        {
+          "japanese": "並ぶ",
+          "romaji": "narabu",
+          "accent": "ならぶ○",
+          "english": "to line up"
+        },
+        {
+          "japanese": "長野",
+          "romaji": "Nagano",
+          "accent": "な↓がの",
+          "english": "Nagano"
+        },
+        {
+          "japanese": "日焼けする",
+          "romaji": "hiyake suru",
+          "accent": "ひやけする○",
+          "english": "to get a suntan"
+        },
+        {
+          "japanese": "スキー",
+          "romaji": "sukī",
+          "accent": "スキ↓ー",
+          "english": "ski"
+        },
+        {
+          "japanese": "スキー場",
+          "romaji": "sukī-jō",
+          "accent": "スキーじょう○",
+          "english": "ski resort"
+        },
+        {
+          "japanese": "こっち",
+          "romaji": "kocchi",
+          "accent": "こっち↓",
+          "english": "here (a casual way of saying こちら)"
+        }
       ],
       "audio": "/audio/z/lesson5/wordlist_Z_05-3.mp3"
     },
@@ -30,7 +435,126 @@
       "title": "旅行の口コミ",
       "number": "4.",
       "wordList": [
-        
+        {
+          "japanese": "撮る",
+          "romaji": "toru",
+          "accent": "と↓る",
+          "english": "to take (a photo, video)"
+        },
+        {
+          "japanese": "オルゴール",
+          "romaji": "orugōru",
+          "accent": "オルゴ↓ール",
+          "english": "music box"
+        },
+        {
+          "japanese": "美術館",
+          "romaji": "bijutsukan",
+          "accent": "びじゅつ↓かん",
+          "english": "art museum"
+        },
+        {
+          "japanese": "ロープウェイ",
+          "romaji": "rōpuwei",
+          "accent": "ロープウェ↓イ",
+          "english": "ropeway"
+        },
+        {
+          "japanese": "湖",
+          "romaji": "mizūmi",
+          "accent": "みず↓うみ",
+          "english": "lake"
+        },
+        {
+          "japanese": "そば（湖のそば）",
+          "romaji": "soba (mizūmi no soba)",
+          "accent": "そ↓ば（みず↓うみのそ↓ば）",
+          "english": "next to ～ (e.g. next to the lake)"
+        },
+        {
+          "japanese": "露天風呂",
+          "romaji": "rotenburo",
+          "accent": "ろてんぶ↓ろ／ろてんぶろ○",
+          "english": "open-air bath"
+        },
+        {
+          "japanese": "日帰り",
+          "romaji": "higaeri",
+          "accent": "ひがえり○",
+          "english": "day trip"
+        },
+        {
+          "japanese": "まったく～ない",
+          "romaji": "mattaku~nai",
+          "accent": "まったく○～ない",
+          "english": "not ～ at all"
+        },
+        {
+          "japanese": "寄る",
+          "romaji": "yoru",
+          "accent": "よる○",
+          "english": "to stop by"
+        },
+        {
+          "japanese": "意外に",
+          "romaji": "igai ni",
+          "accent": "いがいに○",
+          "english": "surprisingly"
+        },
+        {
+          "japanese": "楽しむ",
+          "romaji": "tanoshimu",
+          "accent": "たのし↓む",
+          "english": "to enjoy"
+        },
+        {
+          "japanese": "宿泊",
+          "romaji": "shukuhaku",
+          "accent": "しゅくはく○",
+          "english": "accommodation"
+        },
+        {
+          "japanese": "観光",
+          "romaji": "kankō",
+          "accent": "かんこう○",
+          "english": "sightseeing"
+        },
+        {
+          "japanese": "グルメ",
+          "romaji": "gurume",
+          "accent": "グ↓ルメ",
+          "english": "gourmet food"
+        },
+        {
+          "japanese": "旅券",
+          "romaji": "ryoken",
+          "accent": "りょけん○",
+          "english": "transportation pass"
+        },
+        {
+          "japanese": "口コミ",
+          "romaji": "kuchikomi",
+          "accent": "くちコミ○",
+          "english": "word-of-mouth / review"
+        },
+        {
+          "japanese": "投稿する",
+          "romaji": "tōkō suru",
+          "accent": "とうこうする○",
+          "english": "to post"
+        },
+        {
+          "japanese": "～のまわり（湖のまわり）",
+          "romaji": "~no mawari (mizūmi no mawari)",
+          "accent": "～のまわり○（みず↓うみのまわり）",
+          "english": "around ～ (e.g. around the lake)"
+        },
+        {
+          "japanese": "帰り",
+          "romaji": "kaeri",
+          "accent": "かえり↓",
+          "english": "on the way home"
+        }
       ],
       "audio": "/audio/z/lesson5/wordlist_Z_05-4.mp3"
     }

@@ -6,7 +6,264 @@
       "title": "国際交流フェスティバルのチラシ",
       "number": "1.",
       "wordList": [
-        
+        {
+          "japanese": "イベント会場",
+          "romaji": "ibento kaijou",
+          "accent": "イベントか↓いじょう",
+          "english": "event venue"
+        },
+        {
+          "japanese": "屋台",
+          "romaji": "yata",
+          "accent": "や↓たい",
+          "english": "food stalls"
+        },
+        {
+          "japanese": "ステージ",
+          "romaji": "suteeji",
+          "accent": "ステ↓ージ",
+          "english": "stage"
+        },
+        {
+          "japanese": "パフォーマンス",
+          "romaji": "pafoomansu",
+          "accent": "パフォ↓ーマンス",
+          "english": "performance"
+        },
+        {
+          "japanese": "観光紹介",
+          "romaji": "kankou shoukai",
+          "accent": "かんこうしょ↓うかい",
+          "english": "tourist information corner"
+        },
+        {
+          "japanese": "～コーナー",
+          "romaji": "～koonaa",
+          "accent": "～コ↓ーナー",
+          "english": "～ corner"
+        },
+        {
+          "japanese": "スピーチコンテスト",
+          "romaji": "supeechi kontesuto",
+          "accent": "スピーチコ↓ンテスト",
+          "english": "speech contest"
+        },
+        {
+          "japanese": "～コンテスト",
+          "romaji": "～kontesuto",
+          "accent": "～コ↓ンテスト",
+          "english": "～ contest"
+        },
+        {
+          "japanese": "カラオケ",
+          "romaji": "karaoke",
+          "accent": "カラオケ○",
+          "english": "karaoke"
+        },
+        {
+          "japanese": "～大会",
+          "romaji": "～taikai",
+          "accent": "～た↓いかい",
+          "english": "～ competition"
+        },
+        {
+          "japanese": "合気道",
+          "romaji": "aikidou",
+          "accent": "あいき↓どう",
+          "english": "aikido"
+        },
+        {
+          "japanese": "～デモンストレーション",
+          "romaji": "～demonstoration",
+          "accent": "～デモンストレ↓ーション",
+          "english": "～ demonstration"
+        },
+        {
+          "japanese": "世界",
+          "romaji": "sekai",
+          "accent": "せ↓かい",
+          "english": "world"
+        },
+        {
+          "japanese": "遊び",
+          "romaji": "asobi",
+          "accent": "あそび○",
+          "english": "game"
+        },
+        {
+          "japanese": "～体験",
+          "romaji": "～taiken",
+          "accent": "～た↓いけん",
+          "english": "hands-on ～"
+        },
+        {
+          "japanese": "ファッションショー",
+          "romaji": "fasshon shoo",
+          "accent": "ファッショ↓ンショー／ファッションショ↓ー",
+          "english": "fashion show"
+        },
+        {
+          "japanese": "～ショー",
+          "romaji": "～shoo",
+          "accent": "～ショー",
+          "english": "～ show"
+        },
+        {
+          "japanese": "スタンプラリー",
+          "romaji": "sutampu rarii",
+          "accent": "スタンプラ↓リー",
+          "english": "stamp collecting"
+        },
+        {
+          "japanese": "国際交流",
+          "romaji": "kokusai kouryuu",
+          "accent": "こくさいこ↓うりゅう",
+          "english": "international exchange"
+        },
+        {
+          "japanese": "入場料",
+          "romaji": "nyuujouryou",
+          "accent": "にゅうじょ↓うりょう",
+          "english": "admission fee / entry fee"
+        },
+        {
+          "japanese": "交流プラザ",
+          "romaji": "kouryuu puraza",
+          "accent": "こうりゅうプ↓ラザ",
+          "english": "exchange plaza"
+        },
+        {
+          "japanese": "主催",
+          "romaji": "shusai",
+          "accent": "しゅさい○",
+          "english": "organizer"
+        },
+        {
+          "japanese": "協力",
+          "romaji": "kyouryoku",
+          "accent": "きょうりょく○",
+          "english": "cooperation"
+        },
+        {
+          "japanese": "民族衣装",
+          "romaji": "minzoku ishou",
+          "accent": "みんぞくい↓しょう",
+          "english": "traditional dress"
+        },
+        {
+          "japanese": "本部",
+          "romaji": "honbu",
+          "accent": "ほ↓んぶ",
+          "english": "main office"
+        },
+        {
+          "japanese": "ふれあい",
+          "romaji": "fureai",
+          "accent": "ふれあい○",
+          "english": "hands-on experience"
+        },
+        {
+          "japanese": "フランダンス",
+          "romaji": "furandansu",
+          "accent": "フラダ↓ンス",
+          "english": "hula dance"
+        },
+        {
+          "japanese": "和太鼓",
+          "romaji": "wadaiko",
+          "accent": "わだ↓いこ",
+          "english": "Japanese drums"
+        },
+        {
+          "japanese": "ワールドマーケット",
+          "romaji": "waarudo maaketto",
+          "accent": "ワールドマ↓ーケット",
+          "english": "world market"
+        },
+        {
+          "japanese": "トルコ",
+          "romaji": "toruko",
+          "accent": "ト↓ルコ",
+          "english": "Turkey"
+        },
+        {
+          "japanese": "ペルー",
+          "romaji": "peruu",
+          "accent": "ペ↓ルー",
+          "english": "Peru"
+        },
+        {
+          "japanese": "雑貨",
+          "romaji": "zakka",
+          "accent": "ざっか○",
+          "english": "sundry goods"
+        },
+        {
+          "japanese": "団体紹介",
+          "romaji": "dantai shoukai",
+          "accent": "だんたいしょ↓うかい",
+          "english": "introduction to organizations"
+        },
+        {
+          "japanese": "民芸品",
+          "romaji": "mingeihin",
+          "accent": "みんげいひん○",
+          "english": "folk craft"
+        },
+        {
+          "japanese": "手芸品",
+          "romaji": "shugeihin",
+          "accent": "しゅげいひん○",
+          "english": "handicraft"
+        },
+        {
+          "japanese": "ガーナ",
+          "romaji": "gaana",
+          "accent": "ガ↓ーナ",
+          "english": "Ghana"
+        },
+        {
+          "japanese": "フェアトレード",
+          "romaji": "featoreedo",
+          "accent": "フェアトレ↓ード",
+          "english": "fair trade"
+        },
+        {
+          "japanese": "外国人支援ネットワーク",
+          "romaji": "gaikokujin shien nettowaaku",
+          "accent": "がいこくじんしえんネットワ↓ーク",
+          "english": "foreign resident support network"
+        },
+        {
+          "japanese": "ピニャータ",
+          "romaji": "pinyaata",
+          "accent": "ピニャ↓ータ",
+          "english": "pinata"
+        },
+        {
+          "japanese": "くす玉割り",
+          "romaji": "kusudama wari",
+          "accent": "くすだま↓わり",
+          "english": "opening the confetti ball"
+        },
+        {
+          "japanese": "中国ゴマ",
+          "romaji": "chuugoku goma",
+          "accent": "ちゅうごくゴ↓マ",
+          "english": "diabolo"
+        },
+        {
+          "japanese": "回す",
+          "romaji": "mawasu",
+          "accent": "まわす○",
+          "english": "to spin"
+        },
+        {
+          "japanese": "手作り",
+          "romaji": "tezukuri",
+          "accent": "てづ↓くり",
+          "english": "hand-made"
+        }
       ],
       "audio": "/audio/z/lesson8/wordlist_Z_08-1.mp3"
     },
@@ -14,7 +271,54 @@
       "title": "スピーチコンテストは、もう始まりましたか？",
       "number": "2.",
       "wordList": [
-        
+        {
+          "japanese": "やっている",
+          "romaji": "yatteiru",
+          "accent": "やっている○",
+          "english": "holding"
+        },
+        {
+          "japanese": "まだ",
+          "romaji": "mada",
+          "accent": "ま↓だ",
+          "english": "still"
+        },
+        {
+          "japanese": "受け付け",
+          "romaji": "uketsuke",
+          "accent": "うけつけ○",
+          "english": "reception"
+        },
+        {
+          "japanese": "あっち",
+          "romaji": "acchi",
+          "accent": "あっち↓",
+          "english": "over there"
+        },
+        {
+          "japanese": "つきあたり",
+          "romaji": "tsuki atari",
+          "accent": "つきあたり○",
+          "english": "at the end of"
+        },
+        {
+          "japanese": "たぶん",
+          "romaji": "tabun",
+          "accent": "た↓ぶん",
+          "english": "probably"
+        },
+        {
+          "japanese": "無理ですか？",
+          "romaji": "muri desu ka?",
+          "accent": "む↓りですか？",
+          "english": "Is there no way?"
+        },
+        {
+          "japanese": "さあ",
+          "romaji": "saa",
+          "accent": "さ↓あ",
+          "english": "Hmmm. (expresses you are not very sure about something)"
+        }
       ],
       "audio": "/audio/z/lesson8/wordlist_Z_08-2.mp3"
     },
@@ -22,7 +326,120 @@
       "title": "だれでも参加できますか？",
       "number": "3.",
       "wordList": [
-        
+        {
+          "japanese": "中学生",
+          "romaji": "chuugakusei",
+          "accent": "ちゅうが↓くせい",
+          "english": "junior high school student"
+        },
+        {
+          "japanese": "プロ",
+          "romaji": "puro",
+          "accent": "プ↓ロ",
+          "english": "professional"
+        },
+        {
+          "japanese": "遠慮する",
+          "romaji": "enryo suru",
+          "accent": "えんりょする○",
+          "english": "to be asked not to"
+        },
+        {
+          "japanese": "出る（カラオケ大会に出る）",
+          "romaji": "deru (karaoke taikai ni deru)",
+          "accent": "で↓る（カラオケた↓いかいにで↓る）",
+          "english": "to participate in (e.g. participate in a karaoke competition)"
+        },
+        {
+          "japanese": "参加費",
+          "romaji": "sankahi",
+          "accent": "さんか↓ひ",
+          "english": "entry fee"
+        },
+        {
+          "japanese": "優勝する",
+          "romaji": "yuushou suru",
+          "accent": "ゆうしょうする○",
+          "english": "to win first prize"
+        },
+        {
+          "japanese": "賞品",
+          "romaji": "shouhin",
+          "accent": "しょうひん○",
+          "english": "award"
+        },
+        {
+          "japanese": "出る（賞品が出る）",
+          "romaji": "deru (shouhin ga deru)",
+          "accent": "で↓る（しょうひんがで↓る）",
+          "english": "to be offered (e.g. awards are offered)"
+        },
+        {
+          "japanese": "楽器",
+          "romaji": "gakki",
+          "accent": "がっき○",
+          "english": "musical instrument"
+        },
+        {
+          "japanese": "曲",
+          "romaji": "kyoku",
+          "accent": "きょく○",
+          "english": "song"
+        },
+        {
+          "japanese": "相談する",
+          "romaji": "soudan suru",
+          "accent": "そうだんする○",
+          "english": "to consult"
+        },
+        {
+          "japanese": "申込書",
+          "romaji": "moushikomisho",
+          "accent": "もうしこみしょ○／もうしこみしょ↓",
+          "english": "application form"
+        },
+        {
+          "japanese": "必要事項",
+          "romaji": "hitsuyou jikou",
+          "accent": "ひつようじ↓こう",
+          "english": "necessary information"
+        },
+        {
+          "japanese": "申し込み",
+          "romaji": "moushikomi",
+          "accent": "もうしこみ○",
+          "english": "application / registration"
+        },
+        {
+          "japanese": "先着順",
+          "romaji": "senchakujun",
+          "accent": "せんちゃくじゅん○",
+          "english": "first-come and first-served basis"
+        },
+        {
+          "japanese": "順番に",
+          "romaji": "junban ni",
+          "accent": "じゅんばんに○",
+          "english": "in order"
+        },
+        {
+          "japanese": "いただく",
+          "romaji": "itadaku",
+          "accent": "いただく○",
+          "english": "to receive (polite expression for もらう)"
+        },
+        {
+          "japanese": "スピーチ",
+          "romaji": "supīchi",
+          "accent": "スピ↓ーチ",
+          "english": "speech"
+        },
+        {
+          "japanese": "テーマ",
+          "romaji": "tēma",
+          "accent": "テ↓ーマ",
+          "english": "topic"
+        }
       ],
       "audio": "/audio/z/lesson8/wordlist_Z_08-3.mp3"
     },
@@ -30,7 +447,186 @@
       "title": "皆様にお願いいたします",
       "number": "4.",
       "wordList": [
-        
+        {
+          "japanese": "動画",
+          "romaji": "douga",
+          "accent": "どうが○",
+          "english": "video"
+        },
+        {
+          "japanese": "撮影",
+          "romaji": "satsuei",
+          "accent": "さつえい○",
+          "english": "photography / filming"
+        },
+        {
+          "japanese": "飲食",
+          "romaji": "inshoku",
+          "accent": "いんしょく○",
+          "english": "eating and drinking"
+        },
+        {
+          "japanese": "販売",
+          "romaji": "hanbai",
+          "accent": "はんばい○",
+          "english": "selling"
+        },
+        {
+          "japanese": "携帯電話",
+          "romaji": "keitai denwa",
+          "accent": "けいたいで↓んわ",
+          "english": "mobile phone"
+        },
+        {
+          "japanese": "～内（公園内）",
+          "romaji": "~nai (kouen nai)",
+          "accent": "～ない（こうえ↓んない）",
+          "english": "inside ~ (e.g. inside the park)"
+        },
+        {
+          "japanese": "協力（する）",
+          "romaji": "kyouryoku (suru)",
+          "accent": "きょうりょく（する）○",
+          "english": "(to) cooperate"
+        },
+        {
+          "japanese": "お子様",
+          "romaji": "okosama",
+          "accent": "おこさま○",
+          "english": "small children (polite expression)"
+        },
+        {
+          "japanese": "皆様にお願いいたします",
+          "romaji": "minasama ni onegai itashimasu",
+          "accent": "みな↓さまに　おねがいいたしま↓す",
+          "english": "We would like to request everyone. (polite expression)"
+        },
+        {
+          "japanese": "お見えです",
+          "romaji": "omie desu",
+          "accent": "おみえで↓す",
+          "english": "~ is/are present. (polite expression)"
+        },
+        {
+          "japanese": "ご遠慮ください（ませ）",
+          "romaji": "goenryo kudasai (mase)",
+          "accent": "ごえんりょくださ↓い／ごえんりょくださいま↓せ",
+          "english": "Please refrain ~. (polite expression)"
+        },
+        {
+          "japanese": "ご協力よろしくお願いいたします",
+          "romaji": "gokyouryoku yoroshiku onegai itashimasu",
+          "accent": "ごきょうりょく○　よろしくおねがいいたしま↓す",
+          "english": "We ask for your kind cooperation. (polite expression)"
+        },
+        {
+          "japanese": "電源",
+          "romaji": "dengen",
+          "accent": "でんげん○",
+          "english": "power"
+        },
+        {
+          "japanese": "切る（電源を切る）",
+          "romaji": "kiru (dengen wo kiru)",
+          "accent": "き↓る（でんげんをき↓る）",
+          "english": "to turn off (e.g. turn the power off)"
+        },
+        {
+          "japanese": "マナーモード",
+          "romaji": "mana mode",
+          "accent": "マナーモ↓ード",
+          "english": "silent mode"
+        },
+        {
+          "japanese": "設定する",
+          "romaji": "settei suru",
+          "accent": "せっていする○",
+          "english": "to set"
+        },
+        {
+          "japanese": "通話（する）",
+          "romaji": "tsuuwa (suru)",
+          "accent": "つうわ（する）○",
+          "english": "(to) talk on the phone"
+        },
+        {
+          "japanese": "お忙しい中",
+          "romaji": "oisogashii naka",
+          "accent": "おいそがし↓い△な↓か／おいそがしいな↓か",
+          "english": "despite being busy (polite expression)"
+        },
+        {
+          "japanese": "おいでくださって、ありがとうございます",
+          "romaji": "oide kudasatte, arigatou gozaimasu",
+          "accent": "おいでくださ↓って、あり↓がとうございます",
+          "english": "Thank you for coming. (polite expression)"
+        },
+        {
+          "japanese": "かまいません",
+          "romaji": "kamai masen",
+          "accent": "かまいませ↓ん",
+          "english": "~ doesn't matter."
+        },
+        {
+          "japanese": "持ち込み",
+          "romaji": "mochikomi",
+          "accent": "もちこみ○",
+          "english": "bring in"
+        },
+        {
+          "japanese": "禁止",
+          "romaji": "kinshi",
+          "accent": "きんし○",
+          "english": "prohibited"
+        },
+        {
+          "japanese": "ロビー",
+          "romaji": "robii",
+          "accent": "ロ↓ビー",
+          "english": "lobby"
+        },
+        {
+          "japanese": "ロールケーキ",
+          "romaji": "rooru keeki",
+          "accent": "ロールケ↓ーキ",
+          "english": "roll cake"
+        },
+        {
+          "japanese": "終了する",
+          "romaji": "shuuryou suru",
+          "accent": "しゅうりょうする○",
+          "english": "to end"
+        },
+        {
+          "japanese": "個数",
+          "romaji": "kosuu",
+          "accent": "こす↓う",
+          "english": "quantity"
+        },
+        {
+          "japanese": "限られている",
+          "romaji": "kagira rete iru",
+          "accent": "かぎら↓れている",
+          "english": "limited"
+        },
+        {
+          "japanese": "列",
+          "romaji": "retsu",
+          "accent": "れ↓つ",
+          "english": "line"
+        },
+        {
+          "japanese": "お求めの",
+          "romaji": "omotome no",
+          "accent": "おもとめの○",
+          "english": "wishing to buy (polite expression)"
+        },
+        {
+          "japanese": "お並びください",
+          "romaji": "onarabi kudasai",
+          "accent": "おならびくださ↓い",
+          "english": "Please line up. (polite expression)"
+        }
       ],
       "audio": "/audio/z/lesson8/wordlist_Z_08-4.mp3"
     },
@@ -38,7 +634,42 @@
       "title": "国際交流祭りの感想",
       "number": "5.",
       "wordList": [
-        
+        {
+          "japanese": "太鼓",
+          "romaji": "taiko",
+          "accent": "たいこ○",
+          "english": "drums"
+        },
+        {
+          "japanese": "たたく",
+          "romaji": "tataku",
+          "accent": "たた↓く",
+          "english": "to beat"
+        },
+        {
+          "japanese": "来年",
+          "romaji": "rainen",
+          "accent": "らいねん○",
+          "english": "next year"
+        },
+        {
+          "japanese": "バンブーダンス",
+          "romaji": "banbu dansu",
+          "accent": "バンブーダ↓ンス",
+          "english": "Tinikling (a traditional Filipino dance)"
+        },
+        {
+          "japanese": "バングラデシュ",
+          "romaji": "Banguradeshu",
+          "accent": "バングラデ↓シュ",
+          "english": "Bangladesh"
+        },
+        {
+          "japanese": "サテー",
+          "romaji": "satee",
+          "accent": "サ↓テー",
+          "english": "satay (Indonesian food)"
+        }
       ],
       "audio": "/audio/z/lesson8/wordlist_Z_08-5.mp3"
     }

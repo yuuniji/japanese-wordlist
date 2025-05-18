@@ -6,7 +6,108 @@
       "title": "どこかいい店、ありませんか？",
       "number": "1.",
       "wordList": [
-        
+        {
+          "japanese": "本物",
+          "romaji": "honmono",
+          "accent": "ほんもの○",
+          "english": "authentic"
+        },
+        {
+          "japanese": "量",
+          "romaji": "ryō",
+          "accent": "りょ↓う",
+          "english": "amount"
+        },
+        {
+          "japanese": "とり",
+          "romaji": "tori",
+          "accent": "とり○",
+          "english": "chicken"
+        },
+        {
+          "japanese": "彼女",
+          "romaji": "kanojo",
+          "accent": "か↓のじょ",
+          "english": "girlfriend"
+        },
+        {
+          "japanese": "食事",
+          "romaji": "shokuji",
+          "accent": "しょくじ○",
+          "english": "meal / eating"
+        },
+        {
+          "japanese": "ベトナム料理",
+          "romaji": "Betonamu ryōri",
+          "accent": "ベトナムりょ↓うり",
+          "english": "Vietnamese cuisine"
+        },
+        {
+          "japanese": "土地",
+          "romaji": "tochi",
+          "accent": "とち○",
+          "english": "local"
+        },
+        {
+          "japanese": "おれ",
+          "romaji": "ore",
+          "accent": "おれ○",
+          "english": "I (usually used by a male person)"
+        },
+        {
+          "japanese": "看板",
+          "romaji": "kanban",
+          "accent": "かんばん○",
+          "english": "sign"
+        },
+        {
+          "japanese": "この辺",
+          "romaji": "kono hen",
+          "accent": "このへん○",
+          "english": "around here"
+        },
+        {
+          "japanese": "新しく",
+          "romaji": "atarashiku",
+          "accent": "あたらし↓く",
+          "english": "newly"
+        },
+        {
+          "japanese": "できる　（店ができる）",
+          "romaji": "dekiru (mise ga dekiru)",
+          "accent": "でき↓る　（みせ↓ができ↓る）",
+          "english": "to be newly opened (e.g. the store has been newly opened)"
+        },
+        {
+          "japanese": "地図",
+          "romaji": "chizu",
+          "accent": "ち↓ず",
+          "english": "map"
+        },
+        {
+          "japanese": "送る",
+          "romaji": "okuru",
+          "accent": "おくる○",
+          "english": "to send"
+        },
+        {
+          "japanese": "このあたり",
+          "romaji": "kono atari",
+          "accent": "このあ↓たり",
+          "english": "near here"
+        },
+        {
+          "japanese": "夫婦",
+          "romaji": "fūfu",
+          "accent": "ふ↓うふ",
+          "english": "married couple"
+        },
+        {
+          "japanese": "知りませんでした",
+          "romaji": "shirimasen deshita",
+          "accent": "しりませ↓んでした",
+          "english": "I did not know."
+        }
       ],
       "audio": "/audio/z/lesson4/wordlist_Z_04-1.mp3"
     },
@@ -14,7 +115,132 @@
       "title": "よく混ぜて食べてください",
       "number": "2.",
       "wordList": [
-        
+        {
+          "japanese": "食べ方",
+          "romaji": "tabekata",
+          "accent": "たべか↓た",
+          "english": "how to eat"
+        },
+        {
+          "japanese": "つける　（たれにつける）",
+          "romaji": "tsukeru (tare ni tsukeru)",
+          "accent": "つけ↓る　（たれ↓につけ↓る）",
+          "english": "to dip (e.g. dip in the sauce)"
+        },
+        {
+          "japanese": "混ぜる",
+          "romaji": "mazeru",
+          "accent": "まぜ↓る",
+          "english": "to mix"
+        },
+        {
+          "japanese": "かける　（ソースをかける）",
+          "romaji": "kakeru (sōsu o kakeru)",
+          "accent": "かけ↓る　（ソ↓ースをかけ↓る）",
+          "english": "to pour over / to sprinkle (e.g. pour the sauce over)"
+        },
+        {
+          "japanese": "入れる",
+          "romaji": "ireru",
+          "accent": "いれる○",
+          "english": "to put in / to add"
+        },
+        {
+          "japanese": "巻く",
+          "romaji": "maku",
+          "accent": "まく○",
+          "english": "to roll"
+        },
+        {
+          "japanese": "のせる",
+          "romaji": "noseru",
+          "accent": "のせる○",
+          "english": "to put on top"
+        },
+        {
+          "japanese": "むく",
+          "romaji": "muku",
+          "accent": "むく○",
+          "english": "to peel"
+        },
+        {
+          "japanese": "混ぜそば",
+          "romaji": "mazesoba",
+          "accent": "まぜそば○",
+          "english": "mixed soba"
+        },
+        {
+          "japanese": "シュウマイ",
+          "romaji": "shūmai",
+          "accent": "シュウマイ○",
+          "english": "shumai (Chinese meat dumpling)"
+        },
+        {
+          "japanese": "天ぷら",
+          "romaji": "tenpura",
+          "accent": "てんぷら○",
+          "english": "tempura"
+        },
+        {
+          "japanese": "トマト",
+          "romaji": "tomato",
+          "accent": "ト↓マト",
+          "english": "tomato"
+        },
+        {
+          "japanese": "手巻きずし",
+          "romaji": "temakizushi",
+          "accent": "てまき↓ずし",
+          "english": "temaki-zushi (hand-rolled sushi)"
+        },
+        {
+          "japanese": "焼きいも",
+          "romaji": "yakiimo",
+          "accent": "やきいも○",
+          "english": "yaki-imo (baked sweet potato)"
+        },
+        {
+          "japanese": "味がついている",
+          "romaji": "aji ga tsuite iru",
+          "accent": "あじがつ↓いている",
+          "english": "seasoned"
+        },
+        {
+          "japanese": "しょうゆ",
+          "romaji": "shōyu",
+          "accent": "しょうゆ○",
+          "english": "soy sauce"
+        },
+        {
+          "japanese": "つゆ",
+          "romaji": "tsuyu",
+          "accent": "つ↓ゆ",
+          "english": "dipping sauce"
+        },
+        {
+          "japanese": "そのまま",
+          "romaji": "sono mama",
+          "accent": "そのまま○",
+          "english": "as is"
+        },
+        {
+          "japanese": "のり",
+          "romaji": "nori",
+          "accent": "のり↓",
+          "english": "seaweed"
+        },
+        {
+          "japanese": "皮　（トマトの皮）",
+          "romaji": "kawa (tomato no kawa)",
+          "accent": "かわ↓　（ト↓マトのかわ↓）",
+          "english": "skin (e.g. tomato skin)"
+        },
+        {
+          "japanese": "お待たせしました",
+          "romaji": "omatase shimashita",
+          "accent": "おまたせしま↓した",
+          "english": "Thank you for waiting. (polite expression)"
+        }
       ],
       "audio": "/audio/z/lesson4/wordlist_Z_04-2.mp3"
     },
@@ -22,7 +248,54 @@
       "title": "どうやって食べるんですか？",
       "number": "3.",
       "wordList": [
-        
+        {
+          "japanese": "一度に",
+          "romaji": "ichido ni",
+          "accent": "いちど↓に",
+          "english": "at once"
+        },
+        {
+          "japanese": "そんなに",
+          "romaji": "sonna ni",
+          "accent": "そんなに○",
+          "english": "so much"
+        },
+        {
+          "japanese": "しゃぶしゃぶ",
+          "romaji": "shabu shabu",
+          "accent": "しゃぶしゃぶ○",
+          "english": "shabu shabu (hot pot)"
+        },
+        {
+          "japanese": "こうやって",
+          "romaji": "kō yatte",
+          "accent": "こうやって○",
+          "english": "like this"
+        },
+        {
+          "japanese": "味がない",
+          "romaji": "aji ga nai",
+          "accent": "あじがな↓い",
+          "english": "tasteless"
+        },
+        {
+          "japanese": "ポン酢",
+          "romaji": "ponzu",
+          "accent": "ポンず○",
+          "english": "ponzu vinegar"
+        },
+        {
+          "japanese": "ごまだれ",
+          "romaji": "gomadare",
+          "accent": "ごまだれ○",
+          "english": "sesame sauce"
+        },
+        {
+          "japanese": "白菜",
+          "romaji": "hakusai",
+          "accent": "はく↓さい",
+          "english": "Chinese cabbage"
+        }
       ],
       "audio": "/audio/z/lesson4/wordlist_Z_04-3.mp3"
     },
@@ -30,7 +303,192 @@
       "title": "餃子に似ています",
       "number": "4.",
       "wordList": [
-        
+        {
+          "japanese": "調味料",
+          "romaji": "chōmiryō",
+          "accent": "ちょうみ↓りょう",
+          "english": "seasoning"
+        },
+        {
+          "japanese": "砂糖",
+          "romaji": "satō",
+          "accent": "さと↓う",
+          "english": "sugar"
+        },
+        {
+          "japanese": "こしょう",
+          "romaji": "koshō",
+          "accent": "こしょ↓う",
+          "english": "pepper"
+        },
+        {
+          "japanese": "スパイス",
+          "romaji": "supaisu",
+          "accent": "スパ↓イス",
+          "english": "spice"
+        },
+        {
+          "japanese": "ソース",
+          "romaji": "sōsu",
+          "accent": "ソ↓ース",
+          "english": "sauce"
+        },
+        {
+          "japanese": "たれ",
+          "romaji": "tare",
+          "accent": "たれ↓",
+          "english": "tare (dipping sauce)"
+        },
+        {
+          "japanese": "油",
+          "romaji": "abura",
+          "accent": "あぶら○",
+          "english": "oil"
+        },
+        {
+          "japanese": "調理方法",
+          "romaji": "chōri hōhō",
+          "accent": "ちょうりほ↓うほう",
+          "english": "cooking instructions"
+        },
+        {
+          "japanese": "切る",
+          "romaji": "kiru",
+          "accent": "き↓る",
+          "english": "to cut"
+        },
+        {
+          "japanese": "焼く",
+          "romaji": "yaku",
+          "accent": "やく○",
+          "english": "to grill / to cook"
+        },
+        {
+          "japanese": "煮る",
+          "romaji": "niru",
+          "accent": "にる○",
+          "english": "to simmer / to stew"
+        },
+        {
+          "japanese": "ゆでる",
+          "romaji": "yuderu",
+          "accent": "ゆで↓る",
+          "english": "to boil"
+        },
+        {
+          "japanese": "蒸す",
+          "romaji": "musu",
+          "accent": "む↓す",
+          "english": "to steam"
+        },
+        {
+          "japanese": "いためる",
+          "romaji": "itameru",
+          "accent": "いため↓る",
+          "english": "to fry"
+        },
+        {
+          "japanese": "揚げる",
+          "romaji": "ageru",
+          "accent": "あげる○",
+          "english": "to deep-fry"
+        },
+        {
+          "japanese": "サラダ",
+          "romaji": "sarada",
+          "accent": "サ↓ラダ",
+          "english": "salad"
+        },
+        {
+          "japanese": "餃子",
+          "romaji": "gyōza",
+          "accent": "ぎょうざ○",
+          "english": "stuffed dumpling"
+        },
+        {
+          "japanese": "家庭料理",
+          "romaji": "katei ryōri",
+          "accent": "かていりょ↓うり",
+          "english": "home-cooked dish"
+        },
+        {
+          "japanese": "フェイジョアーダ",
+          "romaji": "feijōāda",
+          "accent": "フェイジョア↓ーダ",
+          "english": "feijoada (Brazilian dish)"
+        },
+        {
+          "japanese": "モモ",
+          "romaji": "momo",
+          "accent": "モ↓モ",
+          "english": "momo (Nepalese dish)"
+        },
+        {
+          "japanese": "ガドガド",
+          "romaji": "gadogado",
+          "accent": "ガドガド○",
+          "english": "gado gado (Indonesian dish)"
+        },
+        {
+          "japanese": "麻花",
+          "romaji": "māhua",
+          "accent": "マーホア○",
+          "english": "mahua (Chinese confectionery)"
+        },
+        {
+          "japanese": "中国",
+          "romaji": "Chūgoku",
+          "accent": "ちゅ↓うごく",
+          "english": "China"
+        },
+        {
+          "japanese": "豆",
+          "romaji": "mame",
+          "accent": "まめ↓",
+          "english": "bean"
+        },
+        {
+          "japanese": "小麦粉",
+          "romaji": "komugiko",
+          "accent": "こむぎこ○",
+          "english": "flour"
+        },
+        {
+          "japanese": "ピーナッツソース",
+          "romaji": "pīnattsu sōsu",
+          "accent": "ピーナッツソ↓ース",
+          "english": "peanut sauce"
+        },
+        {
+          "japanese": "皮　（餃子の皮）",
+          "romaji": "kawa (gyōza no kawa)",
+          "accent": "かわ↓　（ぎょうざのかわ↓）",
+          "english": "wrapper (e.g. gyoza wrapper)"
+        },
+        {
+          "japanese": "ゆで卵",
+          "romaji": "yudetamago",
+          "accent": "ゆでた↓まご",
+          "english": "boiled egg"
+        },
+        {
+          "japanese": "～など",
+          "romaji": "~ nado",
+          "accent": "～な↓ど",
+          "english": "~ etc."
+        },
+        {
+          "japanese": "甘辛い",
+          "romaji": "amakarai",
+          "accent": "あまから↓い",
+          "english": "sweet and spicy"
+        },
+        {
+          "japanese": "固い",
+          "romaji": "katai",
+          "accent": "かたい○／かた↓い",
+          "english": "hard"
+        }
       ],
       "audio": "/audio/z/lesson4/wordlist_Z_04-4.mp3"
     },
@@ -38,7 +496,90 @@
       "title": "飲食店の口コミ",
       "number": "5.",
       "wordList": [
-        
+        {
+          "japanese": "どれも",
+          "romaji": "doremo",
+          "accent": "ど↓れも／どれも○",
+          "english": "any"
+        },
+        {
+          "japanese": "～屋（定食屋）",
+          "romaji": "~ya (teishokuya)",
+          "accent": "～や（ていしょくや○）",
+          "english": "~ store / restaurant (e.g. restaurant specializing in Japanese-style set meals)"
+        },
+        {
+          "japanese": "ボリューム",
+          "romaji": "boryūmu",
+          "accent": "ボリューム○",
+          "english": "amount"
+        },
+        {
+          "japanese": "満足（な）",
+          "romaji": "manzoku (na)",
+          "accent": "ま↓んぞく（な）",
+          "english": "satisfactory"
+        },
+        {
+          "japanese": "おばちゃん",
+          "romaji": "obachan",
+          "accent": "おばちゃん○",
+          "english": "middle-aged woman"
+        },
+        {
+          "japanese": "リーズナブル（な）",
+          "romaji": "rīzunaburu (na)",
+          "accent": "リ↓ーズナブル（な）",
+          "english": "reasonable"
+        },
+        {
+          "japanese": "頼む",
+          "romaji": "tanomu",
+          "accent": "たの↓む",
+          "english": "to order"
+        },
+        {
+          "japanese": "煮込みハンバーグ",
+          "romaji": "nikomi hanbāgu",
+          "accent": "にこみハンバ↓ーグ",
+          "english": "stewed hamburger steak"
+        },
+        {
+          "japanese": "～前（12時前）",
+          "romaji": "~mae (jūniji mae)",
+          "accent": "～まえ（じゅうにじま↓え）",
+          "english": "before ~ (e.g. before 12 o'clock)"
+        },
+        {
+          "japanese": "おすすめする",
+          "romaji": "osusume suru",
+          "accent": "おすすめする○",
+          "english": "to recommend"
+        },
+        {
+          "japanese": "やっている",
+          "romaji": "yatte iru",
+          "accent": "やっている○",
+          "english": "run (a shop)"
+        },
+        {
+          "japanese": "時間がかかる",
+          "romaji": "jikan ga kakaru",
+          "accent": "じかんがかか↓る",
+          "english": "to take time"
+        },
+        {
+          "japanese": "値段",
+          "romaji": "nedan",
+          "accent": "ねだん○",
+          "english": "price"
+        },
+        {
+          "japanese": "その他",
+          "romaji": "sonota",
+          "accent": "その↓た",
+          "english": "others"
+        }
       ],
       "audio": "/audio/z/lesson4/wordlist_Z_04-5.mp3"
     }

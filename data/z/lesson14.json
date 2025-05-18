@@ -6,7 +6,342 @@
       "title": "自転車の空気を入れたいんですが…",
       "number": "1.",
       "wordList": [
-        
+        {
+          "japanese": "サービス",
+          "romaji": "saabisu",
+          "accent": "サ↓ービス",
+          "english": "service"
+        },
+        {
+          "japanese": "郵便局",
+          "romaji": "yuubinkyoku",
+          "accent": "ゆうび↓んきょく",
+          "english": "post office"
+        },
+        {
+          "japanese": "不動産屋",
+          "romaji": "fudousanya",
+          "accent": "ふどうさんや○",
+          "english": "real estate agent"
+        },
+        {
+          "japanese": "理髪店",
+          "romaji": "rihatsuten",
+          "accent": "りはつ↓てん",
+          "english": "barbershop"
+        },
+        {
+          "japanese": "床屋",
+          "romaji": "tokoya",
+          "accent": "とこや○",
+          "english": "barbershop"
+        },
+        {
+          "japanese": "美容院",
+          "romaji": "biyouin",
+          "accent": "びよ↓ういん",
+          "english": "beauty salon"
+        },
+        {
+          "japanese": "クリーニング店",
+          "romaji": "kuriiningu ten",
+          "accent": "クリーニング↓てん",
+          "english": "dry cleaner"
+        },
+        {
+          "japanese": "コインランドリー",
+          "romaji": "koin randorii",
+          "accent": "コインラ↓ンドリー",
+          "english": "laundromat"
+        },
+        {
+          "japanese": "中古車店",
+          "romaji": "chuukosha ten",
+          "accent": "ちゅうこしゃ↓てん",
+          "english": "used car shop"
+        },
+        {
+          "japanese": "自転車店",
+          "romaji": "jitensha ten",
+          "accent": "じてんしゃ↓てん",
+          "english": "bicycle shop"
+        },
+        {
+          "japanese": "携帯ショップ",
+          "romaji": "keitai shoppu",
+          "accent": "けいたいショ↓ップ",
+          "english": "mobile phone shop"
+        },
+        {
+          "japanese": "スマホ修理店",
+          "romaji": "sumaho shuuri ten",
+          "accent": "スマホしゅうり↓てん",
+          "english": "smartphone repair shop"
+        },
+        {
+          "japanese": "リサイクルショップ",
+          "romaji": "risaikuru shoppu",
+          "accent": "リサイクルショ↓ップ",
+          "english": "recycle shop"
+        },
+        {
+          "japanese": "クリーニング",
+          "romaji": "kuriiningu",
+          "accent": "クリ↓ーニング",
+          "english": "dry cleaning"
+        },
+        {
+          "japanese": "シミ",
+          "romaji": "shimi",
+          "accent": "シミ○",
+          "english": "stain"
+        },
+        {
+          "japanese": "落ちる",
+          "romaji": "ochiru",
+          "accent": "おち↓る",
+          "english": "to be removed (e.g. dirt is removed)"
+        },
+        {
+          "japanese": "シミ抜き",
+          "romaji": "shimi nuki",
+          "accent": "シミぬき○／シミぬ↓き",
+          "english": "stain removal"
+        },
+        {
+          "japanese": "別料金",
+          "romaji": "betsuryoukin",
+          "accent": "べつりょ↓うきん",
+          "english": "extra charge"
+        },
+        {
+          "japanese": "お渡し",
+          "romaji": "owatashi",
+          "accent": "おわたし○",
+          "english": "handover (polite expression)"
+        },
+        {
+          "japanese": "空気",
+          "romaji": "kuuki",
+          "accent": "く↓うき",
+          "english": "air"
+        },
+        {
+          "japanese": "空気入れ",
+          "romaji": "kuuki ire",
+          "accent": "くうき↓いれ",
+          "english": "pump"
+        },
+        {
+          "japanese": "入る（空気が入る）",
+          "romaji": "hairu (kuuki ga hairu)",
+          "accent": "は↓いる（く↓うきが　は↓いる）",
+          "english": "to go into (e.g. air goes into/inflates)"
+        },
+        {
+          "japanese": "タイヤ",
+          "romaji": "taiya",
+          "accent": "タイヤ○",
+          "english": "tire"
+        },
+        {
+          "japanese": "キャップ",
+          "romaji": "kyappu",
+          "accent": "キャップ○",
+          "english": "cap"
+        },
+        {
+          "japanese": "はずす",
+          "romaji": "hazusu",
+          "accent": "はずす○",
+          "english": "to remove"
+        },
+        {
+          "japanese": "はさむ",
+          "romaji": "hasamu",
+          "accent": "はさ↓む",
+          "english": "to clamp"
+        },
+        {
+          "japanese": "かぶせる",
+          "romaji": "kabuseru",
+          "accent": "かぶせ↓る",
+          "english": "to cover"
+        },
+        {
+          "japanese": "ついでに",
+          "romaji": "tsuideni",
+          "accent": "ついでに○",
+          "english": "in addition"
+        },
+        {
+          "japanese": "油を差す",
+          "romaji": "abura o sasu",
+          "accent": "あぶらをさ↓す",
+          "english": "to oil"
+        },
+        {
+          "japanese": "どれどれ",
+          "romaji": "dore dore",
+          "accent": "ど↓れ△ど↓れ",
+          "english": "Let me see."
+        },
+        {
+          "japanese": "宅配便",
+          "romaji": "takuhaibin",
+          "accent": "たくはいびん○",
+          "english": "parcel delivery service"
+        },
+        {
+          "japanese": "着払い",
+          "romaji": "chakubarai",
+          "accent": "ちゃくば↓らい",
+          "english": "cash on delivery"
+        },
+        {
+          "japanese": "元払い",
+          "romaji": "motobarai",
+          "accent": "もとば↓らい",
+          "english": "prepayment"
+        },
+        {
+          "japanese": "受け取る",
+          "romaji": "uketoru",
+          "accent": "うけとる○",
+          "english": "to receive"
+        },
+        {
+          "japanese": "伝票",
+          "romaji": "denpyou",
+          "accent": "でんぴょう○",
+          "english": "slip"
+        },
+        {
+          "japanese": "指定",
+          "romaji": "shitei",
+          "accent": "してい○",
+          "english": "specify"
+        },
+        {
+          "japanese": "午前中",
+          "romaji": "gozenchuu",
+          "accent": "ごぜんちゅう○",
+          "english": "in the morning"
+        },
+        {
+          "japanese": "最も",
+          "romaji": "mottomo",
+          "accent": "もっと↓も",
+          "english": "most"
+        },
+        {
+          "japanese": "お届け",
+          "romaji": "otodoke",
+          "accent": "おとどけ○",
+          "english": "delivery (polite expression)"
+        },
+        {
+          "japanese": "お預かりします",
+          "romaji": "oazukari shimasu",
+          "accent": "おあずかりしま↓す",
+          "english": "We accept your package. (polite expression)"
+        },
+        {
+          "japanese": "表示する",
+          "romaji": "hyouji suru",
+          "accent": "ひょうじする○",
+          "english": "to display"
+        },
+        {
+          "japanese": "キャッシュカード",
+          "romaji": "kyasshu kaado",
+          "accent": "キャッシュカ↓ード",
+          "english": "cash card"
+        },
+        {
+          "japanese": "お引き出し",
+          "romaji": "ohikidashi",
+          "accent": "おひきだし○",
+          "english": "withdraw (polite expression)"
+        },
+        {
+          "japanese": "次に",
+          "romaji": "tsugi ni",
+          "accent": "つぎ↓に",
+          "english": "next"
+        },
+        {
+          "japanese": "暗証番号",
+          "romaji": "anshou bangou",
+          "accent": "あんしょうば↓んごう",
+          "english": "personal identification number (PIN)"
+        },
+        {
+          "japanese": "入力する",
+          "romaji": "nyuuryoku suru",
+          "accent": "にゅうりょくする○",
+          "english": "to enter"
+        },
+        {
+          "japanese": "～桁（4桁）",
+          "romaji": "～keta (yonketa)",
+          "accent": "～けた（よ↓んけた）",
+          "english": "～ digit(s) (e.g. four digits)"
+        },
+        {
+          "japanese": "緑色",
+          "romaji": "midori iro",
+          "accent": "みどりいろ○",
+          "english": "green"
+        },
+        {
+          "japanese": "金額",
+          "romaji": "kingaku",
+          "accent": "きんがく○",
+          "english": "amount"
+        },
+        {
+          "japanese": "～円札（1万円札）",
+          "romaji": "～ensatsu (ichimanensatsu)",
+          "accent": "～え↓んさつ（いちまんえ↓んさつ）",
+          "english": "～ yen bill (e.g. 10,000 yen bill)"
+        },
+        {
+          "japanese": "一部",
+          "romaji": "ichibu",
+          "accent": "いち↓ぶ",
+          "english": "part of"
+        },
+        {
+          "japanese": "両替（する）",
+          "romaji": "ryougae (suru)",
+          "accent": "りょうがえ（する）○",
+          "english": "(to) change money"
+        },
+        {
+          "japanese": "利用明細／ご利用明細",
+          "romaji": "riyous meisai / goriyou meisai",
+          "accent": "りようめ↓いさい／ごりようめ↓いさい",
+          "english": "usage statement"
+        },
+        {
+          "japanese": "紙幣",
+          "romaji": "shihei",
+          "accent": "し↓へい",
+          "english": "banknote"
+        },
+        {
+          "japanese": "お取りください",
+          "romaji": "otorikudasai",
+          "accent": "おとりくださ↓い",
+          "english": "Please take ～. (polite expression)"
+        },
+        {
+          "japanese": "ご利用ありがとうございました",
+          "romaji": "goriyou arigatou gozaimashita",
+          "accent": "ごりよう○　あり↓がとうございま↓した",
+          "english": "Thank you for using our services. (polite expression)"
+        }
       ],
       "audio": "/audio/z/lesson14/wordlist_Z_14-1.mp3"
     },
@@ -14,7 +349,180 @@
       "title": "郵便局からの連絡",
       "number": "2.",
       "wordList": [
-        
+        {
+          "japanese": "ポストに入れる",
+          "romaji": "posuto ni ireru",
+          "accent": "ポ↓ストにいれる",
+          "english": "to post / to mail"
+        },
+        {
+          "japanese": "インターネット",
+          "romaji": "intānetto",
+          "accent": "インターネ↓ット",
+          "english": "internet"
+        },
+        {
+          "japanese": "申し込む",
+          "romaji": "moushikomu",
+          "accent": "もうしこ↓む",
+          "english": "to request"
+        },
+        {
+          "japanese": "郵便物",
+          "romaji": "yuubinbutsu",
+          "accent": "ゆうび↓んぶつ",
+          "english": "delivery"
+        },
+        {
+          "japanese": "不在／ご不在",
+          "romaji": "fuzai / gofuzai",
+          "accent": "ふざい○／ごふざい○",
+          "english": "absence"
+        },
+        {
+          "japanese": "窓口",
+          "romaji": "madoguchi",
+          "accent": "まど↓ぐち",
+          "english": "window / counter"
+        },
+        {
+          "japanese": "再配達",
+          "romaji": "saihaitatsu",
+          "accent": "さいは↓いたつ",
+          "english": "redelivery"
+        },
+        {
+          "japanese": "自動（24時間自動受付）",
+          "romaji": "jidou (nijuu yon jikan jidou uketsuke)",
+          "accent": "じどう○（に↓じゅう△よじ↓かん△じどうう↓けつけ）",
+          "english": "automatic (e.g. 24-hour automatic reception)"
+        },
+        {
+          "japanese": "連絡票",
+          "romaji": "renrakuhyou",
+          "accent": "れんらくひょう○",
+          "english": "notice"
+        },
+        {
+          "japanese": "受取り／お受け取り",
+          "romaji": "uketori / ouketori",
+          "accent": "うけとり○／おうけとり○",
+          "english": "receipt"
+        },
+        {
+          "japanese": "印鑑",
+          "romaji": "inkan",
+          "accent": "いんか↓ん",
+          "english": "inkan (seal)"
+        },
+        {
+          "japanese": "免許証",
+          "romaji": "menkyoshou",
+          "accent": "めんきょしょう○／めんきょ↓しょう",
+          "english": "(driver's) license"
+        },
+        {
+          "japanese": "保険証",
+          "romaji": "hokenshou",
+          "accent": "ほけんしょう○",
+          "english": "health insurance card"
+        },
+        {
+          "japanese": "マイナンバーカード",
+          "romaji": "mainanbākādo",
+          "accent": "マイナンバーカ↓ード",
+          "english": "Individual Number Card"
+        },
+        {
+          "japanese": "当日（当日配達分）",
+          "romaji": "toujitsu (toujitsu haitatsubun)",
+          "accent": "とうじつ○（とうじつはいたつぶん○）",
+          "english": "same day / today (e.g. mail to be delivered today)"
+        },
+        {
+          "japanese": "携帯電話",
+          "romaji": "keitai denwa",
+          "accent": "けいたいで↓んわ",
+          "english": "mobile phone"
+        },
+        {
+          "japanese": "固定電話",
+          "romaji": "kotei denwa",
+          "accent": "こていで↓んわ",
+          "english": "landline phone"
+        },
+        {
+          "japanese": "郵便番号",
+          "romaji": "yuubin bangou",
+          "accent": "ゆうびんば↓んごう",
+          "english": "zip code"
+        },
+        {
+          "japanese": "種類番号",
+          "romaji": "shurui bangou",
+          "accent": "しゅるいば↓んごう",
+          "english": "mail type number"
+        },
+        {
+          "japanese": "国際",
+          "romaji": "kokusai",
+          "accent": "こくさい○",
+          "english": "international"
+        },
+        {
+          "japanese": "書留",
+          "romaji": "kakitome",
+          "accent": "かきとめ○",
+          "english": "registered mail"
+        },
+        {
+          "japanese": "小包",
+          "romaji": "kozutsumi",
+          "accent": "こづ↓つみ",
+          "english": "small parcel"
+        },
+        {
+          "japanese": "お知らせ番号",
+          "romaji": "oshirase bangou",
+          "accent": "おしらせば↓んごう",
+          "english": "notice number"
+        },
+        {
+          "japanese": "配達日",
+          "romaji": "haitatsubi",
+          "accent": "はいたつ↓び",
+          "english": "delivery date"
+        },
+        {
+          "japanese": "保管期限",
+          "romaji": "hokan kigen",
+          "accent": "ほかんき↓げん",
+          "english": "storage deadline"
+        },
+        {
+          "japanese": "勤め先／お勤め先",
+          "romaji": "tsutomesaki / otsutomesaki",
+          "accent": "つとめさき○／おつとめさき○",
+          "english": "where you work"
+        },
+        {
+          "japanese": "近所",
+          "romaji": "kinjo",
+          "accent": "き↓んじょ",
+          "english": "neighbor"
+        },
+        {
+          "japanese": "配達希望日",
+          "romaji": "haitatsu kiboubi",
+          "accent": "はいたつきぼ↓うび",
+          "english": "requested delivery date"
+        },
+        {
+          "japanese": "配達先",
+          "romaji": "haitatsu saki",
+          "accent": "はいたつさき○",
+          "english": "delivery destination"
+        }
       ],
       "audio": "/audio/z/lesson14/wordlist_Z_14-2.mp3"
     },
@@ -22,7 +530,162 @@
       "title": "どのぐらい切りますか？",
       "number": "3.",
       "wordList": [
-        
+        {
+          "japanese": "どのように",
+          "romaji": "donoyouni",
+          "accent": "ど↓のよ↓うに／どのよ↓うに",
+          "english": "how"
+        },
+        {
+          "japanese": "全体的に",
+          "romaji": "zentaiteki ni",
+          "accent": "ぜんたいてきに○",
+          "english": "all over"
+        },
+        {
+          "japanese": "～mm",
+          "romaji": "～miri",
+          "accent": "～ミリ",
+          "english": "～ mm (millimeter(s))"
+        },
+        {
+          "japanese": "まわり",
+          "romaji": "mawari",
+          "accent": "まわり○",
+          "english": "around"
+        },
+        {
+          "japanese": "バリカン",
+          "romaji": "barikan",
+          "accent": "バリカン○",
+          "english": "clippers"
+        },
+        {
+          "japanese": "ひげ剃り",
+          "romaji": "higesori",
+          "accent": "ひげそ↓り／ひげそり○",
+          "english": "shave"
+        },
+        {
+          "japanese": "鏡",
+          "romaji": "kagami",
+          "accent": "かがみ↓",
+          "english": "mirror"
+        },
+        {
+          "japanese": "後ろのほう",
+          "romaji": "ushiro no hou",
+          "accent": "うしろのほ↓う",
+          "english": "the back"
+        },
+        {
+          "japanese": "こんな感じ",
+          "romaji": "konna kanji",
+          "accent": "こんなかんじ○",
+          "english": "like this"
+        },
+        {
+          "japanese": "洗面台",
+          "romaji": "senmendai",
+          "accent": "せんめんだい○",
+          "english": "sink"
+        },
+        {
+          "japanese": "洗う",
+          "romaji": "arau",
+          "accent": "あらう○",
+          "english": "to wash"
+        },
+        {
+          "japanese": "カット",
+          "romaji": "katto",
+          "accent": "カ↓ット",
+          "english": "haircut"
+        },
+        {
+          "japanese": "預かる",
+          "romaji": "azukaru",
+          "accent": "あずか↓る",
+          "english": "to receive"
+        },
+        {
+          "japanese": "お返し",
+          "romaji": "okaeshi",
+          "accent": "おかえし○",
+          "english": "change (polite expression)"
+        },
+        {
+          "japanese": "なさいますか？",
+          "romaji": "nasaimasuka?",
+          "accent": "なさいま↓すか？",
+          "english": "Would you like ～ ? (polite expression)"
+        },
+        {
+          "japanese": "～円からお預かりします",
+          "romaji": "～en kara oazukarishimasu",
+          "accent": "～えんからおあずかりしま↓す",
+          "english": "Out of ～ yen. (polite expression)"
+        },
+        {
+          "japanese": "どのような",
+          "romaji": "donoyouna",
+          "accent": "ど↓のよ↓うな／どのよ↓うな",
+          "english": "how"
+        },
+        {
+          "japanese": "長さ",
+          "romaji": "nagasa",
+          "accent": "な↓がさ／ながさ○",
+          "english": "length"
+        },
+        {
+          "japanese": "シャンプー台",
+          "romaji": "shanpūdai",
+          "accent": "シャンプーだい○",
+          "english": "shampoo station"
+        },
+        {
+          "japanese": "前髪",
+          "romaji": "maegami",
+          "accent": "まえがみ○",
+          "english": "bangs"
+        },
+        {
+          "japanese": "お待ちしておりました",
+          "romaji": "omachishite orimashita",
+          "accent": "おまちしておりま↓した",
+          "english": "We have been waiting for you. (polite expression)"
+        },
+        {
+          "japanese": "かゆいところはございませんか？",
+          "romaji": "kayui tokoro wa gozaimasenka?",
+          "accent": "かゆ↓いところ↓は　ございませ↓んか？",
+          "english": "Does it itch anywhere? (polite expression)"
+        },
+        {
+          "japanese": "どうでしょうか？",
+          "romaji": "doudeshouka?",
+          "accent": "ど↓うでしょうか？",
+          "english": "What do you think? (polite expression)"
+        },
+        {
+          "japanese": "カラー",
+          "romaji": "karaa",
+          "accent": "カ↓ラー",
+          "english": "coloring"
+        },
+        {
+          "japanese": "パーマ",
+          "romaji": "paama",
+          "accent": "パ↓ーマ",
+          "english": "perm"
+        },
+        {
+          "japanese": "トリートメント",
+          "romaji": "toriitomento",
+          "accent": "トリ↓ートメント",
+          "english": "treatment"
+        }
       ],
       "audio": "/audio/z/lesson14/wordlist_Z_14-3.mp3"
     },
@@ -30,7 +693,144 @@
       "title": "外国の方のために、いろいろなサービスがあります",
       "number": "4.",
       "wordList": [
-        
+        {
+          "japanese": "外国人",
+          "romaji": "gaikokujin",
+          "accent": "がいこく↓じん",
+          "english": "foreign resident"
+        },
+        {
+          "japanese": "外国語",
+          "romaji": "gaikokugo",
+          "accent": "がいこくご○",
+          "english": "foreign language"
+        },
+        {
+          "japanese": "～による　（外国語による相談）",
+          "romaji": "～ni yoru (gaikokugo ni yoru soudan)",
+          "accent": "～による　（がいこくごによるそうだん○）",
+          "english": "by ～ / using ～　(e.g. consultation using a foreign language)"
+        },
+        {
+          "japanese": "相談",
+          "romaji": "soudan",
+          "accent": "そうだん○",
+          "english": "consultation"
+        },
+        {
+          "japanese": "翻訳",
+          "romaji": "honyaku",
+          "accent": "ほんやく○",
+          "english": "translation"
+        },
+        {
+          "japanese": "通訳",
+          "romaji": "tsuuyaku",
+          "accent": "つ↓うやく",
+          "english": "interpretation"
+        },
+        {
+          "japanese": "健康診断",
+          "romaji": "kenkoushindan",
+          "accent": "けんこうし↓んだん",
+          "english": "health checkup"
+        },
+        {
+          "japanese": "生活ガイドブック",
+          "romaji": "seikatsu gaidobukku",
+          "accent": "せいかつガイドブ↓ック",
+          "english": "living guidebook"
+        },
+        {
+          "japanese": "日本語教室",
+          "romaji": "nihongo kyoushitsu",
+          "accent": "にほんごきょ↓うしつ",
+          "english": "Japanese language class"
+        },
+        {
+          "japanese": "交流イベント",
+          "romaji": "kouryuu ibento",
+          "accent": "こうりゅうイ↓ベント",
+          "english": "social event"
+        },
+        {
+          "japanese": "質問",
+          "romaji": "shitsumon",
+          "accent": "しつもん○",
+          "english": "question"
+        },
+        {
+          "japanese": "ビザ",
+          "romaji": "biza",
+          "accent": "ビ↓ザ",
+          "english": "visa"
+        },
+        {
+          "japanese": "ほかにも",
+          "romaji": "hokanimo",
+          "accent": "ほかに↓も",
+          "english": "there are also / in addition"
+        },
+        {
+          "japanese": "情報",
+          "romaji": "jouhou",
+          "accent": "じょうほう○",
+          "english": "information"
+        },
+        {
+          "japanese": "けが",
+          "romaji": "kega",
+          "accent": "けが↓",
+          "english": "injury"
+        },
+        {
+          "japanese": "有料",
+          "romaji": "yuuryou",
+          "accent": "ゆうりょう○",
+          "english": "fee-based"
+        },
+        {
+          "japanese": "助かる",
+          "romaji": "tasukaru",
+          "accent": "たすか↓る",
+          "english": "to be helpful"
+        },
+        {
+          "japanese": "楽に",
+          "romaji": "raku ni",
+          "accent": "らく↓に",
+          "english": "easily"
+        },
+        {
+          "japanese": "暮らす",
+          "romaji": "kurasu",
+          "accent": "くらす○",
+          "english": "to live a life"
+        },
+        {
+          "japanese": "センター",
+          "romaji": "sentaa",
+          "accent": "セ↓ンター",
+          "english": "center"
+        },
+        {
+          "japanese": "入門",
+          "romaji": "nyuumon",
+          "accent": "にゅうもん○",
+          "english": "introductory"
+        },
+        {
+          "japanese": "上級",
+          "romaji": "joukyuu",
+          "accent": "じょうきゅう○",
+          "english": "advanced"
+        },
+        {
+          "japanese": "個人レッスン",
+          "romaji": "kojin ressun",
+          "accent": "こじんレ↓ッスン",
+          "english": "private lesson"
+        }
       ],
       "audio": "/audio/z/lesson14/wordlist_Z_14-4.mp3"
     }

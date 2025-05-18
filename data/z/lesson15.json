@@ -6,7 +6,90 @@
       "title": "エコ活動の貼り紙",
       "number": "1.",
       "wordList": [
-        
+        {
+          "japanese": "消す　（電気を消す）",
+          "romaji": "kesu (denki o kesu)",
+          "accent": "けす○　（で↓んきをけす）",
+          "english": "to turn off　(e.g. turn off the light)"
+        },
+        {
+          "japanese": "忘れずに",
+          "romaji": "wasurezuni",
+          "accent": "わすれずに○",
+          "english": "Don't forget to ～"
+        },
+        {
+          "japanese": "クールビズ",
+          "romaji": "kuurubizu",
+          "accent": "クールビ↓ズ",
+          "english": "\"Cool Biz\""
+        },
+        {
+          "japanese": "実施中",
+          "romaji": "jisshichuu",
+          "accent": "じっしちゅう○",
+          "english": "in effect / underway"
+        },
+        {
+          "japanese": "軽装",
+          "romaji": "keisou",
+          "accent": "けいそう○",
+          "english": "light clothing"
+        },
+        {
+          "japanese": "ノー ～　（ノーネクタイ）",
+          "romaji": "noo ～ (noo nekutai)",
+          "accent": "ノー ～　（ノーネ↓クタイト）",
+          "english": "no ～　(e.g. no neckties)"
+        },
+        {
+          "japanese": "設定",
+          "romaji": "settei",
+          "accent": "せってい○",
+          "english": "setting"
+        },
+        {
+          "japanese": "ご理解とご協力のほど、よろしくお願いします",
+          "romaji": "goriakai to gokyouryoku no hodo, yoroshiku onegaishimasu",
+          "accent": "ごり↓かいと　ごきょうりょくのほど○、よろしくおねがいしま↓す",
+          "english": "We ask for your kind understanding and cooperation. (polite expression)"
+        },
+        {
+          "japanese": "節電",
+          "romaji": "setsuden",
+          "accent": "せつでん○",
+          "english": "saving electricity"
+        },
+        {
+          "japanese": "両面印刷",
+          "romaji": "ryoumen insatsu",
+          "accent": "りょうめんい↓んさつ",
+          "english": "double-sided printing"
+        },
+        {
+          "japanese": "マイバッグ",
+          "romaji": "maibaggu",
+          "accent": "マイバ↓ッグ",
+          "english": "reusable shopping bag"
+        },
+        {
+          "japanese": "レジ袋",
+          "romaji": "rejibukuro",
+          "accent": "レジぶ↓くろ",
+          "english": "disposable plastic shopping bag"
+        },
+        {
+          "japanese": "有料化",
+          "romaji": "yuuryouka",
+          "accent": "ゆうりょうか○",
+          "english": "charge for ～"
+        },
+        {
+          "japanese": "持参",
+          "romaji": "jisan",
+          "accent": "じさん○",
+          "english": "bringing"
+        }
       ],
       "audio": "/audio/z/lesson15/wordlist_Z_15-1.mp3"
     },
@@ -14,7 +97,150 @@
       "title": "水がもったいないですよ",
       "number": "2.",
       "wordList": [
-        
+        {
+          "japanese": "環境",
+          "romaji": "kankyou",
+          "accent": "かんきょう○",
+          "english": "environment"
+        },
+        {
+          "japanese": "エコ",
+          "romaji": "eko",
+          "accent": "エ↓コ",
+          "english": "eco-friendly"
+        },
+        {
+          "japanese": "節電する",
+          "romaji": "setsuden suru",
+          "accent": "せつでんする○",
+          "english": "to save electricity"
+        },
+        {
+          "japanese": "節水する",
+          "romaji": "sessui suru",
+          "accent": "せっすいする○",
+          "english": "to save water"
+        },
+        {
+          "japanese": "紙",
+          "romaji": "kami",
+          "accent": "かみ↓",
+          "english": "paper"
+        },
+        {
+          "japanese": "節約する",
+          "romaji": "setsuyaku suru",
+          "accent": "せつやくする○",
+          "english": "to save"
+        },
+        {
+          "japanese": "リサイクルする",
+          "romaji": "risaikuru suru",
+          "accent": "リサ↓イクルする",
+          "english": "to recycle"
+        },
+        {
+          "japanese": "ごみ",
+          "romaji": "gomi",
+          "accent": "ごみ↓",
+          "english": "waste"
+        },
+        {
+          "japanese": "分別する",
+          "romaji": "bunbetsu suru",
+          "accent": "ぶんべつする○",
+          "english": "to sort"
+        },
+        {
+          "japanese": "減らす",
+          "romaji": "herasu",
+          "accent": "へらす○",
+          "english": "to reduce"
+        },
+        {
+          "japanese": "設定温度",
+          "romaji": "settei ondo",
+          "accent": "せっていお↓んど",
+          "english": "set temperature"
+        },
+        {
+          "japanese": "下げる",
+          "romaji": "sageru",
+          "accent": "さげ↓る",
+          "english": "to lower"
+        },
+        {
+          "japanese": "もったいない",
+          "romaji": "mottainai",
+          "accent": "もったいな↓い",
+          "english": "wasteful"
+        },
+        {
+          "japanese": "缶",
+          "romaji": "kan",
+          "accent": "か↓ん",
+          "english": "can"
+        },
+        {
+          "japanese": "まとめる",
+          "romaji": "matomeru",
+          "accent": "まとめる○",
+          "english": "to gather"
+        },
+        {
+          "japanese": "出す　（水を出す）",
+          "romaji": "dasu (mizu o dasu)",
+          "accent": "だ↓す　（みずをだ↓す）",
+          "english": "to run　(e.g. use water / turn the tap on)"
+        },
+        {
+          "japanese": "洗剤",
+          "romaji": "senzai",
+          "accent": "せんざい○",
+          "english": "detergent"
+        },
+        {
+          "japanese": "止める　（水を止める）",
+          "romaji": "tomeru (mizu o tomeru)",
+          "accent": "とめる○　（みずをとめる○）",
+          "english": "to stop　(e.g. stop the water)"
+        },
+        {
+          "japanese": "すすぐ",
+          "romaji": "susugu",
+          "accent": "すすぐ○",
+          "english": "to rinse"
+        },
+        {
+          "japanese": "ストロー",
+          "romaji": "sutoroo",
+          "accent": "スト↓ロー",
+          "english": "straw"
+        },
+        {
+          "japanese": "マイ～　（マイストロー）",
+          "romaji": "mai～ (maisutoroo)",
+          "accent": "マイ～　（マイスト↓ロー）",
+          "english": "personal ～　(e.g. a personal straw)"
+        },
+        {
+          "japanese": "持ち歩く",
+          "romaji": "mochiaruku",
+          "accent": "もちある↓く／もちあるく○",
+          "english": "to carry"
+        },
+        {
+          "japanese": "マイボトル",
+          "romaji": "maibotoru",
+          "accent": "マイボ↓トル",
+          "english": "personal bottle"
+        },
+        {
+          "japanese": "ペットボトル",
+          "romaji": "pettobotoru",
+          "accent": "ペットボ↓トル",
+          "english": "plastic bottles"
+        }
       ],
       "audio": "/audio/z/lesson15/wordlist_Z_15-2.mp3"
     },
@@ -22,7 +248,348 @@
       "title": "ごみの分け方・出し方",
       "number": "3.",
       "wordList": [
-        
+        {
+          "japanese": "資源",
+          "romaji": "shigen",
+          "accent": "し↓げん",
+          "english": "recyclables"
+        },
+        {
+          "japanese": "分け方",
+          "romaji": "wakekata",
+          "accent": "わけか↓た",
+          "english": "how to separate"
+        },
+        {
+          "japanese": "出し方",
+          "romaji": "dashikata",
+          "accent": "だしか↓た",
+          "english": "how to put out"
+        },
+        {
+          "japanese": "集積所",
+          "romaji": "shuusekijo",
+          "accent": "しゅうせきじょ○／しゅうせきじょ↓",
+          "english": "collection point"
+        },
+        {
+          "japanese": "収集日",
+          "romaji": "shuushuubi",
+          "accent": "しゅうしゅ↓うび",
+          "english": "collection day"
+        },
+        {
+          "japanese": "資源ごみ",
+          "romaji": "shigen gomi",
+          "accent": "しげ↓んごみ",
+          "english": "recyclable waste"
+        },
+        {
+          "japanese": "～種類（4種類）",
+          "romaji": "～shurui (yon shurui)",
+          "accent": "～しゅ↓るい　（よんしゅ↓るい）",
+          "english": "～ type(s) (e.g. four types)"
+        },
+        {
+          "japanese": "分ける",
+          "romaji": "wakeru",
+          "accent": "わけ↓る",
+          "english": "to separate"
+        },
+        {
+          "japanese": "ひも",
+          "romaji": "himo",
+          "accent": "ひも○",
+          "english": "string"
+        },
+        {
+          "japanese": "しばる",
+          "romaji": "shibaru",
+          "accent": "しば↓る",
+          "english": "to tie"
+        },
+        {
+          "japanese": "新聞",
+          "romaji": "shinbun",
+          "accent": "しんぶん○",
+          "english": "newspaper"
+        },
+        {
+          "japanese": "雑誌",
+          "romaji": "zasshi",
+          "accent": "ざっし○",
+          "english": "magazine"
+        },
+        {
+          "japanese": "中身",
+          "romaji": "nakami",
+          "accent": "なか↓み",
+          "english": "content"
+        },
+        {
+          "japanese": "びん",
+          "romaji": "bin",
+          "accent": "び↓ん",
+          "english": "bottle"
+        },
+        {
+          "japanese": "キャップ",
+          "romaji": "kyappu",
+          "accent": "キャップ○",
+          "english": "(plastic bottle) tops"
+        },
+        {
+          "japanese": "ラベル",
+          "romaji": "raberu",
+          "accent": "ラベル○／ラ↓ベル",
+          "english": "label"
+        },
+        {
+          "japanese": "つぶす",
+          "romaji": "tsubusu",
+          "accent": "つぶす○",
+          "english": "to break down"
+        },
+        {
+          "japanese": "紙パック",
+          "romaji": "kami pakku",
+          "accent": "かみパ↓ック",
+          "english": "drink cartons"
+        },
+        {
+          "japanese": "切り開く",
+          "romaji": "kirihiraku",
+          "accent": "きりひら↓く",
+          "english": "to cut open"
+        },
+        {
+          "japanese": "食品トレイ",
+          "romaji": "shokuhin torei",
+          "accent": "しょくひんト↓レイ",
+          "english": "food trays"
+        },
+        {
+          "japanese": "可燃ごみ",
+          "romaji": "kanen gomi",
+          "accent": "かね↓んごみ",
+          "english": "burnable waste"
+        },
+        {
+          "japanese": "生ごみ",
+          "romaji": "namagomi",
+          "accent": "なま↓ごみ",
+          "english": "food waste"
+        },
+        {
+          "japanese": "水を切る",
+          "romaji": "mizu o kiru",
+          "accent": "みずをき↓る",
+          "english": "to dry"
+        },
+        {
+          "japanese": "布",
+          "romaji": "nuno",
+          "accent": "ぬの○",
+          "english": "cloths"
+        },
+        {
+          "japanese": "しみこませる",
+          "romaji": "shimikomaseru",
+          "accent": "しみこませ↓る",
+          "english": "to soak up"
+        },
+        {
+          "japanese": "固める",
+          "romaji": "katameru",
+          "accent": "かためる○",
+          "english": "to solidify"
+        },
+        {
+          "japanese": "プラスチック",
+          "romaji": "purasuchikku",
+          "accent": "プラスチ↓ック",
+          "english": "plastic"
+        },
+        {
+          "japanese": "再生（する）",
+          "romaji": "saisei (suru)",
+          "accent": "さいせい（する）○",
+          "english": "(to) recycle / regenerate"
+        },
+        {
+          "japanese": "少量",
+          "romaji": "shouryou",
+          "accent": "しょうりょ↓う／しょうりょう○",
+          "english": "small quantity"
+        },
+        {
+          "japanese": "植木",
+          "romaji": "ueki",
+          "accent": "うえき○",
+          "english": "plants"
+        },
+        {
+          "japanese": "枝",
+          "romaji": "eda",
+          "accent": "えだ○",
+          "english": "branches"
+        },
+        {
+          "japanese": "葉",
+          "romaji": "ha",
+          "accent": "は○",
+          "english": "leaves"
+        },
+        {
+          "japanese": "使い古し",
+          "romaji": "tsukaifurushi",
+          "accent": "つかいふるし○",
+          "english": "used"
+        },
+        {
+          "japanese": "凝固剤",
+          "romaji": "gyoukozai",
+          "accent": "ぎょうこざい○／ぎょうこ↓ざい",
+          "english": "coagulant"
+        },
+        {
+          "japanese": "ビニール",
+          "romaji": "biniiru",
+          "accent": "ビニ↓ール",
+          "english": "vinyl"
+        },
+        {
+          "japanese": "～類（ビニール類）",
+          "romaji": "～rui (biniiru-rui)",
+          "accent": "～るい（ビニール↓るい）",
+          "english": "type(s) of 〜 (e.g. types of vinyl)"
+        },
+        {
+          "japanese": "ラップ",
+          "romaji": "rappu",
+          "accent": "ラップ○",
+          "english": "cellophane wrap"
+        },
+        {
+          "japanese": "容器",
+          "romaji": "youki",
+          "accent": "よ↓うき",
+          "english": "container"
+        },
+        {
+          "japanese": "発泡スチロール",
+          "romaji": "happou suchirooru",
+          "accent": "はっぽうスチロ↓ール",
+          "english": "styrofoam"
+        },
+        {
+          "japanese": "不燃ごみ",
+          "romaji": "funen gomi",
+          "accent": "ふね↓んごみ",
+          "english": "non-burnable waste"
+        },
+        {
+          "japanese": "割れる",
+          "romaji": "wareru",
+          "accent": "われる○",
+          "english": "to break"
+        },
+        {
+          "japanese": "包む",
+          "romaji": "tsutsumu",
+          "accent": "つつ↓む",
+          "english": "to wrap up"
+        },
+        {
+          "japanese": "危険",
+          "romaji": "kiken",
+          "accent": "きけん○",
+          "english": "danger"
+        },
+        {
+          "japanese": "乾電池",
+          "romaji": "kandenchi",
+          "accent": "かんで↓んち",
+          "english": "dry cell battery"
+        },
+        {
+          "japanese": "刃物",
+          "romaji": "hamono",
+          "accent": "は↓もの",
+          "english": "knives"
+        },
+        {
+          "japanese": "ガラス",
+          "romaji": "garasu",
+          "accent": "ガラス○",
+          "english": "glass"
+        },
+        {
+          "japanese": "陶磁器",
+          "romaji": "toujiki",
+          "accent": "とうじ↓き",
+          "english": "ceramics"
+        },
+        {
+          "japanese": "電球",
+          "romaji": "denkyuu",
+          "accent": "でんきゅう○",
+          "english": "light bulbs"
+        },
+        {
+          "japanese": "アルミ製品",
+          "romaji": "arumi seihin",
+          "accent": "アルミせ↓いひん",
+          "english": "aluminum items"
+        },
+        {
+          "japanese": "金属",
+          "romaji": "kinzoku",
+          "accent": "き↓んぞく",
+          "english": "metals"
+        },
+        {
+          "japanese": "家電製品",
+          "romaji": "kaden seihin",
+          "accent": "かでんせ↓いひん",
+          "english": "electric appliances"
+        },
+        {
+          "japanese": "粗大ごみ",
+          "romaji": "sodai gomi",
+          "accent": "そだ↓いごみ",
+          "english": "large waste"
+        },
+        {
+          "japanese": "家具",
+          "romaji": "kagu",
+          "accent": "か↓ぐ",
+          "english": "furniture"
+        },
+        {
+          "japanese": "寝具",
+          "romaji": "shingu",
+          "accent": "し↓んぐ",
+          "english": "bedding"
+        },
+        {
+          "japanese": "牛乳パック",
+          "romaji": "gyuunyuu pakku",
+          "accent": "ぎゅうにゅうパ↓ック",
+          "english": "milk carton"
+        },
+        {
+          "japanese": "使い切る",
+          "romaji": "tsukaikiru",
+          "accent": "つかいき↓る",
+          "english": "to use up"
+        },
+        {
+          "japanese": "燃える（燃えるごみ）",
+          "romaji": "moeru (moeru gomi)",
+          "accent": "もえる○（もえるごみ↓）",
+          "english": "burnable (e.g. burnable waste)"
+        }
       ],
       "audio": "/audio/z/lesson15/wordlist_Z_15-3.mp3"
     },
@@ -30,7 +597,42 @@
       "title": "どうやって捨てればいいですか？",
       "number": "4.",
       "wordList": [
-        
+        {
+          "japanese": "取る",
+          "romaji": "toru",
+          "accent": "と↓る",
+          "english": "to take off / to peel off"
+        },
+        {
+          "japanese": "出す（ごみを出す）",
+          "romaji": "dasu (gomi o dasu)",
+          "accent": "だ↓す（ごみ↓をだ↓す）",
+          "english": "to put out (e.g. put out trash)"
+        },
+        {
+          "japanese": "粗大ごみ受付センター",
+          "romaji": "sodai gomi uketsuke sentaa",
+          "accent": "そだ↓いごみ△うけつけセ↓ンター",
+          "english": "bulky garbage reception center"
+        },
+        {
+          "japanese": "大きさ",
+          "romaji": "ookisa",
+          "accent": "おおきさ○",
+          "english": "size"
+        },
+        {
+          "japanese": "シール",
+          "romaji": "shiiru",
+          "accent": "シ↓ール",
+          "english": "sticker"
+        },
+        {
+          "japanese": "貼る",
+          "romaji": "haru",
+          "accent": "はる○",
+          "english": "to paste"
+        }
       ],
       "audio": "/audio/z/lesson15/wordlist_Z_15-4.mp3"
     }

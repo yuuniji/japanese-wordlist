@@ -6,7 +6,366 @@
       "title": "緊急地震速報です",
       "number": "1.",
       "wordList": [
-        
+        {
+          "japanese": "災害",
+          "romaji": "saigai",
+          "accent": "さいがい○",
+          "english": "disaster"
+        },
+        {
+          "japanese": "台風",
+          "romaji": "taifuu",
+          "accent": "たいふ↓う",
+          "english": "typhoon"
+        },
+        {
+          "japanese": "地震",
+          "romaji": "jishin",
+          "accent": "じしん○",
+          "english": "earthquake"
+        },
+        {
+          "japanese": "火事",
+          "romaji": "kaji",
+          "accent": "か↓じ",
+          "english": "fire"
+        },
+        {
+          "japanese": "火災",
+          "romaji": "kasai",
+          "accent": "かさい○",
+          "english": "fire"
+        },
+        {
+          "japanese": "大雪",
+          "romaji": "ooyuki",
+          "accent": "おおゆき○",
+          "english": "heavy snow"
+        },
+        {
+          "japanese": "津波",
+          "romaji": "tsunami",
+          "accent": "つなみ○",
+          "english": "tsunami"
+        },
+        {
+          "japanese": "起こる（地震が起こる）",
+          "romaji": "okoru (jishin ga okoru)",
+          "accent": "おこ↓る（じしんがおこ↓る）",
+          "english": "to occur (e.g. an earthquake occurs)"
+        },
+        {
+          "japanese": "揺れる",
+          "romaji": "yureru",
+          "accent": "ゆれる○",
+          "english": "to shake"
+        },
+        {
+          "japanese": "火事になる",
+          "romaji": "kaji ni naru",
+          "accent": "か↓じにな↓る",
+          "english": "to turn into a fire"
+        },
+        {
+          "japanese": "火が出る",
+          "romaji": "hi ga deru",
+          "accent": "ひ↓がで↓る",
+          "english": "to catch fire / to be on fire"
+        },
+        {
+          "japanese": "積もる（雪が積もる）",
+          "romaji": "tsumoru (yuki ga tsumoru)",
+          "accent": "つも↓る（ゆき↓が　つも↓る）",
+          "english": "to pile up (e.g. snow piles up)"
+        },
+        {
+          "japanese": "ニュース",
+          "romaji": "nyuusu",
+          "accent": "ニュ↓ース",
+          "english": "news"
+        },
+        {
+          "japanese": "緊急速報",
+          "romaji": "kinkyuu sokuhou",
+          "accent": "きんきゅうそ↓くほう",
+          "english": "emergency report"
+        },
+        {
+          "japanese": "避難する",
+          "romaji": "hinan suru",
+          "accent": "ひ↓なんする",
+          "english": "to evacuate / to take shelter"
+        },
+        {
+          "japanese": "倒れる",
+          "romaji": "taoreru",
+          "accent": "たおれ↓る",
+          "english": "to fall down"
+        },
+        {
+          "japanese": "離れる",
+          "romaji": "hanareru",
+          "accent": "はなれ↓る",
+          "english": "to move away"
+        },
+        {
+          "japanese": "近づく",
+          "romaji": "chikazuku",
+          "accent": "ちかづく○／ちかづ↓く",
+          "english": "to approach"
+        },
+        {
+          "japanese": "隠れる",
+          "romaji": "kakureru",
+          "accent": "かくれ↓る",
+          "english": "to take cover"
+        },
+        {
+          "japanese": "あわてる",
+          "romaji": "awateru",
+          "accent": "あわてる○",
+          "english": "to panic"
+        },
+        {
+          "japanese": "落ち着く",
+          "romaji": "ochitsuku",
+          "accent": "おちつく○",
+          "english": "to be calm"
+        },
+        {
+          "japanese": "行動する",
+          "romaji": "koudou suru",
+          "accent": "こうどうする○",
+          "english": "to act"
+        },
+        {
+          "japanese": "出る（外に出る）",
+          "romaji": "deru (soto ni deru)",
+          "accent": "で↓る（そ↓とに　で↓る）",
+          "english": "to leave / to go out (e.g. go outside)"
+        },
+        {
+          "japanese": "最新",
+          "romaji": "saishin",
+          "accent": "さいしん○",
+          "english": "latest"
+        },
+        {
+          "japanese": "確認する",
+          "romaji": "kakunin suru",
+          "accent": "かくにんする○",
+          "english": "to check"
+        },
+        {
+          "japanese": "海岸",
+          "romaji": "kaigan",
+          "accent": "かいがん○",
+          "english": "coast"
+        },
+        {
+          "japanese": "上陸する",
+          "romaji": "jouriku suru",
+          "accent": "じょうりくする○",
+          "english": "to land"
+        },
+        {
+          "japanese": "非常に",
+          "romaji": "hijou ni",
+          "accent": "ひじょうに○",
+          "english": "extremely"
+        },
+        {
+          "japanese": "激しい",
+          "romaji": "hageshii",
+          "accent": "はげし↓い",
+          "english": "strong"
+        },
+        {
+          "japanese": "様子",
+          "romaji": "yousu",
+          "accent": "ようす○",
+          "english": "what is happening"
+        },
+        {
+          "japanese": "絶対に",
+          "romaji": "zettai ni",
+          "accent": "ぜったいに○",
+          "english": "at any cost"
+        },
+        {
+          "japanese": "やめる",
+          "romaji": "yameru",
+          "accent": "やめる○",
+          "english": "to stop"
+        },
+        {
+          "japanese": "安全（な）",
+          "romaji": "anzen (na)",
+          "accent": "あんぜん（な）○",
+          "english": "safe"
+        },
+        {
+          "japanese": "～から～にかけて",
+          "romaji": "～ kara ～ ni kakete",
+          "accent": "～から～にか↓けて",
+          "english": "from ～ to ～"
+        },
+        {
+          "japanese": "関東（地方）",
+          "romaji": "Kantou (chihou)",
+          "accent": "か↓んとう／かんとうち↓ほう",
+          "english": "Kanto (region)"
+        },
+        {
+          "japanese": "見込み",
+          "romaji": "mikomi",
+          "accent": "みこみ○",
+          "english": "expected (to)"
+        },
+        {
+          "japanese": "伊豆諸島",
+          "romaji": "Izu shotou",
+          "accent": "いずしょ↓とう",
+          "english": "Izu Islands"
+        },
+        {
+          "japanese": "東海",
+          "romaji": "Tokai",
+          "accent": "とうかい○",
+          "english": "Tokai (region)"
+        },
+        {
+          "japanese": "局地的に",
+          "romaji": "kyokuchiteki ni",
+          "accent": "きょくちてきに○",
+          "english": "in a certain area"
+        },
+        {
+          "japanese": "係員",
+          "romaji": "kakariin",
+          "accent": "かかり↓いん",
+          "english": "attendant"
+        },
+        {
+          "japanese": "指示",
+          "romaji": "shiji",
+          "accent": "し↓じ",
+          "english": "instructions"
+        },
+        {
+          "japanese": "従う（指示に従う）",
+          "romaji": "shitagau (shiji ni shitagau)",
+          "accent": "したがう○（し↓じにしたがう）",
+          "english": "to follow (e.g. follow instructions)"
+        },
+        {
+          "japanese": "年寄り／お年寄り",
+          "romaji": "toshiyori / otoshiyori",
+          "accent": "としよ↓り／おとしより○",
+          "english": "elderly"
+        },
+        {
+          "japanese": "優先",
+          "romaji": "yuusen",
+          "accent": "ゆうせん○",
+          "english": "priority"
+        },
+        {
+          "japanese": "揺れ",
+          "romaji": "yure",
+          "accent": "ゆれ○",
+          "english": "shake"
+        },
+        {
+          "japanese": "警戒する",
+          "romaji": "keikai suru",
+          "accent": "けいかいする○",
+          "english": "to exercise caution"
+        },
+        {
+          "japanese": "守る（身を守る）",
+          "romaji": "mamoru (mi o mamoru)",
+          "accent": "まも↓る（みをまも↓る）",
+          "english": "to protect (e.g. protect oneself)"
+        },
+        {
+          "japanese": "家具",
+          "romaji": "kagu",
+          "accent": "か↓ぐ",
+          "english": "furniture"
+        },
+        {
+          "japanese": "震源",
+          "romaji": "shingen",
+          "accent": "しんげん○",
+          "english": "seismic center"
+        },
+        {
+          "japanese": "海底",
+          "romaji": "kaitei",
+          "accent": "かいてい○",
+          "english": "bottom of the ocean"
+        },
+        {
+          "japanese": "～のおそれがある",
+          "romaji": "～ no osore ga aru",
+          "accent": "～のおそれ↓があ↓る",
+          "english": "there is a threat of ～"
+        },
+        {
+          "japanese": "緊急地震速報",
+          "romaji": "kinkyuu jishin sokuhou",
+          "accent": "きんきゅうじしんそ↓くほう",
+          "english": "earthquake early warning"
+        },
+        {
+          "japanese": "滋賀",
+          "romaji": "Shiga",
+          "accent": "し↓が",
+          "english": "Shiga"
+        },
+        {
+          "japanese": "兵庫",
+          "romaji": "Hyogo",
+          "accent": "ひょ↓うご",
+          "english": "Hyogo"
+        },
+        {
+          "japanese": "福井",
+          "romaji": "Fukui",
+          "accent": "ふ↓くい",
+          "english": "Fukui"
+        },
+        {
+          "japanese": "三重",
+          "romaji": "Mie",
+          "accent": "み↓え",
+          "english": "Mie"
+        },
+        {
+          "japanese": "和歌山",
+          "romaji": "Wakayama",
+          "accent": "わか↓やま",
+          "english": "Wakayama"
+        },
+        {
+          "japanese": "香川",
+          "romaji": "Kagawa",
+          "accent": "か↓がわ",
+          "english": "Kagawa"
+        },
+        {
+          "japanese": "近畿地方",
+          "romaji": "Kinki chihou",
+          "accent": "きんきち↓ほう",
+          "english": "Kinki region"
+        },
+        {
+          "japanese": "感じる",
+          "romaji": "kanjiru",
+          "accent": "かんじる○",
+          "english": "to feel"
+        }
       ],
       "audio": "/audio/z/lesson16/wordlist_Z_16-1.mp3"
     },
@@ -14,7 +373,360 @@
       "title": "避難訓練を始めます",
       "number": "2.",
       "wordList": [
-        
+        {
+          "japanese": "防災訓練",
+          "romaji": "bousai kunren",
+          "accent": "ぼうさいく↓んれん",
+          "english": "emergency drill"
+        },
+        {
+          "japanese": "避難訓練",
+          "romaji": "hinan kunren",
+          "accent": "ひなんく↓んれん",
+          "english": "evacuation drill"
+        },
+        {
+          "japanese": "防災頭巾",
+          "romaji": "bousai zukin",
+          "accent": "ぼうさいず↓きん",
+          "english": "protective hood"
+        },
+        {
+          "japanese": "ヘルメット",
+          "romaji": "herumetto",
+          "accent": "ヘ↓ルメット／ヘルメ↓ット",
+          "english": "helmet"
+        },
+        {
+          "japanese": "かぶる（ヘルメットをかぶる）",
+          "romaji": "kaburu (herumetto o kaburu)",
+          "accent": "かぶ↓る（ヘ↓ルメットを　かぶ↓る）",
+          "english": "to wear (e.g. wear a helmet)"
+        },
+        {
+          "japanese": "ドア",
+          "romaji": "doa",
+          "accent": "ド↓ア",
+          "english": "door"
+        },
+        {
+          "japanese": "開ける",
+          "romaji": "akeru",
+          "accent": "あける○",
+          "english": "to open"
+        },
+        {
+          "japanese": "火",
+          "romaji": "hi",
+          "accent": "ひ↓",
+          "english": "fire"
+        },
+        {
+          "japanese": "消す（火を消す）",
+          "romaji": "kesu (hi o kesu)",
+          "accent": "けす○（ひ↓を　けす○）",
+          "english": "to extinguish (e.g. extinguish a fire)"
+        },
+        {
+          "japanese": "消火する",
+          "romaji": "shouka suru",
+          "accent": "しょうかする○",
+          "english": "to put out fire"
+        },
+        {
+          "japanese": "消防署",
+          "romaji": "shoubousho",
+          "accent": "しょうぼうしょ○／しょうぼうしょ↓",
+          "english": "fire station / fire department"
+        },
+        {
+          "japanese": "119番",
+          "romaji": "hyakujuukyuu ban",
+          "accent": "ひゃくじゅうきゅ↓うばん",
+          "english": "phone number 119"
+        },
+        {
+          "japanese": "集まる",
+          "romaji": "atsumaru",
+          "accent": "あつま↓る",
+          "english": "to get together"
+        },
+        {
+          "japanese": "並ぶ",
+          "romaji": "narabu",
+          "accent": "ならぶ○",
+          "english": "to line up"
+        },
+        {
+          "japanese": "点呼する",
+          "romaji": "tenko suru",
+          "accent": "て↓んこする",
+          "english": "to call the roll"
+        },
+        {
+          "japanese": "報告する",
+          "romaji": "houkoku suru",
+          "accent": "ほうこくする○",
+          "english": "to report"
+        },
+        {
+          "japanese": "知らせる",
+          "romaji": "shiraseru",
+          "accent": "しらせる○",
+          "english": "to inform"
+        },
+        {
+          "japanese": "姿勢",
+          "romaji": "shisei",
+          "accent": "しせい○",
+          "english": "posture / position"
+        },
+        {
+          "japanese": "低くする",
+          "romaji": "hikuku suru",
+          "accent": "ひく↓くする",
+          "english": "to lower"
+        },
+        {
+          "japanese": "しゃがむ",
+          "romaji": "shagamu",
+          "accent": "しゃがむ○",
+          "english": "to crouch"
+        },
+        {
+          "japanese": "ハンカチ",
+          "romaji": "hankachi",
+          "accent": "ハンカチ○／ハンカ↓チ",
+          "english": "handkerchief"
+        },
+        {
+          "japanese": "口に当てる",
+          "romaji": "kuchi ni ateru",
+          "accent": "くちにあてる○",
+          "english": "to put over one's mouth"
+        },
+        {
+          "japanese": "火災報知器",
+          "romaji": "kasai houchiki",
+          "accent": "かさいほうち↓き",
+          "english": "fire alarm"
+        },
+        {
+          "japanese": "鳴る",
+          "romaji": "naru",
+          "accent": "なる○",
+          "english": "to ring / to sound"
+        },
+        {
+          "japanese": "震度",
+          "romaji": "shindo",
+          "accent": "し↓んど",
+          "english": "earthquake intensity"
+        },
+        {
+          "japanese": "おさまる（揺れがおさまる）",
+          "romaji": "osamaru (yure ga osamaru)",
+          "accent": "おさま↓る（ゆれがおさま↓る）",
+          "english": "to stop (e.g. the shaking has stopped)"
+        },
+        {
+          "japanese": "避難",
+          "romaji": "hinan",
+          "accent": "ひ↓なん",
+          "english": "evacuation"
+        },
+        {
+          "japanese": "開始する",
+          "romaji": "kaishi suru",
+          "accent": "かいしする○",
+          "english": "to start"
+        },
+        {
+          "japanese": "中庭",
+          "romaji": "nakaniwa",
+          "accent": "なかにわ○",
+          "english": "courtyard"
+        },
+        {
+          "japanese": "～ごと（チームごと）",
+          "romaji": "～goto (chiimu goto)",
+          "accent": "～ご↓と（チームご↓と）",
+          "english": "each ～ (e.g. each team)"
+        },
+        {
+          "japanese": "初期消火",
+          "romaji": "shoki shouka",
+          "accent": "しょきしょ↓うか",
+          "english": "extinguishing a fire in the early stages"
+        },
+        {
+          "japanese": "消火器",
+          "romaji": "shoukaki",
+          "accent": "しょうか↓き",
+          "english": "fire extinguisher"
+        },
+        {
+          "japanese": "逃げ遅れる",
+          "romaji": "nigeokureru",
+          "accent": "にげおくれ↓る／にげおくれる○",
+          "english": "to fail to escape"
+        },
+        {
+          "japanese": "一つ一つ",
+          "romaji": "hitotsu hitotsu",
+          "accent": "ひとつひと↓つ",
+          "english": "one by one"
+        },
+        {
+          "japanese": "見て回る",
+          "romaji": "mite mawaru",
+          "accent": "み↓てまわる",
+          "english": "to look around"
+        },
+        {
+          "japanese": "煙体験",
+          "romaji": "kemuri taiken",
+          "accent": "けむりた↓いけん",
+          "english": "smoke simulation"
+        },
+        {
+          "japanese": "煙",
+          "romaji": "kemuri",
+          "accent": "けむり○",
+          "english": "smoke"
+        },
+        {
+          "japanese": "充満する",
+          "romaji": "juuman suru",
+          "accent": "じゅうまんする○",
+          "english": "to fill"
+        },
+        {
+          "japanese": "逃げる",
+          "romaji": "nigeru",
+          "accent": "にげ↓る",
+          "english": "to escape"
+        },
+        {
+          "japanese": "進む",
+          "romaji": "susumu",
+          "accent": "すすむ○",
+          "english": "to move forward"
+        },
+        {
+          "japanese": "注意点",
+          "romaji": "chuuiten",
+          "accent": "ちゅうい↓てん",
+          "english": "things to pay attention to"
+        },
+        {
+          "japanese": "吸う（煙を吸う）",
+          "romaji": "suu (kemuri o suu)",
+          "accent": "すう○（けむりをすう○）",
+          "english": "to breathe (e.g. breathe smoke)"
+        },
+        {
+          "japanese": "声",
+          "romaji": "koe",
+          "accent": "こ↓え",
+          "english": "voice / call"
+        },
+        {
+          "japanese": "声をかけ合う",
+          "romaji": "koe o kakeau",
+          "accent": "こ↓えを　かけあ↓う",
+          "english": "to speak to each other"
+        },
+        {
+          "japanese": "床",
+          "romaji": "yuka",
+          "accent": "ゆか○",
+          "english": "floor"
+        },
+        {
+          "japanese": "安全ピン",
+          "romaji": "anzen pin",
+          "accent": "あんぜ↓んピン",
+          "english": "safety pin"
+        },
+        {
+          "japanese": "レバー",
+          "romaji": "rebaa",
+          "accent": "レ↓バー",
+          "english": "lever"
+        },
+        {
+          "japanese": "ホース",
+          "romaji": "hoosu",
+          "accent": "ホ↓ース",
+          "english": "hose"
+        },
+        {
+          "japanese": "抜く",
+          "romaji": "nuku",
+          "accent": "ぬく○",
+          "english": "to pull"
+        },
+        {
+          "japanese": "先",
+          "romaji": "saki",
+          "accent": "さき○",
+          "english": "tip"
+        },
+        {
+          "japanese": "向ける",
+          "romaji": "mukeru",
+          "accent": "むける○",
+          "english": "to direct at"
+        },
+        {
+          "japanese": "途中",
+          "romaji": "tochuu",
+          "accent": "とちゅう○",
+          "english": "middle"
+        },
+        {
+          "japanese": "握る",
+          "romaji": "nigiru",
+          "accent": "にぎる○",
+          "english": "to take hold"
+        },
+        {
+          "japanese": "噴射する",
+          "romaji": "funsha suru",
+          "accent": "ふんしゃする○",
+          "english": "to spray"
+        },
+        {
+          "japanese": "左右",
+          "romaji": "sayuu",
+          "accent": "さ↓ゆう",
+          "english": "right and left"
+        },
+        {
+          "japanese": "狙う",
+          "romaji": "nerau",
+          "accent": "ねらう○",
+          "english": "to aim at"
+        },
+        {
+          "japanese": "消える",
+          "romaji": "kieru",
+          "accent": "きえる○",
+          "english": "to extinguish"
+        },
+        {
+          "japanese": "～m（4m）",
+          "romaji": "～ meetoru (yon meetoru)",
+          "accent": "～メ↓ートル（よんメ↓ートル）",
+          "english": "～ meter(s) (e.g. 4 meters)"
+        },
+        {
+          "japanese": "～秒（20秒）",
+          "romaji": "～ byou (nijuu byou)",
+          "accent": "～びょう（にじゅ↓うびょう）",
+          "english": "～ second(s) (e.g. 20 seconds)"
+        }
       ],
       "audio": "/audio/z/lesson16/wordlist_Z_16-2.mp3"
     },
@@ -22,7 +734,78 @@
       "title": "地震が起こったときは…",
       "number": "3.",
       "wordList": [
-        
+        {
+          "japanese": "感じる",
+          "romaji": "kanjiru",
+          "accent": "かんじる○",
+          "english": "to feel"
+        },
+        {
+          "japanese": "落ちる",
+          "romaji": "ochiru",
+          "accent": "おち↓る",
+          "english": "to fall"
+        },
+        {
+          "japanese": "ゆがむ",
+          "romaji": "yugamu",
+          "accent": "ゆがむ○",
+          "english": "to get distorted"
+        },
+        {
+          "japanese": "無理をする",
+          "romaji": "muri wo suru",
+          "accent": "む↓りをする",
+          "english": "to force oneself"
+        },
+        {
+          "japanese": "ガスコンロ",
+          "romaji": "gasu konro",
+          "accent": "ガスコ↓ンロ",
+          "english": "stove burner"
+        },
+        {
+          "japanese": "～必要がある／ない",
+          "romaji": "～ hitsuyou ga aru/nai",
+          "accent": "～ひつようがあ↓る／な↓い",
+          "english": "it is necessary to ～ / it is not necessary to ～"
+        },
+        {
+          "japanese": "天井",
+          "romaji": "tenjou",
+          "accent": "てんじょう○",
+          "english": "ceiling"
+        },
+        {
+          "japanese": "届く",
+          "romaji": "todoku",
+          "accent": "とど↓く",
+          "english": "to reach"
+        },
+        {
+          "japanese": "危ない",
+          "romaji": "abunai",
+          "accent": "あぶない○／あぶな↓い",
+          "english": "dangerous"
+        },
+        {
+          "japanese": "町中",
+          "romaji": "machinaka",
+          "accent": "まちなか○",
+          "english": "on the street"
+        },
+        {
+          "japanese": "屋外",
+          "romaji": "okugai",
+          "accent": "おく↓がい",
+          "english": "outdoors"
+        },
+        {
+          "japanese": "ガラス",
+          "romaji": "garasu",
+          "accent": "ガラス○",
+          "english": "glass"
+        }
       ],
       "audio": "/audio/z/lesson16/wordlist_Z_16-3.mp3"
     },
@@ -30,7 +813,192 @@
       "title": "避難所はどこですか？",
       "number": "4.",
       "wordList": [
-        
+        {
+          "japanese": "影響",
+          "romaji": "eikyou",
+          "accent": "えいきょう○",
+          "english": "impact"
+        },
+        {
+          "japanese": "断水する",
+          "romaji": "dansui suru",
+          "accent": "だんすいする○",
+          "english": "to have a water outage"
+        },
+        {
+          "japanese": "止まる（水が止まる）",
+          "romaji": "tomaru (mizu ga tomaru)",
+          "accent": "とまる○（みずがとまる○）",
+          "english": "to stop (e.g. the water has stopped)"
+        },
+        {
+          "japanese": "停電する",
+          "romaji": "teiden suru",
+          "accent": "ていでんする○",
+          "english": "to have a power outage"
+        },
+        {
+          "japanese": "電気",
+          "romaji": "denki",
+          "accent": "で↓んき",
+          "english": "electricity"
+        },
+        {
+          "japanese": "ガス",
+          "romaji": "gasu",
+          "accent": "ガ↓ス",
+          "english": "gas"
+        },
+        {
+          "japanese": "通行止め",
+          "romaji": "tsuukoudome",
+          "accent": "つうこうどめ○",
+          "english": "road closed"
+        },
+        {
+          "japanese": "避難所",
+          "romaji": "hinanjo",
+          "accent": "ひなんじょ○／ひなんじょ↓",
+          "english": "evacuation center"
+        },
+        {
+          "japanese": "給水車",
+          "romaji": "kyuusui sha",
+          "accent": "きゅうす↓いしゃ",
+          "english": "water tank truck"
+        },
+        {
+          "japanese": "炊き出し",
+          "romaji": "takidashi",
+          "accent": "たきだし○",
+          "english": "emergency food distribution"
+        },
+        {
+          "japanese": "必要（な）",
+          "romaji": "hitsuyou (na)",
+          "accent": "ひつよう（な）○",
+          "english": "necessary"
+        },
+        {
+          "japanese": "水",
+          "romaji": "mizu",
+          "accent": "みず○",
+          "english": "water"
+        },
+        {
+          "japanese": "非常食",
+          "romaji": "hijoushoku",
+          "accent": "ひじょ↓うしょく",
+          "english": "emergency food"
+        },
+        {
+          "japanese": "懐中電灯",
+          "romaji": "kaichuudentou",
+          "accent": "かいちゅうで↓んとう",
+          "english": "torch"
+        },
+        {
+          "japanese": "ろうそく",
+          "romaji": "rousoku",
+          "accent": "ろうそ↓く",
+          "english": "candle"
+        },
+        {
+          "japanese": "ラジオ",
+          "romaji": "rajio",
+          "accent": "ラ↓ジオ",
+          "english": "radio"
+        },
+        {
+          "japanese": "毛布",
+          "romaji": "moufu",
+          "accent": "も↓うふ",
+          "english": "blanket"
+        },
+        {
+          "japanese": "寝袋",
+          "romaji": "nebukuro",
+          "accent": "ねぶ↓くろ／ねぶくろ○",
+          "english": "sleeping bag"
+        },
+        {
+          "japanese": "ポリタンク",
+          "romaji": "poritanku",
+          "accent": "ポリタ↓ンク",
+          "english": "plastic container"
+        },
+        {
+          "japanese": "充電（する）",
+          "romaji": "juuden (suru)",
+          "accent": "じゅうでん（する）○",
+          "english": "(to) charge"
+        },
+        {
+          "japanese": "小学校",
+          "romaji": "shougakkou",
+          "accent": "しょうが↓っこう",
+          "english": "elementary school"
+        },
+        {
+          "japanese": "総合福祉センター",
+          "romaji": "sougoufukushi sentaa",
+          "accent": "そうごうふくしセ↓ンター",
+          "english": "general welfare center"
+        },
+        {
+          "japanese": "ショップ",
+          "romaji": "shoppu",
+          "accent": "ショップ○／ショ↓ップ",
+          "english": "shop"
+        },
+        {
+          "japanese": "今回",
+          "romaji": "konkai",
+          "accent": "こ↓んかい",
+          "english": "this time"
+        },
+        {
+          "japanese": "レベル",
+          "romaji": "reberu",
+          "accent": "レベル○／レ↓ベル",
+          "english": "level"
+        },
+        {
+          "japanese": "一人暮らし",
+          "romaji": "hitorigurashi",
+          "accent": "ひとりぐ↓らし",
+          "english": "living alone"
+        },
+        {
+          "japanese": "戻る",
+          "romaji": "modoru",
+          "accent": "もど↓る",
+          "english": "to come back"
+        },
+        {
+          "japanese": "早め",
+          "romaji": "hayame",
+          "accent": "はやめ○",
+          "english": "ahead of time"
+        },
+        {
+          "japanese": "続く",
+          "romaji": "tsuzuku",
+          "accent": "つづく○",
+          "english": "to continue"
+        },
+        {
+          "japanese": "容器",
+          "romaji": "youki",
+          "accent": "よ↓うき",
+          "english": "container"
+        },
+        {
+          "japanese": "仮設",
+          "romaji": "kasetsu",
+          "accent": "かせつ○",
+          "english": "temporary"
+        }
       ],
       "audio": "/audio/z/lesson16/wordlist_Z_16-4.mp3"
     },
@@ -38,7 +1006,204 @@
       "title": "防災パンフレット",
       "number": "5.",
       "wordList": [
-        
+        {
+          "japanese": "力",
+          "romaji": "chikara",
+          "accent": "ちから↓／ちか↓ら",
+          "english": "force"
+        },
+        {
+          "japanese": "持ち出す",
+          "romaji": "mochidasu",
+          "accent": "もちだす○／もちだ↓す",
+          "english": "to take out"
+        },
+        {
+          "japanese": "賞味期限",
+          "romaji": "shoumikigen",
+          "accent": "しょうみき↓げん",
+          "english": "best-before date"
+        },
+        {
+          "japanese": "使用期限",
+          "romaji": "shiyoukigen",
+          "accent": "しようき↓げん",
+          "english": "expiration date"
+        },
+        {
+          "japanese": "切れる（賞味期限が切れる）",
+          "romaji": "kireru (shoumikigen ga kireru)",
+          "accent": "きれ↓る（しょうみき↓げんがきれ↓る）",
+          "english": "to expire / to pass (e.g. expiration date has passed)"
+        },
+        {
+          "japanese": "切れる（電池が切れる）",
+          "romaji": "kireru (denchi ga kireru)",
+          "accent": "きれ↓る（で↓んちがきれ↓る）",
+          "english": "to run out (e.g. battery runs out)"
+        },
+        {
+          "japanese": "貴重品",
+          "romaji": "kichouhin",
+          "accent": "きちょうひん○",
+          "english": "valuables"
+        },
+        {
+          "japanese": "電灯",
+          "romaji": "dentou",
+          "accent": "でんとう○",
+          "english": "electrical light"
+        },
+        {
+          "japanese": "携帯ラジオ",
+          "romaji": "keitai rajio",
+          "accent": "けいたいラ↓ジオ",
+          "english": "portable radio"
+        },
+        {
+          "japanese": "非常持ち出し品",
+          "romaji": "hijou mochidashi hin",
+          "accent": "ひじょうもちだしひん○",
+          "english": "items to take in an emergency"
+        },
+        {
+          "japanese": "生活（する）",
+          "romaji": "seikatsu (suru)",
+          "accent": "せいかつ（する）○",
+          "english": "(to) live"
+        },
+        {
+          "japanese": "下着",
+          "romaji": "shitagi",
+          "accent": "したぎ○",
+          "english": "underwear"
+        },
+        {
+          "japanese": "生理用品",
+          "romaji": "seiriyouhin",
+          "accent": "せいりよ↓うひん",
+          "english": "menstrual hygiene products"
+        },
+        {
+          "japanese": "ウェットティッシュ",
+          "romaji": "wet tissue",
+          "accent": "ウェットティ↓ッシュ",
+          "english": "wet wipes"
+        },
+        {
+          "japanese": "ライター",
+          "romaji": "raitaa",
+          "accent": "ラ↓イター",
+          "english": "lighter"
+        },
+        {
+          "japanese": "使い捨てカイロ",
+          "romaji": "tsukaisute kairo",
+          "accent": "つかいすてカ↓イロ",
+          "english": "disposable heating pad"
+        },
+        {
+          "japanese": "粉ミルク",
+          "romaji": "kona miruku",
+          "accent": "こなミ↓ルク",
+          "english": "powdered milk"
+        },
+        {
+          "japanese": "おむつ",
+          "romaji": "omutsu",
+          "accent": "おむ↓つ",
+          "english": "diaper"
+        },
+        {
+          "japanese": "卓上コンロ",
+          "romaji": "takujou konro",
+          "accent": "たくじょうコ↓ンロ",
+          "english": "tabletop stove"
+        },
+        {
+          "japanese": "ガスボンベ",
+          "romaji": "gasu bonbe",
+          "accent": "ガスボ↓ンベ",
+          "english": "gas cylinder"
+        },
+        {
+          "japanese": "なべ",
+          "romaji": "nabe",
+          "accent": "な↓べ",
+          "english": "pot"
+        },
+        {
+          "japanese": "アウトドア用品",
+          "romaji": "autodoa youhin",
+          "accent": "アウトドアよ↓うひん",
+          "english": "outdoor goods"
+        },
+        {
+          "japanese": "かぜ薬",
+          "romaji": "kazegusuri",
+          "accent": "かぜぐ↓すり",
+          "english": "cold medication"
+        },
+        {
+          "japanese": "ばんそうこう",
+          "romaji": "bansoukou",
+          "accent": "ばんそうこう○",
+          "english": "adhesive bandage / band-aid"
+        },
+        {
+          "japanese": "消毒液",
+          "romaji": "shoudoku eki",
+          "accent": "しょうどく↓えき",
+          "english": "antiseptic solution"
+        },
+        {
+          "japanese": "モバイルバッテリー",
+          "romaji": "mobairu battery",
+          "accent": "モバイルバ↓ッテリー",
+          "english": "portable charger"
+        },
+        {
+          "japanese": "現金",
+          "romaji": "genkin",
+          "accent": "げんき↓ん",
+          "english": "cash"
+        },
+        {
+          "japanese": "預金通帳",
+          "romaji": "yokin tsuuchou",
+          "accent": "よきんつ↓うちょう",
+          "english": "bank account passbook"
+        },
+        {
+          "japanese": "パスポート",
+          "romaji": "pasupooto",
+          "accent": "パスポ↓ート",
+          "english": "passport"
+        },
+        {
+          "japanese": "健康保険証",
+          "romaji": "kenkou hokenshou",
+          "accent": "けんこうほけんしょう○",
+          "english": "health insurance card"
+        },
+        {
+          "japanese": "外国人登録証",
+          "romaji": "gaikokujin tourokushou",
+          "accent": "がいこくじんとうろくしょう○",
+          "english": "alien registration card"
+        },
+        {
+          "japanese": "缶づめ",
+          "romaji": "kanzume",
+          "accent": "かんづ↓め",
+          "english": "canned food"
+        },
+        {
+          "japanese": "インスタント食品",
+          "romaji": "insutanto shokuhin",
+          "accent": "インスタントしょ↓くひん",
+          "english": "instant food"
+        }
       ],
       "audio": "/audio/z/lesson16/wordlist_Z_16-5.mp3"
     }

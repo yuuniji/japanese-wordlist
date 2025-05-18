@@ -6,7 +6,198 @@
       "title": "今からお見舞いに行くんです",
       "number": "1.",
       "wordList": [
-        
+        {
+          "japanese": "葬式／お葬式",
+          "romaji": "soushiki / osoushiki",
+          "accent": "そうしき○／おそうしき○",
+          "english": "funeral"
+        },
+        {
+          "japanese": "スーツ",
+          "romaji": "suutsu",
+          "accent": "ス↓ーツ",
+          "english": "suits"
+        },
+        {
+          "japanese": "暗い",
+          "romaji": "kurai",
+          "accent": "くらい○／くら↓い",
+          "english": "dark"
+        },
+        {
+          "japanese": "地味（な）",
+          "romaji": "jimi (na)",
+          "accent": "じみ↓（な）",
+          "english": "conservative in a dark color"
+        },
+        {
+          "japanese": "ジャケット",
+          "romaji": "jaketto",
+          "accent": "ジャケット○／ジャケ↓ット",
+          "english": "jacket"
+        },
+        {
+          "japanese": "香典／お香典",
+          "romaji": "kouden / okouden",
+          "accent": "こうでん○／おこうでん○",
+          "english": "condolence money for a funeral"
+        },
+        {
+          "japanese": "香典袋",
+          "romaji": "koudenbukuro",
+          "accent": "こうでんぶ↓くろ",
+          "english": "envelope for condolence money"
+        },
+        {
+          "japanese": "～用　（お葬式用）",
+          "romaji": "~you (osoushiki you)",
+          "accent": "～よう　（おそうしきよう○）",
+          "english": "for ～ (e.g. for funerals)"
+        },
+        {
+          "japanese": "披露宴",
+          "romaji": "hirouen",
+          "accent": "ひろ↓うえん",
+          "english": "reception banquet"
+        },
+        {
+          "japanese": "招待状",
+          "romaji": "shoutaijou",
+          "accent": "しょうたいじょう○",
+          "english": "invitation letter"
+        },
+        {
+          "japanese": "だったら",
+          "romaji": "dattara",
+          "accent": "だ↓ったら",
+          "english": "if so"
+        },
+        {
+          "japanese": "カジュアル（な）",
+          "romaji": "kajuaru (na)",
+          "accent": "カ↓ジュアル（な）",
+          "english": "casual"
+        },
+        {
+          "japanese": "感じ",
+          "romaji": "kanji",
+          "accent": "かんじ○",
+          "english": "appearance"
+        },
+        {
+          "japanese": "白",
+          "romaji": "shiro",
+          "accent": "し↓ろ",
+          "english": "white"
+        },
+        {
+          "japanese": "花嫁",
+          "romaji": "hanayome",
+          "accent": "はな↓よめ",
+          "english": "bride"
+        },
+        {
+          "japanese": "見舞い／お見舞い",
+          "romaji": "mimai / omimai",
+          "accent": "みまい○／おみまい○",
+          "english": "get-well visit"
+        },
+        {
+          "japanese": "同僚",
+          "romaji": "douryou",
+          "accent": "どうりょう○",
+          "english": "co-worker"
+        },
+        {
+          "japanese": "骨",
+          "romaji": "hone",
+          "accent": "ほね↓",
+          "english": "bone"
+        },
+        {
+          "japanese": "折る　（骨を折る）",
+          "romaji": "oru (hone wo oru)",
+          "accent": "お↓る　（ほね↓をお↓る）",
+          "english": "to break (e.g. break a bone)"
+        },
+        {
+          "japanese": "入院する",
+          "romaji": "nyuuin suru",
+          "accent": "にゅういんする○",
+          "english": "to admit to hospital"
+        },
+        {
+          "japanese": "鉢植え",
+          "romaji": "hachiue",
+          "accent": "はちうえ○",
+          "english": "container-grown plant"
+        },
+        {
+          "japanese": "イメージ",
+          "romaji": "imeeji",
+          "accent": "イメ↓ージ／イ↓メージ",
+          "english": "image"
+        },
+        {
+          "japanese": "花束",
+          "romaji": "hanataba",
+          "accent": "はな↓たば",
+          "english": "flower bouquet"
+        },
+        {
+          "japanese": "本人",
+          "romaji": "honnin",
+          "accent": "ほ↓んにん",
+          "english": "the person"
+        },
+        {
+          "japanese": "まあ",
+          "romaji": "maa",
+          "accent": "ま↓あ",
+          "english": "Wow! (expresses surprise or deep emotion)"
+        },
+        {
+          "japanese": "あら",
+          "romaji": "ara",
+          "accent": "あ↓ら",
+          "english": "Oh my! (expresses mild surprise)"
+        },
+        {
+          "japanese": "どうすればいいですか？",
+          "romaji": "dousureba ii desu ka?",
+          "accent": "ど↓うすればい↓いですか？",
+          "english": "What should I do?"
+        },
+        {
+          "japanese": "新築祝い",
+          "romaji": "shinchiku iwai",
+          "accent": "しんちくい↓わい",
+          "english": "housewarming"
+        },
+        {
+          "japanese": "習慣",
+          "romaji": "shuukan",
+          "accent": "しゅうかん○",
+          "english": "custom"
+        },
+        {
+          "japanese": "全員",
+          "romaji": "zen'in",
+          "accent": "ぜんいん○",
+          "english": "everyone"
+        },
+        {
+          "japanese": "くり返す",
+          "romaji": "kurikaesu",
+          "accent": "くりか↓えす／くりかえす○",
+          "english": "to repeat"
+        },
+        {
+          "japanese": "オトーリ",
+          "romaji": "otoori",
+          "accent": "オトーリ○",
+          "english": "otoori (way of drinking alcohol in Miyako Island, Okinawa Prefecture)"
+        }
       ],
       "audio": "/audio/z/lesson10/wordlist_Z_10-1.mp3"
     },
@@ -14,7 +205,156 @@
       "title": "食器は自分で片付けなくちゃ",
       "number": "2.",
       "wordList": [
-        
+        {
+          "japanese": "待つ",
+          "romaji": "matsu",
+          "accent": "ま↓つ",
+          "english": "to wait"
+        },
+        {
+          "japanese": "流す",
+          "romaji": "nagasu",
+          "accent": "なが↓す",
+          "english": "to flush"
+        },
+        {
+          "japanese": "ごみ箱",
+          "romaji": "gomibako",
+          "accent": "ごみば↓こ",
+          "english": "garbage can"
+        },
+        {
+          "japanese": "捨てる",
+          "romaji": "suteru",
+          "accent": "すてる○",
+          "english": "to throw away"
+        },
+        {
+          "japanese": "電話",
+          "romaji": "denwa",
+          "accent": "でんわ○",
+          "english": "phone"
+        },
+        {
+          "japanese": "片付ける",
+          "romaji": "katazukeru",
+          "accent": "かたづけ↓る",
+          "english": "to clean up"
+        },
+        {
+          "japanese": "掃除の人",
+          "romaji": "souji no hito",
+          "accent": "そうじのひと↓",
+          "english": "cleaner"
+        },
+        {
+          "japanese": "不思議（な）",
+          "romaji": "fushigi (na)",
+          "accent": "ふしぎ（な）○",
+          "english": "strange"
+        },
+        {
+          "japanese": "めんどくさい",
+          "romaji": "mendokusai",
+          "accent": "めんどくさ↓い",
+          "english": "bothersome"
+        },
+        {
+          "japanese": "まじめ（な）",
+          "romaji": "majime (na)",
+          "accent": "まじめ（な）○",
+          "english": "serious"
+        },
+        {
+          "japanese": "まねをする",
+          "romaji": "mane o suru",
+          "accent": "まねをする○",
+          "english": "to imitate"
+        },
+        {
+          "japanese": "ルール",
+          "romaji": "ruuru",
+          "accent": "ル↓ール",
+          "english": "rules"
+        },
+        {
+          "japanese": "守る　（ルールを守る）",
+          "romaji": "mamoru (ruuru o mamoru)",
+          "accent": "まも↓る　（ル↓ールを　まも↓る）",
+          "english": "to follow (e.g. follow the rules)"
+        },
+        {
+          "japanese": "貼り紙",
+          "romaji": "harigami",
+          "accent": "はりがみ○",
+          "english": "sign"
+        },
+        {
+          "japanese": "もちろん",
+          "romaji": "mochiron",
+          "accent": "もち↓ろん",
+          "english": "of course"
+        },
+        {
+          "japanese": "つまる",
+          "romaji": "tsumaru",
+          "accent": "つま↓る",
+          "english": "to clog"
+        },
+        {
+          "japanese": "それじゃあ",
+          "romaji": "sorejaa",
+          "accent": "それじゃ↓あ",
+          "english": "then"
+        },
+        {
+          "japanese": "臭い",
+          "romaji": "kusai",
+          "accent": "くさ↓い",
+          "english": "smells bad"
+        },
+        {
+          "japanese": "普通に",
+          "romaji": "futsuu ni",
+          "accent": "ふつうに○",
+          "english": "normally"
+        },
+        {
+          "japanese": "うるさい",
+          "romaji": "urusai",
+          "accent": "うるさ↓い",
+          "english": "loud / noisy"
+        },
+        {
+          "japanese": "～終わる　（食べ終わる）",
+          "romaji": "~owaru (tabe owaru)",
+          "accent": "～おわ↓る　（たべおわ↓る）",
+          "english": "to finish ～ (e.g. finish eating)"
+        },
+        {
+          "japanese": "席",
+          "romaji": "seki",
+          "accent": "せ↓き",
+          "english": "seat"
+        },
+        {
+          "japanese": "確かにねえ",
+          "romaji": "tashika ni nee",
+          "accent": "た↓しかにねえ",
+          "english": "That's very true."
+        },
+        {
+          "japanese": "どうしてかなあ",
+          "romaji": "doushite kanaa",
+          "accent": "ど↓うしてかなあ",
+          "english": "I wonder why?"
+        },
+        {
+          "japanese": "～かな？",
+          "romaji": "~kana?",
+          "accent": "～かな？",
+          "english": "I wonder if ～ ? (expresses that the speaker is asking themselves a question)"
+        }
       ],
       "audio": "/audio/z/lesson10/wordlist_Z_10-2.mp3"
     },
@@ -22,7 +362,96 @@
       "title": "国によって違うんですね",
       "number": "3.",
       "wordList": [
-        
+        {
+          "japanese": "のどが渇く",
+          "romaji": "nodo ga kawaku",
+          "accent": "の↓どがかわ↓く",
+          "english": "to get thirsty"
+        },
+        {
+          "japanese": "かご",
+          "romaji": "kago",
+          "accent": "かご○",
+          "english": "basket"
+        },
+        {
+          "japanese": "空",
+          "romaji": "kara",
+          "accent": "から↓",
+          "english": "empty"
+        },
+        {
+          "japanese": "ボトル",
+          "romaji": "botoru",
+          "accent": "ボトル○",
+          "english": "bottle"
+        },
+        {
+          "japanese": "そうしたら",
+          "romaji": "soushitara",
+          "accent": "そうした↓ら",
+          "english": "and then"
+        },
+        {
+          "japanese": "怒る",
+          "romaji": "okoru",
+          "accent": "おこ↓る",
+          "english": "to get angry"
+        },
+        {
+          "japanese": "ちゃんと",
+          "romaji": "chanto",
+          "accent": "ちゃんと○",
+          "english": "properly"
+        },
+        {
+          "japanese": "店長",
+          "romaji": "tenchou",
+          "accent": "て↓んちょう",
+          "english": "store manager"
+        },
+        {
+          "japanese": "泥棒",
+          "romaji": "dorobou",
+          "accent": "どろぼう○",
+          "english": "thief"
+        },
+        {
+          "japanese": "イメージ",
+          "romaji": "imeeji",
+          "accent": "イメ↓ージ／イ↓メージ",
+          "english": "impression / image"
+        },
+        {
+          "japanese": "袋",
+          "romaji": "fukuro",
+          "accent": "ふくろ↓",
+          "english": "bag"
+        },
+        {
+          "japanese": "あとから",
+          "romaji": "atokara",
+          "accent": "あ↓とから",
+          "english": "afterwards"
+        },
+        {
+          "japanese": "どうしたの？",
+          "romaji": "doushita no?",
+          "accent": "ど↓うしたの？",
+          "english": "What's wrong?"
+        },
+        {
+          "japanese": "そうなの？",
+          "romaji": "sou nano?",
+          "accent": "そ↓うなの？",
+          "english": "Is that really true…"
+        },
+        {
+          "japanese": "そうかなあ",
+          "romaji": "sou kanaa",
+          "accent": "そ↓うかなあ",
+          "english": "I'm not so sure. (expresses disagreement or doubt)"
+        }
       ],
       "audio": "/audio/z/lesson10/wordlist_Z_10-3.mp3"
     },
@@ -30,7 +459,149 @@
       "title": "日本の習慣についての記事",
       "number": "4.",
       "wordList": [
-        
+        {
+          "japanese": "だんだん",
+          "romaji": "dandan",
+          "accent": "だんだん○",
+          "english": "gradually"
+        },
+        {
+          "japanese": "気に入る",
+          "romaji": "ki ni iru",
+          "accent": "きにいる○",
+          "english": "to come to like"
+        },
+        {
+          "japanese": "直接",
+          "romaji": "chokusetsu",
+          "accent": "ちょくせつ○",
+          "english": "directly"
+        },
+        {
+          "japanese": "～杯",
+          "romaji": "～hai",
+          "english": "～ glass(es)"
+        },
+        {
+          "japanese": "お金を取る",
+          "romaji": "okane wo toru",
+          "accent": "おかねをと↓る",
+          "english": "to charge money"
+        },
+        {
+          "japanese": "ひどい",
+          "romaji": "hidoi",
+          "accent": "ひど↓い",
+          "english": "terrible"
+        },
+        {
+          "japanese": "信じられない",
+          "romaji": "shinjirarenai",
+          "accent": "しんじられ↓ない",
+          "english": "unbelievable"
+        },
+        {
+          "japanese": "信じる",
+          "romaji": "shinjiru",
+          "accent": "しんじ↓る",
+          "english": "to believe"
+        },
+        {
+          "japanese": "チップ",
+          "romaji": "chippu",
+          "accent": "チ↓ップ",
+          "english": "tip"
+        },
+        {
+          "japanese": "マナー",
+          "romaji": "manaa",
+          "accent": "マ↓ナー",
+          "english": "etiquette / manners"
+        },
+        {
+          "japanese": "ズズズズ",
+          "romaji": "zuzuzuzu",
+          "accent": "ズズズズ↓",
+          "english": "slurp (sound made when eating soba)"
+        },
+        {
+          "japanese": "音を立てる",
+          "romaji": "oto wo tateru",
+          "accent": "おと↓をたて↓る",
+          "english": "to make noise"
+        },
+        {
+          "japanese": "どんぶり",
+          "romaji": "donburi",
+          "accent": "どんぶり○",
+          "english": "bowl"
+        },
+        {
+          "japanese": "持ち上げる",
+          "romaji": "mochiageru",
+          "accent": "もちあげる○",
+          "english": "to lift"
+        },
+        {
+          "japanese": "口を付ける",
+          "romaji": "kuchi wo tsukeru",
+          "accent": "くちをつけ↓る",
+          "english": "to put to one's mouth"
+        },
+        {
+          "japanese": "嫌（な）",
+          "romaji": "iya (na)",
+          "accent": "いや↓（な）",
+          "english": "dislike"
+        },
+        {
+          "japanese": "何杯でも",
+          "romaji": "nanbai demo",
+          "accent": "な↓んばいで↓も／なんばいでも○",
+          "english": "any number (of drinks)"
+        },
+        {
+          "japanese": "おかわり",
+          "romaji": "okawari",
+          "accent": "おか↓わり",
+          "english": "refills"
+        },
+        {
+          "japanese": "おしぼり",
+          "romaji": "oshibori",
+          "accent": "おし↓ぼり",
+          "english": "wet hand towel"
+        },
+        {
+          "japanese": "テーブルチャージ",
+          "romaji": "teeburu chaaji",
+          "accent": "テーブルチャ↓ージ",
+          "english": "cover charge"
+        },
+        {
+          "japanese": "しかも",
+          "romaji": "shikamo",
+          "accent": "しか↓も",
+          "english": "on top of that"
+        },
+        {
+          "japanese": "こういう",
+          "romaji": "kou iu",
+          "accent": "こういう○",
+          "english": "such a ～"
+        },
+        {
+          "japanese": "ごちそうさま",
+          "romaji": "gochisousama",
+          "accent": "ごちそうさま↓",
+          "english": "Thank you for the meal. (phrase said after finishing a meal)"
+        },
+        {
+          "japanese": "どちらでもない",
+          "romaji": "dochira demo nai",
+          "accent": "どちらでもな↓い／ど↓ちらでも　な↓い",
+          "english": "neither"
+        }
       ],
       "audio": "/audio/z/lesson10/wordlist_Z_10-4.mp3"
     }

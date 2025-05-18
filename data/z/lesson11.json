@@ -6,7 +6,180 @@
       "title": "着てみてもいいですか？",
       "number": "1.",
       "wordList": [
-        
+        {
+          "japanese": "色",
+          "romaji": "iro",
+          "accent": "いろ↓",
+          "english": "color"
+        },
+        {
+          "japanese": "サイズ",
+          "romaji": "saizu",
+          "accent": "サ↓イズ／サイズ○",
+          "english": "size"
+        },
+        {
+          "japanese": "赤",
+          "romaji": "aka",
+          "accent": "あ↓か",
+          "english": "red"
+        },
+        {
+          "japanese": "青",
+          "romaji": "ao",
+          "accent": "あ↓お",
+          "english": "blue"
+        },
+        {
+          "japanese": "緑",
+          "romaji": "midori",
+          "accent": "み↓どり",
+          "english": "green"
+        },
+        {
+          "japanese": "黄色",
+          "romaji": "kiiro",
+          "accent": "きいろ○",
+          "english": "yellow"
+        },
+        {
+          "japanese": "黒",
+          "romaji": "kuro",
+          "accent": "く↓ろ",
+          "english": "black"
+        },
+        {
+          "japanese": "白",
+          "romaji": "shiro",
+          "accent": "し↓ろ",
+          "english": "white"
+        },
+        {
+          "japanese": "ベージュ",
+          "romaji": "beeju",
+          "accent": "ベージュ○",
+          "english": "beige"
+        },
+        {
+          "japanese": "ピンク",
+          "romaji": "pinku",
+          "accent": "ピ↓ンク",
+          "english": "pink"
+        },
+        {
+          "japanese": "茶色",
+          "romaji": "chairo",
+          "accent": "ちゃいろ○",
+          "english": "brown"
+        },
+        {
+          "japanese": "グレー",
+          "romaji": "guree",
+          "accent": "グレ↓ー",
+          "english": "gray"
+        },
+        {
+          "japanese": "カーキ",
+          "romaji": "kaaki",
+          "accent": "カ↓ーキ",
+          "english": "khaki"
+        },
+        {
+          "japanese": "S",
+          "romaji": "esu",
+          "accent": "エ↓ス",
+          "english": "small"
+        },
+        {
+          "japanese": "M",
+          "romaji": "emu",
+          "accent": "エ↓ム",
+          "english": "medium"
+        },
+        {
+          "japanese": "L",
+          "romaji": "eru",
+          "accent": "エ↓ル",
+          "english": "large"
+        },
+        {
+          "japanese": "XL",
+          "romaji": "ekkusu eru",
+          "accent": "エックスエ↓ル",
+          "english": "extra large"
+        },
+        {
+          "japanese": "フリー",
+          "romaji": "furii",
+          "accent": "フリ↓ー",
+          "english": "one size / one size fits all"
+        },
+        {
+          "japanese": "～ｃｍ",
+          "romaji": "～senchi",
+          "accent": "～セ↓ンチ　（に↓じゅう△よ↓んてん△ごセ↓ンチ）",
+          "english": "～ cm (e.g. 24.5 cm)"
+        },
+        {
+          "japanese": "ただいま",
+          "romaji": "tadaima",
+          "accent": "ただ↓いま",
+          "english": "currently"
+        },
+        {
+          "japanese": "全品",
+          "romaji": "zenpin",
+          "accent": "ぜ↓んぴん",
+          "english": "all items"
+        },
+        {
+          "japanese": "～％オフ",
+          "romaji": "～paasento ofu",
+          "accent": "～パーセントオ↓フ　（じゅっパーセントオ↓フ）",
+          "english": "～% off (e.g. 10% off)"
+        },
+        {
+          "japanese": "セーター",
+          "romaji": "seetaa",
+          "accent": "セ↓ーター",
+          "english": "sweater"
+        },
+        {
+          "japanese": "試着室",
+          "romaji": "shichakushitsu",
+          "accent": "しちゃく↓しつ",
+          "english": "fitting room"
+        },
+        {
+          "japanese": "派手（な）",
+          "romaji": "hade (na)",
+          "accent": "はで↓（な）",
+          "english": "flashy"
+        },
+        {
+          "japanese": "試着（する）",
+          "romaji": "shichaku (suru)",
+          "accent": "しちゃく（する）○",
+          "english": "(to) try on"
+        },
+        {
+          "japanese": "よろしければ",
+          "romaji": "yoroshikereba",
+          "accent": "よろし↓ければ",
+          "english": "if you want (polite expression)"
+        },
+        {
+          "japanese": "ごゆっくりごらんください",
+          "romaji": "goyukkuri goran kudasai",
+          "accent": "ごゆっく↓りごらんくださ↓い",
+          "english": "Please take your time looking around. (polite expression)"
+        },
+        {
+          "japanese": "ご案内いたします",
+          "romaji": "goannai itashimasu",
+          "accent": "ごあんないいたしま↓す",
+          "english": "I'll show you where it is. (polite expression)"
+        }
       ],
       "audio": "/audio/z/lesson11/wordlist_Z_11-1.mp3"
     },
@@ -14,7 +187,150 @@
       "title": "自転車を盗まれました",
       "number": "2.",
       "wordList": [
-        
+        {
+          "japanese": "駐輪場",
+          "romaji": "chuurinjou",
+          "accent": "ちゅうりんじょう○",
+          "english": "bicycle parking area"
+        },
+        {
+          "japanese": "インフォメーション",
+          "romaji": "infomeeshon",
+          "accent": "インフォメ↓ーション",
+          "english": "information counter"
+        },
+        {
+          "japanese": "フードコート",
+          "romaji": "fuudokooto",
+          "accent": "フードコ↓ート",
+          "english": "food court"
+        },
+        {
+          "japanese": "探す",
+          "romaji": "sagasu",
+          "accent": "さがす○",
+          "english": "to look for"
+        },
+        {
+          "japanese": "レシート",
+          "romaji": "reshiito",
+          "accent": "レシート○／レシ↓ート",
+          "english": "receipt"
+        },
+        {
+          "japanese": "救急車",
+          "romaji": "kyuukyuusha",
+          "accent": "きゅうきゅ↓うしゃ",
+          "english": "ambulance"
+        },
+        {
+          "japanese": "盗む",
+          "romaji": "nusumu",
+          "accent": "ぬす↓む",
+          "english": "to steal"
+        },
+        {
+          "japanese": "停める",
+          "romaji": "tomeru",
+          "accent": "とめる○",
+          "english": "to park"
+        },
+        {
+          "japanese": "移動する",
+          "romaji": "idou suru",
+          "accent": "いどうする○",
+          "english": "to move to"
+        },
+        {
+          "japanese": "急に",
+          "romaji": "kyuu ni",
+          "accent": "きゅうに○",
+          "english": "suddenly"
+        },
+        {
+          "japanese": "ソファ",
+          "romaji": "sofa",
+          "accent": "ソ↓ファ",
+          "english": "sofa"
+        },
+        {
+          "japanese": "さっき",
+          "romaji": "sakki",
+          "accent": "さ↓っき",
+          "english": "a short while ago"
+        },
+        {
+          "japanese": "もしかしたら",
+          "romaji": "moshikashitara",
+          "accent": "も↓しかした↓ら",
+          "english": "maybe"
+        },
+        {
+          "japanese": "とる",
+          "romaji": "toru",
+          "accent": "と↓る",
+          "english": "to steal"
+        },
+        {
+          "japanese": "ポイントカード",
+          "romaji": "pointo kaado",
+          "accent": "ポイントカ↓ード",
+          "english": "point card"
+        },
+        {
+          "japanese": "スタンプ",
+          "romaji": "sutanpu",
+          "accent": "スタ↓ンプ",
+          "english": "stamp"
+        },
+        {
+          "japanese": "押す（スタンプを押す）",
+          "romaji": "osu (sutanpu o osu)",
+          "accent": "おす○（スタ↓ンプをおす）",
+          "english": "to put (e.g., put a stamp)"
+        },
+        {
+          "japanese": "どうなさいましたか？",
+          "romaji": "dou nasaimashita ka?",
+          "accent": "ど↓うなさいま↓したか？",
+          "english": "Is something the matter? (polite expression)"
+        },
+        {
+          "japanese": "お持ちください",
+          "romaji": "omochi kudasai",
+          "accent": "おもちくださ↓い",
+          "english": "Please bring ～. (polite expression)"
+        },
+        {
+          "japanese": "警察",
+          "romaji": "keisatsu",
+          "accent": "けいさつ○",
+          "english": "police"
+        },
+        {
+          "japanese": "気分が悪い",
+          "romaji": "kibun ga warui",
+          "accent": "き↓ぶんが　わる↓い",
+          "english": "feel sick"
+        },
+        {
+          "japanese": "会員証",
+          "romaji": "kaiinshou",
+          "accent": "かいいんしょう○",
+          "english": "membership card"
+        },
+        {
+          "japanese": "お書きください",
+          "romaji": "okaki kudasai",
+          "accent": "おかきくださ↓い",
+          "english": "Please write ～. (polite expression)"
+        },
+        {
+          "japanese": "どうなさいますか？",
+          "romaji": "dou nasaimasu ka?",
+          "accent": "ど↓うなさいま↓すか？",
+          "english": "What would you like to do? (polite expression)"
+        }
       ],
       "audio": "/audio/z/lesson11/wordlist_Z_11-2.mp3"
     },
@@ -22,7 +338,102 @@
       "title": "トイレ忘れたと思います",
       "number": "3.",
       "wordList": [
-        
+        {
+          "japanese": "特徴",
+          "romaji": "tokuchou",
+          "accent": "とくちょう○",
+          "english": "feature"
+        },
+        {
+          "japanese": "値段",
+          "romaji": "nedan",
+          "accent": "ねだん○",
+          "english": "price"
+        },
+        {
+          "japanese": "機種",
+          "romaji": "kishu",
+          "accent": "き↓しゅ",
+          "english": "model"
+        },
+        {
+          "japanese": "なくす",
+          "romaji": "nakusu",
+          "accent": "なくす○",
+          "english": "to lose"
+        },
+        {
+          "japanese": "届く",
+          "romaji": "todoku",
+          "accent": "とど↓く",
+          "english": "to be handed in"
+        },
+        {
+          "japanese": "スマートフォン／スマホ",
+          "romaji": "sumaatofon/sumaho",
+          "accent": "スマート↓フォン／スマホ○",
+          "english": "smartphone"
+        },
+        {
+          "japanese": "カバー",
+          "romaji": "kabaa",
+          "accent": "カ↓バー",
+          "english": "cover"
+        },
+        {
+          "japanese": "ついている",
+          "romaji": "tsuiteiru",
+          "accent": "つ↓いている",
+          "english": "have ～ / with ～"
+        },
+        {
+          "japanese": "買い物する",
+          "romaji": "kaimono suru",
+          "accent": "かいものする○",
+          "english": "to shop"
+        },
+        {
+          "japanese": "気づく",
+          "romaji": "kizuku",
+          "accent": "きづ↓く",
+          "english": "to notice"
+        },
+        {
+          "japanese": "そのような",
+          "romaji": "sono you na",
+          "accent": "そのよ↓うな",
+          "english": "such a ～"
+        },
+        {
+          "japanese": "つながる",
+          "romaji": "tsunagaru",
+          "accent": "つながる○",
+          "english": "to connect"
+        },
+        {
+          "japanese": "見つかる",
+          "romaji": "mitsukaru",
+          "accent": "みつかる○",
+          "english": "to find"
+        },
+        {
+          "japanese": "遺失物届",
+          "romaji": "ishitsubutsu todoke",
+          "accent": "いしつぶつと↓どけ",
+          "english": "lost property report"
+        },
+        {
+          "japanese": "連絡をとる",
+          "romaji": "renraku o toru",
+          "accent": "れんらくをと↓る",
+          "english": "to get in touch"
+        },
+        {
+          "japanese": "お調べいたします",
+          "romaji": "oshirabe itashimasu",
+          "accent": "おしらべいたしま↓す",
+          "english": "I'll check. (polite expression)"
+        }
       ],
       "audio": "/audio/z/lesson11/wordlist_Z_11-3.mp3"
     },
@@ -30,7 +441,192 @@
       "title": "お客様のお呼び出しを申し上げます",
       "number": "4.",
       "wordList": [
-        
+        {
+          "japanese": "落とし物",
+          "romaji": "otoshimono",
+          "accent": "おとしもの○",
+          "english": "lost and found item"
+        },
+        {
+          "japanese": "案内",
+          "romaji": "annai",
+          "accent": "あんな↓い",
+          "english": "information"
+        },
+        {
+          "japanese": "呼び出し",
+          "romaji": "yobidashi",
+          "accent": "よびだし○",
+          "english": "call"
+        },
+        {
+          "japanese": "営業時間",
+          "romaji": "eigyou jikan",
+          "accent": "えいぎょうじ↓かん",
+          "english": "opening hours"
+        },
+        {
+          "japanese": "セール",
+          "romaji": "seeru",
+          "accent": "セ↓ール",
+          "english": "sale"
+        },
+        {
+          "japanese": "延長する",
+          "romaji": "enchou suru",
+          "accent": "えんちょうする○",
+          "english": "to extend"
+        },
+        {
+          "japanese": "営業する",
+          "romaji": "eigyou suru",
+          "accent": "えいぎょうする○",
+          "english": "to open / to do business"
+        },
+        {
+          "japanese": "レストラン街",
+          "romaji": "resutoran gai",
+          "accent": "レストラ↓ンがい",
+          "english": "restaurant area"
+        },
+        {
+          "japanese": "開催中",
+          "romaji": "kaisai chuu",
+          "accent": "かいさいちゅう○",
+          "english": "in progress"
+        },
+        {
+          "japanese": "通常どおり",
+          "romaji": "tsuujou doori",
+          "accent": "つうじょうど↓おり",
+          "english": "as usual"
+        },
+        {
+          "japanese": "くり返しご案内いたします",
+          "romaji": "kurikaeshi go-annai itashimasu",
+          "accent": "くりかえしごあんないいたしま↓す",
+          "english": "Once again… (polite expression)"
+        },
+        {
+          "japanese": "先ほど",
+          "romaji": "sakihodo",
+          "accent": "さきほど○",
+          "english": "just a little while ago"
+        },
+        {
+          "japanese": "婦人服",
+          "romaji": "fujinfuku",
+          "accent": "ふじ↓んふく",
+          "english": "women's clothing"
+        },
+        {
+          "japanese": "～売り場（婦人服売り場）",
+          "romaji": "uriba (fujinfuku uriba)",
+          "accent": "～う↓りば　（ふじんふくう↓りば）",
+          "english": "sales area (e.g. women's clothing sales area)"
+        },
+        {
+          "japanese": "お買い上げ",
+          "romaji": "okaiage",
+          "accent": "おかいあげ○",
+          "english": "purchase (polite expression)"
+        },
+        {
+          "japanese": "恐れ入りますが",
+          "romaji": "osoreirimasu ga",
+          "accent": "おそ↓れいりま↓すが",
+          "english": "my apologies for the inconvenience but ～ (polite expression)"
+        },
+        {
+          "japanese": "お呼び出しを申し上げます",
+          "romaji": "oyobidashi o moushiagemasu",
+          "accent": "およびだしをもうしあげま↓す",
+          "english": "I would like to call ～. (polite expression)"
+        },
+        {
+          "japanese": "お伝えしたいことがございます",
+          "romaji": "otsutaeshitai koto ga gozaimasu",
+          "accent": "おつたえしたいこと↓がございま↓す",
+          "english": "I have some information for you. (polite expression)"
+        },
+        {
+          "japanese": "お越しください",
+          "romaji": "okoshi kudasai",
+          "accent": "おこしくださ↓い",
+          "english": "Please go to ～. (polite expression)"
+        },
+        {
+          "japanese": "男性用",
+          "romaji": "dansei you",
+          "accent": "だんせいよう○",
+          "english": "for men"
+        },
+        {
+          "japanese": "かぎ",
+          "romaji": "kagi",
+          "accent": "かぎ↓",
+          "english": "key"
+        },
+        {
+          "japanese": "心当たり",
+          "romaji": "kokoroatari",
+          "accent": "こころあ↓たり",
+          "english": "any idea"
+        },
+        {
+          "japanese": "インフォメーションカウンター",
+          "romaji": "infomeeshon kauntaa",
+          "accent": "インフォメーションカ↓ウンター",
+          "english": "information counter"
+        },
+        {
+          "japanese": "～フェア（北海道フェア）",
+          "romaji": "fair (hokkaidou fair)",
+          "accent": "～フェ↓ア　（ほっかいどうフェ↓ア）",
+          "english": "～ fair (e.g. Hokkaido fair)"
+        },
+        {
+          "japanese": "海の幸",
+          "romaji": "umi no sachi",
+          "accent": "う↓みのさ↓ち",
+          "english": "seafood"
+        },
+        {
+          "japanese": "スイーツ",
+          "romaji": "suiitsu",
+          "accent": "スイ↓ーツ",
+          "english": "sweets"
+        },
+        {
+          "japanese": "秋の味覚",
+          "romaji": "aki no mikaku",
+          "accent": "あ↓きのみかく",
+          "english": "autumn food"
+        },
+        {
+          "japanese": "～限り（1週間限り）",
+          "romaji": "kagiri (isshuukan kagiri)",
+          "accent": "～か↓ぎり　（いっしゅうかんか↓ぎり）",
+          "english": "～ only (e.g. for one week only)"
+        },
+        {
+          "japanese": "札幌",
+          "romaji": "sapporo",
+          "accent": "さっぽろ○",
+          "english": "Sapporo"
+        },
+        {
+          "japanese": "機会",
+          "romaji": "kikai",
+          "accent": "きか↓い",
+          "english": "opportunity"
+        },
+        {
+          "japanese": "ご来場を心からお待ちしております",
+          "romaji": "goraijou o kokoro kara omachishite orimasu",
+          "accent": "ごらいじょう○を　こころ↓から　おまちしておりま↓す",
+          "english": "We look forward to seeing you. (polite expression)"
+        }
       ],
       "audio": "/audio/z/lesson11/wordlist_Z_11-4.mp3"
     }

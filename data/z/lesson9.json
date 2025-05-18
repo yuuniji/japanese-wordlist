@@ -6,7 +6,210 @@
       "title": "20 歳になった人をお祝いするんだよ",
       "number": "1.",
       "wordList": [
-        
+        {
+          "japanese": "季節",
+          "romaji": "kisetsu",
+          "accent": "き↓せつ",
+          "english": "season"
+        },
+        {
+          "japanese": "行事",
+          "romaji": "gyouji",
+          "accent": "ぎょ↓うじ",
+          "english": "event"
+        },
+        {
+          "japanese": "正月／お正月",
+          "romaji": "shougatsu / oshougatsu",
+          "accent": "しょうがつ↓／おしょうがつ↓",
+          "english": "New Year's Day"
+        },
+        {
+          "japanese": "成人の日",
+          "romaji": "seijin no hi",
+          "accent": "せいじんのひ↓",
+          "english": "Coming-of-Age Day"
+        },
+        {
+          "japanese": "ひな祭り",
+          "romaji": "hinamatsuri",
+          "accent": "ひなま↓つり",
+          "english": "Hinamatsuri (Doll Festival)"
+        },
+        {
+          "japanese": "こどもの日",
+          "romaji": "kodomo no hi",
+          "accent": "こどものひ↓",
+          "english": "Kodomo-no-hi (Children's Day)"
+        },
+        {
+          "japanese": "七夕",
+          "romaji": "tanabata",
+          "accent": "たなばた○",
+          "english": "Tanabata (Star Festival)"
+        },
+        {
+          "japanese": "クリスマス",
+          "romaji": "kurisumasu",
+          "accent": "クリス↓マス",
+          "english": "Christmas"
+        },
+        {
+          "japanese": "式",
+          "romaji": "shiki",
+          "accent": "しき↓",
+          "english": "ceremony"
+        },
+        {
+          "japanese": "市長",
+          "romaji": "shichou",
+          "accent": "し↓ちょう",
+          "english": "city mayor"
+        },
+        {
+          "japanese": "話",
+          "romaji": "hanashi",
+          "accent": "はなし↓",
+          "english": "speech"
+        },
+        {
+          "japanese": "チキン",
+          "romaji": "chikin",
+          "accent": "チ↓キン",
+          "english": "chicken"
+        },
+        {
+          "japanese": "笹の葉",
+          "romaji": "sasa no ha",
+          "accent": "ささのは○",
+          "english": "bamboo leaf"
+        },
+        {
+          "japanese": "飾り",
+          "romaji": "kazari",
+          "accent": "かざり○",
+          "english": "decoration"
+        },
+        {
+          "japanese": "つける（飾りをつける）",
+          "romaji": "tsukeru (kazari o tsukeru)",
+          "accent": "つけ↓る（かざりをつけ↓る）",
+          "english": "to attach (e.g. attach decorations)"
+        },
+        {
+          "japanese": "着物",
+          "romaji": "kimono",
+          "accent": "きもの○",
+          "english": "kimono (traditional Japanese clothing)"
+        },
+        {
+          "japanese": "ちらしずし",
+          "romaji": "chirashizushi",
+          "accent": "ちらし↓ずし",
+          "english": "chirashi-zushi (sushi rice decorated with toppings)"
+        },
+        {
+          "japanese": "デートする",
+          "romaji": "deeto suru",
+          "accent": "デ↓ートする",
+          "english": "to go out on a date"
+        },
+        {
+          "japanese": "短冊",
+          "romaji": "tanzaku",
+          "accent": "たんざく○",
+          "english": "tanzaku (paper strip used on Tanabata)"
+        },
+        {
+          "japanese": "願い事",
+          "romaji": "negaigoto",
+          "accent": "ねがいごと○",
+          "english": "wish"
+        },
+        {
+          "japanese": "書く",
+          "romaji": "kaku",
+          "accent": "か↓く",
+          "english": "to write"
+        },
+        {
+          "japanese": "甘酒",
+          "romaji": "amazake",
+          "accent": "あまざけ○",
+          "english": "amazake (a sweet drink made from rice)"
+        },
+        {
+          "japanese": "こうして",
+          "romaji": "koushite",
+          "accent": "こうして○",
+          "english": "like this"
+        },
+        {
+          "japanese": "お米",
+          "romaji": "okome",
+          "accent": "おこめ○",
+          "english": "rice"
+        },
+        {
+          "japanese": "アルコール",
+          "romaji": "arukooru",
+          "accent": "アルコール○",
+          "english": "alcohol"
+        },
+        {
+          "japanese": "若い",
+          "romaji": "wakai",
+          "accent": "わか↓い",
+          "english": "young"
+        },
+        {
+          "japanese": "お祝いする",
+          "romaji": "oiwai suru",
+          "accent": "おいわいする○",
+          "english": "to celebrate"
+        },
+        {
+          "japanese": "成人式",
+          "romaji": "seijinshiki",
+          "accent": "せいじ↓んしき",
+          "english": "Coming-of-Age ceremony"
+        },
+        {
+          "japanese": "おしゃれをする",
+          "romaji": "oshare o suru",
+          "accent": "おしゃ↓れをする",
+          "english": "to dress up"
+        },
+        {
+          "japanese": "中学校",
+          "romaji": "chuugakkou",
+          "accent": "ちゅうが↓っこう",
+          "english": "junior high school"
+        },
+        {
+          "japanese": "盛り上がる",
+          "romaji": "moriagaru",
+          "accent": "もりあが↓る",
+          "english": "to have a blast"
+        },
+        {
+          "japanese": "フライドチキン",
+          "romaji": "furaido chikin",
+          "accent": "フライドチ↓キン",
+          "english": "fried chicken"
+        },
+        {
+          "japanese": "必ず",
+          "romaji": "kanarazu",
+          "accent": "かならず○",
+          "english": "always"
+        },
+        {
+          "japanese": "過ごす",
+          "romaji": "sugosu",
+          "accent": "すご↓す",
+          "english": "to spend"
+        }
       ],
       "audio": "/audio/z/lesson9/wordlist_Z_09-1.mp3"
     },
@@ -14,7 +217,78 @@
       "title": "あけましておめでとうございます",
       "number": "2.",
       "wordList": [
-        
+        {
+          "japanese": "DVD",
+          "romaji": "diibuidii",
+          "accent": "ディーブイディ↓ー",
+          "english": "DVD"
+        },
+        {
+          "japanese": "実家",
+          "romaji": "jikka",
+          "accent": "じっか○",
+          "english": "parents' home"
+        },
+        {
+          "japanese": "ごろごろする",
+          "romaji": "gorogoro suru",
+          "accent": "ご↓ろごろする",
+          "english": "to laze around"
+        },
+        {
+          "japanese": "お年玉",
+          "romaji": "otoshidama",
+          "accent": "おとしだま○",
+          "english": "otoshidama (New Year's gift money)"
+        },
+        {
+          "japanese": "乗り物",
+          "romaji": "norimono",
+          "accent": "のりもの○",
+          "english": "ride"
+        },
+        {
+          "japanese": "今年",
+          "romaji": "kotoshi",
+          "accent": "ことし○",
+          "english": "this year"
+        },
+        {
+          "japanese": "親戚",
+          "romaji": "shinseki",
+          "accent": "しんせき○",
+          "english": "relative"
+        },
+        {
+          "japanese": "集まる",
+          "romaji": "atsumaru",
+          "accent": "あつま↓る",
+          "english": "to get together"
+        },
+        {
+          "japanese": "毎年",
+          "romaji": "maitoshi",
+          "accent": "まいとし○",
+          "english": "every year"
+        },
+        {
+          "japanese": "甥",
+          "romaji": "oi",
+          "accent": "おい○",
+          "english": "nephew"
+        },
+        {
+          "japanese": "姪",
+          "romaji": "mei",
+          "accent": "めい○",
+          "english": "niece"
+        },
+        {
+          "japanese": "あけましておめでとうございます",
+          "romaji": "akemashite omedetou gozaimasu",
+          "accent": "あけま↓して△おめでとうございま↓す",
+          "english": "Happy New Year."
+        }
       ],
       "audio": "/audio/z/lesson9/wordlist_Z_09-2.mp3"
     },
@@ -22,7 +296,234 @@
       "title": "田舎に帰って家族でお祝いします",
       "number": "3.",
       "wordList": [
-        
+        {
+          "japanese": "祭り",
+          "romaji": "matsuri",
+          "accent": "まつり○",
+          "english": "festival"
+        },
+        {
+          "japanese": "田舎",
+          "romaji": "inaka",
+          "accent": "いなか○",
+          "english": "hometown (in the countryside)"
+        },
+        {
+          "japanese": "飾る",
+          "romaji": "kazaru",
+          "accent": "かざる○",
+          "english": "to display"
+        },
+        {
+          "japanese": "特別（な）",
+          "romaji": "tokubetsu (na)",
+          "accent": "とくべつ（な）○",
+          "english": "special"
+        },
+        {
+          "japanese": "パーティー",
+          "romaji": "paatii",
+          "accent": "パ↓ーティー",
+          "english": "party"
+        },
+        {
+          "japanese": "歌う",
+          "romaji": "utau",
+          "accent": "うたう○",
+          "english": "to sing"
+        },
+        {
+          "japanese": "踊る",
+          "romaji": "odoru",
+          "accent": "おどる○",
+          "english": "to dance"
+        },
+        {
+          "japanese": "お金",
+          "romaji": "okane",
+          "accent": "おかね○",
+          "english": "money"
+        },
+        {
+          "japanese": "断食",
+          "romaji": "danjiki",
+          "accent": "だんじき○",
+          "english": "fasting"
+        },
+        {
+          "japanese": "～明け　（断食明け）",
+          "romaji": "～ake (danjiki ake)",
+          "accent": "～あけ　（だんじきあけ○）",
+          "english": "after ～ (e.g. after fasting)"
+        },
+        {
+          "japanese": "旧暦",
+          "romaji": "kyuureki",
+          "accent": "きゅうれき○",
+          "english": "old lunar calendar"
+        },
+        {
+          "japanese": "キリスト教",
+          "romaji": "kirisuto kyou",
+          "accent": "キリストきょう○",
+          "english": "Christianity / Christian"
+        },
+        {
+          "japanese": "お祝い",
+          "romaji": "oiwai",
+          "accent": "おいわい○",
+          "english": "celebration"
+        },
+        {
+          "japanese": "水かけ祭り",
+          "romaji": "mizukake matsuri",
+          "accent": "みずかけま↓つり",
+          "english": "Water Festival (Thai festival)"
+        },
+        {
+          "japanese": "年",
+          "romaji": "toshi",
+          "accent": "とし↓",
+          "english": "year"
+        },
+        {
+          "japanese": "～によって　（年によって）",
+          "romaji": "～ni yotte (toshi ni yotte)",
+          "accent": "～によって　（とし↓によって）",
+          "english": "depending on ～ (e.g. depending on the year)"
+        },
+        {
+          "japanese": "春節",
+          "romaji": "shunsetsu",
+          "accent": "しゅんせつ○",
+          "english": "Lunar New Year (the new year in the lunar calendar)"
+        },
+        {
+          "japanese": "ソンクラーン",
+          "romaji": "sonkuraan",
+          "accent": "ソ↓ンクラーン",
+          "english": "Songkran (Thai New Year)"
+        },
+        {
+          "japanese": "レバラン",
+          "romaji": "rebaran",
+          "accent": "レバラン○",
+          "english": "Lebaran (Islamic festival)"
+        },
+        {
+          "japanese": "海外旅行",
+          "romaji": "kaigai ryokou",
+          "accent": "かいがいりょ↓こう",
+          "english": "overseas trip"
+        },
+        {
+          "japanese": "赤い",
+          "romaji": "akai",
+          "accent": "あかい○／あか↓い",
+          "english": "red"
+        },
+        {
+          "japanese": "かけ合う",
+          "romaji": "kakeau",
+          "accent": "かけあ↓う",
+          "english": "to throw / to splash on each other"
+        },
+        {
+          "japanese": "クトゥパット",
+          "romaji": "kutupatto",
+          "accent": "ク↓トゥパット",
+          "english": "ketupat (Indonesian food: rice wrapped in palm leaf)"
+        },
+        {
+          "japanese": "餃子",
+          "romaji": "gyouza",
+          "accent": "ぎょうざ○",
+          "english": "stuffed dumpling"
+        },
+        {
+          "japanese": "豚",
+          "romaji": "buta",
+          "accent": "ぶた○",
+          "english": "pig"
+        },
+        {
+          "japanese": "丸焼き",
+          "romaji": "maruyaki",
+          "accent": "まるやき○",
+          "english": "whole roast"
+        },
+        {
+          "japanese": "クッキー",
+          "romaji": "kukkii",
+          "accent": "ク↓ッキー",
+          "english": "cookie"
+        },
+        {
+          "japanese": "大切（な）",
+          "romaji": "taisetsu (na)",
+          "accent": "たいせつ（な）○",
+          "english": "important"
+        },
+        {
+          "japanese": "どんなふうに",
+          "romaji": "donna fuu ni",
+          "accent": "ど↓んなふ↓うに／どんなふ↓うに",
+          "english": "how"
+        },
+        {
+          "japanese": "祝う",
+          "romaji": "iwau",
+          "accent": "いわ↓う",
+          "english": "to celebrate"
+        },
+        {
+          "japanese": "赤",
+          "romaji": "aka",
+          "accent": "あ↓か",
+          "english": "red"
+        },
+        {
+          "japanese": "おめでたい",
+          "romaji": "omedetai",
+          "accent": "おめでたい○／おめでた↓い",
+          "english": "celebratory"
+        },
+        {
+          "japanese": "色",
+          "romaji": "iro",
+          "accent": "いろ↓",
+          "english": "color"
+        },
+        {
+          "japanese": "イスラム教",
+          "romaji": "isuramu kyou",
+          "accent": "イスラムきょう○",
+          "english": "Islam"
+        },
+        {
+          "japanese": "ラマダン",
+          "romaji": "ramadan",
+          "accent": "ラマダン○",
+          "english": "Ramadan"
+        },
+        {
+          "japanese": "例えば",
+          "romaji": "tatoeba",
+          "accent": "たと↓えば",
+          "english": "for example"
+        },
+        {
+          "japanese": "飾りつけ",
+          "romaji": "kazaritsuke",
+          "accent": "かざりつけ○",
+          "english": "decorations"
+        },
+        {
+          "japanese": "半分",
+          "romaji": "hanbun",
+          "accent": "はんぶ↓ん／はんぶん○",
+          "english": "half"
+        }
       ],
       "audio": "/audio/z/lesson9/wordlist_Z_09-3.mp3"
     },
@@ -30,7 +531,126 @@
       "title": "イベントの記事",
       "number": "4.",
       "wordList": [
-        
+        {
+          "japanese": "餅つき",
+          "romaji": "mochitsuki",
+          "accent": "もち↓つき",
+          "english": "rice cake pounding"
+        },
+        {
+          "japanese": "当日",
+          "romaji": "toujitsu",
+          "accent": "とうじつ○",
+          "english": "on the day"
+        },
+        {
+          "japanese": "大人",
+          "romaji": "otona",
+          "accent": "おとな○",
+          "english": "adult"
+        },
+        {
+          "japanese": "味わう",
+          "romaji": "ajiwau",
+          "accent": "あじわ↓う",
+          "english": "to taste"
+        },
+        {
+          "japanese": "伝統的（な）",
+          "romaji": "dentouteki (na)",
+          "accent": "でんとうてき（な）○",
+          "english": "traditional"
+        },
+        {
+          "japanese": "文化",
+          "romaji": "bunka",
+          "accent": "ぶ↓んか",
+          "english": "culture"
+        },
+        {
+          "japanese": "感想",
+          "romaji": "kansou",
+          "accent": "かんそう○",
+          "english": "impressions"
+        },
+        {
+          "japanese": "語る",
+          "romaji": "kataru",
+          "accent": "かたる○",
+          "english": "to talk"
+        },
+        {
+          "japanese": "活動報告",
+          "romaji": "katsudou houkoku",
+          "accent": "かつどうほ↓うこく",
+          "english": "activity report"
+        },
+        {
+          "japanese": "実際に",
+          "romaji": "jissai ni",
+          "accent": "じっさいに○",
+          "english": "actually"
+        },
+        {
+          "japanese": "杵",
+          "romaji": "kine",
+          "accent": "き↓ね",
+          "english": "mallet"
+        },
+        {
+          "japanese": "体験する",
+          "romaji": "taiken suru",
+          "accent": "たいけんする○",
+          "english": "to experience"
+        },
+        {
+          "japanese": "つきたて",
+          "romaji": "tsukitate",
+          "accent": "つきたて○",
+          "english": "freshly made"
+        },
+        {
+          "japanese": "お餅",
+          "romaji": "omochi",
+          "accent": "おもち○",
+          "english": "mochi (rice cakes)"
+        },
+        {
+          "japanese": "きなこ",
+          "romaji": "kinako",
+          "accent": "き↓なこ",
+          "english": "kinako (soybean flour)"
+        },
+        {
+          "japanese": "あんこ",
+          "romaji": "anko",
+          "accent": "あ↓んこ",
+          "english": "anko (red bean paste)"
+        },
+        {
+          "japanese": "餅をつく",
+          "romaji": "mochi o tsuku",
+          "accent": "もちをつ↓く",
+          "english": "to pound (mochi)"
+        },
+        {
+          "japanese": "チームワーク",
+          "romaji": "chiimuwāku",
+          "accent": "チームワ↓ーク",
+          "english": "teamwork"
+        },
+        {
+          "japanese": "トック",
+          "romaji": "tokku",
+          "accent": "ト↓ック",
+          "english": "tteok (Korean rice cakes)"
+        },
+        {
+          "japanese": "思ったより（も）",
+          "romaji": "omotta yori (mo)",
+          "accent": "おも↓ったよ↓り（も）",
+          "english": "more than expected"
+        }
       ],
       "audio": "/audio/z/lesson9/wordlist_Z_09-4.mp3"
     },
@@ -38,7 +658,54 @@
       "title": "新年のメッセージ",
       "number": "5.",
       "wordList": [
-        
+        {
+          "japanese": "昨年",
+          "romaji": "sakunen",
+          "accent": "さくねん○",
+          "english": "last year"
+        },
+        {
+          "japanese": "昨年はいろいろお世話になりました",
+          "romaji": "sakunen wa iroiro osewa ni narimashita",
+          "accent": "さくねん○は　いろいろ○　おせ↓わに　なりま↓した",
+          "english": "Thank you for so many things last year."
+        },
+        {
+          "japanese": "今年もよろしくお願いします",
+          "romaji": "kotoshi mo yoroshiku onegaishimasu",
+          "accent": "ことしもよろしくおねがいしま↓す",
+          "english": "I look forward to seeing / working with you again this year."
+        },
+        {
+          "japanese": "あけおめ",
+          "romaji": "akeome",
+          "accent": "あけおめ○",
+          "english": "(a short way of saying あけましておめでとう)"
+        },
+        {
+          "japanese": "ことよろ",
+          "romaji": "kotoyoro",
+          "accent": "ことよろ○",
+          "english": "(a short way of saying ことしもよろしく)"
+        },
+        {
+          "japanese": "謹賀新年",
+          "romaji": "kinga shinnen",
+          "accent": "きんがし↓んねん",
+          "english": "Happy New Year (New Year's greeting used in New Year's cards)"
+        },
+        {
+          "japanese": "遊ぼう",
+          "romaji": "asobou",
+          "accent": "あそぼ↓う",
+          "english": "let's hang out"
+        },
+        {
+          "japanese": "また遊ぼうね",
+          "romaji": "mata asobou ne",
+          "accent": "またあそぼ↓うね",
+          "english": "I'm looking forward to having fun with you again!"
+        }
       ],
       "audio": "/audio/z/lesson9/wordlist_Z_09-5.mp3"
     }

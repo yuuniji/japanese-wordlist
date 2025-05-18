@@ -6,7 +6,240 @@
       "title": "どこで買ったらいいですか？",
       "number": "1.",
       "wordList": [
-        
+        {
+          "japanese": "電気製品",
+          "romaji": "denkiseihin",
+          "accent": "でんきせ↓いひん",
+          "english": "electric appliance"
+        },
+        {
+          "japanese": "冷蔵庫",
+          "romaji": "reizouko",
+          "accent": "れいぞ↓うこ",
+          "english": "refrigerator"
+        },
+        {
+          "japanese": "洗濯機",
+          "romaji": "sentakuki",
+          "accent": "せんたく↓き",
+          "english": "washing machine"
+        },
+        {
+          "japanese": "電子レンジ",
+          "romaji": "denshi renji",
+          "accent": "でんしレ↓ンジ",
+          "english": "microwave"
+        },
+        {
+          "japanese": "掃除機",
+          "romaji": "soujiki",
+          "accent": "そうじ↓き",
+          "english": "vacuum cleaner"
+        },
+        {
+          "japanese": "ポット",
+          "romaji": "potto",
+          "accent": "ポ↓ット",
+          "english": "hot water dispenser"
+        },
+        {
+          "japanese": "パソコン",
+          "romaji": "pasokon",
+          "accent": "パソコン○",
+          "english": "personal computer"
+        },
+        {
+          "japanese": "タブレット",
+          "romaji": "taburetto",
+          "accent": "タ↓ブレット／タブレ↓ット",
+          "english": "tablet"
+        },
+        {
+          "japanese": "イヤホン",
+          "romaji": "iyahon",
+          "accent": "イ↓ヤホン",
+          "english": "earphones"
+        },
+        {
+          "japanese": "扇風機",
+          "romaji": "senpuuki",
+          "accent": "せんぷ↓うき",
+          "english": "electric fan"
+        },
+        {
+          "japanese": "ストーブ",
+          "romaji": "sutoobu",
+          "accent": "スト↓ーブ",
+          "english": "heating stove"
+        },
+        {
+          "japanese": "ヒーター",
+          "romaji": "hiitaa",
+          "accent": "ヒ↓ーター",
+          "english": "heater"
+        },
+        {
+          "japanese": "ドライヤー",
+          "romaji": "doraiyaa",
+          "accent": "ドライヤー○",
+          "english": "hair-dryer"
+        },
+        {
+          "japanese": "アイロン",
+          "romaji": "airon",
+          "accent": "アイロン○",
+          "english": "iron"
+        },
+        {
+          "japanese": "モデル",
+          "romaji": "moderu",
+          "accent": "モデル○／モ↓デル",
+          "english": "model"
+        },
+        {
+          "japanese": "音",
+          "romaji": "oto",
+          "accent": "おと↓",
+          "english": "sound"
+        },
+        {
+          "japanese": "デザイン",
+          "romaji": "dezain",
+          "accent": "デザ↓イン",
+          "english": "design"
+        },
+        {
+          "japanese": "商品",
+          "romaji": "shouhin",
+          "accent": "しょ↓うひん",
+          "english": "product"
+        },
+        {
+          "japanese": "送料",
+          "romaji": "souryou",
+          "accent": "そ↓うりょう",
+          "english": "shipping cost"
+        },
+        {
+          "japanese": "無料",
+          "romaji": "muryou",
+          "accent": "むりょう○",
+          "english": "free of charge"
+        },
+        {
+          "japanese": "お店の人",
+          "romaji": "omise no hito",
+          "accent": "おみせのひと↓",
+          "english": "store staff"
+        },
+        {
+          "japanese": "相談（する）",
+          "romaji": "soudan (suru)",
+          "accent": "そうだん（する）○",
+          "english": "(to) consult"
+        },
+        {
+          "japanese": "届く",
+          "romaji": "todoku",
+          "accent": "とど↓く",
+          "english": "to be delivered"
+        },
+        {
+          "japanese": "店員",
+          "romaji": "tenin",
+          "accent": "てんいん○",
+          "english": "store staff"
+        },
+        {
+          "japanese": "便利（な）",
+          "romaji": "benri (na)",
+          "accent": "べ↓んり（な）",
+          "english": "convenient"
+        },
+        {
+          "japanese": "すぐ",
+          "romaji": "sugu",
+          "accent": "す↓ぐ",
+          "english": "immediately"
+        },
+        {
+          "japanese": "見つかる",
+          "romaji": "mitsukaru",
+          "accent": "みつかる○",
+          "english": "to find"
+        },
+        {
+          "japanese": "高く",
+          "romaji": "takaku",
+          "accent": "たか↓く／た↓かく",
+          "english": "high price"
+        },
+        {
+          "japanese": "売れる",
+          "romaji": "ureru",
+          "accent": "うれる○",
+          "english": "to be able to sell"
+        },
+        {
+          "japanese": "手続き",
+          "romaji": "tetsuzuki",
+          "accent": "てつ↓づき",
+          "english": "procedure"
+        },
+        {
+          "japanese": "簡単（な）",
+          "romaji": "kantan (na)",
+          "accent": "かんたん（な）○",
+          "english": "easy / simple"
+        },
+        {
+          "japanese": "メーカー",
+          "romaji": "meekaa",
+          "accent": "メーカー○",
+          "english": "manufacturer"
+        },
+        {
+          "japanese": "ワイヤレス",
+          "romaji": "waiyaresu",
+          "accent": "ワ↓イヤレス",
+          "english": "wireless"
+        },
+        {
+          "japanese": "手元",
+          "romaji": "temoto",
+          "accent": "てもと↓",
+          "english": "me (literally in one's possession / on hand)"
+        },
+        {
+          "japanese": "電気屋",
+          "romaji": "denkiya",
+          "accent": "でんきや○",
+          "english": "electric appliance store"
+        },
+        {
+          "japanese": "国道沿い",
+          "romaji": "kokudou zoi",
+          "accent": "こくどうぞい○",
+          "english": "along the National Route"
+        },
+        {
+          "japanese": "開店（開店セール）",
+          "romaji": "kaiten (kaiten seeru)",
+          "accent": "かいてん○　（かいてんセ↓ール）",
+          "english": "opening (e.g. opening sale)"
+        },
+        {
+          "japanese": "車を出す",
+          "romaji": "kuruma o dasu",
+          "accent": "くるまをだ↓す",
+          "english": "to give a ride"
+        },
+        {
+          "japanese": "フリマサイト",
+          "romaji": "furima saito",
+          "accent": "フリマサ↓イト",
+          "english": "flea market website"
+        }
       ],
       "audio": "/audio/z/lesson12/wordlist_Z_12-1.mp3"
     },
@@ -14,7 +247,216 @@
       "title": "フリマアプリ",
       "number": "2.",
       "wordList": [
-        
+        {
+          "japanese": "家電",
+          "romaji": "kaden",
+          "accent": "かでん○",
+          "english": "household appliances"
+        },
+        {
+          "japanese": "カテゴリー",
+          "romaji": "kategorii",
+          "accent": "カテ↓ゴリー／カ↓テゴリー",
+          "english": "category"
+        },
+        {
+          "japanese": "ブランド",
+          "romaji": "burando",
+          "accent": "ブランド○",
+          "english": "brand"
+        },
+        {
+          "japanese": "ホーム",
+          "romaji": "hoomu",
+          "accent": "ホ↓ーム",
+          "english": "homepage"
+        },
+        {
+          "japanese": "出品",
+          "romaji": "shuppin",
+          "accent": "しゅっぴん○",
+          "english": "submit"
+        },
+        {
+          "japanese": "マイページ",
+          "romaji": "mai peeji",
+          "accent": "マイペ↓ージ",
+          "english": "my page (user's personal page)"
+        },
+        {
+          "japanese": "住まい",
+          "romaji": "sumai",
+          "accent": "す↓まい",
+          "english": "for the home"
+        },
+        {
+          "japanese": "絞り込み",
+          "romaji": "shiborikomi",
+          "accent": "しぼりこみ○",
+          "english": "narrow down"
+        },
+        {
+          "japanese": "販売中",
+          "romaji": "hanbaichuu",
+          "accent": "はんばいちゅう○",
+          "english": "on sale"
+        },
+        {
+          "japanese": "表示",
+          "romaji": "hyouji",
+          "accent": "ひょうじ○",
+          "english": "display"
+        },
+        {
+          "japanese": "～順（安い順）",
+          "romaji": "～jun (yasui jun)",
+          "accent": "～じゅん　（やすいじゅん○）",
+          "english": "in order of ～ (e.g. from lowest to highest price)"
+        },
+        {
+          "japanese": "価格",
+          "romaji": "kakaku",
+          "accent": "かかく○",
+          "english": "price"
+        },
+        {
+          "japanese": "状態",
+          "romaji": "joutai",
+          "accent": "じょうたい○",
+          "english": "condition"
+        },
+        {
+          "japanese": "配送料",
+          "romaji": "haisouryou",
+          "accent": "はいそ↓うりょう",
+          "english": "delivery charges"
+        },
+        {
+          "japanese": "販売状況",
+          "romaji": "hanbaijoukyou",
+          "accent": "はんばいじょ↓うきょう",
+          "english": "sale status"
+        },
+        {
+          "japanese": "指定する",
+          "romaji": "shitei suru",
+          "accent": "していする○",
+          "english": "to specify"
+        },
+        {
+          "japanese": "取り消し",
+          "romaji": "torikeshi",
+          "accent": "とりけし○",
+          "english": "cancel"
+        },
+        {
+          "japanese": "完了",
+          "romaji": "kanryou",
+          "accent": "かんりょう○",
+          "english": "confirm"
+        },
+        {
+          "japanese": "購入（する）",
+          "romaji": "kounyuu (suru)",
+          "accent": "こうにゅう（する）○",
+          "english": "(to) buy"
+        },
+        {
+          "japanese": "傷",
+          "romaji": "kizu",
+          "accent": "きず○",
+          "english": "scratch"
+        },
+        {
+          "japanese": "汚れ",
+          "romaji": "yogore",
+          "accent": "よごれ○",
+          "english": "dirt"
+        },
+        {
+          "japanese": "～込み（送料込み）",
+          "romaji": "～komi (souryou komi)",
+          "accent": "～こみ↓　（そ↓うりょう　こみ↓）／～こ↓み　（そ↓うりょう　こ↓み）",
+          "english": "including ～ (e.g. including postage)"
+        },
+        {
+          "japanese": "～合（5.5合）",
+          "romaji": "～gou (5.5 gou)",
+          "accent": "～ごう　（ご↓ーてん△ご↓ごう）",
+          "english": "～ cups (Japanese unit of volume for rice, about 180 ml) (e.g. 5.5 cups=990ml)"
+        },
+        {
+          "japanese": "出品する",
+          "romaji": "shuppin suru",
+          "accent": "しゅっぴんする○",
+          "english": "to put up for sale"
+        },
+        {
+          "japanese": "問題なく",
+          "romaji": "mondai naku",
+          "accent": "もんだいな↓く",
+          "english": "without problems"
+        },
+        {
+          "japanese": "炊ける（ご飯が炊ける）",
+          "romaji": "takeru (gohan ga takeru)",
+          "accent": "たける○　（ご↓はんがたける）",
+          "english": "to be cooked (e.g. rice cooks)"
+        },
+        {
+          "japanese": "詳細",
+          "romaji": "shousai",
+          "accent": "しょうさい○",
+          "english": "details"
+        },
+        {
+          "japanese": "～製（2018製）",
+          "romaji": "～sei (2018 sei)",
+          "accent": "～せい　（にせ↓ん△じゅうはちねんせい○）",
+          "english": "made in ～ (e.g. made in 2018)"
+        },
+        {
+          "japanese": "幅",
+          "romaji": "haba",
+          "accent": "はば○",
+          "english": "width"
+        },
+        {
+          "japanese": "奥行",
+          "romaji": "okuyuki",
+          "accent": "おくゆき○",
+          "english": "depth"
+        },
+        {
+          "japanese": "高さ",
+          "romaji": "takasa",
+          "accent": "た↓かさ",
+          "english": "height"
+        },
+        {
+          "japanese": "重さ",
+          "romaji": "omosa",
+          "accent": "おもさ○",
+          "english": "weight"
+        },
+        {
+          "japanese": "説明書",
+          "romaji": "setsumeisho",
+          "accent": "せつめいしょ○／せつめいしょ↓",
+          "english": "instruction booklet"
+        },
+        {
+          "japanese": "～つき（説明書つき）",
+          "romaji": "～tsuki (setsumeisho tsuki)",
+          "accent": "～つき　（せつめいしょつき○）",
+          "english": "with ～ (e.g. with an instruction booklet)"
+        },
+        {
+          "japanese": "購入手続き",
+          "romaji": "kounyuu tetsuzuki",
+          "accent": "こうにゅうてつ↓づき",
+          "english": "purchase procedure"
+        }
       ],
       "audio": "/audio/z/lesson12/wordlist_Z_12-2.mp3"
     },
@@ -22,7 +464,138 @@
       "title": "商品の比較表",
       "number": "3.",
       "wordList": [
-        
+        {
+          "japanese": "重さ",
+          "romaji": "omosa",
+          "accent": "おもさ○",
+          "english": "weight"
+        },
+        {
+          "japanese": "連続",
+          "romaji": "renzoku",
+          "accent": "れんぞく○",
+          "english": "continuous"
+        },
+        {
+          "japanese": "充電",
+          "romaji": "juuden",
+          "accent": "じゅうでん○",
+          "english": "charge"
+        },
+        {
+          "japanese": "しっかり",
+          "romaji": "shikkari",
+          "accent": "しっか↓り",
+          "english": "thoroughly"
+        },
+        {
+          "japanese": "使用時間",
+          "romaji": "shiyou jikan",
+          "accent": "しようじ↓かん",
+          "english": "usable time"
+        },
+        {
+          "japanese": "こんな（こんな人）",
+          "romaji": "konna (konna hito)",
+          "accent": "こんな○　（こんなひと↓）",
+          "english": "this / these (e.g. these people)"
+        },
+        {
+          "japanese": "モード（強モード）",
+          "romaji": "moodo (kyou moodo)",
+          "accent": "モ↓ード　（きょうモ↓ード）",
+          "english": "mode (e.g. strong mode)"
+        },
+        {
+          "japanese": "多機能",
+          "romaji": "takinoo",
+          "accent": "たき↓のう",
+          "english": "multifunctional"
+        },
+        {
+          "japanese": "長持ち",
+          "romaji": "nagamochi",
+          "accent": "なが↓もち／ながも↓ち",
+          "english": "long-lasting"
+        },
+        {
+          "japanese": "超軽量",
+          "romaji": "chou keiryō",
+          "accent": "ちょ↓うけいりょう",
+          "english": "ultralight"
+        },
+        {
+          "japanese": "お手入れ",
+          "romaji": "oteire",
+          "accent": "おて↓いれ",
+          "english": "maintenance"
+        },
+        {
+          "japanese": "吸引（する）",
+          "romaji": "kyūin (suru)",
+          "accent": "きゅういん（する）○",
+          "english": "suction (to suck up)"
+        },
+        {
+          "japanese": "吸引力",
+          "romaji": "kyūin ryoku",
+          "accent": "きゅうい↓んりょく",
+          "english": "suction power"
+        },
+        {
+          "japanese": "コンパクト（な）",
+          "romaji": "konpakuto (na)",
+          "accent": "コ↓ンパクト（な）",
+          "english": "compact"
+        },
+        {
+          "japanese": "持ち運ぶ",
+          "romaji": "mochi hakobu",
+          "accent": "もちはこぶ○／もちはこ↓ぶ",
+          "english": "to carry"
+        },
+        {
+          "japanese": "重視する",
+          "romaji": "juushi suru",
+          "accent": "じゅ↓うしする",
+          "english": "to prioritize"
+        },
+        {
+          "japanese": "すみずみ",
+          "romaji": "sumizumi",
+          "accent": "すみ↓ずみ",
+          "english": "all the way into the corners"
+        },
+        {
+          "japanese": "税別",
+          "romaji": "zeibetsu",
+          "accent": "ぜいべつ○",
+          "english": "price before tax"
+        },
+        {
+          "japanese": "広告の品",
+          "romaji": "koukoku no shina",
+          "accent": "こうこくのしな○",
+          "english": "advertised item"
+        },
+        {
+          "japanese": "特別価格",
+          "romaji": "tokubetsu kakaku",
+          "accent": "とくべつか↓かく",
+          "english": "special price"
+        },
+        {
+          "japanese": "コードレス",
+          "romaji": "ko-doresu",
+          "accent": "コ↓ードレス",
+          "english": "cordless"
+        },
+        {
+          "japanese": "希望小売価格",
+          "romaji": "kibou kouri kakaku",
+          "accent": "きぼうこうりか↓かく",
+          "english": "suggested retail price"
+        }
       ],
       "audio": "/audio/z/lesson12/wordlist_Z_12-3.mp3"
     },
@@ -30,7 +603,174 @@
       "title": "これ、安くなりますか？",
       "number": "4.",
       "wordList": [
-        
+        {
+          "japanese": "軽い",
+          "romaji": "karui",
+          "accent": "かるい○／かる↓い",
+          "english": "lightweight"
+        },
+        {
+          "japanese": "動かす",
+          "romaji": "ugokasu",
+          "accent": "うごか↓す",
+          "english": "to move around"
+        },
+        {
+          "japanese": "持つ",
+          "romaji": "motsu",
+          "accent": "も↓つ",
+          "english": "to carry"
+        },
+        {
+          "japanese": "比べる",
+          "romaji": "kuraberu",
+          "accent": "くらべる○",
+          "english": "to compare"
+        },
+        {
+          "japanese": "パワフル（な）",
+          "romaji": "pawafuru (na)",
+          "accent": "パ↓ワフル（な）",
+          "english": "powerful"
+        },
+        {
+          "japanese": "機能",
+          "romaji": "kinou",
+          "accent": "き↓のう",
+          "english": "function"
+        },
+        {
+          "japanese": "つく（機能がつく）",
+          "romaji": "tsuku (kinou ga tsuku)",
+          "accent": "つ↓く　（き↓のうがつ↓く）",
+          "english": "to include / to attach (e.g. included functions)"
+        },
+        {
+          "japanese": "カーペット",
+          "romaji": "ka-petto",
+          "accent": "カ↓ーペット",
+          "english": "carpet"
+        },
+        {
+          "japanese": "畳",
+          "romaji": "tatami",
+          "accent": "たたみ○",
+          "english": "tatami"
+        },
+        {
+          "japanese": "エコモード",
+          "romaji": "ekomoodo",
+          "accent": "エコモ↓ード",
+          "english": "eco mode"
+        },
+        {
+          "japanese": "ですから",
+          "romaji": "desukara",
+          "accent": "で↓すから",
+          "english": "and so / therefore"
+        },
+        {
+          "japanese": "～に合わせて（部屋に合わせて）",
+          "romaji": "～ni awasete (heya ni awasete)",
+          "accent": "～にあわ↓せて　（へや↓にあわ↓せて）",
+          "english": "in a way that suits ～ (e.g. in a way that suits the room)"
+        },
+        {
+          "japanese": "複雑（な）",
+          "romaji": "fukuzatsu (na)",
+          "accent": "ふくざつ（な）○",
+          "english": "complicated"
+        },
+        {
+          "japanese": "重い",
+          "romaji": "omoi",
+          "accent": "おもい○／おも↓い",
+          "english": "heavy"
+        },
+        {
+          "japanese": "予算オーバー",
+          "romaji": "yosan oobaa",
+          "accent": "よさんオ↓ーバー",
+          "english": "over budget"
+        },
+        {
+          "japanese": "シンプル（な）",
+          "romaji": "shinpuru (na)",
+          "accent": "シ↓ンプル（な）",
+          "english": "simple"
+        },
+        {
+          "japanese": "消費税",
+          "romaji": "shouhizei",
+          "accent": "しょうひ↓ぜい",
+          "english": "consumption tax"
+        },
+        {
+          "japanese": "～抜き（消費税抜き）",
+          "romaji": "～nuki (shouhizei nuki)",
+          "accent": "～ぬ↓き　（しょうひ↓ぜい△ぬ↓き）",
+          "english": "without ～ (e.g. without consumption tax)"
+        },
+        {
+          "japanese": "～引き（2000円引き）",
+          "romaji": "～biki (nisen en biki)",
+          "accent": "～びき　（にせんえんびき○）",
+          "english": "～ discount (e.g. 2,000 yen discount)"
+        },
+        {
+          "japanese": "配送",
+          "romaji": "haisou",
+          "accent": "はいそう○",
+          "english": "delivery"
+        },
+        {
+          "japanese": "合わせて",
+          "romaji": "awasete",
+          "accent": "あわ↓せて",
+          "english": "add up to"
+        },
+        {
+          "japanese": "ポイント",
+          "romaji": "pointo",
+          "accent": "ポイント○",
+          "english": "point"
+        },
+        {
+          "japanese": "貯まる",
+          "romaji": "tamaru",
+          "accent": "たまる○",
+          "english": "to accumulate"
+        },
+        {
+          "japanese": "変わる",
+          "romaji": "kawaru",
+          "accent": "かわる○",
+          "english": "to change"
+        },
+        {
+          "japanese": "安くなりますか？",
+          "romaji": "yasuku narimasu ka?",
+          "accent": "や↓すく　なりま↓すか？",
+          "english": "Can you lower the price?"
+        },
+        {
+          "japanese": "おいくらぐらいでお探しですか？",
+          "romaji": "oikura gurai de osagashi desu ka?",
+          "accent": "おいくらぐ↓らいでおさがしで↓すか？",
+          "english": "How much is your budget? (polite expression)"
+        },
+        {
+          "japanese": "どちらにお住まいですか？",
+          "romaji": "dochira ni osumai desu ka?",
+          "accent": "ど↓ちらにおすまいで↓すか？",
+          "english": "Where do you live? (polite expression)"
+        },
+        {
+          "japanese": "ご利用になりますか？",
+          "romaji": "gori you ni narimasu ka?",
+          "accent": "ごりようになりま↓すか？",
+          "english": "Will you be using ～ ? (polite expression)"
+        }
       ],
       "audio": "/audio/z/lesson12/wordlist_Z_12-4.mp3"
     }

@@ -6,7 +6,102 @@
       "title": "日本の生活には慣れましたか？",
       "number": "1.",
       "wordList": [
-        
+        {
+          "japanese": "和太鼓",
+          "romaji": "wadaiko",
+          "accent": "わだ↓いこ",
+          "english": "Japanese drums"
+        },
+        {
+          "japanese": "サークル",
+          "romaji": "saakuru",
+          "accent": "サークル○",
+          "english": "club"
+        },
+        {
+          "japanese": "入る（サークルに入る）",
+          "romaji": "hairu (saakuru ni hairu)",
+          "accent": "は↓いる（サークルには↓いる）",
+          "english": "to join (e.g. join a circle)"
+        },
+        {
+          "japanese": "誘う",
+          "romaji": "sasou",
+          "accent": "さそう○",
+          "english": "to invite"
+        },
+        {
+          "japanese": "おかげで",
+          "romaji": "okage de",
+          "accent": "おかげで○",
+          "english": "fortunately / thanks to ～"
+        },
+        {
+          "japanese": "増える",
+          "romaji": "fueru",
+          "accent": "ふえ↓る",
+          "english": "to increase"
+        },
+        {
+          "japanese": "ゲストハウス",
+          "romaji": "gesuto hausu",
+          "accent": "ゲストハ↓ウス",
+          "english": "guest house"
+        },
+        {
+          "japanese": "SNS",
+          "romaji": "esu enu esu",
+          "accent": "エスエヌエ↓ス",
+          "english": "social media (social networking service)"
+        },
+        {
+          "japanese": "やりとり",
+          "romaji": "yaritori",
+          "accent": "やり↓とり",
+          "english": "communication / exchange"
+        },
+        {
+          "japanese": "～以外（仕事以外）",
+          "romaji": "~igai (shigoto igai)",
+          "accent": "～い↓がい（しごとい↓がい）",
+          "english": "besides ～ / outside of ～ (e.g. outside of work)"
+        },
+        {
+          "japanese": "うまい",
+          "romaji": "umai",
+          "accent": "うま↓い",
+          "english": "good at"
+        },
+        {
+          "japanese": "ドラマ",
+          "romaji": "dorama",
+          "accent": "ドラマ○／ド↓ラマ",
+          "english": "drama"
+        },
+        {
+          "japanese": "ほとんど",
+          "romaji": "hotondo",
+          "accent": "ほと↓んど",
+          "english": "mostly"
+        },
+        {
+          "japanese": "セリフ",
+          "romaji": "serifu",
+          "accent": "セリフ○",
+          "english": "lines (in a drama, speech)"
+        },
+        {
+          "japanese": "アイディア",
+          "romaji": "aidia",
+          "accent": "ア↓イディア",
+          "english": "idea"
+        },
+        {
+          "japanese": "笑う",
+          "romaji": "warau",
+          "accent": "わらう○",
+          "english": "to laugh"
+        }
       ],
       "audio": "/audio/z/lesson17/wordlist_Z_17-1.mp3"
     },
@@ -14,7 +109,36 @@
       "title": "知らないことばが多くて大変でした",
       "number": "2.",
       "wordList": [
-        
+        {
+          "japanese": "そろそろ",
+          "romaji": "sorosoro",
+          "accent": "そ↓ろそろ",
+          "english": "by now / soon"
+        },
+        {
+          "japanese": "～のころ（最初のころ）",
+          "romaji": "~no koro (saisho no koro)",
+          "accent": "～のこ↓ろ（さいしょのこ↓ろ）",
+          "english": "around ～ (e.g. around the beginning)"
+        },
+        {
+          "japanese": "苦労する",
+          "romaji": "kurou suru",
+          "accent": "く↓ろうする",
+          "english": "to have a hard time / to struggle"
+        },
+        {
+          "japanese": "締め日",
+          "romaji": "shimebi",
+          "accent": "しめ↓び",
+          "english": "accounting deadline"
+        },
+        {
+          "japanese": "納期",
+          "romaji": "nouki",
+          "accent": "の↓うき",
+          "english": "delivery deadline"
+        }
       ],
       "audio": "/audio/z/lesson17/wordlist_Z_17-2.mp3"
     },
@@ -22,7 +146,36 @@
       "title": "近況報告のメッセージ",
       "number": "3.",
       "wordList": [
-        
+        {
+          "japanese": "友だちリクエスト",
+          "romaji": "tomodachi rikuesuto",
+          "accent": "ともだちリクエ↓スト",
+          "english": "friend request"
+        },
+        {
+          "japanese": "承認する",
+          "romaji": "shounin suru",
+          "accent": "しょうにんする○",
+          "english": "to approve"
+        },
+        {
+          "japanese": "授業",
+          "romaji": "jugyou",
+          "accent": "じゅ↓ぎょう",
+          "english": "class"
+        },
+        {
+          "japanese": "問題",
+          "romaji": "mondai",
+          "accent": "もんだい○",
+          "english": "problem"
+        },
+        {
+          "japanese": "感謝する",
+          "romaji": "kansha suru",
+          "accent": "か↓んしゃする",
+          "english": "to appreciate"
+        }
       ],
       "audio": "/audio/z/lesson17/wordlist_Z_17-3.mp3"
     }

@@ -6,7 +6,120 @@
       "title": "切符・掲示",
       "number": "1.",
       "wordList": [
-        
+        {
+          "japanese": "～発",
+          "romaji": "~hatsu",
+          "accent": "～は↓つ",
+          "english": "depart at ～"
+        },
+        {
+          "japanese": "～着",
+          "romaji": "~chaku",
+          "accent": "～ちゃ↓く",
+          "english": "arrive at ～"
+        },
+        {
+          "japanese": "～号",
+          "romaji": "~gō",
+          "accent": "～ごう",
+          "english": "train number ～"
+        },
+        {
+          "japanese": "～号車",
+          "romaji": "~gōsha",
+          "accent": "～ご↓うしゃ",
+          "english": "train car number ～"
+        },
+        {
+          "japanese": "～席",
+          "romaji": "~seki",
+          "accent": "～せき",
+          "english": "～ seat"
+        },
+        {
+          "japanese": "特急券",
+          "romaji": "tokkyūken",
+          "accent": "とっきゅ↓うけん",
+          "english": "limited express ticket"
+        },
+        {
+          "japanese": "秋田",
+          "romaji": "Akita",
+          "accent": "あ↓きた",
+          "english": "Akita"
+        },
+        {
+          "japanese": "こまち",
+          "romaji": "Komachi",
+          "accent": "こ↓まち",
+          "english": "Komachi (a type of Shinkansen)"
+        },
+        {
+          "japanese": "通路側",
+          "romaji": "tsūrogawa",
+          "accent": "つうろがわ○",
+          "english": "aisle seat"
+        },
+        {
+          "japanese": "窓側",
+          "romaji": "madogawa",
+          "accent": "まどがわ○",
+          "english": "window seat"
+        },
+        {
+          "japanese": "遅れ",
+          "romaji": "okure",
+          "accent": "おくれ○",
+          "english": "delay"
+        },
+        {
+          "japanese": "約（約10分）",
+          "romaji": "yaku (yaku juppun)",
+          "accent": "や↓く（や↓く△じゅ↓っぷん）",
+          "english": "about (e.g. about 10 minutes)"
+        },
+        {
+          "japanese": "～両編成（10両編成）",
+          "romaji": "~ryō hensei (jūryō hensei)",
+          "accent": "～りょうへ↓んせい（じゅうりょうへ↓んせい）",
+          "english": "made up of ～ carriages (e.g. made up of 10 carriages)"
+        },
+        {
+          "japanese": "運転見合わせ",
+          "romaji": "unten miawase",
+          "accent": "うんてんみあわせ○",
+          "english": "suspended"
+        },
+        {
+          "japanese": "お知らせ",
+          "romaji": "oshirase",
+          "accent": "おしらせ○",
+          "english": "notice"
+        },
+        {
+          "japanese": "台風～号",
+          "romaji": "taifū ~gō",
+          "accent": "たいふ↓う　～ごう",
+          "english": "typhoon no. ～"
+        },
+        {
+          "japanese": "接近",
+          "romaji": "sekkin",
+          "accent": "せっきん○",
+          "english": "approach"
+        },
+        {
+          "japanese": "～に伴い",
+          "romaji": "~ni tomonai",
+          "accent": "～にともな↓い",
+          "english": "as a result of ～"
+        },
+        {
+          "japanese": "見合わせる",
+          "romaji": "miawaseru",
+          "accent": "みあわせる○",
+          "english": "to postpone"
+        }
       ],
       "audio": "/audio/z/lesson6/wordlist_Z_06-1.mp3"
     },
@@ -14,7 +127,42 @@
       "title": "中禅寺湖に行くつもりです",
       "number": "2.",
       "wordList": [
-        
+        {
+          "japanese": "ゆば",
+          "romaji": "yuba",
+          "accent": "ゆ↓ば",
+          "english": "yuba (tofu skin)"
+        },
+        {
+          "japanese": "外国",
+          "romaji": "gaikoku",
+          "accent": "がいこく○",
+          "english": "foreign country"
+        },
+        {
+          "japanese": "～泊（1泊）",
+          "romaji": "~haku (ippaku)",
+          "accent": "～はく（いっぱく○）",
+          "english": "～ night(s) stay (e.g. one-night stay)"
+        },
+        {
+          "japanese": "名物",
+          "romaji": "meibutsu",
+          "accent": "め↓いぶつ",
+          "english": "local specialty"
+        },
+        {
+          "japanese": "東照宮",
+          "romaji": "Tōshōgū",
+          "accent": "とうしょ↓うぐう",
+          "english": "Toshogu Shrine"
+        },
+        {
+          "japanese": "中禅寺湖",
+          "romaji": "Chūzenjiko",
+          "accent": "ちゅうぜんじ↓こ",
+          "english": "Chuzenji Lake"
+        }
       ],
       "audio": "/audio/z/lesson6/wordlist_Z_06-2.mp3"
     },
@@ -22,7 +170,276 @@
       "title": "お客様にご案内いたします",
       "number": "3.",
       "wordList": [
-        
+        {
+          "japanese": "指定席",
+          "romaji": "shiteiseki",
+          "accent": "して↓いせき",
+          "english": "reserved seat"
+        },
+        {
+          "japanese": "自由席",
+          "romaji": "jiyuuseki",
+          "accent": "じゆ↓うせき",
+          "english": "non-reserved seat"
+        },
+        {
+          "japanese": "～番乗り場",
+          "romaji": "~bannoriba",
+          "accent": "～ばんの↓りば",
+          "english": "platform number ～ / stand number ～"
+        },
+        {
+          "japanese": "～番線",
+          "romaji": "~bansen",
+          "accent": "～ばんせん○",
+          "english": "platform number ～"
+        },
+        {
+          "japanese": "～行き",
+          "romaji": "~iki / yuki",
+          "accent": "～いき○／ゆき○",
+          "english": "bound for ～"
+        },
+        {
+          "japanese": "～線",
+          "romaji": "~sen",
+          "accent": "～せん○",
+          "english": "～ Line"
+        },
+        {
+          "japanese": "～方面",
+          "romaji": "~houmen",
+          "accent": "～ほ↓うめん",
+          "english": "towards ～"
+        },
+        {
+          "japanese": "発車する",
+          "romaji": "hasshasuru",
+          "accent": "はっしゃする○",
+          "english": "to depart"
+        },
+        {
+          "japanese": "到着する",
+          "romaji": "touchakusuru",
+          "accent": "とうちゃくする○",
+          "english": "to arrive"
+        },
+        {
+          "japanese": "乗り換える",
+          "romaji": "norikaeru",
+          "accent": "のりかえる○／のりか↓える",
+          "english": "to transfer"
+        },
+        {
+          "japanese": "特急",
+          "romaji": "tokkyuu",
+          "accent": "とっきゅう○",
+          "english": "limited express"
+        },
+        {
+          "japanese": "～両（9両）",
+          "romaji": "~ryou (kyuuryou)",
+          "accent": "～りょう　（きゅ↓うりょう）",
+          "english": "～ -car train (e.g. nine-car train)"
+        },
+        {
+          "japanese": "順",
+          "romaji": "jun",
+          "accent": "じゅん○",
+          "english": "in order of"
+        },
+        {
+          "japanese": "グリーン車",
+          "romaji": "guriinsha",
+          "accent": "グリー↓ンしゃ",
+          "english": "green car (=first class car)"
+        },
+        {
+          "japanese": "金沢",
+          "romaji": "Kanazawa",
+          "accent": "かな↓ざわ",
+          "english": "Kanazawa"
+        },
+        {
+          "japanese": "列車",
+          "romaji": "ressha",
+          "accent": "れっしゃ○",
+          "english": "train"
+        },
+        {
+          "japanese": "乗車／ご乗車",
+          "romaji": "jousha / gojousha",
+          "accent": "じょうしゃ○／ごじょうしゃ○",
+          "english": "get on a train"
+        },
+        {
+          "japanese": "～ほど（3分ほど）",
+          "romaji": "~hodo (sanpun hodo)",
+          "accent": "～ほど　（さんぷんほど○）",
+          "english": "about ～ (e.g. about 3 minutes)"
+        },
+        {
+          "japanese": "岡山",
+          "romaji": "Okayama",
+          "accent": "おか↓やま",
+          "english": "Okayama"
+        },
+        {
+          "japanese": "お出口",
+          "romaji": "odeguchi",
+          "accent": "おで↓ぐち",
+          "english": "exit (polite expression)"
+        },
+        {
+          "japanese": "左側",
+          "romaji": "hidarigawa",
+          "accent": "ひだりがわ○",
+          "english": "left-hand side"
+        },
+        {
+          "japanese": "各駅",
+          "romaji": "kakueki",
+          "accent": "か↓くえき",
+          "english": "each station"
+        },
+        {
+          "japanese": "向かい側",
+          "romaji": "mukaigawa",
+          "accent": "むかいがわ○",
+          "english": "opposite side"
+        },
+        {
+          "japanese": "中ほど",
+          "romaji": "nakahodo",
+          "accent": "なかほど○",
+          "english": "middle"
+        },
+        {
+          "japanese": "ご案内をいたします",
+          "romaji": "goannai o itashimasu",
+          "accent": "ごあんないをいたしま↓す",
+          "english": "This is an announcement. (polite expression)"
+        },
+        {
+          "japanese": "お越しください",
+          "romaji": "okoshikudasai",
+          "accent": "おこしくださ↓い",
+          "english": "Please head to ～. (polite expression)"
+        },
+        {
+          "japanese": "事故",
+          "romaji": "jiko",
+          "accent": "じ↓こ",
+          "english": "accident"
+        },
+        {
+          "japanese": "壊れる",
+          "romaji": "kowareru",
+          "accent": "こわれ↓る",
+          "english": "to break"
+        },
+        {
+          "japanese": "信号",
+          "romaji": "shingou",
+          "accent": "しんごう○",
+          "english": "traffic lights"
+        },
+        {
+          "japanese": "信号故障",
+          "romaji": "shingou koshou",
+          "accent": "しんごうこ↓しょう",
+          "english": "signal failure"
+        },
+        {
+          "japanese": "アナウンス",
+          "romaji": "anaunsu",
+          "accent": "アナ↓ウンス",
+          "english": "announcement"
+        },
+        {
+          "japanese": "困る",
+          "romaji": "komaru",
+          "accent": "こま↓る",
+          "english": "to be troubled"
+        },
+        {
+          "japanese": "何て言ってましたか？",
+          "romaji": "nante itte mashitaka?",
+          "accent": "な↓んていってま↓したか？",
+          "english": "What was it saying?"
+        },
+        {
+          "japanese": "当駅",
+          "romaji": "toueki",
+          "accent": "と↓うえき",
+          "english": "this station"
+        },
+        {
+          "japanese": "～のため",
+          "romaji": "~no tame",
+          "accent": "～のため",
+          "english": "due to ～"
+        },
+        {
+          "japanese": "運転",
+          "romaji": "unten",
+          "accent": "うんてん○",
+          "english": "(train) operations"
+        },
+        {
+          "japanese": "お急ぎのところ",
+          "romaji": "oisogi no tokoro",
+          "accent": "おいそぎのところ○",
+          "english": "when you may be in a rush (polite expression)"
+        },
+        {
+          "japanese": "お知らせいたします",
+          "romaji": "oshirase itashimasu",
+          "accent": "おしらせいたしま↓す",
+          "english": "This is an announcement. (polite expression)"
+        },
+        {
+          "japanese": "行っております",
+          "romaji": "okonatte orimasu",
+          "accent": "おこなっておりま↓す",
+          "english": "～ are conducting. (polite expression for しています)"
+        },
+        {
+          "japanese": "ご迷惑をおかけします",
+          "romaji": "gomeiwaku o okake shimasu",
+          "accent": "ごめ↓いわくをおかけしま↓す",
+          "english": "Sorry for the inconvenience.(polite expression)"
+        },
+        {
+          "japanese": "人身事故",
+          "romaji": "jinshin jiko",
+          "accent": "じんしんじ↓こ",
+          "english": "fatal or serious accident"
+        },
+        {
+          "japanese": "影響",
+          "romaji": "eikyou",
+          "accent": "えいきょう○",
+          "english": "impact"
+        },
+        {
+          "japanese": "全線",
+          "romaji": "zensen",
+          "accent": "ぜ↓んせん",
+          "english": "all lines"
+        },
+        {
+          "japanese": "お越し",
+          "romaji": "okoshi",
+          "accent": "おこし○",
+          "english": "heading to (polite expression)"
+        },
+        {
+          "japanese": "ご利用ください",
+          "romaji": "goriou kudasai",
+          "accent": "ごりようくださ↓い",
+          "english": "Please use.(polite expression)"
+        }
       ],
       "audio": "/audio/z/lesson6/wordlist_Z_06-3.mp3"
     },
@@ -30,9 +447,279 @@
       "title": "ショーが見られなくて残念でした",
       "number": "4.",
       "wordList": [
-        
+        {
+          "japanese": "感動する",
+          "romaji": "kandou suru",
+          "accent": "かんどうする○",
+          "english": "to be deeply moved"
+        },
+        {
+          "japanese": "気持ちいい",
+          "romaji": "kimochi ii",
+          "accent": "きもちい↓い",
+          "english": "refreshing"
+        },
+        {
+          "japanese": "残念（な）",
+          "romaji": "zannen (na)",
+          "accent": "ざんね↓ん（な）",
+          "english": "disappointing"
+        },
+        {
+          "japanese": "疲れる",
+          "romaji": "tsukareru",
+          "accent": "つかれ↓る",
+          "english": "to get tired"
+        },
+        {
+          "japanese": "びっくりする",
+          "romaji": "bikkuri suru",
+          "accent": "びっく↓りする",
+          "english": "to be shocked"
+        },
+        {
+          "japanese": "驚く",
+          "romaji": "odoroku",
+          "accent": "おどろ↓く",
+          "english": "to be surprised"
+        },
+        {
+          "japanese": "こわい",
+          "romaji": "kowai",
+          "accent": "こわ↓い",
+          "english": "scary"
+        },
+        {
+          "japanese": "よかった",
+          "romaji": "yokatta",
+          "accent": "よ↓かった",
+          "english": "It was good."
+        },
+        {
+          "japanese": "大阪",
+          "romaji": "Oosaka",
+          "accent": "おおさか○",
+          "english": "Osaka"
+        },
+        {
+          "japanese": "串カツ",
+          "romaji": "kushikatsu",
+          "accent": "くしカツ○",
+          "english": "kushi-katsu (skewered cutlet)"
+        },
+        {
+          "japanese": "たこ焼き",
+          "romaji": "takoyaki",
+          "accent": "たこやき○",
+          "english": "takoyaki (octopus dumpling balls)"
+        },
+        {
+          "japanese": "登る",
+          "romaji": "noboru",
+          "accent": "のぼる○",
+          "english": "to go up"
+        },
+        {
+          "japanese": "あべのハルカス",
+          "romaji": "Abeno Harukasu",
+          "accent": "あべのハ↓ルカス",
+          "english": "Abeno Harukas (building name)"
+        },
+        {
+          "japanese": "大阪城",
+          "romaji": "Oosakajou",
+          "accent": "おおさか↓じょう",
+          "english": "Osaka Castle"
+        },
+        {
+          "japanese": "通天閣",
+          "romaji": "Tsutenkaku",
+          "accent": "つうて↓んかく",
+          "english": "Tsutenkaku Tower"
+        },
+        {
+          "japanese": "鳥",
+          "romaji": "tori",
+          "accent": "とり○",
+          "english": "bird"
+        },
+        {
+          "japanese": "あげる",
+          "romaji": "ageru",
+          "accent": "あげる○",
+          "english": "to give"
+        },
+        {
+          "japanese": "つり",
+          "romaji": "tsuri",
+          "accent": "つり○",
+          "english": "fishing"
+        },
+        {
+          "japanese": "空",
+          "romaji": "sora",
+          "accent": "そ↓ら",
+          "english": "sky"
+        },
+        {
+          "japanese": "ウミネコ",
+          "romaji": "umineko",
+          "accent": "ウミネコ○",
+          "english": "black-tailed gull"
+        },
+        {
+          "japanese": "あの辺",
+          "romaji": "ano hen",
+          "accent": "あのへん○",
+          "english": "around there"
+        },
+        {
+          "japanese": "浄土ヶ浜",
+          "romaji": "Jodogahama",
+          "accent": "じょうどが↓はま",
+          "english": "Jodogahama Beach"
+        },
+        {
+          "japanese": "ケーブルカー",
+          "romaji": "keeburu kaa",
+          "accent": "ケーブル↓カー",
+          "english": "cable car"
+        },
+        {
+          "japanese": "歩く",
+          "romaji": "aruku",
+          "accent": "ある↓く",
+          "english": "to walk"
+        },
+        {
+          "japanese": "リス",
+          "romaji": "risu",
+          "accent": "リ↓ス",
+          "english": "squirrel"
+        },
+        {
+          "japanese": "だから",
+          "romaji": "dakara",
+          "accent": "だ↓から",
+          "english": "that is why"
+        },
+        {
+          "japanese": "あきらめる",
+          "romaji": "akirameru",
+          "accent": "あきらめ↓る",
+          "english": "to give up"
+        },
+        {
+          "japanese": "頂上",
+          "romaji": "choujou",
+          "accent": "ちょうじょ↓う",
+          "english": "summit"
+        },
+        {
+          "japanese": "高尾山",
+          "romaji": "Takao-san",
+          "accent": "たかお↓さん",
+          "english": "Mt. Takao"
+        },
+        {
+          "japanese": "町並み",
+          "romaji": "machinami",
+          "accent": "まちなみ○",
+          "english": "streetscape"
+        },
+        {
+          "japanese": "花畑",
+          "romaji": "hanabatake",
+          "accent": "はなば↓たけ",
+          "english": "field of flowers"
+        },
+        {
+          "japanese": "イルミネーション",
+          "romaji": "iruminēshon",
+          "accent": "イルミネ↓ーション",
+          "english": "illumination"
+        },
+        {
+          "japanese": "ショー",
+          "romaji": "shoo",
+          "accent": "ショ↓ー",
+          "english": "show"
+        },
+        {
+          "japanese": "泊まる",
+          "romaji": "tomaru",
+          "accent": "とまる○",
+          "english": "to stay"
+        },
+        {
+          "japanese": "滝",
+          "romaji": "taki",
+          "accent": "たき○",
+          "english": "waterfalls"
+        },
+        {
+          "japanese": "きらきら",
+          "romaji": "kirakira",
+          "accent": "き↓らきら",
+          "english": "sparkling"
+        },
+        {
+          "japanese": "光る",
+          "romaji": "hikaru",
+          "accent": "ひか↓る",
+          "english": "to shine"
+        },
+        {
+          "japanese": "ハウステンボス",
+          "romaji": "Hausutenbosu",
+          "accent": "ハウステ↓ンボス",
+          "english": "Huis Ten Bosch"
+        },
+        {
+          "japanese": "オランダ",
+          "romaji": "Oranda",
+          "accent": "オランダ○",
+          "english": "the Netherlands"
+        }
       ],
       "audio": "/audio/z/lesson6/wordlist_Z_06-4.mp3"
+    },
+    {
+      "title": "旅行の感想",
+      "number": "5.",
+      "wordList": [
+        {
+          "japanese": "インスタントラーメン",
+          "romaji": "insutanto raamen",
+          "accent": "インスタントラ↓ーメン",
+          "english": "instant noodles"
+        },
+        {
+          "japanese": "描く",
+          "romaji": "kaku",
+          "accent": "か↓く",
+          "english": "to draw (a picture)"
+        },
+        {
+          "japanese": "カップラーメン",
+          "romaji": "kappu raamen",
+          "accent": "カップラ↓ーメン",
+          "english": "cup ramen"
+        },
+        {
+          "japanese": "絵",
+          "romaji": "e",
+          "accent": "え↓",
+          "english": "picture"
+        },
+        {
+          "japanese": "トッピング",
+          "romaji": "toppingu",
+          "accent": "トッピング○",
+          "english": "toppings"
+        }
+      ],
+      "audio": "/audio/z/lesson6/wordlist_Z_06-5.mp3"
     }
   ]
 }

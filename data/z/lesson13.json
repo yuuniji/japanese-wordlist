@@ -6,7 +6,156 @@
       "title": "市の行事に使われてます",
       "number": "1.",
       "wordList": [
-        
+        {
+          "japanese": "公共",
+          "romaji": "koukyou",
+          "accent": "こうきょう○",
+          "english": "public"
+        },
+        {
+          "japanese": "施設",
+          "romaji": "shisetsu",
+          "accent": "し↓せつ",
+          "english": "facility"
+        },
+        {
+          "japanese": "図書館",
+          "romaji": "toshokan",
+          "accent": "としょ↓かん",
+          "english": "library"
+        },
+        {
+          "japanese": "美術館",
+          "romaji": "bijutsukan",
+          "accent": "びじゅつ↓かん",
+          "english": "art museum"
+        },
+        {
+          "japanese": "民俗資料館",
+          "romaji": "minzoku shiryokan",
+          "accent": "みんぞくしりょ↓うかん",
+          "english": "folk museum"
+        },
+        {
+          "japanese": "体育館",
+          "romaji": "taiikukan",
+          "accent": "たいいく↓かん",
+          "english": "gym"
+        },
+        {
+          "japanese": "スポーツジム",
+          "romaji": "supootsu jimu",
+          "accent": "スポーツジ↓ム",
+          "english": "sports gym"
+        },
+        {
+          "japanese": "お風呂",
+          "romaji": "ofuro",
+          "accent": "おふ↓ろ",
+          "english": "bath house"
+        },
+        {
+          "japanese": "入浴施設",
+          "romaji": "nyuuyoku shisetsu",
+          "accent": "にゅうよくし↓せつ",
+          "english": "bathing facilities"
+        },
+        {
+          "japanese": "インフォメーションコーナー",
+          "romaji": "infomeeshon koonaa",
+          "accent": "インフォメーションコ↓ーナー",
+          "english": "information corner"
+        },
+        {
+          "japanese": "プラネタリウム",
+          "romaji": "puranetariumu",
+          "accent": "プラネタリ↓ウム",
+          "english": "planetarium"
+        },
+        {
+          "japanese": "物産コーナー",
+          "romaji": "bussan koonaa",
+          "accent": "ぶっさんコ↓ーナー",
+          "english": "products corner"
+        },
+        {
+          "japanese": "市内",
+          "romaji": "shinai",
+          "accent": "し↓ない",
+          "english": "within the city"
+        },
+        {
+          "japanese": "パンフレット",
+          "romaji": "panfuretto",
+          "accent": "パ↓ンフレット",
+          "english": "pamphlet"
+        },
+        {
+          "japanese": "外国語",
+          "romaji": "gaikokugo",
+          "accent": "がいこくご○",
+          "english": "foreign language"
+        },
+        {
+          "japanese": "CD",
+          "romaji": "shiidii",
+          "accent": "シーディ↓ー",
+          "english": "CD"
+        },
+        {
+          "japanese": "昔",
+          "romaji": "mukashi",
+          "accent": "むかし○",
+          "english": "in the past"
+        },
+        {
+          "japanese": "道具",
+          "romaji": "dougu",
+          "accent": "どうぐ↓",
+          "english": "tools"
+        },
+        {
+          "japanese": "文化施設",
+          "romaji": "bunka shisetsu",
+          "accent": "ぶんかし↓せつ",
+          "english": "cultural center"
+        },
+        {
+          "japanese": "建てる",
+          "romaji": "tateru",
+          "accent": "たて↓る",
+          "english": "to build"
+        },
+        {
+          "japanese": "メイン",
+          "romaji": "mein",
+          "accent": "メ↓イン",
+          "english": "main"
+        },
+        {
+          "japanese": "ＰＣ",
+          "romaji": "pii shii",
+          "accent": "ピーシ↓ー",
+          "english": "personal computer"
+        },
+        {
+          "japanese": "自由に",
+          "romaji": "jiyuu ni",
+          "accent": "じゆ↓うに",
+          "english": "freely"
+        },
+        {
+          "japanese": "展示する",
+          "romaji": "tenji suru",
+          "accent": "てんじする○",
+          "english": "to display"
+        },
+        {
+          "japanese": "歴史",
+          "romaji": "rekishi",
+          "accent": "れきし○",
+          "english": "history"
+        }
       ],
       "audio": "/audio/z/lesson13/wordlist_Z_13-1.mp3"
     },
@@ -14,7 +163,192 @@
       "title": "はじめて利用するんですが…",
       "number": "2.",
       "wordList": [
-        
+        {
+          "japanese": "利用（する）",
+          "romaji": "riyou (suru)",
+          "accent": "りよう（する）○",
+          "english": "(to) use"
+        },
+        {
+          "japanese": "室内用",
+          "romaji": "shitsunaiyou",
+          "accent": "しつないよう○",
+          "english": "for indoor use"
+        },
+        {
+          "japanese": "オリエンテーション",
+          "romaji": "orienteeshon",
+          "accent": "オリエンテ↓ーション",
+          "english": "orientation"
+        },
+        {
+          "japanese": "延長料金",
+          "romaji": "enchou ryoukin",
+          "accent": "えんちょうりょ↓うきん",
+          "english": "extension fee"
+        },
+        {
+          "japanese": "～につき（30分につき）",
+          "romaji": "～ni tsuki (sanjuppun ni tsuki)",
+          "accent": "～につ↓き（さんじゅ↓っぷんにつ↓き）",
+          "english": "every ～ / for each ～ (e.g. every 30 minutes)"
+        },
+        {
+          "japanese": "かかる",
+          "romaji": "kakaru",
+          "accent": "かか↓る",
+          "english": "to cost (a fee)"
+        },
+        {
+          "japanese": "下りる",
+          "romaji": "oriru",
+          "accent": "おり↓る",
+          "english": "to go down"
+        },
+        {
+          "japanese": "シューズ",
+          "romaji": "shuuzu",
+          "accent": "シュ↓ーズ",
+          "english": "shoes"
+        },
+        {
+          "japanese": "マシン",
+          "romaji": "mashin",
+          "accent": "マシ↓ン",
+          "english": "machine"
+        },
+        {
+          "japanese": "トレーナー",
+          "romaji": "toreenaa",
+          "accent": "トレーナー○",
+          "english": "trainer"
+        },
+        {
+          "japanese": "～ほど（30分ほど）",
+          "romaji": "～hodo (sanjuppun hodo)",
+          "accent": "～ほど（さんじゅっぷんほど○）",
+          "english": "about ～ (e.g. about 30 minutes)"
+        },
+        {
+          "japanese": "受ける",
+          "romaji": "ukeru",
+          "accent": "うけ↓る",
+          "english": "to receive"
+        },
+        {
+          "japanese": "声をかける",
+          "romaji": "koe o kakeru",
+          "accent": "こ↓えを　かけ↓る",
+          "english": "to speak to"
+        },
+        {
+          "japanese": "ご了承ください",
+          "romaji": "goryoushou kudasai",
+          "accent": "ごりょうしょうくださ↓い",
+          "english": "Please be reminded. (polite expression)"
+        },
+        {
+          "japanese": "受けていただきます",
+          "romaji": "ukete itadakimasu",
+          "accent": "う↓けていただきま↓す",
+          "english": "We ask you to please take ～. (polite expression)"
+        },
+        {
+          "japanese": "絵",
+          "romaji": "e",
+          "accent": "え↓",
+          "english": "picture"
+        },
+        {
+          "japanese": "さまざま（な）",
+          "romaji": "samazama (na)",
+          "accent": "さま↓ざま（な）",
+          "english": "all kinds of"
+        },
+        {
+          "japanese": "彫刻",
+          "romaji": "choukoku",
+          "accent": "ちょうこく○",
+          "english": "sculpture"
+        },
+        {
+          "japanese": "画家",
+          "romaji": "gaka",
+          "accent": "がか○",
+          "english": "painter"
+        },
+        {
+          "japanese": "～を中心に",
+          "romaji": "～o chuushin ni",
+          "accent": "～をちゅうしんに○",
+          "english": "mainly"
+        },
+        {
+          "japanese": "セット券",
+          "romaji": "setto ken",
+          "accent": "セット↓けん",
+          "english": "set ticket"
+        },
+        {
+          "japanese": "フラッシュ",
+          "romaji": "furasshu",
+          "accent": "フラ↓ッシュ",
+          "english": "flash"
+        },
+        {
+          "japanese": "券売機",
+          "romaji": "kenbaiki",
+          "accent": "けんば↓いき",
+          "english": "ticket machine"
+        },
+        {
+          "japanese": "休憩室",
+          "romaji": "kyuukeishitsu",
+          "accent": "きゅうけ↓いしつ",
+          "english": "lounge"
+        },
+        {
+          "japanese": "ついている（タオルがついている）",
+          "romaji": "tsuiteiru (taoru ga tsuiteiru)",
+          "accent": "つ↓いている（タ↓オルが　つ↓いている）",
+          "english": "～be provided / come with ～ (e.g. a towel is provided)"
+        },
+        {
+          "japanese": "IT",
+          "romaji": "aitii",
+          "accent": "アイティ↓ー",
+          "english": "IT"
+        },
+        {
+          "japanese": "利用者カード",
+          "romaji": "riyou-sha kaado",
+          "accent": "りようしゃカ↓ード",
+          "english": "user card"
+        },
+        {
+          "japanese": "プリントアウト",
+          "romaji": "purinto auto",
+          "accent": "プリントア↓ウト",
+          "english": "print-out"
+        },
+        {
+          "japanese": "インターネット",
+          "romaji": "intaanetto",
+          "accent": "インターネ↓ット",
+          "english": "internet"
+        },
+        {
+          "japanese": "プリンター",
+          "romaji": "purintaa",
+          "accent": "プリンター○",
+          "english": "printer"
+        },
+        {
+          "japanese": "空いている",
+          "romaji": "aiteru",
+          "accent": "あいている○",
+          "english": "unoccupied"
+        }
       ],
       "audio": "/audio/z/lesson13/wordlist_Z_13-2.mp3"
     },
@@ -22,7 +356,84 @@
       "title": "図書館を使いたいんですが…",
       "number": "3.",
       "wordList": [
-        
+        {
+          "japanese": "確認する",
+          "romaji": "kakunin suru",
+          "accent": "かくにんする○",
+          "english": "to check"
+        },
+        {
+          "japanese": "在留カード",
+          "romaji": "zairyuu kaado",
+          "accent": "ざいりゅうカ↓ード",
+          "english": "residence card"
+        },
+        {
+          "japanese": "何冊",
+          "romaji": "nansatsu",
+          "accent": "な↓んさつ",
+          "english": "how many books"
+        },
+        {
+          "japanese": "～冊（10冊）",
+          "romaji": "～satsu (jussatsu)",
+          "accent": "～さつ（じゅっさつ↓）",
+          "english": "～ book(s) (e.g. 10 books)"
+        },
+        {
+          "japanese": "合わせて",
+          "romaji": "awasete",
+          "accent": "あわ↓せて",
+          "english": "in total"
+        },
+        {
+          "japanese": "～点（3点）",
+          "romaji": "～ten (santen)",
+          "accent": "～てん（さ↓んてん）",
+          "english": "～ item(s) (e.g. 3 items)"
+        },
+        {
+          "japanese": "飲食禁止",
+          "romaji": "inshoku kinshi",
+          "accent": "いんしょくきんし○",
+          "english": "no eating or drinking"
+        },
+        {
+          "japanese": "返す",
+          "romaji": "kaesu",
+          "accent": "か↓えす",
+          "english": "to return"
+        },
+        {
+          "japanese": "閉まる",
+          "romaji": "shimaru",
+          "accent": "しま↓る",
+          "english": "to close"
+        },
+        {
+          "japanese": "返却ポスト",
+          "romaji": "henkyaku posuto",
+          "accent": "へんきゃくポ↓スト",
+          "english": "return box"
+        },
+        {
+          "japanese": "開く",
+          "romaji": "aku",
+          "accent": "あく○",
+          "english": "to open"
+        },
+        {
+          "japanese": "返却",
+          "romaji": "henkyaku",
+          "accent": "へんきゃく○",
+          "english": "return"
+        },
+        {
+          "japanese": "お読みください",
+          "romaji": "oyomi kudasai",
+          "accent": "およみくださ↓い",
+          "english": "Please read it. (polite expression)"
+        }
       ],
       "audio": "/audio/z/lesson13/wordlist_Z_13-3.mp3"
     },
@@ -30,7 +441,24 @@
       "title": "図書館の利用案内",
       "number": "4.",
       "wordList": [
-        
+        {
+          "japanese": "延ばす",
+          "romaji": "nobasu",
+          "accent": "のば↓す",
+          "english": "to extend"
+        },
+        {
+          "japanese": "～のうち（15点のうち）",
+          "romaji": "～ no uchi (juugo ten no uchi)",
+          "accent": "～のうち（じゅうご↓てんのうち）",
+          "english": "within ～ / up to ～ (e.g. up to 15 items)"
+        },
+        {
+          "japanese": "カセットテープ",
+          "romaji": "kasetto teepu",
+          "accent": "カセットテ↓ープ",
+          "english": "cassette tape"
+        }
       ],
       "audio": "/audio/z/lesson13/wordlist_Z_13-4.mp3"
     },
@@ -38,7 +466,102 @@
       "title": "禁止の表示",
       "number": "5.",
       "wordList": [
-        
+        {
+          "japanese": "～禁止（撮影禁止）",
+          "romaji": "～kinshi (satsuei kinshi)",
+          "accent": "～きんし（さつえいきんし○）",
+          "english": "no ～ (e.g. no photography)"
+        },
+        {
+          "japanese": "立入禁止",
+          "romaji": "tachiiri kinshi",
+          "accent": "たちいりきんし○",
+          "english": "no entry"
+        },
+        {
+          "japanese": "関係者",
+          "romaji": "kankeisha",
+          "accent": "かんけ↓いしゃ",
+          "english": "authorized personnel"
+        },
+        {
+          "japanese": "～以外（関係者以外）",
+          "romaji": "～igai (kankeisha igai)",
+          "accent": "～い↓がい（かんけいしゃい↓がい／かんけ↓いしゃ△い↓がい）",
+          "english": "except ～ (e.g. except authorized personnel)"
+        },
+        {
+          "japanese": "預ける",
+          "romaji": "azukeru",
+          "accent": "あずけ↓る",
+          "english": "to leave (something in someone's care)"
+        },
+        {
+          "japanese": "お預けください",
+          "romaji": "o azuke kudasai",
+          "accent": "おあずけくださ↓い",
+          "english": "Please leave ～. (polite expression)"
+        },
+        {
+          "japanese": "館内",
+          "romaji": "kannai",
+          "accent": "か↓んない",
+          "english": "inside the building"
+        },
+        {
+          "japanese": "通話",
+          "romaji": "tsuuwa",
+          "accent": "つうわ○",
+          "english": "phone call"
+        },
+        {
+          "japanese": "ご遠慮ください",
+          "romaji": "go enryo kudasai",
+          "accent": "ごえんりょくださ↓い",
+          "english": "Please refrain ～. (polite expression)"
+        },
+        {
+          "japanese": "お控えください",
+          "romaji": "o hikae kudasai",
+          "accent": "おひかえくださ↓い",
+          "english": "Please refrain ～. (polite expression)"
+        },
+        {
+          "japanese": "入館",
+          "romaji": "nyuukan",
+          "accent": "にゅうかん○",
+          "english": "entry (to a building)"
+        },
+        {
+          "japanese": "入れ墨",
+          "romaji": "irezumi",
+          "accent": "いれずみ○",
+          "english": "(Japanese-style) tattoo"
+        },
+        {
+          "japanese": "タトゥー",
+          "romaji": "tattoo",
+          "accent": "タトゥ↓ー",
+          "english": "tattoo"
+        },
+        {
+          "japanese": "シール",
+          "romaji": "shiiru",
+          "accent": "シ↓ール",
+          "english": "tattoo sticker"
+        },
+        {
+          "japanese": "ボディペイント",
+          "romaji": "body paint",
+          "accent": "ボディペ↓イント",
+          "english": "body paint"
+        },
+        {
+          "japanese": "お断りしています",
+          "romaji": "okotowari shite imasu",
+          "accent": "おことわりしていま↓す",
+          "english": "We refuse ～. (polite expression)"
+        }
       ],
       "audio": "/audio/z/lesson13/wordlist_Z_13-5.mp3"
     }

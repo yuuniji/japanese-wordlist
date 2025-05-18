@@ -6,7 +6,216 @@
       "title": "すしの職人になりたいです",
       "number": "1.",
       "wordList": [
-        
+        {
+          "japanese": "将来",
+          "romaji": "shourai",
+          "accent": "しょ↓うらい",
+          "english": "future"
+        },
+        {
+          "japanese": "夢",
+          "romaji": "yume",
+          "accent": "ゆめ↓",
+          "english": "dream"
+        },
+        {
+          "japanese": "希望",
+          "romaji": "kibou",
+          "accent": "きぼう○",
+          "english": "hope / wish"
+        },
+        {
+          "japanese": "作る",
+          "romaji": "tsukuru",
+          "accent": "つく↓る",
+          "english": "to make / to start (e.g. start a company)"
+        },
+        {
+          "japanese": "就職する",
+          "romaji": "shuushoku suru",
+          "accent": "しゅうしょくする○",
+          "english": "to get a job in a company"
+        },
+        {
+          "japanese": "持つ",
+          "romaji": "motsu",
+          "accent": "も↓つ",
+          "english": "to have (e.g. have one's own shop)"
+        },
+        {
+          "japanese": "稼ぐ",
+          "romaji": "kasegu",
+          "accent": "かせ↓ぐ",
+          "english": "to earn (e.g. earn money)"
+        },
+        {
+          "japanese": "貯金する",
+          "romaji": "chokin suru",
+          "accent": "ちょきんする○",
+          "english": "to save money"
+        },
+        {
+          "japanese": "結婚する",
+          "romaji": "kekkon suru",
+          "accent": "けっこんする○",
+          "english": "to marry / to get married"
+        },
+        {
+          "japanese": "建てる",
+          "romaji": "tateru",
+          "accent": "たて↓る",
+          "english": "to build (e.g. build a house)"
+        },
+        {
+          "japanese": "進学する",
+          "romaji": "shingaku suru",
+          "accent": "しんがくする○",
+          "english": "to go on to higher education"
+        },
+        {
+          "japanese": "留学する",
+          "romaji": "ryuugaku suru",
+          "accent": "りゅうがくする○",
+          "english": "to go abroad to study"
+        },
+        {
+          "japanese": "のんびり",
+          "romaji": "nonbiri",
+          "accent": "のんび↓り",
+          "english": "in a relaxed manner"
+        },
+        {
+          "japanese": "暮らす",
+          "romaji": "kurasu",
+          "accent": "くらす○",
+          "english": "to live a life"
+        },
+        {
+          "japanese": "ずっと",
+          "romaji": "zutto",
+          "accent": "ずっと○",
+          "english": "forever"
+        },
+        {
+          "japanese": "住む",
+          "romaji": "sumu",
+          "accent": "す↓む",
+          "english": "to live"
+        },
+        {
+          "japanese": "働く",
+          "romaji": "hataraku",
+          "accent": "はたらく○",
+          "english": "to work"
+        },
+        {
+          "japanese": "職人",
+          "romaji": "shokunin",
+          "accent": "しょくにん○",
+          "english": "craftsperson / artisan"
+        },
+        {
+          "japanese": "ガイド",
+          "romaji": "gaido",
+          "accent": "ガ↓イド",
+          "english": "guide"
+        },
+        {
+          "japanese": "通訳",
+          "romaji": "tsuuyaku",
+          "accent": "つ↓うやく",
+          "english": "interpreter"
+        },
+        {
+          "japanese": "日本語教師",
+          "romaji": "nihongo kyoushi",
+          "accent": "にほんごきょ↓うし",
+          "english": "Japanese language teacher"
+        },
+        {
+          "japanese": "なる",
+          "romaji": "naru",
+          "accent": "な↓る",
+          "english": "to become (e.g. become a professional)"
+        },
+        {
+          "japanese": "自動車",
+          "romaji": "jidou sha",
+          "accent": "じどうしゃ○／じど↓うしゃ",
+          "english": "automobile"
+        },
+        {
+          "japanese": "整備",
+          "romaji": "seibi",
+          "accent": "せ↓いび",
+          "english": "maintenance"
+        },
+        {
+          "japanese": "役に立つ",
+          "romaji": "yaku ni tatsu",
+          "accent": "やく↓にた↓つ",
+          "english": "useful"
+        },
+        {
+          "japanese": "そのために",
+          "romaji": "sono tame ni",
+          "accent": "そのため↓に",
+          "english": "to accomplish that"
+        },
+        {
+          "japanese": "技術",
+          "romaji": "gijutsu",
+          "accent": "ぎ↓じゅつ",
+          "english": "technique"
+        },
+        {
+          "japanese": "がんばる",
+          "romaji": "ganbaru",
+          "accent": "がんば↓る",
+          "english": "to work hard"
+        },
+        {
+          "japanese": "暮らし",
+          "romaji": "kurashi",
+          "accent": "くらし○",
+          "english": "life"
+        },
+        {
+          "japanese": "うまくいく",
+          "romaji": "umaku iku",
+          "accent": "う↓まくいく",
+          "english": "to go well"
+        },
+        {
+          "japanese": "周りの人",
+          "romaji": "mawari no hito",
+          "accent": "まわりのひと↓",
+          "english": "the people around oneself"
+        },
+        {
+          "japanese": "若者",
+          "romaji": "wakamono",
+          "accent": "わかもの○",
+          "english": "young people"
+        },
+        {
+          "japanese": "卒業する",
+          "romaji": "sotsugyou suru",
+          "accent": "そつぎょうする○",
+          "english": "to graduate"
+        },
+        {
+          "japanese": "別の",
+          "romaji": "betsu no",
+          "accent": "べつの○",
+          "english": "another"
+        },
+        {
+          "japanese": "広げる",
+          "romaji": "hirogeru",
+          "accent": "ひろげる○",
+          "english": "to expand"
+        }
       ],
       "audio": "/audio/z/lesson18/wordlist_Z_18-1.mp3"
     },
@@ -14,7 +223,48 @@
       "title": "最初はすごく苦労したよ",
       "number": "2.",
       "wordList": [
-        
+        {
+          "japanese": "もともと",
+          "romaji": "motomoto",
+          "accent": "もともと○",
+          "english": "originally"
+        },
+        {
+          "japanese": "募集",
+          "romaji": "boshuu",
+          "accent": "ぼしゅう○",
+          "english": "recruiting"
+        },
+        {
+          "japanese": "応募する",
+          "romaji": "oubo suru",
+          "accent": "おうぼする○",
+          "english": "to apply for"
+        },
+        {
+          "japanese": "続ける",
+          "romaji": "tsuzukeru",
+          "accent": "つづける○",
+          "english": "to continue"
+        },
+        {
+          "japanese": "とにかく",
+          "romaji": "tonikaku",
+          "accent": "と↓にかく",
+          "english": "anyhow"
+        },
+        {
+          "japanese": "ストレス",
+          "romaji": "sutoresu",
+          "accent": "スト↓レス",
+          "english": "stress"
+        },
+        {
+          "japanese": "知り合う",
+          "romaji": "shiriau",
+          "accent": "しりあ↓う",
+          "english": "to become acquainted"
+        }
       ],
       "audio": "/audio/z/lesson18/wordlist_Z_18-2.mp3"
     },
@@ -22,7 +272,54 @@
       "title": "みなさんには、とても親切にしてもらいました",
       "number": "3.",
       "wordList": [
-        
+        {
+          "japanese": "最後",
+          "romaji": "saigo",
+          "accent": "さ↓いご",
+          "english": "last"
+        },
+        {
+          "japanese": "ひとこと",
+          "romaji": "hitokoto",
+          "accent": "ひと↓こと",
+          "english": "a word"
+        },
+        {
+          "japanese": "始める",
+          "romaji": "hajimeru",
+          "accent": "はじめ↓る",
+          "english": "to start (e.g. start working)"
+        },
+        {
+          "japanese": "下手",
+          "romaji": "heta",
+          "accent": "へた↓",
+          "english": "not good at"
+        },
+        {
+          "japanese": "失敗する",
+          "romaji": "shippai suru",
+          "accent": "しっぱいする○",
+          "english": "to make mistakes"
+        },
+        {
+          "japanese": "工業",
+          "romaji": "kougyou",
+          "accent": "こ↓うぎょう",
+          "english": "industry"
+        },
+        {
+          "japanese": "親切にする",
+          "romaji": "shinsetsu ni suru",
+          "accent": "し↓んせつにする",
+          "english": "to be kind to"
+        },
+        {
+          "japanese": "助ける",
+          "romaji": "tasukeru",
+          "accent": "たすけ↓る",
+          "english": "to help"
+        }
       ],
       "audio": "/audio/z/lesson18/wordlist_Z_18-3.mp3"
     }
